@@ -12,7 +12,6 @@ export default class DataService {
     state: SessionState
   } = proxy({
     rounds: [
-      Round.StartRound(),
       Round.OverviewRound(),
     ],
     state: SessionState.Initial,

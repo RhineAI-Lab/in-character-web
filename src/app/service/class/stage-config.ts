@@ -40,7 +40,7 @@ export default class StageConfig {
   static Overview(): StageConfig {
     return new StageConfig(
       '',
-      'Succession Arena',
+      'In Character',
       'Example Session For UI Design. Only has one round now. Other descriptions...',
       '/background/4.jpg'
     )
