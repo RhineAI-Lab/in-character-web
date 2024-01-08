@@ -1,0 +1,38 @@
+
+.MoreInformation {
+  padding: 0 4px;
+  transition: all 0.16s ease-in-out;
+
+  .line {
+    margin: 20px 0 6px 0;
+    height: 40px;
+    display: flex;
+    align-items: center;
+
+    font-size: 16px;
+    color: #444444;
+  }
+
+  .button {
+    height: 100%;
+    display: inline-flex;
+    align-items: center;
+    color: #0b2959;
+    cursor: pointer;
+    transform: translateX(-2px);
+    user-select: none;
+
+    span:nth-child(1) {
+      margin-right: 4px;
+      font-weight: 100;
+    }
+  }
+
+  .rotate180 {
+    transform: rotateX(180deg)
+  }
+
+  .space {
+    flex-grow: 1;
+  }
+}

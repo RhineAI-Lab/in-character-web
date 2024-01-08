@@ -1,0 +1,26 @@
+
+# 启动
+sudo systemctl start in-character-web.service
+
+# 停止
+sudo systemctl stop in-character-web.service
+
+# 重启
+sudo systemctl restart in-character-web.service
+
+# 查看状态
+sudo systemctl status in-character-web.service
+
+# 设为开机启动
+sudo systemctl enable in-character-web.service
+
+
+
+# 查找npm安装路径
+which npm
+
+# 查看npm版本
+npm -v
+
+# 查看node版本
+node -v
