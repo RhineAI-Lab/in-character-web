@@ -22,19 +22,12 @@ export default class Stage {
     type = type.trim().split(' ').map((item: string) => {
       return item[0].toUpperCase() + item.substring(1)
     }).join(' ')
-    let stage = type == StageType.Introduction ? new Stage([], StageType.Introduction)
-      : type == StageType.Character ? new Stage([], StageType.Character)
-      : type == StageType.Resource ? new Stage([], StageType.Resource)
-      : type == StageType.Config ? new Stage([], StageType.Config)
-      : type == StageType.Overview ? new Stage([], StageType.Overview)
-      : type == StageType.Confrontation ? new Stage([], StageType.Confrontation)
-      : type == StageType.Cooperation ? new Stage([], StageType.Cooperation)
-      : type == StageType.Announcement ? new Stage([], StageType.Announcement)
-      : type == StageType.Update ? new Stage([], StageType.Update)
-      : type == StageType.Guess ? new Stage([], StageType.Guess)
-      : type == StageType.OpenSpeech ? new Stage([], StageType.OpenSpeech)
-      : type == StageType.Vote ? new Stage([], StageType.Vote)
-      : type == StageType.VoteOthers ? new Stage([], StageType.VoteOthers)
+    let stage =type == StageType.Overview ? new Stage([], StageType.Overview)
+      : type == StageType.ChooseEI ? new Stage([], StageType.ChooseEI)
+      : type == StageType.ChooseSN ? new Stage([], StageType.ChooseSN)
+      : type == StageType.ChooseTF ? new Stage([], StageType.ChooseTF)
+      : type == StageType.ChoosePJ ? new Stage([], StageType.ChoosePJ)
+      : type == StageType.Summary ? new Stage([], StageType.Summary)
       : undefined
     if (stage) return stage
     console.warn('Unknown stage type: ' + type)
@@ -43,21 +36,13 @@ export default class Stage {
 }
 
 export enum StageType {
-  Introduction = 'Introduction Stage',
-  Character = 'Character Stage',
-  Resource = 'Resource Stage',
-  Config = 'Config Stage',
   Overview = 'Overview Stage',
 
-  Confrontation = 'Confrontation Stage',
-  Cooperation = 'Cooperation Stage',
-  Announcement = 'Announcement Stage',
-  Update = 'Update Stage',
-
-  Guess = 'Guess Stage',
-  OpenSpeech = 'Open Speech Stage',
-  Vote = 'Vote Stage',
-  VoteOthers = 'Vote Others Stage',
+  ChooseEI = 'Choose EI Stage',
+  ChooseSN = 'Choose SN Stage',
+  ChooseTF = 'Choose TF Stage',
+  ChoosePJ = 'Choose PJ Stage',
+  Summary = 'Summary Stage',
 
   Unknown = 'Unknown Stage',
 }

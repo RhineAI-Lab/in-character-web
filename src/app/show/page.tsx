@@ -27,7 +27,7 @@ export default function Show() {
   function onFirstEnter() {
   }
   async function onFirstEffect() {
-    Api.updateSettings()
+    DataService.init()
   }
 
   const firstEnter = useRef<boolean>(true)
@@ -66,30 +66,13 @@ export default function Show() {
         icon: 'round_crop_original',
         iconSize: 22,
       })
-    } else if (round.type == RoundType.Start) {
+    } else if (round.type == RoundType.Character) {
       drawer.push({
         name: round.name,
-        icon: 'round_sports_score',
+        // icon: 'round_person_' + Math.round(Math.random()*2+2),
+        icon: 'outlined_person_2',
         iconSize: 23,
       })
-    } else if (round.type == RoundType.Normal || round.type == RoundType.Settlement) {
-      let de: any = {
-        name: round.name,
-      }
-      if (round.type == RoundType.Normal) {
-        de.icon = 'outlined_people'
-        de.iconSize = 21
-      } else {
-        de.icon = 'outlined_event_available'
-        de.iconSize = 21
-      }
-      if (round.finished) {
-        de.progressIcon = 'outlined_check_circle'
-        de.progressIconSize = 21
-      } else {
-        de.progress = round.stages.length + '/' + round.stageConfigs.length
-      }
-      drawer.push(de)
     }
   })
 
@@ -159,14 +142,6 @@ export default function Show() {
 
   useEffect(() => {
     let interval = setInterval(() => {
-      let lastTime = ''
-      if (DataService.filterData.length > 0) {
-        let lastData = DataService.filterData[DataService.filterData.length - 1]
-        lastTime = lastData.time
-        setProgressTime(TimeUtils.timeDifference(lastTime) + ' / unknown')
-      } else {
-        setProgressTime('')
-      }
     }, 50)
     return () => {
       clearInterval(interval)
@@ -237,7 +212,7 @@ export default function Show() {
           <Icon size='36px'>insights</Icon>
           <h2>In Character</h2>
         </div>
-        <div className={styles.subtitle}>Process Menu</div>
+        <div className={styles.subtitle}>Menu</div>
         {
           drawer.map((item, index) => {
             return <div
@@ -313,9 +288,6 @@ export default function Show() {
           {
             !needEmpty && <div className={styles.main}>
               {stage.type == StageType.Overview && <Overview/>}
-              {stage.type == StageType.Config && <Start/>}
-              {stage.type == StageType.Character && <Characters/>}
-              {stage.type == StageType.Resource && <Resources/>}
               {
                 stage.messages.map((item: any, index: number) => {
                   if (isDialogType(item.type)) {

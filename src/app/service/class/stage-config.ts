@@ -10,112 +10,58 @@ export default class StageConfig {
   ) {
   }
 
-  static Config(): StageConfig {
-    return new StageConfig(
-      '启动配置',
-      'Start A Session',
-      'Set the number of rounds and dialogue turns, then click \'Start\' to create a session, or enter \'Session Id\' to continue a previous session.',
-      '/background/5.jpg'
-    )
-  }
-
-  static Character(): StageConfig {
-    return new StageConfig(
-      '人物角色',
-      'Start A Session',
-      'Set the number of rounds and dialogue turns, then click \'Start\' to create a session, or enter \'Session Id\' to continue a previous session.',
-      '/background/5.jpg'
-    )
-  }
-
-  static Resource(): StageConfig {
-    return new StageConfig(
-      '社会资源',
-      'Start A Session',
-      'Set the number of rounds and dialogue turns, then click \'Start\' to create a session, or enter \'Session Id\' to continue a previous session.',
-      '/background/5.jpg'
-    )
-  }
-
   static Overview(): StageConfig {
     return new StageConfig(
       '',
       'In Character',
-      'Example Session For UI Design. Only has one round now. Other descriptions...',
+      'Personality Assessments on Role-Playing Agents.',
       '/background/4.jpg'
     )
   }
 
-  static Confrontation(): StageConfig {
+  static ChooseEI(): StageConfig {
     return new StageConfig(
-      '对抗阶段',
-      'Confrontation Stage',
+      'E/I',
+      'E/I',
       'Example Session For UI Design. Only has one round now. Other descriptions...',
       '/background/2.jpg'
     )
   }
 
-  static Cooperation(): StageConfig {
+  static ChooseSN(): StageConfig {
     return new StageConfig(
-      '合作阶段',
-      'Cooperation Stage',
+      'S/N',
+      'S/N',
       'Example Session For UI Design. Only has one round now. Other descriptions...',
       '/background/9.jpg'
     )
   }
 
-  static Announcement(): StageConfig {
+  static ChooseTF(): StageConfig {
     return new StageConfig(
-      '宣言阶段',
-      'Announcement Stage',
+      'T/F',
+      'T/F',
       'Example Session For UI Design. Only has one round now. Other descriptions...',
       '/background/8.png',
       true
     )
   }
 
-  static Update(): StageConfig {
+  static ChoosePJ(): StageConfig {
     return new StageConfig(
-      '更新阶段',
-      'Update Stage',
+      'P/J',
+      'P/J',
       'Example Session For UI Design. Only has one round now. Other descriptions...',
       '/background/11.jpg'
     )
   }
 
-  static Guess(): StageConfig {
+  static Summary(): StageConfig {
     return new StageConfig(
-      '预测阶段',
-      'Guess Stage',
+      'Summary',
+      'Summary',
       'Example Session For UI Design. Only has one round now. Other descriptions...',
       '/background/1.jpg'
-    )
-  }
-
-  static Vote(): StageConfig {
-    return new StageConfig(
-      '投票阶段',
-      'Vote Stage',
-      'Example Session For UI Design. Only has one round now. Other descriptions...',
-      '/background/12.jpg'
-    )
-  }
-
-  static VoteOthers(): StageConfig {
-    return new StageConfig(
-      '对外投票阶段',
-      'Vote Others Stage',
-      'Example Session For UI Design. Only has one round now. Other descriptions...',
-      '/background/10.jpg'
-    )
-  }
-
-  static Introduction(): StageConfig {
-    return new StageConfig(
-      '',
-      'Introduction Stage',
-      'Example Session For UI Design. Only has one round now. Other descriptions...',
-      '/background/7.jpg'
     )
   }
 

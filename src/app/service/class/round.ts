@@ -27,33 +27,7 @@ export default class Round {
   }
 
   isRoundOrSettlement(): boolean {
-    return this.type === RoundType.Normal || this.type === RoundType.Settlement
-  }
-
-  static Introduction(): Round {
-    return new Round(
-      [new Stage([], StageType.Introduction)],
-      RoundType.Start,
-      'Start',
-      [StageConfig.Introduction()]
-    )
-  }
-
-  static StartRound(): Round {
-    return new Round(
-      [
-        new Stage([], StageType.Config),
-        new Stage([], StageType.Character),
-        new Stage([], StageType.Resource),
-      ],
-      RoundType.Start,
-      'Start',
-      [
-        StageConfig.Config(),
-        StageConfig.Character(),
-        StageConfig.Resource(),
-      ]
-    )
+    return false
   }
 
   static OverviewRound(): Round {
@@ -65,43 +39,23 @@ export default class Round {
     )
   }
 
-  static NormalRound(name: string): Round {
+  static CharacterRound(name: string = 'Character', stages: Stage[]): Round {
     return new Round(
-      [],
-      RoundType.Normal,
+      stages,
+      RoundType.Character,
       name,
       [
-        StageConfig.Confrontation(),
-        StageConfig.Cooperation(),
-        StageConfig.Announcement(),
-        StageConfig.Update(),
-      ]
-    )
-  }
-
-  static SettlementRound(name: string): Round {
-    return new Round(
-      [],
-      RoundType.Settlement,
-      name,
-      [
-        StageConfig.Guess(),
-        StageConfig.Announcement(),
-        StageConfig.Vote(),
-        StageConfig.VoteOthers(),
+        StageConfig.ChooseEI(),
+        StageConfig.ChooseSN(),
+        StageConfig.ChooseTF(),
+        StageConfig.ChoosePJ(),
       ]
     )
   }
 }
 
 export enum RoundType {
-  Introduction = 'Introduction Round',
-  Background = 'Background Round',
-  Start = 'Start Round',
   Overview = 'Overview Round',
-
-  Normal = 'Normal Round',
-  Settlement = 'Settlement Round',
-
+  Character = 'Character Round',
   Unknown = 'Unknown Round',
 }

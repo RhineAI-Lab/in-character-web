@@ -79,7 +79,7 @@ export default function Start () {
 
     Api.create(config).then(res => {
       console.log('Start session. Sid:' + res.sid)
-      DataService.startUpdate()
+      // DataService.startUpdate()
     })
   }
 
@@ -88,8 +88,6 @@ export default function Start () {
       AppTools.message('当前已有进行中的会话。', 'warning')
       return
     }
-
-    DataService.simulate()
   }
 
   function continueSession() {
@@ -103,7 +101,7 @@ export default function Start () {
     }
 
     Api.data.sid = existsSid
-    DataService.startUpdate()
+    // DataService.startUpdate()
   }
 
   return (
