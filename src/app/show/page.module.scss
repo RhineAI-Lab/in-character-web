@@ -382,13 +382,12 @@
           //padding: 20px;
           padding: 4px;
           font-size: 15px;
-          line-height: 38px;
           border-radius: 32px 32px 32px 32px;
           color: #1f1f1f;
 
           .link {
             position: absolute;
-            top: 11px;
+            top: 26px;
             //top: 50%;
             left: -54px;
             font-size: 24px;
@@ -447,6 +446,25 @@
                 margin: 9px 6px 9px 0;
               }
             }
+          }
+
+          h3 {
+            color: #0b2959;
+            font-size: 20px;
+            font-weight: 400;
+          }
+
+          p {
+            margin: 10px 0 30px 2px;
+            line-height: 33px;
+            font-size: 15px;
+          }
+
+          .question {
+            color: #000000;
+            margin-top: 20px;
+            margin-bottom: 38px;
+            font-size: 20px;
           }
         }
 

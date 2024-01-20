@@ -32,14 +32,16 @@ export default class DataService {
       })
     }
     for (const ro of resultsOpen) {
-      let c = this.getCharacter(ro['test_role'])
+      let c = this.getCharacter(ro['character'])
       c.result = ro
     }
     for (const c of this.characters) {
-      this.data.rounds.push(Round.CharacterRound(
+      // console.log(c)
+      let round = Round.CharacterRound(
         c.name,
         this.makeStages(c),
-      ))
+      )
+      this.data.rounds.push(round)
     }
   }
 
@@ -51,7 +53,7 @@ export default class DataService {
       new Stage([], StageType.ChoosePJ),
     ]
     let tps = ['E/I', 'S/N', 'T/F', 'P/J']
-    for (const q of character.question) {
+    for (const q of character.questions) {
       for (const tp of tps) {
         if (q.factor === tp) {
           stages[tps.indexOf(tp)].push(q)

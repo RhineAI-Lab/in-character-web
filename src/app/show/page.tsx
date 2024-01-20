@@ -23,6 +23,7 @@ import Resources from "@/components/show/main/Resources/Resources";
 
 export default function Show() {
   const router = useRouter()
+  const data = useSnapshot(DataService.data)
 
   function onFirstEnter() {
   }
@@ -49,7 +50,6 @@ export default function Show() {
   const [stageIndex, setStageIndex] = useState(0)
 
   // 数据映射
-  const data = useSnapshot(DataService.data)
   const round = data.rounds[roundIndex]
   const stage = round.stages[stageIndex]
 
@@ -290,124 +290,55 @@ export default function Show() {
               {stage.type == StageType.Overview && <Overview/>}
               {
                 stage.messages.map((item: any, index: number) => {
-                  if (isDialogType(item.type)) {
+                  // console.log(item)
+                  if (item.question) {
                     return <div className={styles.message} key={index}>
                       <div className={styles.info}>
                         <div className={clsx(styles.item, styles.from)}>
                           <img src='/profile/user.png' alt=''/>
                         </div>
                         <div className={clsx(styles.between)}>
-                          <span>{item.source}</span>
-                          <Icon size='20px' color='#00345b'>east</Icon>
-                          <span>{item.target}</span>
-                        </div>
-                        <div className={clsx(styles.item, styles.to)}>
-                          <img src='/profile/user.png' alt=''/>
+                          <span>{round.name}</span>
+                          {/*<Icon size='20px' color='#00345b'>east</Icon>*/}
+                          {/*<span>{item.target}</span>*/}
                         </div>
                         <span className={styles.space}></span>
                         <div className={clsx(styles.tag)}>
-                          <span>{item.type}</span>
+                          <span>Question</span>
                         </div>
                       </div>
                       <div className={styles.text}>
                         <Icon className={styles.link}>round_all_inclusive</Icon>
-                        {item.content}
-                      </div>
-                      <div className={styles.more} style={activeId == item.id ? {opacity:  1}: {}}>
-                        <MoreInformation item={item} activeId={activeId} onClickMore={id => setActiveId(id)}/>
+                        <h3 className={styles.question}>Question: {item.question}</h3>
+                        <h3>Response Open</h3>
+                        <p>
+                          {item.responseOpen}
+                        </p>
+                        <h3>Response Closed</h3>
+                        <p>
+                          {item.responseClosed}
+                        </p>
                       </div>
                     </div>
-                  } else if (isSpeechType(item.type)) {
+                  } else if (item.analysis) {
                     return <div className={styles.message} key={index}>
                       <div className={styles.info}>
                         <div className={clsx(styles.item, styles.from)}>
                           <img src='/profile/user.png' alt=''/>
                         </div>
                         <div className={clsx(styles.between)}>
-                          <span>{item.source}</span>
+                          <span>{round.name}</span>
                         </div>
                         <span className={styles.space}></span>
                         <div className={clsx(styles.tag)}>
-                          <span>{item.type}</span>
+                          <span>Analysis</span>
                         </div>
                       </div>
                       <div className={styles.text}>
                         <Icon className={styles.link}>round_all_inclusive</Icon>
-                        {item.content}
-                      </div>
-                      <div className={styles.more} style={activeId == item.id ? {opacity:  1}: {}}>
-                        <MoreInformation item={item} activeId={activeId} onClickMore={id => setActiveId(id)}/>
-                      </div>
-                    </div>
-                  } else if (item.type == LogType.BeliefUpdate) {
-                    return <div className={styles.message} key={index}>
-                      <div className={styles.info}>
-                        <div className={clsx(styles.item, styles.from)}>
-                          <img src='/profile/user.png' alt=''/>
-                        </div>
-                        <div className={clsx(styles.between)}>
-                          <span>{item.source}</span>
-                        </div>
-                        <span className={styles.space}></span>
-                        <div className={clsx(styles.tag)}>
-                          <span>{item.type}</span>
-                        </div>
-                      </div>
-                      <div className={styles.text}>
-                        <Icon className={styles.link}>round_all_inclusive</Icon>
-                        <div className={styles.table}>
-                          {
-                            item.content.map((line: any, index: number) => {
-                              return <div className={styles.line} key={index}>
-                                <span className={styles.key}>{line.target}</span>
-                                <span className={styles.split}></span>
-                                <span className={styles.block} style={{
-                                  width: line.score * 3.5 + 'px'
-                                }}></span>
-                                <span className={styles.number}>{line.score}</span>
-                              </div>
-                            })
-                          }
-                        </div>
-                      </div>
-                      <div className={styles.more} style={activeId == item.id ? {opacity:  1}: {}}>
-                        <MoreInformation item={item} activeId={activeId} onClickMore={id => setActiveId(id)}/>
-                      </div>
-                    </div>
-                  } else if (item.type == LogType.RelationUpdate) {
-                    return <div className={styles.message} key={index}>
-                      <div className={styles.info}>
-                        <div className={clsx(styles.between)} style={{marginLeft: 0}}>
-                          <span className={styles.betweenText}>
-                            <Icon>round_groups</Icon>
-                            <span>Relation Status</span>
-                          </span>
-                        </div>
-                      </div>
-                      <div className={styles.text}>
-                        <Icon className={styles.link}>round_all_inclusive</Icon>
-                        <RelationTable keys={item.characters} values={item.content}/>
-                      </div>
-                      <div className={styles.more} style={activeId == item.id ? {opacity:  1}: {}}>
-                        <MoreInformation item={item} activeId={activeId} onClickMore={id => setActiveId(id)}/>
-                      </div>
-                    </div>
-                  } else if (item.type == LogType.WinnerAnnouncement) {
-                    return <div className={styles.message} key={index}>
-                      <div className={styles.info}>
-                        <div className={clsx(styles.between)} style={{marginLeft: 0}}>
-                          <span className={styles.betweenText}>
-                            <Icon size='22px'>round_emoji_events</Icon>
-                            <span>Winner Announcement</span>
-                          </span>
-                        </div>
-                      </div>
-                      <div className={styles.text}>
-                        <Icon className={styles.link}>round_all_inclusive</Icon>
-                        {item.content}
-                      </div>
-                      <div className={styles.more} style={activeId == item.id ? {opacity:  1}: {}}>
-                        <MoreInformation item={item} activeId={activeId} onClickMore={id => setActiveId(id)}/>
+                        <p>
+                          {item.analysis}
+                        </p>
                       </div>
                     </div>
                   }
