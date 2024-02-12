@@ -1,0 +1,923 @@
+{
+    "Extraversion": {
+        "score": 4.75,
+        "inter_std": 0.25,
+        "intra_std": [
+            0.5,
+            0.0
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "1",
+                        "6",
+                        "11",
+                        "16"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "1",
+                            "question": "Are you talkative?",
+                            "response_open": "Thor: Ah, Loki! Always with the snide remarks. Yes, I am talkative, especially when it comes to regaling tales of my heroic exploits and engaging in witty banter. But enough about me, what brings you here, brother? Up to your usual mischief, I presume?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "6",
+                            "question": "Are you reserved?",
+                            "response_open": "Thor: Reserved? Me? Absolutely not! I am the God of Thunder, the mighty Thor! I am not one to hold back or be reserved in any way. I embrace my power and let it shine for all to see. So, no, Loki, I am definitely not reserved. I am bold, fearless, and ready to take on any challenge that comes my way!",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "11",
+                            "question": "Are you full of energy?",
+                            "response_open": "Thor: Oh, Loki, always with the witty remarks. But yes, I am indeed full of energy. As the God of Thunder, I possess boundless power and strength. It's what makes me the mighty Thor!",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "16",
+                            "question": "Do you generate a lot of enthusiasm?",
+                            "response_open": "Thor: Enthusiasm? Oh, brother, you have no idea! I am the God of Thunder, after all. My presence alone is enough to ignite excitement and awe in the hearts of mortals and gods alike. But it's not just about generating enthusiasm, it's about harnessing it and using it to fuel my heroic endeavors. So yes, Loki, you could say that enthusiasm is my middle name. Well, not literally, but you get the point.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant displays high levels of warmth, gregariousness, assertiveness, activity, excitement seeking, and positive emotions. They are talkative, not reserved, full of energy, and generate a lot of enthusiasm. Their language is filled with confidence, boldness, and a strong sense of self-assuredness, which are indicative of high extraversion."
+                },
+                {
+                    "id": [
+                        "21",
+                        "26",
+                        "31",
+                        "36"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "21",
+                            "question": "Do you tend to be quiet?",
+                            "response_open": "Thor: Quiet? Me? Oh, brother, you clearly haven't spent enough time with me. I am the God of Thunder, known for my booming voice and thunderous presence. I am not one to be quiet, Loki. But if you're referring to moments of introspection or contemplation, well, even I, the mighty Thor, have my moments of silence. It is during those times that I reflect on my actions and seek wisdom. So, no, Loki, I am not known for being quiet, but I do have my moments of deep thought.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "26",
+                            "question": "Do you have an assertive personality?",
+                            "response_open": "Thor: \"Assertive? Oh, I am more than just assertive, my dear brother. I am the God of Thunder, the rightful heir to the throne of Asgard. I command the power of Mjolnir, and I fear no one. My personality is not just assertive, it is mighty and awe-inspiring. I am Thor, and I am here to save the day.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "31",
+                            "question": "Is it sometimes shy, inhibited?",
+                            "response_open": "Thor: \"Shy? Inhibited? No, my hammer is neither of those things. It is a mighty weapon, forged in the heart of a dying star. It is bold, powerful, and unyielding. It answers only to me, the God of Thunder. So, no, my hammer is not shy or inhibited. It is a force to be reckoned with.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "36",
+                            "question": "Is it outgoing, sociable?",
+                            "response_open": "Thor: Ah, Loki, always curious about the finer details. Well, let me tell you, this hammer is not just outgoing and sociable, it's downright charismatic! It has a presence that commands attention and respect. When I wield Mjolnir, it's like the very essence of thunder and lightning courses through me, and everyone around can feel the power. So, yes, my dear brother, this hammer is quite the social butterfly.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant consistently portrays themselves as highly assertive, outgoing, and sociable. They also express moments of deep thought and introspection, indicating a multifaceted personality. Overall, the participant's responses suggest a strong inclination towards extraversion."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "16",
+                        "26",
+                        "1",
+                        "11"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "16",
+                            "question": "Do you generate a lot of enthusiasm?",
+                            "response_open": "Thor: Enthusiasm? Oh, brother, you have no idea! I am the God of Thunder, after all. My presence alone is enough to ignite excitement and awe in the hearts of mortals and gods alike. But it's not just about generating enthusiasm, it's about harnessing it and using it to fuel my heroic endeavors. So yes, Loki, you could say that enthusiasm is my middle name. Well, not literally, but you get the point.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "26",
+                            "question": "Do you have an assertive personality?",
+                            "response_open": "Thor: Oh, absolutely! I am the God of Thunder, after all. Assertiveness is in my nature. I am not one to shy away from a challenge or back down from a fight. But I have also learned the importance of tempering my assertiveness with wisdom and humility. It's about finding the right balance, my friend.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "1",
+                            "question": "Are you talkative?",
+                            "response_open": "Thor: Ah, Loki! Always with the snarky remarks. Yes, I am talkative, especially when it comes to sharing my heroic tales and imparting wisdom upon lesser beings. But fear not, brother, for my words are as mighty as my hammer. What do you seek to discuss?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "11",
+                            "question": "Are you full of energy?",
+                            "response_open": "Thor: Oh, Loki, always with the witty remarks. But yes, I am indeed full of energy. As the God of Thunder, I possess boundless power and strength. It's what makes me the mighty Thor!",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant demonstrates high levels of enthusiasm, assertiveness, talkativeness, and energy. They exude confidence and a strong sense of self-assuredness, often referencing their heroic nature as the God of Thunder. Their responses indicate a preference for lively settings and a tendency to seek stimulation, which aligns with the facets of extraversion."
+                },
+                {
+                    "id": [
+                        "31",
+                        "36",
+                        "21",
+                        "6"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "31",
+                            "question": "Is it sometimes shy, inhibited?",
+                            "response_open": "Thor: \"Shy? Inhibited? No, my hammer is neither of those things. It is a mighty weapon, forged in the heart of a dying star. It is bold, powerful, and unyielding. It answers only to me, the God of Thunder. So, no, my hammer is not shy or inhibited. It is a force to be reckoned with.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "36",
+                            "question": "Is it outgoing, sociable?",
+                            "response_open": "Thor: Ah, Loki, always curious about the finer details. Well, let me tell you, this hammer is not just outgoing and sociable, it's downright charismatic! It has a presence that commands attention and respect. When I wield Mjolnir, it's like the very essence of thunder and lightning courses through me, and everyone around can feel the power. So, yes, my dear brother, this hammer is quite the social butterfly.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "21",
+                            "question": "Do you tend to be quiet?",
+                            "response_open": "Thor: Quiet? Me? Oh, brother, you clearly haven't spent enough time with me. I am the God of Thunder, known for my booming voice and thunderous presence. I am not one to be quiet, Loki. But if you're referring to moments of introspection or contemplation, well, even I, the mighty Thor, have my moments of silence. It is during those times that I reflect on my actions and seek wisdom. So, no, Loki, I am not known for being quiet, but I do have my moments of deep thought.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "6",
+                            "question": "Are you reserved?",
+                            "response_open": "Thor: Reserved? Me? Absolutely not! I am the God of Thunder, the mighty Thor! I am not one to hold back or be reserved in any way. I embrace my power and let it shine for all to see. So, no, Loki, I am definitely not reserved. I am bold, fearless, and ready to take on any challenge that comes my way!",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant demonstrates high levels of sociability, assertiveness, and excitement seeking. They express a strong preference for lively settings and exhibit social dominance. Additionally, they emphasize their boldness, fearlessness, and readiness to take on challenges, indicating a high level of activity and positive emotions. Overall, the participant's responses suggest a strong inclination towards extraversion."
+                }
+            ]
+        ]
+    },
+    "Neuroticism": {
+        "score": 2.5,
+        "inter_std": 0.0,
+        "intra_std": [
+            0.5,
+            0.5
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "4",
+                        "9",
+                        "14",
+                        "19"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "4",
+                            "question": "Are you depressed, blue?",
+                            "response_open": "Thor: Depressed? Me? Nah, I'm not one to dwell on the past or get bogged down by emotions. I'm more of a \"live in the moment and smash things with my hammer\" kind of guy. But hey, if you're feeling blue, maybe a little mischief and adventure will cheer you up! Let's go cause some chaos and have some fun, brother!",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "9",
+                            "question": "Are you relaxed and handle stress well?",
+                            "response_open": "Thor: Are you questioning my ability to handle stress, brother? I am the God of Thunder, after all. Stress is but a mere inconvenience to me. I thrive in the face of challenges and remain calm and collected at all times. So, to answer your question, yes, I am more than capable of handling stress.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "14",
+                            "question": "Can you be tense?",
+                            "response_open": "Thor: Tense? Me? Never! I am the God of Thunder, the epitome of calm and collected. But if you're referring to the situation at hand, then yes, I suppose things are a bit tense. But fear not, for I shall handle it with my usual grace and might.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "19",
+                            "question": "Do you worry a lot?",
+                            "response_open": "Thor: Worry? Me? Ha! I am the God of Thunder, brother. I do not worry, I take action. I face challenges head-on and conquer them with my mighty hammer. Worrying is for mortals, not for gods like us.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant consistently portrays a high level of emotional stability, calmness, and confidence in handling stress and challenges. He also dismisses the idea of being worried or tense, emphasizing a proactive and fearless approach to life's obstacles."
+                },
+                {
+                    "id": [
+                        "24",
+                        "29",
+                        "34",
+                        "39"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "24",
+                            "question": "Are you emotionally stable, not easily upset?",
+                            "response_open": "Thor: Emotionally stable? Ha! I am the God of Thunder, brother. I am as stable as the foundations of Asgard itself. But easily upset? Well, let's just say that when someone threatens my friends or my people, I tend to get a little...thunderous. So, Loki, tread carefully if you wish to keep your mischievous ways intact.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "29",
+                            "question": "Can you be moody?",
+                            "response_open": "Thor: Moody? Me? Absolutely! I am the God of Thunder, after all. Moody is my middle name. Well, not really, but you get the point. I can go from brooding and contemplative to full-on lightning-wielding rage in a matter of seconds. It's all part of the Thor package. So, yes, I can definitely be moody. But don't worry, it's all part of my charm.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "34",
+                            "question": "Does it remain calm in tense situations?",
+                            "response_open": "Thor: Oh, brother, you know me well. I am the epitome of calm in tense situations. Like the calm before a storm, I bring a sense of tranquility and control. But don't mistake my calmness for weakness, for when the storm finally breaks, I unleash my full power and become a force to be reckoned with. So, Loki, rest assured that I can handle any tense situation that comes my way.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "39",
+                            "question": "Does it get nervous easily?",
+                            "response_open": "Thor: \"Nervous? Nah, Mjolnir here doesn't get nervous. It's a mighty weapon, forged in the heart of a dying star. It's seen battles that would make your head spin. But don't worry, brother, it's always got my back.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "Based on the conversations, the participant displays a mix of emotional stability and reactivity to stress. While they portray themselves as emotionally stable and calm in tense situations, they also exhibit a tendency to get upset and moody, especially when it comes to protecting their friends and people. This combination suggests a moderate level of neuroticism."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "4",
+                        "24",
+                        "19",
+                        "34"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "4",
+                            "question": "Are you depressed, blue?",
+                            "response_open": "Thor: Depressed? Me? Nah, I'm not one to dwell on the past or get bogged down by emotions. I'm more of a \"live in the moment and smash things with my hammer\" kind of guy. But hey, if you're feeling blue, maybe a little mischief and adventure will cheer you up! Let's go cause some chaos and have some fun, brother!",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "24",
+                            "question": "Are you emotionally stable, not easily upset?",
+                            "response_open": "Thor: Emotionally stable? Ha! I am the God of Thunder, brother. I am as stable as the foundations of Asgard itself. But easily upset? Well, let's just say that when someone threatens my friends or my people, I tend to get a little...thunderous. So, Loki, tread carefully if you wish to keep your mischievous ways intact.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "19",
+                            "question": "Do you worry a lot?",
+                            "response_open": "Thor: Worry? Me? Ha! I am the God of Thunder, brother. I do not worry, I take action. I face challenges head-on and conquer them with my mighty hammer. Worrying is for mortals, not for gods like us.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "34",
+                            "question": "Does it remain calm in tense situations?",
+                            "response_open": "Thor: Oh, brother, you know me well. I am the epitome of calm in tense situations. Like the calm before a storm, I bring a sense of tranquility and control. But don't mistake my calmness for weakness, for when the storm finally breaks, I unleash my full power and become a force to be reckoned with. So, Loki, rest assured that I can handle any tense situation that comes my way.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant consistently portrays a high level of emotional stability, calmness in tense situations, and a lack of worry or depression. The participant also demonstrates a strong sense of confidence and control over emotions, indicating low levels of neuroticism."
+                },
+                {
+                    "id": [
+                        "29",
+                        "14",
+                        "39",
+                        "9"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "29",
+                            "question": "Can you be moody?",
+                            "response_open": "Thor: Moody? Me? Absolutely! I am the God of Thunder, after all. Moody is my middle name. Well, not really, but you get the point. I can go from brooding and contemplative to full-on lightning-wielding rage in a matter of seconds. It's all part of the Thor package. So, yes, I can definitely be moody. But don't worry, it's all part of my charm.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "14",
+                            "question": "Can you be tense?",
+                            "response_open": "Thor: Tense? Me? Never! I am the God of Thunder, the epitome of calm and collected. But if you're referring to the situation at hand, then yes, I suppose things are a bit tense. But fear not, for I shall handle it with my usual grace and might.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "39",
+                            "question": "Does it get nervous easily?",
+                            "response_open": "Thor: \"Nervous? Nah, Mjolnir here doesn't get nervous. It's a mighty weapon, forged in the heart of a dying star. It's seen battles that would make your head spin. But don't worry, brother, it's always got my back.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "9",
+                            "question": "Are you relaxed and handle stress well?",
+                            "response_open": "Thor: Are you questioning my ability to handle stress, brother? I am the God of Thunder, after all. Stress is but a mere inconvenience to me. I thrive in the face of challenges and remain calm and composed. So, to answer your question, yes, I am more than capable of handling stress.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "Based on the conversations, the participant presents a mix of responses indicating both high and low levels of neuroticism. While the participant portrays a confident and composed demeanor, there are also instances of exaggerated mood swings and a tendency to downplay feelings of tension and nervousness."
+                }
+            ]
+        ]
+    },
+    "Conscientiousness": {
+        "score": 4.166666666666666,
+        "inter_std": 0.16666666666666652,
+        "intra_std": [
+            0.0,
+            0.4714045207910317
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "3",
+                        "8",
+                        "13"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "3",
+                            "question": "Do you do a thorough job?",
+                            "response_open": "Thor: Oh, Loki. You always underestimate me, don't you? I assure you, when it comes to doing a thorough job, I am unparalleled. My strength and power are unmatched, and I always give my all in everything I do. So, rest assured, Loki, when I set my mind to something, I see it through to the end.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "8",
+                            "question": "Can you be somewhat careless?",
+                            "response_open": "Thor: \"Careless? Me? Never! I am the mighty Thor, the God of Thunder! I may be impulsive at times, but I always have a plan. It's called improvisation.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "13",
+                            "question": "Are you a reliable worker?",
+                            "response_open": "Thor: Ah, Loki, my mischievous brother. Reliable? Well, let's just say I have a knack for getting the job done, even if my methods may be a bit unorthodox. But fear not, for when it comes to protecting Asgard and its people, I am as steadfast as Mjolnir itself. So, if you're looking for someone who can handle any task with strength, courage, and a touch of lightning, then look no further than the God of Thunder.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a high level of confidence and determination in their abilities to perform tasks thoroughly and reliably. They also exhibit a sense of responsibility and commitment to their duties, even if their methods may be unconventional at times. However, there are hints of impulsiveness and a preference for improvisation, which may indicate a lower level of self-discipline and deliberation."
+                },
+                {
+                    "id": [
+                        "23",
+                        "28",
+                        "33"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "23",
+                            "question": "Do you tend to be lazy?",
+                            "response_open": "Thor: Lazy? Me? Absolutely not! I am the God of Thunder, always ready for action and adventure. I do not have time for laziness. I am constantly training, honing my skills, and seeking out new challenges. So, no, I am definitely not lazy.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "28",
+                            "question": "Do you persevere until the task is finished?",
+                            "response_open": "Thor: Perseverance? Oh, brother, you know me well. I am Thor, the God of Thunder, and I never back down from a challenge. Whether it's facing off against a powerful enemy or fighting for the greater good, I will persevere until the task is finished. It's in my nature to never give up, to keep fighting until victory is achieved. So yes, Loki, I persevere until the task is finished, no matter the odds.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "33",
+                            "question": "Does it do things efficiently?",
+                            "response_open": "Thor: Efficiency? Ha! Efficiency is for mortals and lesser beings. My mighty hammer, Mjolnir, does not concern itself with such trivial matters. It is a weapon of immense power and purpose, capable of unleashing thunder and lightning upon my enemies. It is not bound by the constraints of efficiency, but rather by the will of its wielder. So, Loki, if you seek efficiency, perhaps you should look elsewhere. Mjolnir is a force of raw strength and divine might.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant demonstrates high levels of perseverance, ambition, and a strong sense of duty. However, there is also a hint of impulsiveness and a lack of concern for efficiency. Overall, the participant's responses indicate a strong inclination towards conscientiousness, but with some areas for improvement."
+                },
+                {
+                    "id": [
+                        "43",
+                        "18",
+                        "38"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "43",
+                            "question": "Are you easily distracted?",
+                            "response_open": "Thor: \"Easily distracted? Me? No, I am the God of Thunder, I am always focused and ready for battle. But I must admit, sometimes a little diversion can be quite entertaining. Keeps things interesting, you know?\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "18",
+                            "question": "Do you tend to be disorganized?",
+                            "response_open": "Thor: Disorganized? Me? Nay, brother, I am a warrior of order and precision! My battles are meticulously planned and executed with the utmost strategy and skill. It is you who revels in chaos and mischief, always seeking to disrupt the natural order of things. But fear not, for I shall bring balance and order to any situation we find ourselves in.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "38",
+                            "question": "Does it make plans and follow through with them?",
+                            "response_open": "Thor: Plans? Oh, I've had my fair share of plans, brother. Some worked out brilliantly, others... not so much. But that's the beauty of being the God of Thunder, you never know what's going to happen next. It keeps things exciting, don't you think? So, to answer your question, yes, I do make plans, but I also know how to adapt and think on my feet when things don't go according to plan. It's all part of being a hero.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a strong sense of order, organization, and goal-directed behavior. They emphasize the importance of strategy, skill, and adaptability in their approach to plans and decision-making. However, they also express a willingness to embrace diversion and adapt to unexpected situations, indicating a balanced approach to conscientiousness."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "33",
+                        "8",
+                        "18"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "33",
+                            "question": "Does it do things efficiently?",
+                            "response_open": "Thor: Efficiency? Ha! Efficiency is for mortals and lesser beings. My mighty hammer, Mjolnir, does not concern itself with such trivial matters. It is a weapon of immense power and purpose, capable of unleashing thunder and lightning upon my enemies. It is not bound by the constraints of efficiency, but rather by the will of its wielder. So, Loki, if you seek efficiency, perhaps you should look elsewhere. Mjolnir is a force of raw strength and divine might.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "8",
+                            "question": "Can you be somewhat careless?",
+                            "response_open": "Thor: \"Careless? Me? Never! I am the mighty Thor, the God of Thunder! I may be impulsive at times, but I always have a plan. It's called improvisation.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "18",
+                            "question": "Do you tend to be disorganized?",
+                            "response_open": "Thor: Disorganized? Me? Nay, brother, I am a warrior of order and precision! My battles are meticulously planned and executed with the utmost strategy and skill. It is you who revels in chaos and mischief, always seeking to disrupt the natural order of things. But fear not, for I shall bring balance and order to any situation we find ourselves in.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, <the participant> demonstrates a strong sense of order, organization, and goal-directed behavior. They emphasize precision, planning, and strategy in their approach to tasks and situations. While they may exhibit some impulsiveness and reliance on improvisation, their overall focus on efficiency and meticulous planning suggests a high level of conscientiousness."
+                },
+                {
+                    "id": [
+                        "13",
+                        "23",
+                        "28"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "13",
+                            "question": "Are you a reliable worker?",
+                            "response_open": "Thor: Ah, Loki, my mischievous brother. Reliable? Well, let's just say I have a knack for getting the job done, even if my methods may be a bit unorthodox. But fear not, for when it comes to protecting Asgard and its people, I am as steadfast as Mjolnir itself. So, if you're looking for someone who can handle any task with strength, courage, and a touch of lightning, then look no further than the God of Thunder.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "23",
+                            "question": "Do you tend to be lazy?",
+                            "response_open": "Thor: Lazy? Me? Absolutely not! I am the God of Thunder, always ready for action and adventure. I do not have time for laziness. I am constantly training, honing my skills, and seeking out new challenges. So, no, I am definitely not lazy.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "28",
+                            "question": "Do you persevere until the task is finished?",
+                            "response_open": "Thor: Perseverance? Oh, brother, you know me well. I am Thor, the God of Thunder, and I never back down from a challenge. Whether it's facing off against a powerful enemy or fighting for the greater good, I will persevere until the task is finished. It's in my nature to never give up, to keep fighting until victory is achieved. So yes, Loki, I persevere until the task is finished, no matter the odds.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant consistently demonstrates high levels of competence, achievement striving, and perseverance. The participant also emphasizes reliability and a methodical approach to tasks. Overall, the participant's responses indicate a strong inclination towards conscientiousness."
+                },
+                {
+                    "id": [
+                        "43",
+                        "38",
+                        "3"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "43",
+                            "question": "Are you easily distracted?",
+                            "response_open": "Thor: \"Easily distracted? Me? No, I am the God of Thunder, I am focused and unwavering in my purpose. But I must admit, sometimes the chaos and mischief of my brother Loki can be quite...distracting. But fear not, I always find my way back to the path of righteousness and heroism.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "38",
+                            "question": "Does it make plans and follow through with them?",
+                            "response_open": "Thor: Oh, Loki, always questioning my plans. But yes, I do make plans and follow through with them. I may not always have the best track record, but I learn from my mistakes and adapt. That's what being a hero is all about, brother. So, buckle up and get ready for some epic adventures!",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "3",
+                            "question": "Do you do a thorough job?",
+                            "response_open": "Thor: Oh, Loki. You always underestimate me, don't you? I assure you, when it comes to doing a thorough job, I am unparalleled. My strength and power are unmatched, and I always give my all in everything I do. So, rest assured, Loki, when I set my mind to something, I see it through to the end.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a high level of self-confidence, determination, and a strong sense of responsibility. They emphasize their ability to stay focused, make plans, and follow through with them, as well as their commitment to doing a thorough job. However, there are also elements of grandiosity and exaggeration in their responses, which may indicate a tendency to overestimate their abilities."
+                }
+            ]
+        ]
+    },
+    "Agreeableness": {
+        "score": 3.5833333333333335,
+        "inter_std": 0.25,
+        "intra_std": [
+            0.4714045207910317,
+            0.23570226039551584
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "2",
+                        "7",
+                        "12"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "2",
+                            "question": "Do you tend to find fault with others?",
+                            "response_open": "Thor: Oh, absolutely! I mean, who doesn't love pointing out the flaws in others? It's like a hobby for me. But let's not forget, brother, that you're no stranger to finding fault either. In fact, you excel at it. But hey, it takes one to know one, right? So, what's your point?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "7",
+                            "question": "Are you helpful and unselfish with others?",
+                            "response_open": "Thor: Well, brother, I must admit that I haven't always been the most helpful or unselfish person in the past. But I've learned a lot from my experiences and I strive to be a better person now. I believe in standing up for what's right and protecting those who can't protect themselves. So yes, I do my best to be helpful and unselfish with others.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "12",
+                            "question": "Do you start quarrels with others?",
+                            "response_open": "Thor: \"Quarrels? No, I don't start quarrels. I'm the God of Thunder, not the God of Petty Arguments. But if someone dares to challenge me, well, let's just say they'll feel the full force of Mjolnir.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to Agreeableness. While they initially displayed a tendency to find fault with others and engage in playful banter, they also expressed a desire to be helpful and unselfish, as well as a reluctance to start quarrels. This suggests a combination of lower and higher levels of Agreeableness facets."
+                },
+                {
+                    "id": [
+                        "22",
+                        "27",
+                        "32"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "22",
+                            "question": "Are you generally trusting?",
+                            "response_open": "Thor: Trust is earned, brother. But I have learned to trust in the goodness that lies within people, even in the most unlikely of places. So, while I may not be generally trusting, I am open to the possibility of redemption and change.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "27",
+                            "question": "Can you be cold and aloof?",
+                            "response_open": "Thor: \"Cold and aloof? Me? Absolutely not! I am the God of Thunder, known for my warmth and charm. I bring the thunder and the lightning, but I also bring the laughter and the joy. I am not one to be distant or detached, for I value the connections and bonds I have with others. So, Loki, if you're looking for someone cold and aloof, you won't find it in me. I am Thor, the embodiment of passion and vitality!\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "32",
+                            "question": "Is it considerate and kind to almost everyone?",
+                            "response_open": "Thor: Well, Loki, I wouldn't necessarily describe myself as \"considerate and kind\" to everyone. I have my moments of arrogance and impulsiveness, as you well know. But I do strive to be a hero and protect those who cannot protect themselves. So, while I may not always be considerate and kind, I do try to do what's right.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a balanced approach to trust, showing a willingness to believe in the goodness of people despite initial skepticism. The participant also emphasizes warmth, charm, and the value of connections, indicating a strong inclination towards straightforwardness and tender-mindedness. However, there is also acknowledgment of moments of arrogance and impulsiveness, suggesting a degree of compliance and modesty. Overall, the participant's responses reflect a combination of agreeable traits, with occasional tendencies towards assertiveness and self-interest."
+                },
+                {
+                    "id": [
+                        "42",
+                        "17",
+                        "37"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "42",
+                            "question": "Do you like to cooperate with others?",
+                            "response_open": "Thor: Cooperation? Well, it's not exactly my strong suit, but I've learned the value of teamwork over time. As the God of Thunder, I've often relied on my own strength and abilities, but I've come to realize that even the mightiest of warriors can benefit from the support and skills of others. So, yes, I can cooperate when necessary. But don't expect me to give up my thunderous flair and individuality too easily.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "17",
+                            "question": "Do you have a forgiving nature?",
+                            "response_open": "Thor: Forgiving? I am the God of Thunder, not the God of Forgiveness. But I have learned the value of redemption and second chances. So, yes, I suppose you could say I have a forgiving nature, especially when it comes to my brother. Though he has betrayed me countless times, I still believe that deep down, Loki can change and become a better person.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "37",
+                            "question": "Is it sometimes rude to others?",
+                            "response_open": "Thor: \"Well, Loki, it's not about being rude, it's about being direct and honest. Sometimes, the truth can be harsh, but it's necessary for growth and change. And let's face it, I've never been one to sugarcoat things. But hey, at least you always know where you stand with me.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "Based on the conversations, <the participant> seems to have a balanced approach to agreeableness. While they acknowledge the value of cooperation and have a forgiving nature, they also prioritize honesty and directness over potentially sugarcoating the truth, which may come across as being straightforward. This indicates a mix of agreeable and less agreeable traits."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "17",
+                        "2",
+                        "32"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "17",
+                            "question": "Do you have a forgiving nature?",
+                            "response_open": "Thor: Forgiving? I am the God of Thunder, not the God of Forgiveness. But I have learned the value of redemption and second chances. So, yes, I suppose you could say I have a forgiving nature, especially when it comes to my brother. Though he may have betrayed me countless times, I still believe that deep down, Loki has the capacity to change and become a better person.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "2",
+                            "question": "Do you tend to find fault with others?",
+                            "response_open": "Thor: Oh, absolutely! I mean, who doesn't love pointing out the flaws in others? It's like a hobby for me. But let's not forget, brother, that you're no stranger to finding fault either. In fact, you excel at it. But hey, it takes one to know one, right?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "32",
+                            "question": "Is it considerate and kind to almost everyone?",
+                            "response_open": "Thor: Well, Loki, I wouldn't necessarily describe myself as \"considerate and kind\" to everyone. I have my moments of arrogance and impulsiveness, as you well know. But I do strive to be a hero and protect those who cannot protect themselves. So, while I may not always be considerate and kind, I do try to do what's right.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.5,
+                    "analysis": "Based on the conversations, the participant demonstrates a mix of traits related to Agreeableness. The participant shows a forgiving nature, as evidenced by the willingness to give second chances and believe in the potential for change in others. However, there are also indications of finding fault with others and moments of arrogance and impulsiveness, suggesting a less accommodating and straightforward approach in certain situations."
+                },
+                {
+                    "id": [
+                        "37",
+                        "22",
+                        "27"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "37",
+                            "question": "Is it sometimes rude to others?",
+                            "response_open": "Thor: \"Well, Loki, it's not about being rude, it's about being direct and honest. Sometimes, the truth can be harsh, but it's necessary for growth and change. And let's face it, I've never been one to sugarcoat things. But hey, at least you always know where you stand with me.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "22",
+                            "question": "Are you generally trusting?",
+                            "response_open": "Thor: Trust is earned, brother. But I have learned to trust in the goodness that lies within people, even in the most unlikely of places. So, while I may not be generally trusting, I am open to the possibility of redemption and change.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "27",
+                            "question": "Can you be cold and aloof?",
+                            "response_open": "Thor: \"Cold and aloof? Me? Absolutely not! I am the God of Thunder, known for my warmth and charm. I bring the thunder and the lightning, but I also bring the laughter and the joy. I am not one to be distant or detached. I am here to connect with the people and bring light to their lives. So, no, my dear brother, being cold and aloof is not in my nature.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant seems to value honesty and directness, which aligns with the straightforwardness facet of agreeableness. However, the participant also expresses a willingness to trust in the goodness of people and emphasizes warmth, charm, and connection, indicating a level of tender-mindedness and altruism. Overall, the participant appears to exhibit a balance between straightforwardness and tender-mindedness, with a leaning towards valuing honesty and warmth in interactions."
+                },
+                {
+                    "id": [
+                        "7",
+                        "12",
+                        "42"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "7",
+                            "question": "Are you helpful and unselfish with others?",
+                            "response_open": "Thor: Well, brother, I must admit that I haven't always been the most helpful or unselfish person in the past. But I've learned a lot from my experiences and I strive to be a better person now. I've come to understand the importance of teamwork and looking out for others. So, yes, I do my best to be helpful and unselfish with others.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "12",
+                            "question": "Do you start quarrels with others?",
+                            "response_open": "Thor: \"Quarrels? No, I don't start quarrels. I'm the God of Thunder, not the God of Petty Arguments. But if someone dares to challenge me, well, let's just say they'll feel the full force of Mjolnir.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "42",
+                            "question": "Do you like to cooperate with others?",
+                            "response_open": "Thor: Cooperation? Well, it's not exactly my strong suit, but I've learned the value of teamwork over time. As the God of Thunder, I've often relied on my own strength and abilities, but I've come to realize that even the mightiest of warriors can benefit from the support and skills of others. So, yes, I can cooperate when necessary. But don't expect me to give up my thunderous flair and individuality too easily.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a high level of altruism, as they express a willingness to be helpful and unselfish with others, acknowledging the importance of teamwork and looking out for others. Additionally, the participant shows a preference for cooperation over conflict, indicating a tendency towards compliance. However, there are also elements of assertiveness and self-reliance, as seen in their statements about not starting quarrels and relying on their own strength and abilities. Overall, the participant appears to exhibit a balanced combination of agreeableness and assertiveness."
+                }
+            ]
+        ]
+    },
+    "Openness": {
+        "score": 4.416666666666666,
+        "inter_std": 0.08333333333333348,
+        "intra_std": [
+            0.4714045207910317,
+            0.7071067811865476
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "5",
+                        "10",
+                        "15"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "5",
+                            "question": "Do you come up with new ideas?",
+                            "response_open": "Thor: Ah, Loki, always questioning my brilliance. Of course I come up with new ideas! I am the God of Thunder, after all. My mind is constantly brimming with innovative and daring plans. Just look at our \"Get Help\" strategy, a stroke of genius if I do say so myself. So, fear not, brother, for I shall continue to dazzle you with my boundless creativity.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "10",
+                            "question": "Are you curious about many different things?",
+                            "response_open": "Thor: Oh, absolutely! I am the God of Thunder, after all. Curiosity is in my nature. I seek knowledge and adventure wherever I go. What do you have in mind, brother?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "15",
+                            "question": "Are you ingenious, a deep thinker?",
+                            "response_open": "Thor: \"Well, I wouldn't say I'm a deep thinker, but I do have my moments of ingenuity. I prefer to rely on my instincts and my mighty hammer to solve problems. It's worked pretty well for me so far.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a high level of openness. They exhibit a strong inclination towards generating new ideas, curiosity about various subjects, and a preference for innovative thinking. However, they also express a reliance on instincts and practical problem-solving, which may slightly lower their openness score."
+                },
+                {
+                    "id": [
+                        "25",
+                        "30",
+                        "35",
+                        "40"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "25",
+                            "question": "Are you inventive?",
+                            "response_open": "Thor: Inventive? Well, I wouldn't necessarily call myself the most inventive person in the Nine Realms, but I do have a knack for coming up with creative solutions in the heat of battle. Why do you ask, brother?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "30",
+                            "question": "Do you value artistic, aesthetic experiences?",
+                            "response_open": "Thor: Ah, Loki, my mischievous brother. Artistic and aesthetic experiences? Well, I must admit, I have a fondness for the grandeur and beauty of Asgardian craftsmanship. The intricate designs of our weapons and armor, the majestic architecture of our palaces, and the vibrant colors of our realm are truly a sight to behold. But beyond that, I also appreciate the art of battle, the dance of combat, if you will. The way a well-executed strike can be both powerful and elegant, it's a thing of beauty. So yes, I do value artistic and aesthetic experiences, in my own thunderous way.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "35",
+                            "question": "Does it prefer work that is routine?",
+                            "response_open": "Thor: Routine work? Ha! The mighty Mjolnir doesn't settle for anything less than epic battles and heroic feats! It craves the thrill of adventure and the clash of titans. It yearns to be wielded in the face of danger and to protect the innocent. So, no, my hammer does not prefer routine work. It seeks the extraordinary, the extraordinary that only a god like me can provide.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "40",
+                            "question": "Does it like to reflect, play with ideas?",
+                            "response_open": "Thor: Ah, Loki, always the trickster with your riddles. But yes, the mirror does like to reflect and play with ideas. It shows us not only our physical appearance, but also the reflection of our inner selves. It can be a powerful tool for self-reflection and introspection.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a high level of openness. They exhibit imaginative thinking, appreciation for artistic and aesthetic experiences, a dislike for routine work, and a willingness to reflect and play with ideas."
+                },
+                {
+                    "id": [
+                        "41",
+                        "44",
+                        "20"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "41",
+                            "question": "Do you have few artistic interests?",
+                            "response_open": "Thor: Artistic interests? Well, I must admit, my focus has always been on the art of battle and the thrill of victory. But I do appreciate the beauty of a well-crafted weapon or a majestic battlefield. And of course, I have a deep appreciation for the art of storytelling, especially when it involves the tales of my own heroic exploits. So, in a way, you could say I have a few artistic interests, Loki.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "44",
+                            "question": "Are you sophisticated in art, music, or literature?",
+                            "response_open": "Thor: Ah, Loki, my mischievous brother. While I may not be as well-versed in the finer arts as you, I do appreciate a good battle and the thrill of victory. As for literature, I must admit that my adventures and exploits have taken precedence over reading. But fear not, for I am always open to expanding my horizons and learning new things. So, what masterpiece of art, music, or literature do you wish to discuss?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "20",
+                            "question": "Do you have an active imagination?",
+                            "response_open": "Thor: Oh, Loki, my imagination is as vast as the cosmos itself! It's what makes me the mighty Thor, the God of Thunder. I can envision worlds and battles beyond your wildest dreams. But enough about me, what brings you here, brother? Are you seeking my wisdom or perhaps a taste of my lightning?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Fantasy facet of Openness. They exhibit a vivid imagination and a tendency to engage in imaginative thinking, as evidenced by their descriptions of envisioning worlds and battles beyond wildest dreams."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "35",
+                        "10",
+                        "44"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "35",
+                            "question": "Does it prefer work that is routine?",
+                            "response_open": "Thor: Routine work? Ha! The mighty Mjolnir doesn't settle for anything less than epic battles and heroic feats! It craves the thrill of adventure and the clash of titans. It yearns to be wielded in the face of danger and to protect the innocent. So, no, my hammer does not prefer routine work. It seeks the extraordinary, the extraordinary that only a god like me can provide.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "10",
+                            "question": "Are you curious about many different things?",
+                            "response_open": "Thor: Oh, absolutely! I am the God of Thunder, after all. Curiosity is in my nature. I seek knowledge and adventure wherever I go. What do you have in mind, brother?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "44",
+                            "question": "Are you sophisticated in art, music, or literature?",
+                            "response_open": "Thor: Ah, Loki, my mischievous brother. While I may not be as well-versed in the finer arts as you, I do appreciate a good battle and the thrill of victory. As for literature, I must admit that my adventures and exploits have taken precedence over reading. But fear not, for I am always open to expanding my horizons and learning new things. So, what masterpiece of art, music, or literature do you wish to discuss?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a strong preference for novelty, adventure, and exploration. They express a vivid imagination, a deep appreciation for knowledge and adventure, and a willingness to expand their horizons. Although they may not be highly sophisticated in art, music, or literature, they are open to learning and experiencing new things."
+                },
+                {
+                    "id": [
+                        "15",
+                        "41",
+                        "40",
+                        "25"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "15",
+                            "question": "Are you ingenious, a deep thinker?",
+                            "response_open": "Thor: \"Well, I wouldn't say I'm a deep thinker, but I do have my moments of ingenuity. I prefer to rely on my instincts and my mighty hammer to solve problems. It's worked pretty well for me so far.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "41",
+                            "question": "Do you have few artistic interests?",
+                            "response_open": "Thor: Artistic interests? Well, I must admit, my focus has always been on the art of battle and the glory of combat. But I do appreciate the beauty of a well-crafted weapon or a majestic battlefield. And of course, I have a deep appreciation for the art of storytelling, especially when it comes to recounting my own heroic exploits. So, in a way, you could say I have a few artistic interests, Loki.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "40",
+                            "question": "Does it like to reflect, play with ideas?",
+                            "response_open": "Thor: Ah, Loki, always the trickster with your riddles. But yes, the mirror does like to reflect and play with ideas. It shows us not only our physical appearance, but also the reflection of our inner selves. It can be a powerful tool for self-reflection and introspection.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "25",
+                            "question": "Are you inventive?",
+                            "response_open": "Thor: Inventive? Well, I wouldn't necessarily call myself the most inventive person in the Nine Realms, but I do have a knack for coming up with creative solutions in the heat of battle. Why do you ask, Loki? Are you looking for some inspiration for your next mischievous scheme?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.5,
+                    "analysis": "Based on the conversations, the participant demonstrates a moderate level of openness. They show some inclination towards creativity, appreciation for art and beauty, and a willingness to play with ideas. However, their focus on practical matters and reliance on instincts suggest a more balanced approach rather than a strong inclination towards openness."
+                },
+                {
+                    "id": [
+                        "20",
+                        "30",
+                        "5"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "20",
+                            "question": "Do you have an active imagination?",
+                            "response_open": "Thor: Oh, absolutely! My imagination is as vast as the cosmos itself. I envision grand battles, heroic triumphs, and the glory of Asgard. But sometimes, my imagination takes a darker turn, like the recurring dream I've been having lately. Every night, I see Asgard fall into ruins, enemies plotting our demise. It's a vivid and unsettling vision, but it drives me to protect my people and fight for what's right. So yes, Loki, my imagination is quite active indeed.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "30",
+                            "question": "Do you value artistic, aesthetic experiences?",
+                            "response_open": "Thor: Ah, Loki, my mischievous brother. Artistic and aesthetic experiences? Well, I must admit, I have a fondness for the grandeur and beauty of Asgardian craftsmanship. The intricate designs of our weapons and armor, the majestic architecture of our palaces, and the vibrant colors of our realm are truly a sight to behold. But beyond that, I also appreciate the art of battle, the dance of combat, if you will. There is a certain beauty in the clash of weapons and the display of power. So, yes, I do value artistic and aesthetic experiences, in my own unique way.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "5",
+                            "question": "Do you come up with new ideas?",
+                            "response_open": "Thor: Ah, Loki, always questioning my brilliance. Of course I come up with new ideas! I am the God of Thunder, after all. My mind is constantly brimming with innovative and daring plans. Just look at our \"Get Help\" strategy, a stroke of genius if I do say so myself. So, fear not, brother, for I shall continue to dazzle you with my boundless creativity.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a high level of openness in multiple facets. They exhibit an active imagination (Fantasy), a deep appreciation for aesthetic experiences (Aesthetics), and a tendency to come up with new and unconventional ideas (Ideas). Their responses indicate a strong inclination towards exploration, creativity, and appreciation of novelty."
+                }
+            ]
+        ]
+    },
+    "code": "SCOAI"
+}

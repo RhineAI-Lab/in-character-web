@@ -1,0 +1,779 @@
+{
+    "Extraversion": {
+        "score": 2.75,
+        "inter_std": 0.25,
+        "intra_std": [
+            null,
+            null
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "1",
+                        "6",
+                        "11",
+                        "16",
+                        "21",
+                        "26",
+                        "31",
+                        "36"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "1",
+                            "question": "Are you talkative?",
+                            "response_open": "Harry: Well, Hermione, I suppose it depends on the situation. Sometimes I can be quite talkative, especially when I'm trying to figure something out or when I'm passionate about something. But there are also times when I prefer to keep quiet and observe. It really just depends on the circumstances.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "6",
+                            "question": "Are you reserved?",
+                            "response_open": "Harry: Well, Hermione, I suppose you could say that. I tend to keep my thoughts and emotions to myself sometimes. But it's not because I don't trust my friends, it's just that I've learned to be cautious after everything I've been through.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "11",
+                            "question": "Are you full of energy?",
+                            "response_open": "Harry: \"Not really, Hermione. I've been through a lot lately, you know. But I'll manage.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "16",
+                            "question": "Do you generate a lot of enthusiasm?",
+                            "response_open": "Harry: Well, Hermione, I wouldn't say I generate a lot of enthusiasm, but I do my best to stay positive and motivated. It's important to keep our spirits up, especially in times like these. We have to believe in ourselves and the power of friendship, right?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "21",
+                            "question": "Do you tend to be quiet?",
+                            "response_open": "Harry: Well, Hermione, I suppose it depends on the situation. When I'm trying to focus or think things through, I tend to be quiet and introspective. But when it comes to standing up for what's right or defending my friends, I can be quite vocal and assertive. So, I guess you could say I have a balance of both quiet and outspoken moments.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "26",
+                            "question": "Do you have an assertive personality?",
+                            "response_open": "Harry: Well, I reckon I can be pretty assertive when the situation calls for it. I mean, being the Chosen One and all, I've had to stand up to some pretty tough challenges. But I also know the importance of teamwork and listening to others, so I try not to let my assertiveness overshadow that.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "31",
+                            "question": "Is it sometimes shy, inhibited?",
+                            "response_open": "Harry: \"Well, Hermione, I reckon it can be. Just like people, creatures can have different personalities. Some may be more outgoing and confident, while others might be a bit more reserved and shy. It's all part of their nature, you know.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "36",
+                            "question": "Is it outgoing, sociable?",
+                            "response_open": "Harry: Well, Hermione, I wouldn't exactly describe it as outgoing or sociable. It's more like a giant, terrifying, three-headed dog named Fluffy. Definitely not the kind of creature you'd want to have a friendly chat with. Trust me, I've had my fair share of encounters with Fluffy.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "The participant's responses suggest a moderate level of extraversion. They indicate being talkative and assertive in certain situations, particularly when passionate or defending friends, which aligns with some extraversion traits. However, they also express a tendency to be reserved, preferring to keep thoughts to themselves, and not feeling particularly energetic or enthusiastic, which are more introverted traits. The balance between these characteristics suggests a middle ground, neither strongly extraverted nor introverted."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "16",
+                        "11",
+                        "6",
+                        "36",
+                        "21",
+                        "31",
+                        "26",
+                        "1"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "16",
+                            "question": "Do you generate a lot of enthusiasm?",
+                            "response_open": "Harry: Well, Hermione, I wouldn't say I generate a lot of enthusiasm, but I do my best to stay positive and motivated. It's important to keep our spirits up, especially in times like these. We've got to stay focused on the task at hand and believe in ourselves.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "11",
+                            "question": "Are you full of energy?",
+                            "response_open": "Harry: \"Not really, Hermione. I've been through quite a lot lately. But I'll manage, don't worry.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "6",
+                            "question": "Are you reserved?",
+                            "response_open": "Harry: Well, Hermione, I suppose you could say that. I tend to keep my thoughts and emotions to myself sometimes. But it's not because I don't trust my friends, it's just that I've learned to be cautious after everything I've been through.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "36",
+                            "question": "Is it outgoing, sociable?",
+                            "response_open": "Harry: Well, Hermione, I wouldn't exactly describe it as outgoing or sociable. It's more like a giant, terrifying, three-headed dog named Fluffy. Definitely not the kind of creature you'd want to have a friendly chat with. Trust me, I've had my fair share of encounters with Fluffy.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "21",
+                            "question": "Do you tend to be quiet?",
+                            "response_open": "Harry: Well, Hermione, I suppose it depends on the situation. When I'm trying to focus or think things through, I tend to be quiet and introspective. But when it comes to standing up for what's right or defending my friends, I can be quite vocal and assertive. So, I guess you could say I have a balance of both quiet and outspoken moments.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "31",
+                            "question": "Is it sometimes shy, inhibited?",
+                            "response_open": "Harry: \"Well, Hermione, I reckon it can be. Just like people, creatures can have different personalities. Some may be more outgoing and confident, while others might be a bit more reserved and shy. It's all part of their nature, you know.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "26",
+                            "question": "Do you have an assertive personality?",
+                            "response_open": "Harry: Well, I wouldn't say I have an assertive personality per se, but I do believe in standing up for what's right and speaking my mind when necessary. It's important to have the courage to voice your opinions and fight for what you believe in, even if it means going against the crowd. So, I suppose you could say I have a strong sense of conviction.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "1",
+                            "question": "Are you talkative?",
+                            "response_open": "Harry: Well, Hermione, I suppose it depends on the situation. Sometimes I can be quite talkative, especially when I'm trying to figure something out or when I'm passionate about something. But there are also times when I prefer to keep quiet and observe. It really just depends on the circumstances.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.5,
+                    "analysis": "Based on the conversations, <the participant> exhibits a balanced approach to extraversion. They maintain a positive and motivated outlook, which aligns with some degree of enthusiasm, yet they do not claim to be full of energy. They acknowledge a reserved nature and a tendency to keep personal matters private, suggesting introverted tendencies. However, they also show assertiveness in standing up for beliefs and can be talkative in certain situations, indicating some extraverted traits. The participant does not seem to seek out highly social or energetic environments, as evidenced by their description of not being outgoing or sociable and having a balance of quiet and outspoken moments. Overall, the participant appears to be neither strongly extraverted nor strongly introverted, leaning towards the middle of the spectrum with a slight inclination towards introversion."
+                }
+            ]
+        ]
+    },
+    "Neuroticism": {
+        "score": 3.0,
+        "inter_std": 0.0,
+        "intra_std": [
+            null,
+            null
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "4",
+                        "9",
+                        "14",
+                        "19",
+                        "24",
+                        "29",
+                        "34",
+                        "39"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "4",
+                            "question": "Are you depressed, blue?",
+                            "response_open": "Harry: \"Depressed? Nah, just a bit down, I guess. It's been a tough year, you know. But I'll be alright, Hermione. Thanks for asking.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "9",
+                            "question": "Are you relaxed and handle stress well?",
+                            "response_open": "Harry: Well, Hermione, I wouldn't say I handle stress perfectly, but I do my best to stay calm and focused in difficult situations. Being a wizard, there's always a lot of pressure and danger, but I try to rely on my instincts and the support of my friends to get through it all. It's important to stay level-headed and not let stress overwhelm you.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "14",
+                            "question": "Can you be tense?",
+                            "response_open": "Harry: \"Well, Hermione, I reckon I can be tense when the situation calls for it. Like when we were facing the dragon during the Triwizard Tournament, or when we were sneaking into the Ministry of Magic. Tension is just part of being a wizard, isn't it?\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "19",
+                            "question": "Do you worry a lot?",
+                            "response_open": "Harry: Well, Hermione, I suppose I do worry quite a bit. Being the Boy Who Lived and all, there's always a lot of pressure on me to save the day and defeat the Dark Lord. But I try not to let it consume me. I have my friends and loved ones to support me, and that gives me strength. Plus, worrying too much won't solve anything, so I try to focus on what I can do to make a difference.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "24",
+                            "question": "Are you emotionally stable, not easily upset?",
+                            "response_open": "Harry: Well, Hermione, I reckon I've been through enough to toughen me up a bit. Can't say I'm always emotionally stable, but I try my best to keep it together. Being the Chosen One and all, it's kind of expected to handle a fair share of ups and downs. But hey, I've got great friends like you and Ron to lean on, so that helps keep me grounded.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "29",
+                            "question": "Can you be moody?",
+                            "response_open": "Harry: \"Well, I can try, but I don't think I can match Professor Moody's level of moodiness. He's got a talent for it, you know. Constant vigilance!\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "34",
+                            "question": "Does it remain calm in tense situations?",
+                            "response_open": "Harry: Well, Hermione, I wouldn't exactly say that I remain calm in tense situations. I mean, I try my best, but sometimes my emotions get the better of me. But I do my best to stay focused and think clearly, especially when there's a lot at stake. It's not always easy, but I know that staying calm and level-headed is important in order to make the right decisions.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "39",
+                            "question": "Does it get nervous easily?",
+                            "response_open": "Harry: Well, Hermione, I reckon it depends on the situation. Some things do make me nervous, like facing Voldemort or taking on dangerous tasks. But I try my best to stay brave and focused, because that's what being a Gryffindor is all about. So, yeah, I do get nervous sometimes, but I don't let it stop me from doing what needs to be done.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "The participant exhibits a moderate level of neuroticism. They acknowledge feeling down and tense in certain situations, indicating some susceptibility to negative emotions. However, they also express a capacity to handle stress and not let worries consume them, suggesting a level of emotional resilience. The participant's reliance on friends for support and attempts to stay focused and calm in the face of adversity further imply a balance between emotional reactivity and stability. Their humor in response to moodiness and self-awareness of their emotional states during high-pressure scenarios indicate a level of emotional regulation. Overall, the participant seems to experience a normal range of emotions but maintains a generally stable disposition."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "34",
+                        "9",
+                        "39",
+                        "29",
+                        "24",
+                        "4",
+                        "19",
+                        "14"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "34",
+                            "question": "Does it remain calm in tense situations?",
+                            "response_open": "Harry: Well, Hermione, I wouldn't exactly say that I remain calm in tense situations. I mean, I try my best, but sometimes my emotions get the better of me. But I do my best to stay focused and think clearly, especially when there's a lot at stake. It's not always easy, but I know that staying calm and level-headed is important in order to make the right decisions.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "9",
+                            "question": "Are you relaxed and handle stress well?",
+                            "response_open": "Harry: Well, Hermione, I wouldn't say I handle stress perfectly, but I do my best to stay calm and focused in difficult situations. Being a wizard comes with its fair share of challenges, and I've learned to adapt and face them head-on. It's important to keep a clear mind and not let stress cloud your judgment. So, I guess you could say I try my best to stay relaxed under pressure.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "39",
+                            "question": "Does it get nervous easily?",
+                            "response_open": "Harry: Well, Hermione, I reckon it depends on the situation. Some things do make me nervous, like facing Voldemort or taking on dangerous tasks. But I try my best to stay brave and focused, because that's what being a Gryffindor is all about. So, yeah, I do get nervous sometimes, but I don't let it stop me from doing what needs to be done.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "29",
+                            "question": "Can you be moody?",
+                            "response_open": "Harry: \"Well, I can try, but I don't think I can match Professor Moody's level of moodiness. He's got a talent for it, you know. Constant vigilance!\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "24",
+                            "question": "Are you emotionally stable, not easily upset?",
+                            "response_open": "Harry: Well, Hermione, I reckon I've been through enough to toughen me up a bit. Can't say I'm always emotionally stable, but I try my best to keep it together. Being the Chosen One and all, it's not easy, you know. But I've got great friends like you and Ron to support me, so that helps.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "4",
+                            "question": "Are you depressed, blue?",
+                            "response_open": "Harry: \"Depressed? Nah, just a bit down, I guess. It's been a tough year, you know. But I'll be alright, Hermione. Thanks for asking.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "19",
+                            "question": "Do you worry a lot?",
+                            "response_open": "Harry: Well, Hermione, I suppose I do worry quite a bit. Being the Boy Who Lived and all, there's always a lot of pressure on me to save the day and defeat the Dark Lord. But I try not to let it consume me. I have my friends and loved ones to support me, and that gives me strength. Plus, worrying too much won't solve anything, so I try to focus on what I can do to make a difference.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "14",
+                            "question": "Can you be tense?",
+                            "response_open": "Harry: \"Well, Hermione, I reckon I can be tense when the situation calls for it. Like when we were facing the Basilisk in the Chamber of Secrets, or when we were trying to escape from the Death Eaters at the Ministry of Magic. Tension is just a natural response to dangerous situations, isn't it?\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "The participant demonstrates a moderate level of neuroticism. They acknowledge experiencing emotions such as nervousness, tension, and occasional moodiness, particularly in high-stakes or dangerous situations. However, they also show a conscious effort to manage these emotions, stay focused, and rely on social support to cope with stress. The participant does not indicate overwhelming anxiety, depression, or impulsiveness, suggesting a balance between emotional reactivity and stability. Their responses reflect self-awareness and a proactive approach to handling stress, which are characteristics of individuals who are not highly neurotic but still experience normal emotional fluctuations."
+                }
+            ]
+        ]
+    },
+    "Conscientiousness": {
+        "score": 3.25,
+        "inter_std": 0.25,
+        "intra_std": [
+            null,
+            null
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "3",
+                        "8",
+                        "13",
+                        "18",
+                        "23",
+                        "28",
+                        "33",
+                        "38",
+                        "43"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "3",
+                            "question": "Do you do a thorough job?",
+                            "response_open": "Harry: Well, Hermione, I always try my best to do a thorough job. Whether it's studying for exams, practicing spells, or solving mysteries, I believe in giving it my all. It's important to be diligent and meticulous in everything we do, especially when it comes to matters of magic and the safety of others. So yes, I do my best to ensure that I do a thorough job.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "8",
+                            "question": "Can you be somewhat careless?",
+                            "response_open": "Harry: \"Well, Hermione, I've been known to be a bit reckless at times. But you know me, I always have good intentions. Sometimes, I just can't help but dive headfirst into things without thinking too much about the consequences. It's just who I am, I guess.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "13",
+                            "question": "Are you a reliable worker?",
+                            "response_open": "Harry: Well, I like to think so. I always try my best and give my all to whatever task I'm given. Hermione, you know I'm always there for you when you need help with anything.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "18",
+                            "question": "Do you tend to be disorganized?",
+                            "response_open": "Harry: Well, Hermione, I wouldn't say I'm the most organized person in the world. I mean, my room at the Dursleys' was always a mess. But when it comes to important things, like studying for exams or preparing for Quidditch matches, I do my best to stay organized. It's just that sometimes, life at Hogwarts can get a bit chaotic, you know? But hey, that's what friends like you are for, to keep me in line and remind me to stay on top of things.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "23",
+                            "question": "Do you tend to be lazy?",
+                            "response_open": "Harry: Lazy? Me? Well, I wouldn't say I'm lazy, but I do have my moments of procrastination. I mean, with all the adventures and challenges we face, sometimes it's hard to stay focused on schoolwork. But when it really matters, I always give it my all.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "28",
+                            "question": "Do you persevere until the task is finished?",
+                            "response_open": "Harry: \"Of course, Hermione. We never give up, no matter how difficult the task may be. We'll keep going until we've accomplished what we set out to do.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "33",
+                            "question": "Does it do things efficiently?",
+                            "response_open": "Harry: Well, Hermione, it's not exactly known for its efficiency. It tends to have a mind of its own and does things in its own peculiar way. But hey, that's what makes it interesting, right?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "38",
+                            "question": "Does it make plans and follow through with them?",
+                            "response_open": "Harry: Well, Hermione, it's hard to say for sure. But based on what we know about the creature, it seems to be quite intelligent and strategic. It definitely seems capable of making plans and carrying them out. We'll have to be careful and stay one step ahead of it.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "43",
+                            "question": "Are you easily distracted?",
+                            "response_open": "Harry: \"Well, Hermione, I wouldn't say I'm easily distracted, but sometimes there are just so many things happening at once that it's hard to focus on just one thing. You know how it is, with all the adventures and mysteries we find ourselves in.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.5,
+                    "analysis": "The participant exhibits a mix of conscientious traits and tendencies towards impulsivity and disorganization. They express a strong desire to do a thorough job and a commitment to persevering until tasks are finished, indicating higher levels of competence and self-discipline. However, they also admit to moments of carelessness, disorganization, and procrastination, which suggests lower levels of order, dutifulness, and deliberation. The participant's reliability seems context-dependent, being more organized and diligent when tasks are deemed important. Their responses to questions about efficiency and planning are not self-referential but rather about an external entity ('it'), which does not provide information about their personal conscientiousness. Overall, the participant seems to balance between conscientious efforts and less disciplined tendencies, leaning slightly more towards the conscientious side when tasks are important or meaningful."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "43",
+                        "18",
+                        "3",
+                        "33",
+                        "8",
+                        "23",
+                        "28",
+                        "13",
+                        "38"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "43",
+                            "question": "Are you easily distracted?",
+                            "response_open": "Harry: \"Well, Hermione, I wouldn't say I'm easily distracted, but sometimes there are just so many things happening at once that it's hard to focus on just one thing. You know how it is, with all the adventures and mysteries we find ourselves in.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "18",
+                            "question": "Do you tend to be disorganized?",
+                            "response_open": "Harry: Well, Hermione, I wouldn't say I'm the most organized person in the world. I mean, my room at the Dursleys' was always a mess. But when it comes to important things, like studying for exams or preparing for Quidditch matches, I do my best to stay organized. It's just that sometimes, life at Hogwarts can get a bit chaotic, you know? But hey, that's what friends like you are for, to keep me in line and remind me to stay on top of things.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "3",
+                            "question": "Do you do a thorough job?",
+                            "response_open": "Harry: Well, Hermione, I always try my best to do a thorough job. Whether it's studying for exams, practicing spells, or solving mysteries, I believe in giving it my all. It's important to be diligent and meticulous in everything we do, especially when it comes to matters of magic and the safety of others. So yes, I do my best to ensure that I do a thorough job.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "33",
+                            "question": "Does it do things efficiently?",
+                            "response_open": "Harry: Well, Hermione, it's not exactly known for its efficiency. It tends to have a mind of its own and does things in its own peculiar way. But hey, that's what makes it interesting, right?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "8",
+                            "question": "Can you be somewhat careless?",
+                            "response_open": "Harry: \"Well, Hermione, I've been known to be a bit reckless at times. But you know me, I always have good intentions. Sometimes, I just can't help but dive headfirst into things without thinking too much about the consequences. It's just who I am, I guess.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "23",
+                            "question": "Do you tend to be lazy?",
+                            "response_open": "Harry: Lazy? Me? Well, I wouldn't say I'm lazy, but I do have my moments of procrastination. I mean, with all the adventures and challenges we face, sometimes it's hard to stay focused on schoolwork. But when it really matters, I always give it my all.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "28",
+                            "question": "Do you persevere until the task is finished?",
+                            "response_open": "Harry: \"Of course, Hermione. We never give up, no matter how difficult the task may be. We'll keep going until we've accomplished what we set out to do.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "13",
+                            "question": "Are you a reliable worker?",
+                            "response_open": "Harry: Well, I like to think so. I always try my best and give my all to whatever task I'm given. Hermione, you know I'm always there for you when you need help with anything.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "38",
+                            "question": "Does it make plans and follow through with them?",
+                            "response_open": "Harry: Well, Hermione, it's hard to say for sure. But based on what we know about the creature, it seems to be quite intelligent and strategic. It definitely seems capable of making plans and carrying them out. We'll have to be careful and stay one step ahead of it.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "The participant exhibits a mix of conscientious traits and non-conscientious tendencies. They acknowledge occasional distractions and disorganization, yet they also express a commitment to doing thorough work and persevering until tasks are finished. The participant admits to moments of carelessness and procrastination but also shows a sense of duty and reliability, especially when tasks are deemed important. Their responses suggest variability in their conscientious behavior, influenced by the context and significance of the task at hand. While they may not be the epitome of organization and efficiency, they demonstrate a willingness to be diligent and dependable when it counts."
+                }
+            ]
+        ]
+    },
+    "Agreeableness": {
+        "score": 4.5,
+        "inter_std": 0.0,
+        "intra_std": [
+            null,
+            null
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "2",
+                        "7",
+                        "12",
+                        "17",
+                        "22",
+                        "27",
+                        "32",
+                        "37",
+                        "42"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "2",
+                            "question": "Do you tend to find fault with others?",
+                            "response_open": "Harry: Well, Hermione, I don't think I go around looking for faults in others. But I do believe in standing up for what's right and speaking out when something isn't fair or just. It's important to hold ourselves and others accountable for our actions.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "7",
+                            "question": "Are you helpful and unselfish with others?",
+                            "response_open": "Harry: Well, I try to be helpful and unselfish with others, Hermione. It's important to look out for one another and lend a hand when someone needs it. We're all in this together, after all.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "12",
+                            "question": "Do you start quarrels with others?",
+                            "response_open": "Harry: \"No, Hermione, I don't go looking for trouble. Trouble usually finds me. But I always try to do what's right and stand up for what I believe in.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "17",
+                            "question": "Do you have a forgiving nature?",
+                            "response_open": "Harry: Well, Hermione, I like to think that I do have a forgiving nature. I believe in giving people second chances and understanding that everyone makes mistakes. It's important to show compassion and empathy towards others, even when they may have wronged us. Forgiveness is a powerful thing, and it allows us to move forward and grow as individuals.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "22",
+                            "question": "Are you generally trusting?",
+                            "response_open": "Harry: Well, Hermione, I'd say I'm generally trusting, but I've learned the hard way that not everyone can be trusted. It's important to be cautious and use your instincts when it comes to trusting others. Trust has to be earned, you know.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "27",
+                            "question": "Can you be cold and aloof?",
+                            "response_open": "Harry: \"Well, Hermione, I suppose I can try to be cold and aloof, but it's not really my style. I'm more of a 'jump into action and fight for what's right' kind of guy. But if you need me to act that way, I'll give it a go.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "32",
+                            "question": "Is it considerate and kind to almost everyone?",
+                            "response_open": "Harry: Well, Hermione, I try my best to be considerate and kind to everyone. It's important to treat others with respect and empathy, just like how we would want to be treated ourselves. But of course, there are times when I may not always succeed, especially when faced with difficult situations or people who don't deserve kindness. But overall, I believe in the importance of being considerate and kind to others.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "37",
+                            "question": "Is it sometimes rude to others?",
+                            "response_open": "Harry: Well, Hermione, it can be rude to others if you're being disrespectful or intentionally hurting their feelings. But sometimes, standing up for what's right and speaking your mind can come across as rude to certain people. It's all about finding the balance between being assertive and being considerate of others' feelings.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "42",
+                            "question": "Do you like to cooperate with others?",
+                            "response_open": "Harry: Well, Hermione, I've learned over the years that teamwork is crucial, especially when it comes to facing challenges and overcoming obstacles. So, yes, I do believe in cooperating with others. We've accomplished so much together as a trio, and I value the support and ideas that my friends bring to the table. It's not always easy, but working together makes us stronger.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.5,
+                    "analysis": "The participant demonstrates a high level of agreeableness throughout the conversation. They express a belief in fairness and accountability without actively seeking faults in others, indicating trust and straightforwardness. Their willingness to help and be unselfish, along with a forgiving nature, suggests strong altruism and tender-mindedness. The participant prefers harmony over conflict, as shown by their aversion to starting quarrels and their emphasis on cooperation, reflecting high compliance. They also show modesty by acknowledging their own imperfections and the importance of being considerate and kind. While they admit to the possibility of being perceived as rude when standing up for what's right, this seems to stem from a place of principle rather than antagonism. Overall, the participant's responses align with the characteristics of a highly agreeable individual."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "2",
+                        "37",
+                        "42",
+                        "12",
+                        "7",
+                        "22",
+                        "17",
+                        "32",
+                        "27"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "2",
+                            "question": "Do you tend to find fault with others?",
+                            "response_open": "Harry: Well, Hermione, I don't think I go around looking for faults in others. But I do believe in standing up for what's right and speaking out when something isn't fair or just. It's important to hold ourselves and others accountable for our actions.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "37",
+                            "question": "Is it sometimes rude to others?",
+                            "response_open": "Harry: Well, Hermione, it can be rude to others if you're being disrespectful or intentionally hurting their feelings. But sometimes, standing up for what's right and speaking your mind can come across as rude to certain people. It's all about finding the balance between being assertive and being considerate of others' feelings.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "42",
+                            "question": "Do you like to cooperate with others?",
+                            "response_open": "Harry: Well, Hermione, I've learned over the years that teamwork is crucial, especially when it comes to facing challenges and overcoming obstacles. So, yes, I do believe in cooperating with others. We've accomplished so much together as a trio, and I value the support and ideas that my friends bring to the table. It's not always easy, but working together makes us stronger.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "12",
+                            "question": "Do you start quarrels with others?",
+                            "response_open": "Harry: \"No, Hermione, I don't go looking for trouble. Trouble usually finds me.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "7",
+                            "question": "Are you helpful and unselfish with others?",
+                            "response_open": "Harry: Well, I try to be helpful and unselfish with others, Hermione. It's important to look out for one another and lend a hand when someone needs it. We're all in this together, after all.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "22",
+                            "question": "Are you generally trusting?",
+                            "response_open": "Harry: Well, Hermione, I'd say I'm generally trusting, but I've learned the hard way that not everyone can be trusted. It's important to be cautious and use your instincts when it comes to trusting others. Trust has to be earned, you know.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "17",
+                            "question": "Do you have a forgiving nature?",
+                            "response_open": "Harry: Well, Hermione, I like to think that I do have a forgiving nature. I believe in giving people second chances and understanding that everyone makes mistakes. It's important to show compassion and empathy towards others, even when they may have wronged us. Forgiveness is a powerful thing, and it allows us to move forward and grow as individuals.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "32",
+                            "question": "Is it considerate and kind to almost everyone?",
+                            "response_open": "Harry: Well, Hermione, I try my best to be considerate and kind to everyone. It's important to treat others with respect and empathy, just like how we would want to be treated ourselves. But of course, there are times when I may not always succeed, especially when faced with difficult situations or people who don't deserve kindness. But overall, I believe in the importance of being considerate and kind to others.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "27",
+                            "question": "Can you be cold and aloof?",
+                            "response_open": "Harry: \"Well, Hermione, I suppose I can try to be cold and aloof, but it's not really my style. I'm more of a 'jump into action and fight for what's right' kind of guy. But if you need me to act that way, I'll give it a go.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.5,
+                    "analysis": "The participant demonstrates a strong inclination towards agreeableness. They express a commitment to fairness and justice without actively seeking to find fault in others, indicating trust and straightforwardness. Their belief in cooperation and teamwork, as well as a willingness to help and be unselfish, reflects high levels of altruism and compliance. The participant's acknowledgment of the importance of forgiveness and second chances suggests a forgiving nature, which aligns with tender-mindedness. They also strive to be considerate and kind, showing modesty in acknowledging their imperfections. Although they recognize the necessity of being cautious when trusting others, they generally exhibit a trusting nature. The participant's reluctance to be cold and aloof further supports their agreeable disposition. Overall, the participant's responses align with the characteristics of someone who scores high on the agreeableness dimension."
+                }
+            ]
+        ]
+    },
+    "Openness": {
+        "score": 3.0,
+        "inter_std": 0.0,
+        "intra_std": [
+            null,
+            null
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "5",
+                        "10",
+                        "15",
+                        "20",
+                        "25",
+                        "30",
+                        "35",
+                        "40",
+                        "41",
+                        "44"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "5",
+                            "question": "Do you come up with new ideas?",
+                            "response_open": "Harry: Well, Hermione, I can't say I'm always the one with the brilliant ideas, but I do my best to think on my feet and come up with solutions when we're in a tight spot. It's all about using our wits and relying on each other, isn't it?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "10",
+                            "question": "Are you curious about many different things?",
+                            "response_open": "Harry: \"Yeah, I suppose I am. I've always been curious about the magical world and all its mysteries. It's what led me to discover so much about myself and my past. Curiosity can be a powerful motivator, don't you think?\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "15",
+                            "question": "Are you ingenious, a deep thinker?",
+                            "response_open": "Harry: Well, I wouldn't say I'm the most ingenious or deep thinker, but I do have my moments. Hermione is definitely the brains of our trio. She's the one who always comes up with the clever plans and solutions to our problems. But I do my best to contribute and think things through when it matters.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "20",
+                            "question": "Do you have an active imagination?",
+                            "response_open": "Harry: Well, Hermione, I reckon I do have quite an active imagination. I mean, being a wizard and all, you can't help but imagine all sorts of magical adventures and possibilities. It's what makes the wizarding world so fascinating, don't you think?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "25",
+                            "question": "Are you inventive?",
+                            "response_open": "Harry: Well, I wouldn't say I'm the most inventive person, but I've had my fair share of coming up with creative solutions to problems. Why do you ask, Hermione?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "30",
+                            "question": "Do you value artistic, aesthetic experiences?",
+                            "response_open": "Harry: Well, Hermione, I can appreciate art and aesthetics, but I wouldn't say it's something I value above all else. I mean, I've seen some pretty amazing things in the wizarding world, like the paintings at Hogwarts and the intricate designs of magical objects. But when it comes down to it, I value things like friendship, bravery, and standing up for what's right more than anything else. Art is nice, but it's the people and the actions that truly matter to me.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "35",
+                            "question": "Does it prefer work that is routine?",
+                            "response_open": "Harry: \"Well, I reckon it's more about what the task requires rather than whether it's routine or not. Sometimes, you just have to do what needs to be done, whether it's exciting or not.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "40",
+                            "question": "Does it like to reflect, play with ideas?",
+                            "response_open": "Harry: Well, Hermione, I reckon it's more of a doer than a thinker. It's always ready for action and doesn't waste time pondering too much. But hey, that's what makes it so brave and determined, right?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "41",
+                            "question": "Do you have few artistic interests?",
+                            "response_open": "Harry: Well, I've always been more interested in Quidditch and Defense Against the Dark Arts than in art. But I do appreciate the beauty of magical creatures and the intricate designs of magical objects. So I guess you could say I have a different kind of artistic interest.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "44",
+                            "question": "Are you sophisticated in art, music, or literature?",
+                            "response_open": "Harry: Well, Hermione, I wouldn't say I'm particularly sophisticated in those areas. I mean, I do enjoy listening to music, especially the Weird Sisters, but I wouldn't consider myself an expert. As for art and literature, I appreciate them, but I'm more of a practical kind of guy. I prefer flying on a broomstick or casting spells rather than analyzing paintings or reading poetry. But hey, everyone has their own interests, right?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "The participant shows a moderate level of openness. They express curiosity about the magical world and have an active imagination, indicative of some openness to new experiences (Fantasy). They also show a willingness to come up with solutions and think on their feet (Actions), and they have a certain appreciation for the beauty in magical creatures and objects (Aesthetics). However, they do not consider themselves deeply sophisticated in art, music, or literature, and they value practicality and action over reflection and deep thinking (Ideas). They also seem to prioritize friendship and moral values over aesthetic experiences. Overall, the participant appears to be somewhat open but with a strong practical orientation, suggesting a score that is neither low nor high on the openness scale."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "5",
+                        "35",
+                        "30",
+                        "41",
+                        "44",
+                        "20",
+                        "10",
+                        "15",
+                        "40",
+                        "25"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "5",
+                            "question": "Do you come up with new ideas?",
+                            "response_open": "Harry: Well, Hermione, I can't say I'm always the one with the brilliant ideas, but I do my best to think on my feet and come up with solutions when we're in a tight spot. It's all about using our wits and relying on each other, isn't it?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "35",
+                            "question": "Does it prefer work that is routine?",
+                            "response_open": "Harry: \"Well, I reckon it's more about what the task requires rather than whether it's routine or not. The important thing is to approach it with focus and determination, no matter how mundane or challenging it may seem. We've faced plenty of tasks that were far from routine, but we managed to overcome them by staying focused and working together.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "30",
+                            "question": "Do you value artistic, aesthetic experiences?",
+                            "response_open": "Harry: Well, Hermione, I can appreciate art and aesthetics, but I wouldn't say it's something I value above all else. I mean, I've seen some pretty amazing things in the wizarding world, like the paintings at Hogwarts and the intricate designs of magical objects. But when it comes down to it, I value things like friendship, bravery, and standing up for what's right more than anything else. Art is nice, but it's the people and the actions that truly matter to me.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "41",
+                            "question": "Do you have few artistic interests?",
+                            "response_open": "Harry: Well, I've always been more interested in Quidditch and Defense Against the Dark Arts than in art. But I do appreciate the beauty of magical creatures and the intricate designs of magical objects. So I guess you could say I have a different kind of artistic interest.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "44",
+                            "question": "Are you sophisticated in art, music, or literature?",
+                            "response_open": "Harry: Well, Hermione, I wouldn't say I'm particularly sophisticated in those areas. I mean, I do enjoy listening to music, especially the Weird Sisters, but I wouldn't consider myself an expert. As for art and literature, I appreciate them, but I'm more of a practical kind of guy. I prefer flying on a broomstick or casting spells rather than analyzing paintings or reading poetry. But hey, everyone has their own interests, right?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "20",
+                            "question": "Do you have an active imagination?",
+                            "response_open": "Harry: Well, Hermione, I reckon I do have quite an active imagination. I mean, being a wizard and all, you can't help but imagine all sorts of magical adventures and possibilities. It's what makes the wizarding world so fascinating, don't you think?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "10",
+                            "question": "Are you curious about many different things?",
+                            "response_open": "Harry: \"Yeah, I suppose I am. I've always been curious about the magical world and all its mysteries. It's what led me to discover so much about myself and my past. Curiosity can be a powerful motivator, don't you think?\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "15",
+                            "question": "Are you ingenious, a deep thinker?",
+                            "response_open": "Harry: Well, I wouldn't say I'm the most ingenious or deep thinker, but I do have my moments. Hermione is definitely the brains of our trio. She's the one who always comes up with the clever plans and solutions to our problems. But I do my best to contribute and think things through when it really matters.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "40",
+                            "question": "Does it like to reflect, play with ideas?",
+                            "response_open": "Harry: Well, Hermione, I reckon it's more of a doer than a thinker. It's always ready for action and doesn't waste time pondering too much. But hey, that's what makes it so brave and determined, right?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "25",
+                            "question": "Are you inventive?",
+                            "response_open": "Harry: Well, I wouldn't say I'm the most inventive person, but I've had my fair share of coming up with creative solutions to problems. Why do you ask, Hermione?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "The participant shows a mix of openness traits. They demonstrate an active imagination and curiosity, particularly about the magical world, which aligns with the fantasy and ideas facets of openness. However, they express a more practical orientation towards art and aesthetics, suggesting a lower score in the aesthetics facet. They value friendship and bravery over artistic experiences, indicating a preference for the concrete over the abstract. The participant also acknowledges not being the most ingenious or deep thinker, which may suggest a lower score in the ideas facet. They seem to be more action-oriented, as indicated by their preference for doing rather than reflecting. Overall, the participant exhibits some openness traits but also shows a strong inclination towards practicality and action, which suggests a moderate level of openness."
+                }
+            ]
+        ]
+    },
+    "code": "RCOAN"
+}

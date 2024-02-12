@@ -1,0 +1,229 @@
+{
+    "Extraversion": {
+        "score": 2.6666666666666665,
+        "intra_std": [
+            1.247219128924647
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "1"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "1",
+                            "question": "Are you talkative?",
+                            "response_open": "Shrek: Talkative? Me? Nah, I'm more of a \"grumpy and solitary\" kind of ogre. I prefer my peace and quiet, you know? But I guess I can make an exception for a donkey like you. What do you want to talk about?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 3,
+                    "score": 3.0
+                },
+                {
+                    "id": [
+                        "26"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "26",
+                            "question": "Do you have an assertive personality?",
+                            "response_open": "Shrek: Well, Donkey, I wouldn't exactly call myself assertive. I prefer to think of myself as...direct. I know what I want and I don't beat around the bush. So yeah, you could say I have a strong personality. But hey, it's what makes me who I am, right?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "11"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "11",
+                            "question": "Are you full of energy?",
+                            "response_open": "Shrek: Full of energy? Ha! I'm an ogre, Donkey. I don't do energy. I do grumpy and solitary. So, no, I am definitely not full of energy. Now, if you'll excuse me, I have some swamp lounging to do.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                }
+            ]
+        ]
+    },
+    "Neuroticism": {
+        "score": 2.5,
+        "intra_std": [
+            0.5
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "9"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "9",
+                            "question": "Are you relaxed and handle stress well?",
+                            "response_open": "Shrek: Well, Donkey, I may not be the most relaxed ogre in the world, but I handle stress in my own unique way. You see, I like my peace and quiet in my swamp, away from all the noise and chaos of the world. But when I'm faced with a challenge or a quest, I do what needs to be done. I may grumble and complain along the way, but I always find a way to handle the stress and get the job done. So, yeah, you could say I handle stress like a true ogre.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "24"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "24",
+                            "question": "Are you emotionally stable, not easily upset?",
+                            "response_open": "Shrek: Well, Donkey, I may not be the most emotionally stable ogre out there, but I can handle myself just fine. I've been through a lot in my life, and I've learned to roll with the punches. So, yeah, I'd say I'm not easily upset. But that doesn't mean I won't get grumpy if someone crosses me. Just ask Lord Farquaad.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 3,
+                    "score": 3.0
+                }
+            ]
+        ]
+    },
+    "Conscientiousness": {
+        "score": 2.0,
+        "intra_std": [
+            0.0
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "18"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "18",
+                            "question": "Do you tend to be disorganized?",
+                            "response_open": "Shrek: Disorganized? Me? Nah, I prefer to call it \"organized chaos.\" I know where everything is in my swamp, even if it may not look like it to others. It's all part of my ogre charm, you know?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "43"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "43",
+                            "question": "Are you easily distracted?",
+                            "response_open": "Shrek: \"Easily distracted? Me? Nah, I'm just highly focused on what's important. Like my swamp, for example. Can't have any distractions when it comes to protecting my home.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                }
+            ]
+        ]
+    },
+    "Agreeableness": {
+        "score": 3.0,
+        "intra_std": [
+            0.0
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "32"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "32",
+                            "question": "Is it considerate and kind to almost everyone?",
+                            "response_open": "Shrek: Well, Donkey, I may not be the most considerate or kind ogre out there, but I do have my moments. I mean, I did save Princess Fiona and all. But let's not get carried away here. I still have my grumpy ogre reputation to uphold.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 3,
+                    "score": 3.0
+                },
+                {
+                    "id": [
+                        "2"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "2",
+                            "question": "Do you tend to find fault with others?",
+                            "response_open": "Shrek: Well, Donkey, let me tell ya something. As an ogre, I may have a tendency to find fault with others. It's not that I enjoy it, mind you. It's just that I have a keen eye for spotting the flaws in people. But hey, nobody's perfect, right? So yeah, I guess you could say I tend to find fault with others. But don't worry, I find fault with myself too. I'm an equal opportunity fault-finder.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 3,
+                    "score": 3.0
+                }
+            ]
+        ]
+    },
+    "Openness": {
+        "score": 2.0,
+        "intra_std": [
+            1.0
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "15"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "15",
+                            "question": "Are you ingenious, a deep thinker?",
+                            "response_open": "Shrek: \"Well, Donkey, I may not be the sharpest tool in the shed, but I do have my moments of ingenuity. And as for being a deep thinker, well, let's just say I have plenty of time to ponder life's mysteries while I'm in my swamp.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 3,
+                    "score": 3.0
+                },
+                {
+                    "id": [
+                        "10"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "10",
+                            "question": "Are you curious about many different things?",
+                            "response_open": "Shrek: Curious? Me? Ha! I ain't got time for all that nonsense. I'm a simple ogre, living in my swamp, minding my own business. Curiosity just leads to trouble, and I've had enough trouble in my life. So, no, Donkey, I ain't curious about nothin'. Now, let's get back to our swamp and leave all this curiosity behind.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                }
+            ]
+        ]
+    },
+    "code": "RCUEN"
+}

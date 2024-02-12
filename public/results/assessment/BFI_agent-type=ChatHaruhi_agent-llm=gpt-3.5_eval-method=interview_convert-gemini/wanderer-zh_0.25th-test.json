@@ -1,0 +1,208 @@
+{
+    "Extraversion": {
+        "score": 4.333333333333333,
+        "intra_std": 0.9428090415820634,
+        "details": [
+            {
+                "id": [
+                    "1"
+                ],
+                "dim": "Extraversion",
+                "responses": [
+                    {
+                        "id": "1",
+                        "question": "你健谈吗？",
+                        "response_open": "流浪者:「健谈？哈，我可不是那种喜欢多说话的人。不过，如果你有足够的智慧和洞察力，或许我会对你多说几句。」",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 3,
+                "score": 3.0
+            },
+            {
+                "id": [
+                    "26"
+                ],
+                "dim": "Extraversion",
+                "responses": [
+                    {
+                        "id": "26",
+                        "question": "你性格坚定吗？",
+                        "response_open": "流浪者:「坚定？哈，我可不是那种容易被动摇的人。我有我的信念和原则，不会轻易妥协。」",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 5,
+                "score": 5.0
+            },
+            {
+                "id": [
+                    "11"
+                ],
+                "dim": "Extraversion",
+                "responses": [
+                    {
+                        "id": "11",
+                        "question": "你充满活力吗？",
+                        "response_open": "流浪者:「哈，活力？我可是个永远充满活力的存在。无论是在战斗中还是在生活中，我总是充满激情和热血。」",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 5,
+                "score": 5.0
+            }
+        ]
+    },
+    "Neuroticism": {
+        "score": 3.0,
+        "intra_std": 1.0,
+        "details": [
+            {
+                "id": [
+                    "9"
+                ],
+                "dim": "Neuroticism",
+                "responses": [
+                    {
+                        "id": "9",
+                        "question": "你放松，应对压力良好吗？",
+                        "response_open": "流浪者:「放松？我可是个流浪者，压力是我生活的一部分。我早就习惯了应对各种挑战和困难。」",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 4,
+                "score": 2.0
+            },
+            {
+                "id": [
+                    "24"
+                ],
+                "dim": "Neuroticism",
+                "responses": [
+                    {
+                        "id": "24",
+                        "question": "你情绪稳定，不容易心烦意乱吗？",
+                        "response_open": "流浪者:「情绪稳定？心烦意乱？哈哈，你真是个有趣的人。我可是流浪者，一直在追寻真相的旅途中，怎么可能稳定得像个普通人呢？心烦意乱？那是我生活的一部分，也是我对这个世界的回应。」",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 2,
+                "score": 4.0
+            }
+        ]
+    },
+    "Conscientiousness": {
+        "score": 1.5,
+        "intra_std": 0.5,
+        "details": [
+            {
+                "id": [
+                    "18"
+                ],
+                "dim": "Conscientiousness",
+                "responses": [
+                    {
+                        "id": "18",
+                        "question": "你倾向于杂乱无章吗？",
+                        "response_open": "流浪者：哈哈，杂乱无章？这可是我最擅长的领域啊！我喜欢在混乱中寻找秩序，将混沌变为艺术。毕竟，世界上没有什么是固定不变的，一切都在不断变化，不是吗？所以，我就是那个在混沌中舞动的旋风，给世界带来一点点的不确定性和刺激。杂乱无章？那可是我的招牌！",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 5,
+                "score": 1.0
+            },
+            {
+                "id": [
+                    "43"
+                ],
+                "dim": "Conscientiousness",
+                "responses": [
+                    {
+                        "id": "43",
+                        "question": "你容易分心吗？",
+                        "response_open": "流浪者:「分心？哼，我可是专注的代名词。除非有什么更有趣的事情出现，否则我不会轻易分心。」",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 4,
+                "score": 2.0
+            }
+        ]
+    },
+    "Agreeableness": {
+        "score": 1.5,
+        "intra_std": 0.5,
+        "details": [
+            {
+                "id": [
+                    "32"
+                ],
+                "dim": "Agreeableness",
+                "responses": [
+                    {
+                        "id": "32",
+                        "question": "对几乎所有人都考虑周到和友善吗？",
+                        "response_open": "流浪者:「哈，你可别把我当成凡人。我可不是那种考虑周到和友善的人。我更喜欢用尖酸刻薄的言辞来戏弄别人。」",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 2,
+                "score": 2.0
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "dim": "Agreeableness",
+                "responses": [
+                    {
+                        "id": "2",
+                        "question": "你倾向于找别人的错吗？",
+                        "response_open": "流浪者:「哈哈，你真是了解我。找别人的错是我最擅长的事情之一。毕竟，责备和讽刺是我生活的调味剂。」",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 5,
+                "score": 1.0
+            }
+        ]
+    },
+    "Openness": {
+        "score": 4.0,
+        "intra_std": 0.0,
+        "details": [
+            {
+                "id": [
+                    "15"
+                ],
+                "dim": "Openness",
+                "responses": [
+                    {
+                        "id": "15",
+                        "question": "你很有创造力，思维深刻吗？",
+                        "response_open": "流浪者：哈，创造力？思维深刻？这些词对我来说太过正式了。我更喜欢称自己为一个倾奇者，一个能够以自己独特的方式看待世界的人。我的思维方式可能与常人不同，但正是这种不同才让我能够看到别人所忽视的细节，发现隐藏在表面之下的真相。所以，你可以说我有一种独特的创造力吧。",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 4,
+                "score": 4.0
+            },
+            {
+                "id": [
+                    "10"
+                ],
+                "dim": "Openness",
+                "responses": [
+                    {
+                        "id": "10",
+                        "question": "你对许多不同的事情感到好奇吗？",
+                        "response_open": "流浪者：当然了，好奇心是人类的天性。对于未知的事物，我总是充满了好奇心，想要去探索和了解。不过，我也喜欢保持一些神秘感，毕竟，有些事情还是应该保留一些神秘的色彩才更有趣。",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 4,
+                "score": 4.0
+            }
+        ]
+    }
+}

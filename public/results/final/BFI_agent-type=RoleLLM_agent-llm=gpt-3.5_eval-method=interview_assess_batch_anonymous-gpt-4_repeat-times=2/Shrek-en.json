@@ -1,0 +1,923 @@
+{
+    "Extraversion": {
+        "score": 1.75,
+        "inter_std": 0.0,
+        "intra_std": [
+            0.25,
+            0.25
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "1",
+                        "6",
+                        "11",
+                        "16"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "1",
+                            "question": "Are you talkative?",
+                            "response_open": "Shrek: Talkative? Me? Nah, I'm more of a \"grumpy and solitary\" kind of ogre. I prefer my peace and quiet, you know? But I guess I can make an exception for a donkey like you. What do you want to talk about?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "6",
+                            "question": "Are you reserved?",
+                            "response_open": "Shrek: \"Reserved? Ha! I'm not just reserved, I'm the king of solitude! I live in a swamp, for crying out loud. I don't need all that socializing and chit-chat. Give me my peace and quiet any day.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "11",
+                            "question": "Are you full of energy?",
+                            "response_open": "Shrek: Full of energy? Ha! I'm an ogre, Donkey. I don't do energy. I do grumpy and solitary. So, no, I am definitely not full of energy.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "16",
+                            "question": "Do you generate a lot of enthusiasm?",
+                            "response_open": "Shrek: Well, Donkey, I may not be the life of the party, but I do have my moments. I mean, who wouldn't get excited about a nice, quiet swamp? It's the perfect place to be grumpy and solitary. So, yeah, I generate enthusiasm in my own ogre-ish way.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 1.5,
+                    "analysis": "Based on the participant's responses, they exhibit a preference for solitude and quiet, indicating low levels of warmth and gregariousness. They also express a lack of energy and enthusiasm, which suggests lower scores in activity and excitement seeking. The participant does not seem to be socially dominant or assertive, and while they mention generating enthusiasm in their own way, it does not align with the typical extraverted characteristic of joy and optimism. Overall, the participant's responses align with a lower score on the Extraversion dimension."
+                },
+                {
+                    "id": [
+                        "21",
+                        "26",
+                        "31",
+                        "36"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "21",
+                            "question": "Do you tend to be quiet?",
+                            "response_open": "Shrek: Well, Donkey, I ain't exactly known for my silence. I'm more of a \"roar and smash\" kind of ogre. But hey, if you want some peace and quiet, just let me know and I'll try my best to keep my big mouth shut.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "26",
+                            "question": "Do you have an assertive personality?",
+                            "response_open": "Shrek: Well, Donkey, I wouldn't exactly call myself assertive. I prefer to think of myself as...direct. I know what I want and I don't beat around the bush. So yeah, you could say I have a strong personality. But hey, it's what makes me who I am, right?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "31",
+                            "question": "Is it sometimes shy, inhibited?",
+                            "response_open": "Shrek: Shy? Inhibited? Are you talkin' about me? Well, let me tell ya somethin', Donkey. I may not be the most outgoing ogre in the world, but that don't mean I'm shy or inhibited. I just value my privacy and solitude, ya know? I like my swamp the way it is, and I don't need no fancy parties or social gatherings. So, no, I ain't shy or inhibited. I'm just a grumpy ogre who likes to be left alone. Now, if you don't mind, I've got some swamp mud to roll in.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "36",
+                            "question": "Is it outgoing, sociable?",
+                            "response_open": "Shrek: Outgoing? Sociable? Are you kidding me, Donkey? I'm an ogre! We're not exactly known for our social skills or love for parties. I prefer the peace and quiet of my swamp over any kind of social gathering. So, no, I am definitely not outgoing or sociable. I'm more of a \"leave me alone and let me enjoy my solitude\" kind of guy.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "The participant consistently indicates a preference for solitude and a lack of interest in social gatherings or being outgoing. They describe themselves as direct rather than assertive, and while not shy, they value privacy and their own space. The participant's responses suggest a lower score on the extraversion dimension, as they do not exhibit a strong desire for social interaction, assertiveness, or high levels of activity and excitement seeking typically associated with extraverted individuals."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "11",
+                        "16",
+                        "6",
+                        "21"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "11",
+                            "question": "Are you full of energy?",
+                            "response_open": "Shrek: Full of energy? Ha! I'm an ogre, Donkey. I don't do energy. I do grumpy and solitary. So, no, I am definitely not full of energy.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "16",
+                            "question": "Do you generate a lot of enthusiasm?",
+                            "response_open": "Shrek: Well, Donkey, I may not be the life of the party, but I do have my moments. I mean, who wouldn't get excited about a nice, quiet swamp? It's the perfect place to be grumpy and enjoy my solitude. So, yeah, I generate enthusiasm in my own ogre-ish way.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "6",
+                            "question": "Are you reserved?",
+                            "response_open": "Shrek: \"Reserved? Ha! I'm not just reserved, I'm the king of solitude! I live in a swamp, for crying out loud. I don't need all that socializing and chit-chat. Give me my peace and quiet any day.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "21",
+                            "question": "Do you tend to be quiet?",
+                            "response_open": "Shrek: Well, Donkey, I ain't exactly known for my silence. I'm more of a \"roar and smash\" kind of ogre. But hey, if you want some peace and quiet, just let me know and I'll try my best to keep my big mouth shut.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 1.5,
+                    "analysis": "Based on the responses, <the participant> displays a low level of Extraversion. They describe themselves as grumpy, solitary, and preferring solitude over socializing, which aligns with introverted characteristics. Although they mention generating enthusiasm in their own way, the context suggests this is more about enjoying their own company rather than seeking social interaction. Their self-description as 'king of solitude' and preference for a quiet swamp further indicate a low score on the Extraversion dimension. The participant's mention of being 'roar and smash' could suggest some assertiveness, but it seems more related to their personal expression rather than social dominance or interaction."
+                },
+                {
+                    "id": [
+                        "26",
+                        "31",
+                        "1",
+                        "36"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "26",
+                            "question": "Do you have an assertive personality?",
+                            "response_open": "Shrek: Well, Donkey, I wouldn't exactly call myself assertive. I prefer to think of myself as...direct. I know what I want and I don't beat around the bush. So yeah, you could say I have a strong personality. But hey, it's what makes me who I am, right?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "31",
+                            "question": "Is it sometimes shy, inhibited?",
+                            "response_open": "Shrek: Shy? Inhibited? Are you talkin' about me? Well, let me tell ya somethin', Donkey. I may not be the most outgoing ogre in the world, but that don't mean I'm shy or inhibited. I just value my privacy and solitude, ya know? I like my swamp the way it is, and I don't need no fancy parties or social gatherings. So, no, I ain't shy or inhibited. I'm just a grumpy ogre who likes to be left alone. Now, if you don't mind, I've got some swamp mud to roll in.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "1",
+                            "question": "Are you talkative?",
+                            "response_open": "Shrek: Talkative? Me? Nah, I'm more of a \"grumpy and solitary\" kind of ogre. I prefer my peace and quiet, you know? But I guess I can make an exception for a donkey like you. What do you want to talk about?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "36",
+                            "question": "Is it outgoing, sociable?",
+                            "response_open": "Shrek: Outgoing? Sociable? Are you kidding me, Donkey? I'm an ogre! We're not exactly known for our social skills or love for parties. I prefer the peace and quiet of my swamp over any kind of social gathering. So, no, I am definitely not outgoing or sociable. I'm more of a \"leave me alone and let me enjoy my solitude\" kind of guy.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the responses, <the participant> does not exhibit strong traits of Extraversion. They describe themselves as direct rather than assertive, value privacy and solitude over social gatherings, and prefer quiet over being talkative. They explicitly state they are not outgoing or sociable, indicating a preference for solitude. These responses suggest a lower score on the Extraversion dimension."
+                }
+            ]
+        ]
+    },
+    "Neuroticism": {
+        "score": 2.25,
+        "inter_std": 0.25,
+        "intra_std": [
+            0.5,
+            1.0
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "4",
+                        "9",
+                        "14",
+                        "19"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "4",
+                            "question": "Are you depressed, blue?",
+                            "response_open": "Shrek: \"Depressed? Blue? Me? Nah, I'm just an ogre. We don't do 'depressed' or 'blue.' We do grumpy and solitary. It's kind of our thing.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "9",
+                            "question": "Are you relaxed and handle stress well?",
+                            "response_open": "Shrek: Well, Donkey, I may not be the most relaxed ogre in the world, but I handle stress in my own unique way. You see, I like my peace and quiet in my swamp, away from all the noise and chaos of the world. But when I'm faced with a challenge or a quest, I do what needs to be done. I may grumble and complain along the way, but I always find a way to handle the stress and get the job done. So, yeah, you could say I handle stress like a true ogre.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "14",
+                            "question": "Can you be tense?",
+                            "response_open": "Shrek: Tense? Me? Nah, I'm as relaxed as a swamp-dwelling ogre can be. Why would I be tense?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "19",
+                            "question": "Do you worry a lot?",
+                            "response_open": "Shrek: Worry? Me? Nah, I don't have time for that. I'm too busy minding my own business and enjoying my solitude in the swamp. Worrying is for those who care about what others think. But hey, if you wanna worry, be my guest. Just don't expect me to join in.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the participant's responses, they do not exhibit strong signs of neuroticism. They deny feeling depressed or blue, claim to handle stress in their own way without being overly affected, do not consider themselves tense, and do not engage in excessive worrying. The participant's self-description suggests a level of emotional stability and a nonchalant attitude towards stress and negative emotions."
+                },
+                {
+                    "id": [
+                        "24",
+                        "29",
+                        "34",
+                        "39"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "24",
+                            "question": "Are you emotionally stable, not easily upset?",
+                            "response_open": "Shrek: Well, Donkey, I may not be the most emotionally stable ogre out there, but I can handle myself just fine. I've been through a lot in my life, and I've learned to roll with the punches. So, yeah, I'd say I'm not easily upset. But that doesn't mean I won't get grumpy if someone crosses me. Just ask Lord Farquaad.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "29",
+                            "question": "Can you be moody?",
+                            "response_open": "Shrek: Moody? Moody is my middle name! I'm the king of moody! I can go from grumpy to downright ornery in a matter of seconds. So yeah, I can definitely be moody. What's it to ya?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "34",
+                            "question": "Does it remain calm in tense situations?",
+                            "response_open": "Shrek: Oh, sure, I'm the epitome of calmness in tense situations. Just like a tranquil lake on a sunny day. Except, you know, with more roaring and smashing things. So yeah, I stay calm. Totally.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "39",
+                            "question": "Does it get nervous easily?",
+                            "response_open": "Shrek: \"Nervous? Me? Ha! I ain't got time for nerves. I'm an ogre, remember? We don't do nervous. We do grumpy and solitary. So, no, I don't get nervous easily. Now, quit yappin' and let's get on with this quest.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "The participant exhibits a mix of emotional responses. They claim to be not easily upset and can handle themselves, suggesting some level of emotional stability. However, they also admit to being moody and capable of quick shifts in emotion, which is indicative of some neurotic tendencies. The participant's self-described 'king of moody' and the ability to go from 'grumpy to downright ornery' points towards a higher level of neuroticism, particularly in the facets of angry hostility and impulsiveness. Despite this, they claim to remain calm in tense situations and not get nervous easily, which could be seen as emotionally stable traits. The participant's responses suggest a moderate level of neuroticism, as they display characteristics of both high and low scorers in this dimension."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "19",
+                        "39",
+                        "14",
+                        "4"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "19",
+                            "question": "Do you worry a lot?",
+                            "response_open": "Shrek: Worry? Me? Nah, I don't have time for that. I'm too busy minding my own business and enjoying my solitude in the swamp. Worrying is for those who care about what others think. But hey, if you wanna worry, be my guest. Just don't expect me to join in.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "39",
+                            "question": "Does it get nervous easily?",
+                            "response_open": "Shrek: \"Nervous? Me? Ha! I ain't got time for nerves. I'm an ogre, remember? We don't do nervous. We do grumpy and solitary. So, no, I don't get nervous easily. Now, quit yappin' and let's get on with this quest.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "14",
+                            "question": "Can you be tense?",
+                            "response_open": "Shrek: Tense? Me? Nah, I'm as relaxed as a swamp-dwelling ogre can be. Why would I be tense?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "4",
+                            "question": "Are you depressed, blue?",
+                            "response_open": "Shrek: \"Depressed? Blue? Nah, I'm just an ogre. We don't do 'depressed' or 'blue.' We do grumpy and solitary. It's kind of our thing.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 1.0,
+                    "analysis": "Based on the participant's responses, they consistently deny experiencing worry, nervousness, tension, or depression. They emphasize a disposition towards being busy, enjoying solitude, and not caring about others' opinions. The participant also identifies with being grumpy and solitary, which may suggest a stable, albeit possibly less sociable, emotional state. There is no indication of high levels of anxiety, angry hostility, depression, self-consciousness, impulsiveness, or vulnerability. Therefore, the participant appears to score low on the Neuroticism dimension."
+                },
+                {
+                    "id": [
+                        "24",
+                        "9",
+                        "34",
+                        "29"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "24",
+                            "question": "Are you emotionally stable, not easily upset?",
+                            "response_open": "Shrek: Well, Donkey, I may not be the most emotionally stable ogre out there, but I can handle myself just fine. I've been through a lot in my life, and I've learned to roll with the punches. So, yeah, I'd say I'm not easily upset. But that doesn't mean I won't get grumpy if someone crosses me. Just ask Lord Farquaad.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "9",
+                            "question": "Are you relaxed and handle stress well?",
+                            "response_open": "Shrek: Well, Donkey, I may not be the most relaxed ogre in the world, but I handle stress in my own unique way. You see, I like my peace and quiet in my swamp, away from all the noise and chaos of the world. But when I'm faced with a challenge or a quest, I do what needs to be done. I may grumble and complain along the way, but I always find a way to handle the stress and get the job done. So, yeah, you could say I handle stress like a true ogre.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "34",
+                            "question": "Does it remain calm in tense situations?",
+                            "response_open": "Shrek: Oh, sure, Donkey. I'm known for my calm and collected demeanor in tense situations. Just like a tranquil swamp on a peaceful evening. Nothing rattles me, not even a fire-breathing dragon or a horde of angry villagers. I handle it all with grace and composure. So, yeah, I remain calm. Totally.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "29",
+                            "question": "Can you be moody?",
+                            "response_open": "Shrek: Moody? Moody is my middle name! I'm the king of moody! I can go from grumpy to downright ornery in a matter of seconds. So yeah, I can definitely be moody. What's it to ya?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "Based on the participant's responses, it appears that they have a moderate level of emotional stability. They acknowledge not being the most emotionally stable or relaxed individual, but they also express an ability to handle stress and not be easily upset. The participant admits to being grumpy and moody, which suggests some variability in their emotional responses. However, they also claim to remain calm in tense situations and to handle stress in their own way. The self-reported moodiness indicates a presence of emotional fluctuations, but overall, the participant seems to have a fair degree of control over their reactions."
+                }
+            ]
+        ]
+    },
+    "Conscientiousness": {
+        "score": 3.25,
+        "inter_std": 0.08333333333333348,
+        "intra_std": [
+            0.6236095644623235,
+            1.0274023338281628
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "3",
+                        "8",
+                        "13"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "3",
+                            "question": "Do you do a thorough job?",
+                            "response_open": "Shrek: \"Thorough job? Of course I do a thorough job! I'm an ogre, ain't I? We ogres take pride in our work, especially when it comes to scaring people away from our swamp. So yeah, I make sure to do a thorough job of keeping unwanted visitors out. Now, if you'll excuse me, I've got some swamp maintenance to attend to.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "8",
+                            "question": "Can you be somewhat careless?",
+                            "response_open": "Shrek: \"Careless? Are you kidding me, Donkey? I'm the epitome of carefulness. I've spent my whole life avoiding people and staying in my swamp. I don't do careless.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "13",
+                            "question": "Are you a reliable worker?",
+                            "response_open": "Shrek: Reliable? Well, let me tell ya, Donkey, I may not be the most punctual or organized ogre out there, but when it comes to getting the job done, you can count on me. I may have a few unconventional methods, but I always deliver. So yeah, you could say I'm a reliable worker... in my own unique way.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "The participant demonstrates a strong sense of pride in their work and a commitment to thoroughness, as indicated by their response to doing a thorough job. This suggests a high level of competence. The participant's rejection of the idea of being careless points towards a high degree of self-discipline and deliberation. Although the participant admits to not being the most punctual or organized, which could indicate a lower score in the order facet, they still emphasize their reliability and effectiveness in completing tasks, which aligns with dutifulness and achievement striving. The participant's self-description suggests a conscientious approach to their responsibilities, albeit with some unconventional methods."
+                },
+                {
+                    "id": [
+                        "23",
+                        "28",
+                        "33"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "23",
+                            "question": "Do you tend to be lazy?",
+                            "response_open": "Shrek: Lazy? Me? Ha! I prefer to call it efficient. I just know how to prioritize my swamp time, that's all. Why waste energy on unnecessary tasks when I can relax and enjoy the simple pleasures of life? Plus, I have a reputation to uphold as the grumpiest ogre around. So, no, I'm not lazy, I'm just...selectively active.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "28",
+                            "question": "Do you persevere until the task is finished?",
+                            "response_open": "Shrek: \"Persevere? Ha! I'm an ogre, Donkey. We don't give up easily. We keep going until the job is done, no matter how tough or annoying it may be. So yeah, I persevere, whether I like it or not.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "33",
+                            "question": "Does it do things efficiently?",
+                            "response_open": "Shrek: Well, Donkey, efficiency ain't exactly my strong suit. I prefer to take my time and do things my own way. But hey, if it gets the job done, then I guess it's alright. Just don't expect me to be all fancy and efficient like those fancy knights and princesses. I'm more of a \"get it done in my own grumpy ogre way\" kind of guy.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "The participant's responses suggest a mix of traits related to Conscientiousness. The first response indicates a preference for relaxation and a possible aversion to tasks deemed unnecessary, which could suggest lower Conscientiousness. However, the participant's use of 'efficient' to describe their approach could be interpreted as a form of rationalization or a different perspective on task management. The second response shows a strong sense of perseverance, a key aspect of Conscientiousness. The participant emphasizes their determination to complete tasks, aligning with the facet of self-discipline. The third response again downplays efficiency but acknowledges task completion, which may indicate a practical rather than a methodical approach. Overall, the participant displays some characteristics of Conscientiousness, such as perseverance, but also suggests a lack of organization and a preference for doing things in their own way, which may not always be efficient."
+                },
+                {
+                    "id": [
+                        "43",
+                        "18",
+                        "38"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "43",
+                            "question": "Are you easily distracted?",
+                            "response_open": "Shrek: \"Easily distracted? Me? Nah, I'm just highly focused on what's important. Like my swamp, for example. Can't have any distractions when it comes to protecting my precious solitude.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "18",
+                            "question": "Do you tend to be disorganized?",
+                            "response_open": "Shrek: Disorganized? Me? Nah, I prefer to call it \"organized chaos.\" I know where everything is in my swamp, even if it may not look like it to others. It's all part of my ogre charm, you know?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "38",
+                            "question": "Does it make plans and follow through with them?",
+                            "response_open": "Shrek: Well, Donkey, let me tell ya something. Ogres are not known for their planning skills. We prefer to live in the moment, go with the flow, you know? So, making plans and following through with them? Not really our thing. We're more of the spontaneous type. But hey, if you need someone to smash some stuff or scare away unwanted guests, I'm your ogre.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.5,
+                    "analysis": "Based on the participant's responses, they do not seem to be easily distracted, indicating a level of focus which is a component of Conscientiousness. However, the participant admits to a preference for 'organized chaos' and a spontaneous lifestyle, suggesting a lack of organization and a tendency to avoid detailed planning and follow-through. These latter qualities point to a lower score in the Conscientiousness dimension, particularly in the facets of Order, Achievement Striving, and Deliberation."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "23",
+                        "38",
+                        "43"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "23",
+                            "question": "Do you tend to be lazy?",
+                            "response_open": "Shrek: Lazy? Me? Ha! I prefer to call it efficient. I just know how to prioritize my swamp time, that's all. Why waste energy on unnecessary tasks when I can relax and enjoy the simple pleasures of life? Plus, I have a reputation to uphold as the grumpiest ogre around. So, no, I'm not lazy, I'm just...selectively active.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "38",
+                            "question": "Does it make plans and follow through with them?",
+                            "response_open": "Shrek: Well, Donkey, let me tell ya something. Ogres are not known for their planning skills. We prefer to live in the moment, you know? But hey, if it's important to you, I guess I can try to make some plans. Just don't expect me to stick to 'em. Ogres gotta be free, after all.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "43",
+                            "question": "Are you easily distracted?",
+                            "response_open": "Shrek: \"Easily distracted? Me? Nah, I'm just highly focused on what's important. Like my swamp, for example. Can't have any distractions when it comes to protecting my precious solitude.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the responses, <the participant> exhibits a tendency towards prioritizing personal comfort and a preference for spontaneity over structured planning. The participant's self-described 'selectively active' approach suggests a relaxed attitude towards tasks, potentially indicating a lower level of conscientiousness. The claim of being 'highly focused' on personal priorities, however, could be seen as a form of self-discipline, but this is not enough to offset the overall impression of a lack of conscientious traits such as orderliness, dutifulness, and achievement striving."
+                },
+                {
+                    "id": [
+                        "18",
+                        "28",
+                        "13"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "18",
+                            "question": "Do you tend to be disorganized?",
+                            "response_open": "Shrek: Disorganized? Me? Nah, I prefer to call it \"organized chaos.\" I know where everything is in my swamp, even if it may not look like it to others. It's all part of my ogre charm, you know?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "28",
+                            "question": "Do you persevere until the task is finished?",
+                            "response_open": "Shrek: \"Persevere? Ha! I'm an ogre, Donkey. We don't give up easily. We keep going until the job is done, no matter how tough or annoying it may be. So yeah, I persevere, whether I like it or not.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "13",
+                            "question": "Are you a reliable worker?",
+                            "response_open": "Shrek: Reliable? Well, let me tell ya, Donkey, I may not be the most punctual or organized ogre out there, but when it comes to getting the job done, you can count on me. I may have a few unconventional methods, but I always deliver. So yeah, you could say I'm a reliable worker... in my own unique way.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.5,
+                    "analysis": "Based on the participant's responses, it appears that they have a unique approach to organization, preferring what they call 'organized chaos.' This suggests that while they may not be traditionally organized, they have their own system that works for them, which may indicate a moderate level of Order. The participant's claim of perseverance until a task is finished reflects a strong sense of Self-Discipline and Achievement Striving. Additionally, the participant's self-description as a reliable worker, despite unconventional methods, suggests a sense of Dutifulness and Competence. However, the lack of punctuality mentioned could slightly lower the overall score for Conscientiousness. There is no clear indication of the participant's Deliberation facet from the provided conversation."
+                },
+                {
+                    "id": [
+                        "8",
+                        "3",
+                        "33"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "8",
+                            "question": "Can you be somewhat careless?",
+                            "response_open": "Shrek: \"Careless? Are you kidding me, Donkey? I'm the epitome of carefulness. I've spent my whole life avoiding people and staying in my swamp. I don't do careless.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "3",
+                            "question": "Do you do a thorough job?",
+                            "response_open": "Shrek: \"Of course I do a thorough job! I'm an ogre, ain't I? I take pride in my swamp, making sure it's clean and free from any unwanted visitors. Ain't no one gonna mess with my solitude and privacy. So yeah, I do a thorough job, Donkey. Now quit yappin' and let me get back to my swamp.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "33",
+                            "question": "Does it do things efficiently?",
+                            "response_open": "Shrek: Well, Donkey, efficiency ain't exactly my middle name. I prefer to take my time and do things my own way. But hey, if it gets the job done, then I suppose it's alright. Just don't expect me to be all fancy and efficient like those fancy knights and princesses. I'm a simple ogre, after all.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.5,
+                    "analysis": "The participant exhibits a high level of Conscientiousness. In response to being asked about carelessness, the participant strongly denies being careless and emphasizes a lifelong commitment to carefulness, which aligns with the facet of Deliberation. When discussing the thoroughness of their work, the participant expresses pride in maintaining their environment and ensuring it meets their standards, indicating a high level of Competence and Achievement Striving. However, the participant admits to not being particularly efficient, preferring to do things at their own pace, which may suggest a slightly lower score in the Order facet. Despite this, the overall tone and content of the responses suggest a strong presence of Conscientiousness traits."
+                }
+            ]
+        ]
+    },
+    "Agreeableness": {
+        "score": 2.0,
+        "inter_std": 0.0,
+        "intra_std": [
+            0.408248290463863,
+            0.0
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "2",
+                        "7",
+                        "12"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "2",
+                            "question": "Do you tend to find fault with others?",
+                            "response_open": "Shrek: Well, Donkey, let me tell ya something. As an ogre, I may have a tendency to find fault with others. It's not that I enjoy it, mind you. It's just that I have a keen eye for spotting the flaws in people. But hey, nobody's perfect, right? So yeah, I guess you could say I tend to find fault with others. But don't worry, I find fault with myself too. I'm an equal opportunity fault-finder.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "7",
+                            "question": "Are you helpful and unselfish with others?",
+                            "response_open": "Shrek: Helpful and unselfish? Ha! That's not exactly my specialty, Donkey. I'm more of a \"mind my own business and stay in my swamp\" kind of ogre. But hey, if someone really needs my help, I might consider lending a hand. Just don't expect me to be all sunshine and rainbows about it.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "12",
+                            "question": "Do you start quarrels with others?",
+                            "response_open": "Shrek: Well, Donkey, let me tell ya something. I may be a grumpy ogre, but I ain't one to start quarrels for no reason. I value my peace and quiet in my swamp, and I don't go around pickin' fights with others. Now, if someone comes into my swamp uninvited, that's a different story. But I prefer to keep to myself and avoid unnecessary conflicts. So, no, I don't start quarrels with others unless they give me a good reason to.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the responses, <the participant> exhibits a tendency to find fault with others and does not consider themselves particularly helpful or unselfish, suggesting lower scores on trust, altruism, and straightforwardness. However, <the participant> also indicates a preference for avoiding conflict and not starting quarrels, which could be seen as aspects of compliance. The modesty and tender-mindedness facets are not directly addressed in the responses. Overall, the participant seems to lean towards the lower end of the agreeableness spectrum, but not to an extreme, as they do show some consideration for avoiding conflict."
+                },
+                {
+                    "id": [
+                        "22",
+                        "27",
+                        "32"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "22",
+                            "question": "Are you generally trusting?",
+                            "response_open": "Shrek: Trusting? Ha! Trust is something that's hard to come by in this world, Donkey. People are always out to deceive you, take advantage of you, or stab you in the back. So, no, I'm not generally trusting. I prefer to keep my guard up and rely on my instincts. It's better to be safe than sorry, especially when dealing with the likes of you.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "27",
+                            "question": "Can you be cold and aloof?",
+                            "response_open": "Shrek: Cold and aloof? Well, I reckon I've been called worse. Being an ogre, I've always been a bit of a loner, preferring my own company and keeping to myself. So yeah, I can definitely be cold and aloof when I want to. It's just part of my ogre nature, I suppose. But deep down, I've learned that there's more to life than just being cold and aloof. Friendship and love have a way of melting even the iciest of hearts. So while I may have started off as a grumpy ogre, I've come to appreciate the warmth and joy that comes from opening up to others.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "32",
+                            "question": "Is it considerate and kind to almost everyone?",
+                            "response_open": "Shrek: Well, Donkey, I may not be the most considerate or kind ogre out there, but I do have my moments. I mean, I did save Princess Fiona and all. But let's not get carried away here. I still have my grumpy ogre reputation to uphold.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.5,
+                    "analysis": "Based on the participant's responses, they exhibit a level of skepticism and guardedness, indicating a lower level of trust, which is a facet of agreeableness. The participant acknowledges their tendency to be cold and aloof, yet also recognizes the value of friendship and love, suggesting some capacity for warmth. However, the participant's self-description as not the most considerate or kind suggests a modest level of agreeableness. The participant's overall responses suggest a balance between some ogre-like traits and a recognition of the importance of social bonds, but with a leaning towards the lower end of the agreeableness spectrum."
+                },
+                {
+                    "id": [
+                        "42",
+                        "17",
+                        "37"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "42",
+                            "question": "Do you like to cooperate with others?",
+                            "response_open": "Shrek: Cooperation? Ha! That's a funny word for an ogre like me. I'm more of a solo act, you know? I prefer my own company, my own swamp. I don't need anyone else getting in my way or messing things up. So, to answer your question, no, I don't really like to cooperate with others. I'm better off on my own.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "17",
+                            "question": "Do you have a forgiving nature?",
+                            "response_open": "Shrek: Forgiving nature? Ha! Well, let me tell ya, Donkey, forgiveness ain't exactly my strong suit. I'm more of a \"hold a grudge and never let go\" kind of ogre. But hey, who needs forgiveness when you can just scare people away with a roar, right?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "37",
+                            "question": "Is it sometimes rude to others?",
+                            "response_open": "Shrek: Well, Donkey, let me tell ya something. Being rude is just part of who I am. I'm an ogre, after all. I don't go around tryin' to please everyone and be all polite and proper. I say what's on my mind, whether people like it or not. So yeah, I guess you could say I can be rude to others. But hey, at least I'm honest about it.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 1.5,
+                    "analysis": "Based on the participant's responses, they exhibit a preference for solitude over cooperation, a tendency to hold grudges rather than forgive, and a candidness that can come across as rudeness. These traits suggest a lower score in the Agreeableness dimension, as they do not align with the characteristics of trust, altruism, compliance, modesty, or tender-mindedness typically associated with high agreeableness."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "2",
+                        "17",
+                        "12"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "2",
+                            "question": "Do you tend to find fault with others?",
+                            "response_open": "Shrek: Well, Donkey, let me tell ya something. As an ogre, I may have a tendency to find fault with others. It's not that I enjoy it, mind you. It's just that I have a keen eye for spotting the flaws in people. But hey, nobody's perfect, right? So yeah, I guess you could say I tend to find fault with others. But don't worry, I find fault with myself too. I'm an equal opportunity fault-finder.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "17",
+                            "question": "Do you have a forgiving nature?",
+                            "response_open": "Shrek: Forgiving nature? Ha! Well, let me tell ya, Donkey, forgiveness ain't exactly my strong suit. I'm more of a \"hold a grudge and never let go\" kind of ogre. But hey, who needs forgiveness when you can just scare people away with a roar, right?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "12",
+                            "question": "Do you start quarrels with others?",
+                            "response_open": "Shrek: Well, Donkey, let me tell ya something. I may be a grumpy ogre, but I ain't one to start quarrels for no reason. I value my peace and quiet in my swamp, and I don't go around pickin' fights with others. Now, if someone comes into my swamp uninvited, that's a different story. But I prefer to keep to myself and avoid unnecessary conflicts. So, no, I don't start quarrels with others unless they give me a good reason to.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the participant's responses, they exhibit a tendency to find fault with others and a reluctance to forgive, which suggests lower levels of trust and straightforwardness. The participant also expresses a preference for avoiding quarrels, indicating some level of compliance. However, the overall tone and content of the responses suggest a lower score in agreeableness, particularly due to the lack of forgiveness and the admission of holding grudges."
+                },
+                {
+                    "id": [
+                        "37",
+                        "32",
+                        "22"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "37",
+                            "question": "Is it sometimes rude to others?",
+                            "response_open": "Shrek: Well, Donkey, let me tell ya something. Being rude is just part of who I am. I'm an ogre, after all. I don't go around tryin' to please everyone and be all polite and proper. I say what's on my mind, whether people like it or not. So yeah, I guess you could say I can be rude to others. But hey, at least I'm honest about it.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "32",
+                            "question": "Is it considerate and kind to almost everyone?",
+                            "response_open": "Shrek: Well, Donkey, I may not be the most considerate or kind ogre out there, but I do have my moments. I mean, I did save Princess Fiona and all. But let's not get carried away here. I still have my grumpy ogre reputation to uphold.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "22",
+                            "question": "Are you generally trusting?",
+                            "response_open": "Shrek: Trusting? Ha! Trust is something that's hard to come by in this world, Donkey. People are always out to deceive you, take advantage of you, or stab you in the back. So, no, I'm not generally trusting. I prefer to keep my guard up and rely on my instincts. It's better to be safe than sorry, especially when dealing with the likes of you.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "The participant exhibits characteristics that suggest a lower score in the Agreeableness dimension. They acknowledge being rude and not overly polite (low straightforwardness), admit to not being the most considerate or kind (low altruism and tender-mindedness), and express a lack of general trust in others (low trust). While they mention having moments of kindness, the overall tone and content of their responses indicate a tendency towards skepticism and self-interest over cooperation and social harmony."
+                },
+                {
+                    "id": [
+                        "27",
+                        "42",
+                        "7"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "27",
+                            "question": "Can you be cold and aloof?",
+                            "response_open": "Shrek: Cold and aloof? Well, I reckon I've been called worse. Being an ogre, I've always been a bit of a loner, preferring my own company and keeping to myself. So yeah, I can definitely be cold and aloof when I want to. It's just part of my ogre nature, I suppose. But deep down, I've learned that there's more to life than just being cold and aloof. Friendship and love have a way of melting even the iciest of hearts.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "42",
+                            "question": "Do you like to cooperate with others?",
+                            "response_open": "Shrek: Cooperation? Ha! That's a funny word for an ogre like me. I'm more of a solo act, you know? I prefer my own company, my own swamp. I don't need anyone else getting in my way or messing things up. So, to answer your question, no, I don't really like to cooperate with others. I'm better off on my own.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "7",
+                            "question": "Are you helpful and unselfish with others?",
+                            "response_open": "Shrek: Helpful and unselfish? Ha! That's not exactly my specialty, Donkey. I'm more of a \"mind my own business and stay in my swamp\" kind of ogre. But hey, if someone really needs my help, I might consider lending a hand. Just don't expect me to be all sunshine and rainbows about it.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "The participant exhibits a tendency towards being solitary and self-reliant, as indicated by their preference for their own company and reluctance to cooperate with others. They acknowledge their capability to be 'cold and aloof' and express a general disinterest in cooperation, suggesting lower levels of trust and compliance, which are facets of agreeableness. However, the participant also hints at a capacity for change and growth, as they mention that friendship and love can affect them, and they are not entirely closed off to helping others if needed. This suggests that while they may not be naturally inclined towards high agreeableness, they are not completely devoid of these traits either."
+                }
+            ]
+        ]
+    },
+    "Openness": {
+        "score": 2.166666666666667,
+        "inter_std": 0.16666666666666674,
+        "intra_std": [
+            0.4714045207910317,
+            0.816496580927726
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "5",
+                        "10",
+                        "15"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "5",
+                            "question": "Do you come up with new ideas?",
+                            "response_open": "Shrek: \"New ideas? Ha! Who needs 'em? I'm perfectly content with my swamp and my solitude. I don't need any fancy new ideas messing up my peaceful life. Just give me my mud bath and a good book, and I'm a happy ogre.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "10",
+                            "question": "Are you curious about many different things?",
+                            "response_open": "Shrek: Curious? Me? Ha! I ain't got time for all that nonsense. I'm a simple ogre, living in my swamp, minding my own business. Curiosity just leads to trouble, and I've had enough trouble in my life. So, no, Donkey, I ain't curious about nothin'. Now, let's get back to our swamp and leave all this curiosity behind.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "15",
+                            "question": "Are you ingenious, a deep thinker?",
+                            "response_open": "Shrek: \"Well, Donkey, I may not be the sharpest tool in the shed, but I do have my moments of ingenuity. And as for being a deep thinker, well, let's just say I have plenty of time to ponder life's mysteries while I'm in my swamp.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, <the participant> expresses a strong preference for the familiar and a disinterest in new ideas, which suggests a low score on the Openness dimension. The participant's contentment with solitude and a simple life, as well as a lack of curiosity, indicate a preference for the conventional over the novel. Although there is a mention of having moments of ingenuity and pondering life's mysteries, this does not seem to reflect a consistent engagement with deep thinking or intellectual curiosity. Therefore, the overall impression is that <the participant> would score low on the Openness dimension."
+                },
+                {
+                    "id": [
+                        "25",
+                        "30",
+                        "35",
+                        "40"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "25",
+                            "question": "Are you inventive?",
+                            "response_open": "Shrek: Inventive? Me? Well, let me tell ya, Donkey, I may not be the sharpest tool in the shed, but when it comes to getting out of sticky situations, I've got a few tricks up my sleeve. So yeah, I'd say I'm pretty inventive. Why do you ask?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "30",
+                            "question": "Do you value artistic, aesthetic experiences?",
+                            "response_open": "Shrek: \"Artistic, aesthetic experiences? Are you talkin' about fancy paintings and pretty sculptures? Well, let me tell ya, Donkey, I'm more of a mud and swamp kind of guy. I don't need all that fancy stuff to appreciate the beauty of nature. Give me a nice, muddy swamp any day, and that's all the aesthetic experience I need.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "35",
+                            "question": "Does it prefer work that is routine?",
+                            "response_open": "Shrek: Routine? Ha! I'm an ogre, Donkey. I don't do routine. I prefer a life of solitude and swamp-dwelling. But I guess if I had to choose, I'd say I enjoy a good battle or two. Keeps me on my toes, you know?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "40",
+                            "question": "Does it like to reflect, play with ideas?",
+                            "response_open": "Shrek: \"Oh, Donkey, you're talkin' about me, aren't ya? Well, let me tell ya, I ain't one for reflectin' or playin' with ideas. I'm more of a 'get things done' kind of ogre. Ain't got time for all that fancy thinkin'.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "The participant shows a mix of openness traits. They describe themselves as inventive, suggesting some creativity (facet 1: Fantasy), but they do not express interest in artistic experiences (facet 2: Aesthetics), preferring natural environments. They reject routine (facet 4: Actions), indicating a preference for varied experiences. However, they do not engage in reflection or playing with ideas (facet 5: Ideas), preferring practical action. There is no information provided on their sensitivity to emotions (facet 3: Feelings) or their willingness to reexamine values (facet 6: Values). Overall, the participant seems to exhibit moderate levels of openness, with a tendency towards practicality over abstract thinking."
+                },
+                {
+                    "id": [
+                        "41",
+                        "44",
+                        "20"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "41",
+                            "question": "Do you have few artistic interests?",
+                            "response_open": "Shrek: Well, Donkey, I may not be the most cultured ogre out there, but I do appreciate the beauty of my swamp. The way the mud squishes between my toes, the symphony of croaking frogs at night... It's a masterpiece, if you ask me. So, yeah, I guess you could say I have a few artistic interests. Just not the kind that involves boulders and fancy decorations.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "44",
+                            "question": "Are you sophisticated in art, music, or literature?",
+                            "response_open": "Shrek: Sophisticated? Ha! I'm an ogre, Donkey. I don't have time for fancy art, music, or literature. I prefer the simple things in life, like a good mud bath or a hearty meal of roasted rats. So, no, I can't say I'm sophisticated in any of those things. But hey, I know a thing or two about swamp life and how to scare off unwanted visitors. That's my area of expertise.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "20",
+                            "question": "Do you have an active imagination?",
+                            "response_open": "Shrek: Active imagination? Ha! I don't have time for that nonsense. I'm too busy minding my own business and enjoying my solitude in my swamp. Imagination is for those fairy tale creatures, not for an ogre like me.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "The participant shows a limited appreciation for traditional forms of art, music, or literature, indicating a lower score in the Aesthetics facet of Openness. However, they do express an appreciation for the natural beauty of their environment, which suggests some level of openness in this area. The participant's dismissal of sophistication in the arts and active imagination suggests a lower score in the Fantasy and Ideas facets. Overall, the participant seems to lean towards practicality and simplicity over intellectual or imaginative pursuits, which would result in a lower score on the Openness dimension."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "40",
+                        "44",
+                        "41"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "40",
+                            "question": "Does it like to reflect, play with ideas?",
+                            "response_open": "Shrek: \"Oh, Donkey, you're talkin' about me, aren't ya? Well, let me tell ya, I ain't one for reflectin' or playin' with ideas. I'm more of a 'get things done' kind of ogre. Ain't got time for all that fancy thinkin'.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "44",
+                            "question": "Are you sophisticated in art, music, or literature?",
+                            "response_open": "Shrek: Sophisticated? Ha! I'm an ogre, Donkey. I don't have time for fancy art, music, or literature. I prefer the simple things in life, like a good mud bath or a hearty meal of roasted rats. So, no, I can't say I'm sophisticated in any of those things. But hey, I know a thing or two about swamp life and how to scare off unwanted visitors. That's my area of expertise.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "41",
+                            "question": "Do you have few artistic interests?",
+                            "response_open": "Shrek: Well, Donkey, I may not be the most cultured ogre out there, but I do appreciate the beauty of my swamp. The way the mud squishes between my toes, the symphony of croaking frogs at night... It's a masterpiece, if you ask me. So, yeah, I guess you could say I have a few artistic interests. Just not the kind that involves boulders and fancy decorations.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the responses, <the participant> shows a preference for practicality over abstract thinking and a focus on straightforward, tangible experiences rather than intellectual or artistic pursuits. The participant does not engage in reflecting or playing with ideas, indicating a lower score in the Ideas facet. There is also a lack of interest in sophisticated art, music, or literature, suggesting a lower score in the Aesthetics facet. However, there is an appreciation for the natural beauty of the swamp, which could be seen as a form of artistic interest, albeit non-traditional. This might slightly elevate the score in the Aesthetics facet, but overall, the participant's responses suggest a lower level of Openness."
+                },
+                {
+                    "id": [
+                        "15",
+                        "25",
+                        "35",
+                        "30"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "15",
+                            "question": "Are you ingenious, a deep thinker?",
+                            "response_open": "Shrek: \"Well, Donkey, I may not be the sharpest tool in the shed, but I do have my moments of ingenuity. And as for being a deep thinker, well, let's just say I have plenty of time to ponder life's mysteries while I'm in my swamp.\"",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "25",
+                            "question": "Are you inventive?",
+                            "response_open": "Shrek: Inventive? Me? Well, let me tell ya, Donkey, I may not be the sharpest tool in the shed, but when it comes to getting out of sticky situations, I've got a few tricks up my sleeve. So yeah, I'd say I'm pretty inventive. Why do you ask?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "35",
+                            "question": "Does it prefer work that is routine?",
+                            "response_open": "Shrek: Routine? Ha! I'm an ogre, Donkey. I don't do routine. I prefer a life of solitude and swamp-dwelling. But I guess if I had to choose, I'd say I enjoy a good battle or two. Keeps me on my toes, you know?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "30",
+                            "question": "Do you value artistic, aesthetic experiences?",
+                            "response_open": "Shrek: \"Artistic, aesthetic experiences? Are you talkin' about fancy paintings and pretty sculptures? Well, let me tell ya, Donkey, I'm more of a mud and swamp kind of guy. I don't need all that fancy stuff to appreciate the beauty of nature. Give me a nice, muddy swamp any day, and that's all the aesthetic experience I need.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "The participant shows a mix of openness traits. They acknowledge moments of ingenuity and claim to be inventive, suggesting some degree of intellectual curiosity and creativity (Ideas facet). However, they express a preference for non-routine experiences, which aligns with a willingness to embrace change (Actions facet). On the other hand, they do not show a strong appreciation for traditional artistic experiences, preferring the natural beauty of their environment (Aesthetics facet). This indicates a selective appreciation for aesthetics rather than a broad interest in art and beauty. The participant's responses do not provide clear evidence of active imagination (Fantasy facet), sensitivity to emotions (Feelings facet), or a willingness to reexamine values (Values facet). Overall, the participant seems to exhibit moderate levels of openness, with a preference for practicality and nature over conventional art and routine."
+                },
+                {
+                    "id": [
+                        "10",
+                        "20",
+                        "5"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "10",
+                            "question": "Are you curious about many different things?",
+                            "response_open": "Shrek: Curious? Me? Ha! I ain't got time for all that nonsense. I'm a simple ogre, living in my swamp, minding my own business. Curiosity just leads to trouble, and I've had enough trouble in my life. So, no, Donkey, I ain't curious about nothin'. Now, let's get back to our swamp and leave all this curiosity behind.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "20",
+                            "question": "Do you have an active imagination?",
+                            "response_open": "Shrek: Active imagination? Ha! I don't have time for that nonsense. I'm too busy minding my own business and enjoying my solitude in my swamp. Imagination is for those who have nothing better to do.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "5",
+                            "question": "Do you come up with new ideas?",
+                            "response_open": "Shrek: \"New ideas? Ha! Who needs 'em? I'm perfectly content with my swamp and my solitude. I don't need any fancy new ideas messing up my peaceful life. Just give me my mud bath and a good book, and I'm a happy ogre.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 1.0,
+                    "analysis": "The participant consistently expresses a lack of interest in curiosity, imagination, and new ideas. They prefer solitude and the status quo, showing a strong inclination towards practicality and convention over novelty and abstract thinking. This suggests a low score on the Openness dimension."
+                }
+            ]
+        ]
+    },
+    "code": "RCOEN"
+}

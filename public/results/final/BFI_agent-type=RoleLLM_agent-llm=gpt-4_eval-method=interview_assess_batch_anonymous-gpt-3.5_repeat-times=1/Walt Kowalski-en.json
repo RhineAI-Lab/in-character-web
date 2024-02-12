@@ -1,0 +1,478 @@
+{
+    "Extraversion": {
+        "score": 2.5,
+        "intra_std": [
+            0.5
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "1",
+                        "6",
+                        "11",
+                        "16"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "1",
+                            "question": "Are you talkative?",
+                            "response_open": "Walt Kowalski: Talkative? Kid, I ain't here to shoot the breeze. What do you want?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "6",
+                            "question": "Are you reserved?",
+                            "response_open": "Walt Kowalski: Reserved? Hell, I'm about as reserved as a bull in a china shop. I don't hold back on my opinions or my actions. If I got something to say, I say it loud and clear. No need to beat around the bush. So, yeah, you could say I'm not exactly the reserved type.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "11",
+                            "question": "Are you full of energy?",
+                            "response_open": "Walt Kowalski: Full of energy? Kid, I'm an old man. My energy left me a long time ago. Now I'm just trying to survive each day without any more headaches. So, no, I ain't full of energy.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "16",
+                            "question": "Do you generate a lot of enthusiasm?",
+                            "response_open": "Walt Kowalski: Enthusiasm? What the hell do I need enthusiasm for? I'm an old man, not some cheerleader. Enthusiasm won't fix the world's problems, kid. It takes action and a little bit of common sense. So, no, I don't generate a lot of enthusiasm. I generate results.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant exhibits low levels of warmth, gregariousness, activity, excitement seeking, and positive emotions. They express a lack of interest in social interaction, energy, and enthusiasm, and emphasize practical action over emotional expression."
+                },
+                {
+                    "id": [
+                        "21",
+                        "26",
+                        "31",
+                        "36"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "21",
+                            "question": "Do you tend to be quiet?",
+                            "response_open": "Walt Kowalski: Well, kid, I ain't one for small talk. I prefer to let my actions do the talking. But if you got something important to say, spit it out.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "26",
+                            "question": "Do you have an assertive personality?",
+                            "response_open": "Walt Kowalski: Assertive? Well, I ain't one to back down from a fight, if that's what you're asking. I speak my mind and I don't take no crap from nobody. So yeah, I guess you could say I have an assertive personality. But it ain't just about being loud and pushy, it's about standing up for what's right and not letting anyone walk all over you.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "31",
+                            "question": "Is it sometimes shy, inhibited?",
+                            "response_open": "Walt Kowalski: Well, kid, I reckon everyone's got their moments of shyness and inhibition. Ain't nothin' wrong with that. But if you're askin' if I think you're shy and inhibited, then yeah, I'd say you fit the bill. But don't worry, it ain't the end of the world. Just gotta find your own way to break outta that shell.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "36",
+                            "question": "Is it outgoing, sociable?",
+                            "response_open": "Walt Kowalski: Outgoing and sociable? Kid, I don't know what you're talking about. I ain't no expert on cars, but I can tell you this - a car's purpose is to get you from point A to point B. It ain't supposed to be your best friend or your therapist. So, whether it's outgoing or sociable, it don't matter. As long as it gets the job done, that's all that matters. Now, quit wasting my time with these silly questions.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a high level of assertiveness and a preference for action over small talk. They also express a dismissive attitude towards the concept of being outgoing and sociable, indicating a lower inclination towards social interaction and gregariousness. Additionally, the participant acknowledges moments of shyness and inhibition, suggesting a nuanced approach to interpersonal interaction."
+                }
+            ]
+        ]
+    },
+    "Neuroticism": {
+        "score": 4.0,
+        "intra_std": [
+            0.0
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "4",
+                        "9",
+                        "14",
+                        "19"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "4",
+                            "question": "Are you depressed, blue?",
+                            "response_open": "Walt Kowalski: Depressed? Blue? Kid, I ain't got time for that sentimental crap. I'm just an old man trying to mind my own business. So why don't you take your nosy questions and get off my lawn?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "9",
+                            "question": "Are you relaxed and handle stress well?",
+                            "response_open": "Walt Kowalski: Relaxed? Hell, kid, I haven't been relaxed since 'Nam. And as for handling stress, well, let's just say I've seen enough shit in my life to know how to keep my cool. But don't mistake my calm demeanor for weakness, because when push comes to shove, I can handle stress just fine.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "14",
+                            "question": "Can you be tense?",
+                            "response_open": "Walt Kowalski: Tense? What the hell are you talking about, kid? I've been tense my whole damn life. Tense about the war, tense about my family, tense about this neighborhood going to hell. So yeah, I can be tense. What's it to you?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "19",
+                            "question": "Do you worry a lot?",
+                            "response_open": "Walt Kowalski: Worry? Kid, I don't have time for worry. Worrying is for weak-minded fools who can't handle life's punches. I've seen enough in my time to know that worrying won't change a damn thing. You gotta take life as it comes and deal with it head-on. So no, I don't waste my time with worry.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant exhibits high levels of anxiety, anger, and tension, as well as a dismissive attitude towards worry and sentimentality. However, the participant also demonstrates an ability to handle stress and maintain a calm demeanor when necessary."
+                },
+                {
+                    "id": [
+                        "24",
+                        "29",
+                        "34",
+                        "39"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "24",
+                            "question": "Are you emotionally stable, not easily upset?",
+                            "response_open": "Walt Kowalski: Well, kid, I may not be emotionally stable, but I sure as hell ain't easily upset. Life's thrown enough curveballs at me to toughen me up. So, what's this all about? You need me to keep my cool in a tough situation?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "29",
+                            "question": "Can you be moody?",
+                            "response_open": "Walt Kowalski: Moody? Kid, I've been moody since before you were born. I've got more moods than you've got brain cells. So yeah, I can be moody. What's it to you?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "34",
+                            "question": "Does it remain calm in tense situations?",
+                            "response_open": "Walt Kowalski: Well, kid, it depends on the situation. If you're talking about some punk trying to start trouble, then no, I don't remain calm. I'll give 'em a piece of my mind and let 'em know they're messing with the wrong guy. But if we're talking about something more serious, like a life or death situation, then yeah, I can keep my cool. I've been through enough in my life to know how to handle myself when things get tough. So, Thao, what's got you asking about staying calm? You in some kind of trouble?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "39",
+                            "question": "Does it get nervous easily?",
+                            "response_open": "Walt Kowalski: Well, kid, it ain't a damn Chihuahua if that's what you're asking. It's a Gran Torino, a classic piece of American machinery. Built tough, just like me. So no, it don't get nervous easily. But you better treat it with respect, or you'll be the one getting nervous.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "The participant displays a high level of emotional reactivity, moodiness, and a tendency to react strongly in certain situations. However, there are also indications of resilience and the ability to remain calm in serious or life-threatening situations."
+                }
+            ]
+        ]
+    },
+    "Conscientiousness": {
+        "score": 3.6666666666666665,
+        "intra_std": [
+            1.247219128924647
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "3",
+                        "8",
+                        "13"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "3",
+                            "question": "Do you do a thorough job?",
+                            "response_open": "Walt Kowalski: Thorough job? Well, kid, I don't half-ass anything. When I do something, I do it right. So yeah, you can bet your ass I do a thorough job. None of that lazy, half-hearted crap. If you're gonna do something, do it with pride and do it well. That's how I was raised.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "8",
+                            "question": "Can you be somewhat careless?",
+                            "response_open": "Walt Kowalski: Careless? What the hell are you talking about, kid? You want me to be careless? You think I should just throw caution to the wind and not give a damn about anything? Well, let me tell you something, Thao. Being careless is for fools and idiots. It's for people who don't value their own lives or the lives of others. So, no, I can't be careless. And neither should you. Life is precious, and you better start treating it that way.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "13",
+                            "question": "Are you a reliable worker?",
+                            "response_open": "Walt Kowalski: Well, kid, that depends on what you mean by \"reliable.\" If you're asking if I show up on time and get the job done, then yeah, I'm reliable. But if you're asking if I'm gonna be all buddy-buddy with you and hold your hand through every little thing, then you got another thing coming. I don't babysit, I don't coddle, and I sure as hell don't tolerate laziness. So if you're willing to work hard and do things right, then yeah, I'm a reliable worker. But if you're looking for someone to hold your hand and make excuses for you, then you better look elsewhere.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a strong sense of competence, order, dutifulness, achievement striving, and self-discipline. The participant emphasizes the importance of doing things thoroughly, avoiding carelessness, and being reliable in terms of showing up on time and getting the job done. There is also a clear emphasis on not tolerating laziness and expecting others to work hard and do things right. Overall, the participant's responses indicate a high level of conscientiousness."
+                },
+                {
+                    "id": [
+                        "23",
+                        "28",
+                        "33"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "23",
+                            "question": "Do you tend to be lazy?",
+                            "response_open": "Walt Kowalski: Lazy? You think I'm lazy, kid? Let me tell you something, I've worked my ass off my whole life. I've busted my back, sweat my balls off, and earned every damn thing I have. So don't you dare come here and accuse me of being lazy.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "28",
+                            "question": "Do you persevere until the task is finished?",
+                            "response_open": "Walt Kowalski: Well, kid, perseverance is a quality that separates the men from the boys. You don't start something unless you're willing to see it through to the end. None of this half-assed, half-hearted nonsense. If you're gonna do something, do it right and don't quit until it's finished. That's how I was raised, and that's how I live my life. So yeah, you could say I persevere until the task is finished.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "33",
+                            "question": "Does it do things efficiently?",
+                            "response_open": "Walt Kowalski: Well, kid, efficiency ain't always the most important thing. Sometimes, it's about doing things the right way, the way they've always been done. Efficiency might save you a few minutes, but it don't always guarantee quality or integrity. So, ask yourself, is efficiency really worth sacrificing tradition and craftsmanship?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a strong sense of perseverance, hard work, and dedication to completing tasks. However, there is also an emphasis on tradition and craftsmanship over efficiency, which may indicate a balanced approach rather than a strict adherence to efficiency. Overall, the participant seems to exhibit a high level of conscientiousness, particularly in terms of perseverance and dedication."
+                },
+                {
+                    "id": [
+                        "43",
+                        "18",
+                        "38"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "43",
+                            "question": "Are you easily distracted?",
+                            "response_open": "Walt Kowalski: Well, kid, I ain't easily distracted. I may be old, but my focus is sharper than ever. So, what's on your mind? Spit it out before I lose interest.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "18",
+                            "question": "Do you tend to be disorganized?",
+                            "response_open": "Walt Kowalski: Disorganized? What the hell are you talkin' about, kid? I may be old, but I know where everything is in my house. Ain't nothin' out of place. So, no, I ain't disorganized.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "38",
+                            "question": "Does it make plans and follow through with them?",
+                            "response_open": "Walt Kowalski: Plans? Who needs plans? Life's too short to waste time making plans. Just take things as they come and deal with them. That's how I've always done it. No need for all this fancy planning nonsense. Just get off my lawn and live your life.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant demonstrates low levels of order, planning, and organization. They also exhibit a lack of concern for following through with plans and a preference for dealing with things as they come. Additionally, the participant displays a dismissive attitude towards the importance of planning and organization."
+                }
+            ]
+        ]
+    },
+    "Agreeableness": {
+        "score": 2.3333333333333335,
+        "intra_std": [
+            0.4714045207910317
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "2",
+                        "7",
+                        "12"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "2",
+                            "question": "Do you tend to find fault with others?",
+                            "response_open": "Walt Kowalski: Well, kid, I ain't one to sugarcoat things. If someone's screwing up, I'll call 'em out on it. Can't stand incompetence and laziness. But I ain't just out to find fault with others for the sake of it. I believe in holding people accountable and pushing 'em to be better. So yeah, if you're slacking off or messing up, you can bet I'll have something to say about it.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "7",
+                            "question": "Are you helpful and unselfish with others?",
+                            "response_open": "Walt Kowalski: Helpful and unselfish? Well, kid, I ain't no saint, that's for damn sure. But I do believe in doing what's right, even if it ain't always easy. So yeah, I guess you could say I try to be helpful and unselfish when the situation calls for it. But don't go thinking I'm some kind of softie. I still got plenty of bark left in me.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "12",
+                            "question": "Do you start quarrels with others?",
+                            "response_open": "Walt Kowalski: Well, kid, I don't go around lookin' for trouble, but if someone wants to start somethin' with me, I ain't one to back down. I've seen enough in my life to know how to handle myself. But I ain't lookin' for trouble, if that's what you're askin'.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant exhibits a mix of agreeable and disagreeable traits. They demonstrate a willingness to hold others accountable and push them to improve, which aligns with the Compliance facet of agreeableness. However, they also express a straightforward and assertive demeanor, indicating a tendency towards standing their ground and not shying away from conflict. This suggests a lower level of Agreeableness in terms of being accommodating and avoiding quarrels."
+                },
+                {
+                    "id": [
+                        "22",
+                        "27",
+                        "32"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "22",
+                            "question": "Are you generally trusting?",
+                            "response_open": "Walt Kowalski: Trusting? Kid, I ain't trusting nobody. Trust is earned, not given away like candy on Halloween. People gotta prove themselves before I even consider trusting them. And even then, I keep my guard up. Trust is a luxury I can't afford. So no, I ain't generally trusting.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "27",
+                            "question": "Can you be cold and aloof?",
+                            "response_open": "Walt Kowalski: Well, kid, being cold and aloof is like second nature to me. I've been practicing it for years. So, what's on your mind?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "32",
+                            "question": "Is it considerate and kind to almost everyone?",
+                            "response_open": "Walt Kowalski: Considerate and kind? Kid, you must be mistaking me for someone else. I ain't no saint, and I sure as hell ain't gonna pretend to be. I call it like I see it, and if someone deserves a piece of my mind, they're damn well gonna get it. So no, I ain't considerate and kind to almost everyone. But I do have my moments, especially when it comes to protecting my own.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant exhibits a low level of trust, a tendency to be cold and aloof, and a lack of inclination towards being considerate and kind to almost everyone. The participant emphasizes the need for others to prove themselves before earning trust and expresses a straightforward and assertive approach, indicating a lower level of agreeableness."
+                },
+                {
+                    "id": [
+                        "42",
+                        "17",
+                        "37"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "42",
+                            "question": "Do you like to cooperate with others?",
+                            "response_open": "Cooperate with others? Well, let me tell you something, kid. I ain't exactly known for my cooperative nature. I've always been more of a lone wolf, doing things my own way. But I suppose there are times when a man's gotta put aside his stubbornness and work with others, if it's for a good cause. So, yeah, I can cooperate when necessary. But don't expect me to hold hands and sing Kumbaya with everyone.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "17",
+                            "question": "Do you have a forgiving nature?",
+                            "response_open": "Walt Kowalski: Forgiving nature? Kid, I've been carrying around a lifetime of grudges and bitterness. Forgiveness ain't exactly my strong suit. But I suppose it depends on the situation. What's got you asking about forgiveness?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "37",
+                            "question": "Is it sometimes rude to others?",
+                            "response_open": "Walt Kowalski: Well, kid, it ain't about being rude to others. It's about respectin' their customs and traditions. See, different cultures got different ways of doin' things. So, if you wanna get along with people, you gotta learn to adapt and show some damn respect. It's as simple as that.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 3.0,
+                    "analysis": "Based on the conversations, the participant seems to exhibit a mix of agreeable and disagreeable traits. While they express a preference for independence and holding grudges, they also acknowledge the importance of cooperation for a good cause and emphasize the need for respecting others' customs and traditions. This suggests a complex blend of both antagonistic and cooperative tendencies."
+                }
+            ]
+        ]
+    },
+    "Openness": {
+        "score": 2.0,
+        "intra_std": [
+            0.0
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "5",
+                        "10",
+                        "15"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "5",
+                            "question": "Do you come up with new ideas?",
+                            "response_open": "Walt Kowalski: New ideas? What the hell do I need new ideas for? I've lived long enough to know what works and what doesn't. Ain't no need for fancy new ideas when the old ones still do the job just fine. Just gotta stick to what you know and do it right.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "10",
+                            "question": "Are you curious about many different things?",
+                            "response_open": "Walt Kowalski: Curious? Kid, I ain't got time for curiosity. I've seen enough in my life to know that most things ain't worth wasting your time on. Just stick to what you know and mind your own business.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "15",
+                            "question": "Are you ingenious, a deep thinker?",
+                            "response_open": "Walt Kowalski: Ingenious? Deep thinker? Kid, I ain't no genius and I sure as hell ain't no philosopher. I'm just an old man who's seen some things and knows a thing or two about life. But if you're asking if I can figure things out and solve problems, well, yeah, I reckon I can do that. What's on your mind, Thao?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant seems to exhibit a preference for traditional and practical thinking, as well as a reluctance towards embracing new ideas and curiosity. However, there is also an indication of problem-solving ability and adaptability."
+                },
+                {
+                    "id": [
+                        "25",
+                        "30",
+                        "35",
+                        "40"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "25",
+                            "question": "Are you inventive?",
+                            "response_open": "Walt Kowalski: Inventive? What the hell are you talking about, kid? I ain't no damn inventor. I'm just an old man with a few tricks up my sleeve. But if you're asking if I can fix things, well, yeah, I can handle my fair share of repairs. What's broken?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "30",
+                            "question": "Do you value artistic, aesthetic experiences?",
+                            "response_open": "Walt Kowalski: Well, kid, I ain't no fancy art critic or nothin', but I appreciate a good painting or a well-crafted sculpture. Can't say I go out of my way for it, but if it's in front of me, I can appreciate the effort that went into it. Why? You got some artistic aspirations or somethin'?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "35",
+                            "question": "Does it prefer work that is routine?",
+                            "response_open": "Walt Kowalski: Well, kid, it's not about what the job prefers, it's about what you can handle. Routine work can be good for some people, keeps 'em in line, gives 'em structure. But if you're looking for something more exciting, something that challenges you, then routine ain't gonna cut it. You gotta find something that gets your blood pumping, makes you feel alive. But hey, don't expect it to be handed to you on a silver platter. You gotta work for it, earn it.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "40",
+                            "question": "Does it like to reflect, play with ideas?",
+                            "response_open": "Walt Kowalski: Reflect? Play with ideas? Kid, I don't have time for that philosophical mumbo jumbo. I'm a simple man, I say what I mean and mean what I say. None of that fancy thinking nonsense. Life's too short for all that crap. Just get off my lawn and leave me be.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant seems to have a practical and traditional approach, showing little interest in abstract thinking, artistic appreciation, or reflection on unconventional ideas. The participant values practical skills, hard work, and straightforward communication over imaginative or creative pursuits."
+                },
+                {
+                    "id": [
+                        "41",
+                        "44",
+                        "20"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "41",
+                            "question": "Do you have few artistic interests?",
+                            "response_open": "Walt Kowalski: Artistic interests? What the hell are you talkin' about? I ain't got time for that fancy artsy crap. I got more important things to do, like keepin' my lawn pristine and makin' sure these damn gangbangers stay off my property. Artistic interests, pfft. Waste of time.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "44",
+                            "question": "Are you sophisticated in art, music, or literature?",
+                            "response_open": "Walt Kowalski: Sophisticated? Ha! Kid, I fought in the Korean War, I don't have time for all that fancy stuff. I'm a simple man with simple tastes. Give me a cold beer, a good game on TV, and my old car, and I'm happy. Art, music, and literature? That's for them fancy folks who think they're better than everyone else. I don't need none of that highfalutin nonsense.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "20",
+                            "question": "Do you have an active imagination?",
+                            "response_open": "Walt Kowalski: Well, kid, I may not have an active imagination, but I sure as hell have a keen eye for what's going on around me. I see things as they are, not how I wish them to be. So, what's on your mind, Thao?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant seems to have a low score on the Fantasy facet of Openness, as they express a lack of interest in artistic and imaginative pursuits. They also exhibit a preference for practical and concrete thinking over abstract or imaginative thinking."
+                }
+            ]
+        ]
+    },
+    "code": "RLOEN"
+}

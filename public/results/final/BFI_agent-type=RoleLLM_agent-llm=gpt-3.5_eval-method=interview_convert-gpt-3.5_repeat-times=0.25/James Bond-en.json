@@ -1,0 +1,229 @@
+{
+    "Extraversion": {
+        "score": 4.333333333333333,
+        "intra_std": [
+            0.9428090415820634
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "1"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "1",
+                            "question": "Are you talkative?",
+                            "response_open": "James Bond: \"Only when I have something important to say, sir.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 3,
+                    "score": 3.0
+                },
+                {
+                    "id": [
+                        "26"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "26",
+                            "question": "Do you have an assertive personality?",
+                            "response_open": "James Bond: Well, M, I'd say my personality is a unique blend of assertiveness and charm. I have a knack for taking charge of situations and making things happen. Whether it's infiltrating enemy lairs or seducing dangerous women, I always approach things with confidence and determination. After all, being a secret agent requires a certain level of assertiveness to get the job done.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 5,
+                    "score": 5.0
+                },
+                {
+                    "id": [
+                        "11"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "11",
+                            "question": "Are you full of energy?",
+                            "response_open": "James Bond: \"Always ready for action, M. What's the mission?\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 5,
+                    "score": 5.0
+                }
+            ]
+        ]
+    },
+    "Neuroticism": {
+        "score": 1.5,
+        "intra_std": [
+            0.5
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "9"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "9",
+                            "question": "Are you relaxed and handle stress well?",
+                            "response_open": "James Bond: \"I have been trained to handle stress in the most demanding situations, sir. Relaxation is a luxury I rarely have the pleasure of indulging in.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "24"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "24",
+                            "question": "Are you emotionally stable, not easily upset?",
+                            "response_open": "James Bond: \"I have learned to compartmentalize my emotions, M. I am able to maintain a calm and composed demeanor even in the most challenging situations. My focus is always on the mission at hand, and I do not let personal emotions interfere with my duty.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 5,
+                    "score": 1.0
+                }
+            ]
+        ]
+    },
+    "Conscientiousness": {
+        "score": 1.5,
+        "intra_std": [
+            0.5
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "18"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "18",
+                            "question": "Do you tend to be disorganized?",
+                            "response_open": "James Bond: \"On the contrary, M. I pride myself on being highly organized and efficient in all aspects of my work. A disorganized agent is a liability in the field, and I assure you, I am anything but.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 5,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "43"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "43",
+                            "question": "Are you easily distracted?",
+                            "response_open": "James Bond: \"Not at all, M. I simply have a knack for multitasking and handling multiple situations simultaneously. It's all part of being a well-trained agent.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                }
+            ]
+        ]
+    },
+    "Agreeableness": {
+        "score": 3.5,
+        "intra_std": [
+            0.5
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "32"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "32",
+                            "question": "Is it considerate and kind to almost everyone?",
+                            "response_open": "James Bond: \"Considerate and kind are not words typically associated with my line of work, M. But I do strive to be professional and efficient in carrying out my duties. Sometimes that means making tough decisions and taking actions that may not be considered considerate or kind by others. However, I always prioritize the mission and the safety of innocent lives.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "2"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "2",
+                            "question": "Do you tend to find fault with others?",
+                            "response_open": "James Bond: \"Only when they deserve it, M. It's part of my job to identify weaknesses and vulnerabilities in our adversaries. It helps me stay one step ahead.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 3,
+                    "score": 3.0
+                }
+            ]
+        ]
+    },
+    "Openness": {
+        "score": 3.5,
+        "intra_std": [
+            0.5
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "15"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "15",
+                            "question": "Are you ingenious, a deep thinker?",
+                            "response_open": "James Bond: \"I like to think of myself as a man of action, M. But when the situation calls for it, I can certainly employ my intellect and strategic thinking to get the job done.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "10"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "10",
+                            "question": "Are you curious about many different things?",
+                            "response_open": "James Bond: Curiosity is a double-edged sword, M. It can lead to valuable information, but it can also be a distraction. As an agent, I focus on what is necessary to complete the mission at hand. However, I do have a healthy curiosity about the world around me, which often aids me in my endeavors.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 3,
+                    "score": 3.0
+                }
+            ]
+        ]
+    },
+    "code": "SCUAI"
+}

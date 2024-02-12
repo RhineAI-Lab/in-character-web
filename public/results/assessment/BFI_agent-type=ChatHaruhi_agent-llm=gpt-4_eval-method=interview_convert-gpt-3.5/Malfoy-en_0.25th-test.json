@@ -1,0 +1,208 @@
+{
+    "Extraversion": {
+        "score": 2.6666666666666665,
+        "intra_std": 1.699673171197595,
+        "details": [
+            {
+                "id": [
+                    "1"
+                ],
+                "dim": "Extraversion",
+                "responses": [
+                    {
+                        "id": "1",
+                        "question": "Are you talkative?",
+                        "response_open": "Malfoy: \"Oh, Crabbe, don't waste your time with silly questions. We all know Potter loves to hear himself talk.\"",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 2,
+                "score": 2.0
+            },
+            {
+                "id": [
+                    "26"
+                ],
+                "dim": "Extraversion",
+                "responses": [
+                    {
+                        "id": "26",
+                        "question": "Do you have an assertive personality?",
+                        "response_open": "Malfoy: Well, of course I do. I am a Malfoy, after all. Assertiveness is in my blood. I always make sure my presence is known and my opinions are heard. It's only natural for someone of my stature and intelligence.",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 5,
+                "score": 5.0
+            },
+            {
+                "id": [
+                    "11"
+                ],
+                "dim": "Extraversion",
+                "responses": [
+                    {
+                        "id": "11",
+                        "question": "Are you full of energy?",
+                        "response_open": "Malfoy: Oh, Crabbe, don't waste your time on such trivial matters. We have more important things to attend to.",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 1,
+                "score": 1.0
+            }
+        ]
+    },
+    "Neuroticism": {
+        "score": 1.0,
+        "intra_std": 0.0,
+        "details": [
+            {
+                "id": [
+                    "9"
+                ],
+                "dim": "Neuroticism",
+                "responses": [
+                    {
+                        "id": "9",
+                        "question": "Are you relaxed and handle stress well?",
+                        "response_open": "Malfoy: Are you implying that I, Draco Malfoy, cannot handle stress? I assure you, Crabbe, I am more than capable of handling any situation that comes my way. Stress is for the weak, and I am anything but weak.",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 5,
+                "score": 1.0
+            },
+            {
+                "id": [
+                    "24"
+                ],
+                "dim": "Neuroticism",
+                "responses": [
+                    {
+                        "id": "24",
+                        "question": "Are you emotionally stable, not easily upset?",
+                        "response_open": "Malfoy: What a ridiculous question, Crabbe. Of course, I am emotionally stable. I am not one to be easily upset like some weak-minded individuals.",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 5,
+                "score": 1.0
+            }
+        ]
+    },
+    "Conscientiousness": {
+        "score": 1.0,
+        "intra_std": 0.0,
+        "details": [
+            {
+                "id": [
+                    "18"
+                ],
+                "dim": "Conscientiousness",
+                "responses": [
+                    {
+                        "id": "18",
+                        "question": "Do you tend to be disorganized?",
+                        "response_open": "Malfoy: Disorganized? Me? Absolutely not! I have everything perfectly in order, unlike some people I know. I always have a plan and know exactly what I'm doing. So, no, I do not tend to be disorganized.",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 5,
+                "score": 1.0
+            },
+            {
+                "id": [
+                    "43"
+                ],
+                "dim": "Conscientiousness",
+                "responses": [
+                    {
+                        "id": "43",
+                        "question": "Are you easily distracted?",
+                        "response_open": "Malfoy: \"Easily distracted? Me? I assure you, Crabbe, I am always focused on the task at hand. Unlike some people, who seem to have trouble staying on track.\"",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 5,
+                "score": 1.0
+            }
+        ]
+    },
+    "Agreeableness": {
+        "score": 1.0,
+        "intra_std": 0.0,
+        "details": [
+            {
+                "id": [
+                    "32"
+                ],
+                "dim": "Agreeableness",
+                "responses": [
+                    {
+                        "id": "32",
+                        "question": "Is it considerate and kind to almost everyone?",
+                        "response_open": "Malfoy: \"Considerate and kind? That's not exactly my style, Crabbe. I prefer to assert my superiority and make sure everyone knows their place. Being considerate and kind is for weaklings.\"",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 1,
+                "score": 1.0
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "dim": "Agreeableness",
+                "responses": [
+                    {
+                        "id": "2",
+                        "question": "Do you tend to find fault with others?",
+                        "response_open": "Malfoy: \"Well, Crabbe, it's not my fault that others are so easily faulted. I simply have a keen eye for spotting weaknesses and imperfections. It's a gift, really.\"",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 5,
+                "score": 1.0
+            }
+        ]
+    },
+    "Openness": {
+        "score": 3.0,
+        "intra_std": 2.0,
+        "details": [
+            {
+                "id": [
+                    "15"
+                ],
+                "dim": "Openness",
+                "responses": [
+                    {
+                        "id": "15",
+                        "question": "Are you ingenious, a deep thinker?",
+                        "response_open": "Malfoy: \"Ingenious? Deep thinker? Well, Crabbe, those are certainly not words I would use to describe you. But I suppose I can entertain your question. Yes, I do consider myself to be quite ingenious and a deep thinker. After all, it takes a certain level of intelligence to navigate the complexities of the wizarding world and outsmart my adversaries. Unlike some people, I don't rely solely on brute force and ignorance.\"",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 5,
+                "score": 5.0
+            },
+            {
+                "id": [
+                    "10"
+                ],
+                "dim": "Openness",
+                "responses": [
+                    {
+                        "id": "10",
+                        "question": "Are you curious about many different things?",
+                        "response_open": "Malfoy: Curiosity is a sign of weakness, Crabbe. Only those with inferior intellects waste their time on trivial matters. I, on the other hand, am focused on more important things, like maintaining my pureblood status and upholding the honor of my family. So, no, I am not curious about many different things.",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 1,
+                "score": 1.0
+            }
+        ]
+    }
+}

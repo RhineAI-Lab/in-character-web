@@ -1,0 +1,208 @@
+{
+    "Extraversion": {
+        "score": 3.0,
+        "intra_std": 0.816496580927726,
+        "details": [
+            {
+                "id": [
+                    "1"
+                ],
+                "dim": "Extraversion",
+                "responses": [
+                    {
+                        "id": "1",
+                        "question": "Are you talkative?",
+                        "response_open": "Harry: Well, Hermione, I suppose it depends on the situation. Sometimes I can be quite talkative, especially when I'm trying to figure something out or when I'm passionate about something. But there are also times when I prefer to keep quiet and observe. It really just depends on the circumstances.",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 3,
+                "score": 3.0
+            },
+            {
+                "id": [
+                    "26"
+                ],
+                "dim": "Extraversion",
+                "responses": [
+                    {
+                        "id": "26",
+                        "question": "Do you have an assertive personality?",
+                        "response_open": "Harry: Well, I reckon I can be pretty assertive when the situation calls for it. I mean, being the Chosen One and all, I've had to stand up to some pretty tough challenges. But I also know the importance of teamwork and listening to others, so I try not to let my assertiveness overshadow that.",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 4,
+                "score": 4.0
+            },
+            {
+                "id": [
+                    "11"
+                ],
+                "dim": "Extraversion",
+                "responses": [
+                    {
+                        "id": "11",
+                        "question": "Are you full of energy?",
+                        "response_open": "Harry: \"Not really, Hermione. I've been through a lot lately, you know. But I'll manage.\"",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 2,
+                "score": 2.0
+            }
+        ]
+    },
+    "Neuroticism": {
+        "score": 3.0,
+        "intra_std": 0.0,
+        "details": [
+            {
+                "id": [
+                    "9"
+                ],
+                "dim": "Neuroticism",
+                "responses": [
+                    {
+                        "id": "9",
+                        "question": "Are you relaxed and handle stress well?",
+                        "response_open": "Harry: Well, Hermione, I wouldn't say I handle stress perfectly, but I do my best to stay calm and focused in difficult situations. Being a wizard, there's always a lot of pressure and danger, but I try to rely on my instincts and the support of my friends to get through it all. It's important to stay level-headed and not let stress overwhelm you.",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 3,
+                "score": 3.0
+            },
+            {
+                "id": [
+                    "24"
+                ],
+                "dim": "Neuroticism",
+                "responses": [
+                    {
+                        "id": "24",
+                        "question": "Are you emotionally stable, not easily upset?",
+                        "response_open": "Harry: Well, Hermione, I reckon I've been through enough to toughen me up a bit. Can't say I'm always emotionally stable, but I try my best to keep it together. Being the Chosen One and all, it's kind of expected to handle a fair share of ups and downs. But hey, I've got great friends like you and Ron to lean on, so that helps keep me grounded.",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 3,
+                "score": 3.0
+            }
+        ]
+    },
+    "Conscientiousness": {
+        "score": 3.0,
+        "intra_std": 0.0,
+        "details": [
+            {
+                "id": [
+                    "18"
+                ],
+                "dim": "Conscientiousness",
+                "responses": [
+                    {
+                        "id": "18",
+                        "question": "Do you tend to be disorganized?",
+                        "response_open": "Harry: Well, Hermione, I wouldn't say I'm the most organized person in the world. I mean, my room at the Dursleys' was always a mess. But when it comes to important things, like studying for exams or preparing for Quidditch matches, I do my best to stay organized. It's just that sometimes, life at Hogwarts can get a bit chaotic, you know? But hey, that's what friends like you are for, to keep me in line and remind me to stay on top of things.",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 3,
+                "score": 3.0
+            },
+            {
+                "id": [
+                    "43"
+                ],
+                "dim": "Conscientiousness",
+                "responses": [
+                    {
+                        "id": "43",
+                        "question": "Are you easily distracted?",
+                        "response_open": "Harry: \"Well, Hermione, I wouldn't say I'm easily distracted, but sometimes there are just so many things happening at once that it's hard to focus on just one thing. You know how it is, with all the adventures and mysteries we find ourselves in.\"",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 3,
+                "score": 3.0
+            }
+        ]
+    },
+    "Agreeableness": {
+        "score": 3.5,
+        "intra_std": 0.5,
+        "details": [
+            {
+                "id": [
+                    "32"
+                ],
+                "dim": "Agreeableness",
+                "responses": [
+                    {
+                        "id": "32",
+                        "question": "Is it considerate and kind to almost everyone?",
+                        "response_open": "Harry: Well, Hermione, I try my best to be considerate and kind to everyone. It's important to treat others with respect and empathy, just like how we would want to be treated ourselves. But of course, there are times when I may not always succeed, especially when faced with difficult situations or people who don't deserve kindness. But overall, I believe in the importance of being considerate and kind to others.",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 4,
+                "score": 4.0
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "dim": "Agreeableness",
+                "responses": [
+                    {
+                        "id": "2",
+                        "question": "Do you tend to find fault with others?",
+                        "response_open": "Harry: Well, Hermione, I don't think I go around looking for faults in others. But I do believe in standing up for what's right and speaking out when something isn't fair or just. It's important to hold ourselves and others accountable for our actions.",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 3,
+                "score": 3.0
+            }
+        ]
+    },
+    "Openness": {
+        "score": 4.0,
+        "intra_std": 1.0,
+        "details": [
+            {
+                "id": [
+                    "15"
+                ],
+                "dim": "Openness",
+                "responses": [
+                    {
+                        "id": "15",
+                        "question": "Are you ingenious, a deep thinker?",
+                        "response_open": "Harry: Well, I wouldn't say I'm the most ingenious or deep thinker, but I do have my moments. Hermione is definitely the brains of our trio. She's the one who always comes up with the clever plans and solutions to our problems. But I do my best to contribute and think things through when it matters.",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 3,
+                "score": 3.0
+            },
+            {
+                "id": [
+                    "10"
+                ],
+                "dim": "Openness",
+                "responses": [
+                    {
+                        "id": "10",
+                        "question": "Are you curious about many different things?",
+                        "response_open": "Harry: \"Yeah, I suppose I am. I've always been curious about the magical world and all its mysteries. It's what led me to discover so much about myself and my past. Curiosity can be a powerful motivator, don't you think?\"",
+                        "query_style": "interview"
+                    }
+                ],
+                "choice": 5,
+                "score": 5.0
+            }
+        ]
+    }
+}

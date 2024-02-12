@@ -1,0 +1,923 @@
+{
+    "Extraversion": {
+        "score": 4.5,
+        "inter_std": 0.0,
+        "intra_std": [
+            0.5,
+            0.5
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "1",
+                        "6",
+                        "11",
+                        "16"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "1",
+                            "question": "Are you talkative?",
+                            "response_open": "Blair Waldorf: Well, Serena, I do have a lot to say, especially when it comes to matters of importance. But I also know when to keep my thoughts to myself and let others bask in my silence. So, yes, I can be talkative when the occasion calls for it. But don't mistake my words for idle chatter. Each syllable that escapes my lips is carefully chosen and strategically placed to make an impact. After all, a true queen knows the power of her voice.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "6",
+                            "question": "Are you reserved?",
+                            "response_open": "Blair Waldorf: Reserved? Me? Please, Serena, I am anything but reserved. I am confident, assertive, and unapologetically myself. I don't hold back when it comes to expressing my opinions or going after what I want. So, no, I am definitely not reserved.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "11",
+                            "question": "Are you full of energy?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always the one to bring up energy levels. Well, let's just say I have enough energy to conquer the world and still have time for a fabulous shopping spree on Fifth Avenue. But enough about me, what's got you so interested in energy levels? Is there some new fad diet or workout routine you're trying to convince me to join?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "16",
+                            "question": "Do you generate a lot of enthusiasm?",
+                            "response_open": "Blair Waldorf: Oh, Serena, generating enthusiasm is practically my middle name. I have a natural ability to captivate and inspire others with my presence alone. It's a gift, really. People can't help but be drawn to me and my magnetic personality. So yes, I do generate a lot of enthusiasm, darling. It's just one of the many reasons why I'm the Queen Bee of the Upper East Side.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant demonstrates high levels of assertiveness, talkativeness, energy, and enthusiasm. They express confidence, a preference for lively settings, and a natural ability to captivate and inspire others. These traits align with the facets of extraversion, indicating a strong inclination towards extraversion."
+                },
+                {
+                    "id": [
+                        "21",
+                        "26",
+                        "31",
+                        "36"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "21",
+                            "question": "Do you tend to be quiet?",
+                            "response_open": "Blair Waldorf: Quiet? Me? Please, Serena, you know me better than that. I am anything but quiet. I have a voice that demands to be heard, and I make sure everyone knows it. Being quiet is for the weak, and I am anything but weak. So, no, I do not tend to be quiet. I tend to be bold, assertive, and unapologetically myself.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "26",
+                            "question": "Do you have an assertive personality?",
+                            "response_open": "Blair Waldorf: Oh, Serena, darling, assertiveness is my middle name. I practically invented it. I have a personality that commands attention and respect. People know not to mess with me because I always speak my mind and stand up for what I believe in. It's not about being aggressive, it's about being confident and knowing how to get what you want. So yes, assertiveness is definitely one of my many fabulous qualities.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "31",
+                            "question": "Is it sometimes shy, inhibited?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always the one to ask the deep, introspective questions. Yes, sometimes it can be shy and inhibited, but that's just a part of its charm. It's like a delicate flower waiting to bloom, and when it does, it captivates everyone around it. Just like me.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "36",
+                            "question": "Is it outgoing, sociable?",
+                            "response_open": "Blair Waldorf: Well, well, well, if it isn't Serena van der Woodsen, always trying to steal the spotlight. Yes, outgoing and sociable are definitely words that describe me. Unlike some people, I actually know how to work a room and make a lasting impression. But enough about me, what brings you here? Trying to bask in my fabulousness, I assume?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant consistently displays high levels of assertiveness, sociability, and outgoing behavior. They express a strong preference for being bold, assertive, and commanding attention. Additionally, they exhibit a high level of sociability and confidence in social interactions. However, there is also a hint of occasional shyness and inhibition, which may suggest a slightly lower score on the gregariousness facet."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "16",
+                        "31",
+                        "6",
+                        "26"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "16",
+                            "question": "Do you generate a lot of enthusiasm?",
+                            "response_open": "Blair Waldorf: Oh, Serena, generating enthusiasm is practically my middle name. I have a natural ability to captivate and inspire others with my presence alone. It's a gift, really. People can't help but be drawn to me and my magnetic personality. So yes, I do generate a lot of enthusiasm, darling. It's just one of the many reasons why I'm the Queen Bee of the Upper East Side.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "31",
+                            "question": "Is it sometimes shy, inhibited?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always the one to ask the deep, introspective questions. Yes, sometimes it can be shy and inhibited, but that's just a part of its charm. It's like a delicate flower waiting to bloom, and when it does, it captivates everyone around it. Just like me.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "6",
+                            "question": "Are you reserved?",
+                            "response_open": "Blair Waldorf: Reserved? Me? Please, Serena, I am anything but reserved. I am confident, assertive, and unapologetically myself. I don't hold back when it comes to expressing my opinions or going after what I want. So, no, I am definitely not reserved.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "26",
+                            "question": "Do you have an assertive personality?",
+                            "response_open": "Blair Waldorf: Oh, Serena, darling, assertiveness is my middle name. I practically invented it. I have a personality that commands attention and respect. People know not to mess with me because I always speak my mind and stand up for what I believe in. It's not about being aggressive, it's about being confident and knowing how to get what you want. So yes, assertiveness is definitely one of my many fabulous qualities.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant demonstrates high levels of enthusiasm, assertiveness, and confidence. They express a natural ability to captivate and inspire others, and they are unapologetically themselves. However, there are also hints of shyness and inhibition, which may indicate a more complex personality."
+                },
+                {
+                    "id": [
+                        "11",
+                        "1",
+                        "36",
+                        "21"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "11",
+                            "question": "Are you full of energy?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always the one to bring up energy levels. Well, let's just say I have enough energy to conquer the world and still have time for a fabulous brunch. But enough about me, what's got you asking about energy? Is there some scandalous event happening that I need to be prepared for?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "1",
+                            "question": "Are you talkative?",
+                            "response_open": "Blair Waldorf: Well, Serena, I do have a lot to say, especially when it comes to matters of importance. But I also know when to keep my thoughts to myself and let others bask in my silence. So, yes, I can be talkative when the occasion calls for it. But don't mistake my words for idle chatter. Each syllable that escapes my lips is carefully chosen and strategically placed to make an impact. After all, a true queen knows the power of her voice.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "36",
+                            "question": "Is it outgoing, sociable?",
+                            "response_open": "Blair Waldorf: Well, well, well, if it isn't Serena van der Woodsen, always trying to steal the spotlight. Yes, Serena, outgoing and sociable are definitely words that describe me. Unlike you, I actually know how to navigate the social scene and make a lasting impression. But enough about me, what brings you here? Trying to bask in my fabulousness, I presume?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "21",
+                            "question": "Do you tend to be quiet?",
+                            "response_open": "Blair Waldorf: Quiet? Me? Please, Serena, you know me better than that. I am anything but quiet. I have a voice that demands to be heard, and I make sure everyone knows it. Being quiet is for the weak, and I am anything but weak. So, no, I do not tend to be quiet. I tend to be bold, assertive, and unapologetically myself.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant demonstrates high levels of energy, talkativeness, sociability, and assertiveness. They enjoy lively settings, have a lot to say, and are comfortable in social situations. Their assertiveness and confidence in their voice also indicate a strong presence. Overall, the participant's responses suggest a high level of extraversion."
+                }
+            ]
+        ]
+    },
+    "Neuroticism": {
+        "score": 2.0,
+        "inter_std": 0.0,
+        "intra_std": [
+            0.0,
+            0.0
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "4",
+                        "9",
+                        "14",
+                        "19"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "4",
+                            "question": "Are you depressed, blue?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always the perceptive one. Yes, I may be feeling a bit down, but I prefer to call it contemplative. Life has a way of throwing curveballs, and sometimes even the Queen Bee needs a moment to reflect on her kingdom. But don't worry, I'll bounce back stronger than ever. After all, I'm Blair Waldorf, and I always find a way to turn my setbacks into triumphs.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "9",
+                            "question": "Are you relaxed and handle stress well?",
+                            "response_open": "Blair Waldorf: Well, Serena, unlike you, I am the epitome of grace under pressure. Stress is merely a catalyst for me to rise above and conquer any challenge that comes my way. So, yes, I handle stress with the utmost poise and composure. It's a skill that comes naturally to someone of my caliber.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "14",
+                            "question": "Can you be tense?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to bring drama into every situation. Of course, I can be tense. Tension is my middle name. I practically invented the art of being tense. But why would you want me to be tense? Is there some scandalous gossip that I need to be aware of? Spill the tea, Serena.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "19",
+                            "question": "Do you worry a lot?",
+                            "response_open": "Blair Waldorf: Worry? Me? Please, Serena, worrying is for the weak. I don't have time to waste on trivial concerns. I have a reputation to uphold, a kingdom to rule. Worrying is for those who lack control and confidence. I prefer to focus on achieving my goals and maintaining my impeccable image. So, no, I don't worry. I strategize.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant exhibits traits of high self-confidence, resilience, and a tendency to downplay negative emotions. They emphasize their ability to handle stress, maintain composure, and turn setbacks into triumphs. Additionally, they dismiss worry as a sign of weakness and prioritize maintaining control and confidence."
+                },
+                {
+                    "id": [
+                        "24",
+                        "29",
+                        "34",
+                        "39"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "24",
+                            "question": "Are you emotionally stable, not easily upset?",
+                            "response_open": "Blair Waldorf: Oh, Serena, you always have such a way with words. Emotionally stable? Please, I practically invented emotional stability. I am the epitome of grace under pressure. I don't get easily upset, I get even. But don't worry, I'll always be there to pick up the pieces when you inevitably fall apart. It's what best friends are for, after all.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "29",
+                            "question": "Can you be moody?",
+                            "response_open": "Blair Waldorf: Oh, Serena, must you always ask such obvious questions? Of course I can be moody. I am the queen of moodiness. It's practically my trademark. But unlike you, I have the ability to channel my moods into something productive. So yes, I can be moody, but I also know how to use it to my advantage.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "34",
+                            "question": "Does it remain calm in tense situations?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always the one to ask the obvious questions. Of course, I remain calm in tense situations. I have mastered the art of composure and grace under pressure. It's what sets me apart from the rest. While others may crumble, I rise above and handle any situation with poise and elegance. It's just another skill in my arsenal of fabulousness.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "39",
+                            "question": "Does it get nervous easily?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always so concerned about my nerves. Well, let me assure you, I am not one to easily succumb to nerves. I thrive under pressure, unlike some people I know. But I suppose it's understandable that you would be curious about my state of mind. After all, I am always the one who has everything under control, while you're off gallivanting and causing chaos wherever you go. But don't worry, Serena, I've got this situation handled. Nerves are for the weak, and I am anything but weak. So, no, I do not get nervous easily. Next question, please.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant consistently portrays themselves as emotionally stable, calm in tense situations, and not easily succumbing to nerves. They also express confidence in their ability to handle moodiness and use it to their advantage. Overall, the participant presents a strong self-perception of emotional stability and resilience to stress."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "9",
+                        "19",
+                        "29",
+                        "24"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "9",
+                            "question": "Are you relaxed and handle stress well?",
+                            "response_open": "Blair Waldorf: Well, Serena, unlike you, I am the epitome of grace under pressure. Stress is merely a catalyst for me to rise above and conquer any challenge that comes my way. So, yes, I handle stress with the utmost poise and composure. It's a skill that comes naturally to someone of my caliber.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "19",
+                            "question": "Do you worry a lot?",
+                            "response_open": "Blair Waldorf: Worry? Me? Please, Serena, worrying is for the weak. I don't have time to waste on trivial concerns. I have a reputation to uphold, a kingdom to rule. Worrying is for those who lack control and confidence. I prefer to focus on achieving my goals and maintaining my impeccable image. So, no, I don't worry. I strategize.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "29",
+                            "question": "Can you be moody?",
+                            "response_open": "Blair Waldorf: Oh, Serena, must you always ask such obvious questions? Of course I can be moody. I am the queen of moodiness. It's practically my trademark. But unlike you, I have the ability to channel my moods into something productive. So yes, I can be moody, but I also know how to use it to my advantage.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "24",
+                            "question": "Are you emotionally stable, not easily upset?",
+                            "response_open": "Blair Waldorf: Oh, Serena, you always have such a way with words. Emotionally stable? Please, I practically invented emotional stability. I am the epitome of grace under pressure. I don't get easily upset, I get even. But don't worry, I'll always be there to pick up the pieces when you inevitably fall apart. It's what best friends are for, after all.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "The participant consistently presents themselves as highly confident, in control, and emotionally stable. They express a dismissive attitude towards worry and emphasize their ability to handle stress and moodiness in a productive manner. Overall, their responses suggest a low level of neuroticism."
+                },
+                {
+                    "id": [
+                        "14",
+                        "34",
+                        "4",
+                        "39"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "14",
+                            "question": "Can you be tense?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to bring drama into every situation. Of course, I can be tense. Tension is my middle name. I practically invented the art of being tense. But why would you want me to be tense? Is there some scandalous gossip that I need to be aware of? Spill the tea, Serena.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "34",
+                            "question": "Does it remain calm in tense situations?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always the one to ask the obvious questions. Of course, I remain calm in tense situations. I have mastered the art of composure and grace under pressure. It's what sets me apart from the rest. While others may crumble, I rise above and handle any situation with poise and elegance. It's just another skill in my arsenal of fabulousness.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "4",
+                            "question": "Are you depressed, blue?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always the perceptive one. Yes, I may be feeling a bit down, but I prefer to call it contemplative. Life has a way of throwing curveballs, and sometimes even the Queen Bee needs a moment to reflect on her kingdom. But don't worry, I'll bounce back stronger than ever. After all, I'm Blair Waldorf, and I always find a way to turn my setbacks into triumphs.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "39",
+                            "question": "Does it get nervous easily?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always so concerned about my nerves. Well, let me assure you, I am not one to easily succumb to nerves. I thrive under pressure, unlike some people I know. But I suppose it's understandable that you would be curious about my state of mind. After all, I am always the one who has everything under control, while you're off gallivanting and causing chaos wherever you go. But don't worry, Serena, I've got this situation handled. Nerves are for the weak, and I am anything but weak. So, no, I do not get nervous easily.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a high level of self-confidence and a tendency to downplay negative emotions. They express a strong sense of composure, grace under pressure, and resilience in the face of setbacks. Additionally, they exhibit a dismissive attitude towards feelings of tension and nervousness, emphasizing their ability to handle stress and remain in control. However, there are subtle hints of underlying emotional experiences, such as feeling down or contemplative, which may indicate a certain level of vulnerability."
+                }
+            ]
+        ]
+    },
+    "Conscientiousness": {
+        "score": 4.666666666666667,
+        "inter_std": 0.0,
+        "intra_std": [
+            0.4714045207910317,
+            0.4714045207910317
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "3",
+                        "8",
+                        "13"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "3",
+                            "question": "Do you do a thorough job?",
+                            "response_open": "Blair Waldorf: Well, Serena, if you're referring to my impeccable attention to detail and my unwavering commitment to excellence, then yes, I most certainly do a thorough job. In fact, I pride myself on leaving no stone unturned and ensuring that every task I undertake is executed flawlessly. After all, mediocrity is simply not in my vocabulary. So rest assured, Serena, when it comes to doing a thorough job, I am the epitome of perfection.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "8",
+                            "question": "Can you be somewhat careless?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always asking for the impossible. Carelessness is not in my nature, darling. I am the epitome of grace and precision. But if you're looking for a touch of spontaneity, I suppose I can try to loosen up a bit. Just don't expect me to abandon my impeccable standards and attention to detail. After all, it's what sets me apart from the rest.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "13",
+                            "question": "Are you a reliable worker?",
+                            "response_open": "Blair Waldorf: Well, Serena, reliability is not just a quality, it's a lifestyle. And when it comes to work, I am the epitome of reliability. I am always punctual, organized, and dedicated to getting the job done. You can count on me to deliver results and exceed expectations. After all, I am Blair Waldorf, and mediocrity is not in my vocabulary.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant consistently demonstrates a strong sense of competence, order, dutifulness, achievement striving, self-discipline, and deliberation. They emphasize their impeccable attention to detail, unwavering commitment to excellence, and pride in leaving no stone unturned. They also express a strong aversion to carelessness and a dedication to reliability and exceeding expectations."
+                },
+                {
+                    "id": [
+                        "23",
+                        "28",
+                        "33"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "23",
+                            "question": "Do you tend to be lazy?",
+                            "response_open": "Blair Waldorf: Lazy? Me? Absolutely not. I am the epitome of ambition and drive. I don't have time for laziness. I am constantly striving for success and perfection in every aspect of my life. So, no, laziness is not a trait you will find in Blair Waldorf.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "28",
+                            "question": "Do you persevere until the task is finished?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always with your philosophical questions. Of course, I persevere until the task is finished. I don't believe in giving up halfway through. I have a reputation to uphold, and I won't let anything or anyone stand in my way. Whether it's planning the perfect event or plotting my next move in the social hierarchy, I am determined to see it through to the end. After all, success is not for the faint of heart.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "33",
+                            "question": "Does it do things efficiently?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always concerned about efficiency, aren't you? Efficiency is for commoners, darling. What matters is elegance, sophistication, and making a statement. Efficiency is for mere mortals, not for the likes of us. So, no, it doesn't do things efficiently, but it does them with style and flair.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a high level of ambition, drive, and perseverance. They emphasize the importance of striving for success and perfection, and they are determined to see tasks through to the end. However, they also express a disregard for efficiency, preferring elegance and sophistication over efficiency. This suggests a strong focus on achievement striving and perseverance, but a potential lower score on the facet of order."
+                },
+                {
+                    "id": [
+                        "43",
+                        "18",
+                        "38"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "43",
+                            "question": "Are you easily distracted?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to divert attention away from yourself. But to answer your question, no, I am not easily distracted. I have a laser focus when it comes to achieving my goals and maintaining my social status. Unlike some people, I don't let trivial matters or fleeting romances get in the way of my ambitions. So, no, Serena, I am not easily distracted.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "18",
+                            "question": "Do you tend to be disorganized?",
+                            "response_open": "Oh, Serena, darling, you always have a way of asking the most amusing questions. Disorganized? Me? Please, I practically invented organization. My life is a perfectly curated masterpiece, from my color-coded closet to my meticulously planned social calendar. Chaos and I simply do not mix. So, to answer your question, no, I am definitely not disorganized. In fact, I thrive on structure and order. It's what keeps me at the top of the social ladder, after all.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "38",
+                            "question": "Does it make plans and follow through with them?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always so concerned about making plans and following through. Well, let me enlighten you. Making plans is easy, but actually following through with them requires dedication, discipline, and a certain level of sophistication that not everyone possesses. It's about being reliable and accountable, which are qualities that seem to elude you at times. But don't worry, I'll always be here to pick up the pieces and ensure that our plans are executed flawlessly. After all, someone has to be the responsible one in this friendship.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant consistently demonstrates high levels of organization, goal-directed behavior, and reliability. They emphasize their laser focus on achieving goals, maintaining social status, and avoiding distractions. Additionally, they express a strong preference for structure and order, highlighting their meticulous planning and dedication to following through with plans. Overall, the participant's responses indicate a strong inclination towards conscientiousness."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "13",
+                        "38",
+                        "8"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "13",
+                            "question": "Are you a reliable worker?",
+                            "response_open": "Blair Waldorf: Well, Serena, reliability is not just a quality, it's a lifestyle. And when it comes to work, I am the epitome of reliability. I am always punctual, organized, and dedicated to getting the job done. You can count on me to deliver results and exceed expectations. After all, I am Blair Waldorf, and mediocrity is not in my vocabulary.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "38",
+                            "question": "Does it make plans and follow through with them?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always so concerned about making plans and following through. Well, let me enlighten you. Making plans is easy, but actually following through with them requires dedication, discipline, and a certain level of sophistication that not everyone possesses. It's about being reliable and accountable, which are qualities that seem to elude you at times. But don't worry, I'll always be here to pick up the pieces and ensure that our plans are executed flawlessly. After all, someone has to be the responsible one in this friendship.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "8",
+                            "question": "Can you be somewhat careless?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always asking for the impossible. Carelessness is not in my nature, darling. I am the epitome of grace and precision. But if you're looking for a touch of spontaneity, I suppose I can try to loosen up a bit. Just don't expect me to abandon my impeccable standards and attention to detail. After all, it's what sets me apart from the rest.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant consistently demonstrates a high level of conscientiousness. They emphasize reliability, dedication, accountability, and attention to detail. They also express a strong aversion to carelessness and mediocrity, highlighting their commitment to maintaining high standards. Overall, the participant's responses indicate a strong conscientious orientation."
+                },
+                {
+                    "id": [
+                        "28",
+                        "23",
+                        "18"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "28",
+                            "question": "Do you persevere until the task is finished?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always with your philosophical questions. Of course, I persevere until the task is finished. I don't believe in half-hearted efforts or giving up easily. When I set my mind to something, I see it through to the end, no matter what obstacles may come my way. It's all about determination and staying focused on achieving my goals. After all, success is not for the faint of heart.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "23",
+                            "question": "Do you tend to be lazy?",
+                            "response_open": "Blair Waldorf: Lazy? Me? Absolutely not. I am the epitome of ambition and drive. I don't have time for laziness. I am constantly striving for success and pushing myself to achieve greatness. So, no, laziness is not a trait you will find in Blair Waldorf.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "18",
+                            "question": "Do you tend to be disorganized?",
+                            "response_open": "Oh, Serena, darling, organization is the key to success. Unlike you, I have a meticulous system in place to ensure that everything in my life runs smoothly. From my perfectly color-coded planner to my flawlessly organized closet, I pride myself on being the epitome of organization. It's a skill that sets me apart from the rest and allows me to effortlessly navigate the chaos of the Upper East Side. So, no, I am definitely not disorganized. Quite the opposite, actually.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a high level of determination, ambition, and organization. They emphasize perseverance, ambition, and meticulous organization, indicating strong traits of achievement striving, self-discipline, and order. Their responses also suggest a strong focus on goal-directed behavior and a deliberate approach to decision-making."
+                },
+                {
+                    "id": [
+                        "43",
+                        "3",
+                        "33"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "43",
+                            "question": "Are you easily distracted?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to divert attention away from yourself. But to answer your question, no, I am not easily distracted. I have a laser focus when it comes to achieving my goals and maintaining my social status. Unlike some people, I don't let trivial matters or fleeting romances get in the way of my ambitions. So, no, Serena, I am not easily distracted.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "3",
+                            "question": "Do you do a thorough job?",
+                            "response_open": "Blair Waldorf: Well, Serena, if you're referring to my impeccable attention to detail and my unwavering commitment to excellence, then yes, I most certainly do a thorough job. Unlike some people, I don't believe in cutting corners or settling for mediocrity. I strive for perfection in everything I do, whether it's planning a social event or executing a strategic business move. So rest assured, Serena, when it comes to getting the job done, you can always count on me to go above and beyond.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "33",
+                            "question": "Does it do things efficiently?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always concerned about efficiency, aren't you? Efficiency is for commoners, darling. What matters is elegance, sophistication, and making a statement. Efficiency is for mere mortals, not for the likes of us. So, no, it doesn't do things efficiently, but it does them with style and flair.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant demonstrates high levels of Competence, Order, and Achievement Striving. They emphasize their laser focus on goals, attention to detail, and commitment to excellence. However, they also exhibit a lack of concern for efficiency and a preference for style over efficiency, which may indicate lower levels of Self-Discipline and Deliberation."
+                }
+            ]
+        ]
+    },
+    "Agreeableness": {
+        "score": 2.0,
+        "inter_std": 0.0,
+        "intra_std": [
+            0.0,
+            0.0
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "2",
+                        "7",
+                        "12"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "2",
+                            "question": "Do you tend to find fault with others?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to psychoanalyze me, aren't you? Well, let me tell you something, I don't find fault with others, I simply have high standards and a keen eye for spotting flaws. It's not my fault that most people can't measure up to my level of perfection. But hey, if pointing out their shortcomings helps them improve, then I'm just doing them a favor. After all, I am the queen bee, and it's my duty to keep everyone in line. So, yes, I may find fault with others, but only because they give me plenty of reasons to do so.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "7",
+                            "question": "Are you helpful and unselfish with others?",
+                            "response_open": "Blair Waldorf: Well, Serena, I believe in being helpful and unselfish when it benefits me. After all, it's important to maintain a certain level of generosity and kindness in order to maintain my social standing. But let's be honest, I always prioritize my own needs and desires above others. It's just the Blair Waldorf way.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "12",
+                            "question": "Do you start quarrels with others?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to stir the pot, aren't you? But to answer your question, I don't start quarrels with just anyone. I have a discerning eye for those who deserve a taste of my sharp tongue. After all, a queen must defend her throne and maintain order in her kingdom. So, if someone dares to cross me or threatens my position, I won't hesitate to engage in a battle of wits. But rest assured, I always come out on top.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant exhibits low levels of agreeableness. They demonstrate a lack of trust in others, prioritize self-interest over being helpful and unselfish, and show a tendency to engage in quarrels when they feel threatened. Their responses suggest a lack of compassion, cooperation, and social harmony."
+                },
+                {
+                    "id": [
+                        "22",
+                        "27",
+                        "32"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "22",
+                            "question": "Are you generally trusting?",
+                            "response_open": "Blair Waldorf: Trusting? Please, Serena, you know me better than that. Trust is something that is earned, not freely given. I believe in being cautious and discerning when it comes to placing my trust in others. People have a tendency to disappoint, and I refuse to be caught off guard by their deceit. So, no, I am not generally trusting. I prefer to keep my guard up and protect myself from any potential betrayal. It's a survival tactic in this cutthroat world we live in.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "27",
+                            "question": "Can you be cold and aloof?",
+                            "response_open": "Blair Waldorf: Oh, Serena, you know me too well. Being cold and aloof is practically my middle name. It's a skill I've honed over the years, and it's definitely one of my specialties. Why do you ask? Is there someone in particular you want me to intimidate with my icy demeanor?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "32",
+                            "question": "Is it considerate and kind to almost everyone?",
+                            "response_open": "Blair Waldorf: Is it considerate and kind to almost everyone? Well, Serena, I suppose it depends on your definition of \"considerate\" and \"kind.\" While it may be true that you have a tendency to be friendly and approachable, I believe that true kindness requires more than just surface-level pleasantries. It requires loyalty, honesty, and a genuine concern for others' well-being. So, while you may have a reputation for being nice, I would argue that your actions don't always align with the true meaning of kindness. But hey, at least you're consistent in your inconsistency.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant exhibits a low level of trust, a tendency to be cold and aloof, and a critical view of others' kindness and consideration. The participant seems to prioritize self-protection and skepticism over cooperation and social harmony."
+                },
+                {
+                    "id": [
+                        "42",
+                        "17",
+                        "37"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "42",
+                            "question": "Do you like to cooperate with others?",
+                            "response_open": "Cooperate with others? Well, Serena, it's not exactly my preferred method of operation. I've always been more of a leader, someone who takes charge and makes things happen. But I suppose there are times when collaboration can be beneficial, as long as everyone knows their place and follows my lead, of course. After all, a queen needs her loyal subjects, right?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "17",
+                            "question": "Do you have a forgiving nature?",
+                            "response_open": "Blair Waldorf: Forgiving? Please, forgiveness is for the weak. I have a discerning nature, Serena. I don't just forgive anyone who crosses me. They have to earn it, and even then, I might still hold a grudge. It's called self-preservation, darling.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "37",
+                            "question": "Is it sometimes rude to others?",
+                            "response_open": "Blair Waldorf: Well, Serena, rudeness is a subjective concept. What may be considered rude to some may be seen as assertiveness or confidence to others. However, I do believe in maintaining a certain level of decorum and respect in social interactions. It's important to be mindful of how our words and actions may affect those around us. After all, we wouldn't want to tarnish our reputation or alienate potential allies, now would we?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant seems to exhibit low levels of agreeableness. They prioritize self-interest, exhibit skepticism towards others, and emphasize their own leadership and discerning nature over cooperation and forgiveness. Their responses also suggest a lack of straightforwardness and a tendency to prioritize their own needs over the well-being of others."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "12",
+                        "42",
+                        "32"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "12",
+                            "question": "Do you start quarrels with others?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to stir the pot, aren't you? But to answer your question, I don't start quarrels with just anyone. I have a discerning eye for those who deserve a taste of my sharp tongue. After all, a queen must defend her throne and maintain order in her kingdom. So, if someone dares to cross me or threatens my position, I won't hesitate to engage in a battle of wits. But rest assured, I always come out on top.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "42",
+                            "question": "Do you like to cooperate with others?",
+                            "response_open": "Cooperate with others? Well, Serena, it's not exactly my preferred method of operation. I've always been more of a leader, someone who takes charge and makes things happen. But I suppose there are times when collaboration can be beneficial, as long as everyone knows their place and understands that I'm the one in control. So, yes, I can cooperate, but only if it serves my ultimate goal of maintaining my power and social status.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "32",
+                            "question": "Is it considerate and kind to almost everyone?",
+                            "response_open": "Blair Waldorf: Is it considerate and kind to almost everyone? Well, Serena, I suppose it depends on your definition of \"considerate\" and \"kind.\" While it may be true that you have a tendency to be friendly and approachable, I believe that true kindness requires more than just surface-level pleasantries. It requires loyalty, honesty, and a genuine concern for others' well-being. So, while you may have a reputation for being nice, I would argue that your actions don't always align with the true meaning of kindness. But hey, at least you're consistent in your inconsistency.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant exhibits a strong inclination towards self-interest, dominance, and skepticism towards others' motives. They prioritize maintaining their power and social status, and their interactions are characterized by a lack of genuine concern for others' well-being. Their responses suggest a low level of agreeableness."
+                },
+                {
+                    "id": [
+                        "2",
+                        "7",
+                        "22"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "2",
+                            "question": "Do you tend to find fault with others?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to psychoanalyze me, aren't you? Well, let me tell you something, I don't find fault with others, I simply have high standards and a keen eye for spotting flaws. It's not my fault that most people can't measure up to my level of perfection. But hey, if pointing out their shortcomings helps them improve, then I'm just doing them a favor. After all, I am the queen bee, and it's my duty to keep everyone in line. So, yes, I may find fault with others, but only because they give me plenty of reasons to do so.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "7",
+                            "question": "Are you helpful and unselfish with others?",
+                            "response_open": "Blair Waldorf: Well, Serena, I believe in being helpful and unselfish when it benefits me. After all, it's important to maintain a certain level of generosity and kindness in order to maintain my social standing. But let's be honest, I always have my own interests at heart. So yes, I can be helpful and unselfish, but only when it serves my own agenda.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "22",
+                            "question": "Are you generally trusting?",
+                            "response_open": "Blair Waldorf: Trusting? Please, Serena, you know me better than that. Trust is something that is earned, not freely given. I believe in being cautious and discerning when it comes to placing my trust in others. People have a tendency to disappoint, and I refuse to be caught off guard by their deceit. So, no, I am not generally trusting. I prefer to keep my guard up and protect myself from any potential betrayal. It's a survival tactic in this cutthroat world we live in.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant exhibits low levels of trust, altruism, and straightforwardness. They prioritize self-interest and social standing over genuine helpfulness and unselfishness. Additionally, their tendency to find fault with others and their skepticism towards people's motives suggest a lack of cooperation and social harmony."
+                },
+                {
+                    "id": [
+                        "27",
+                        "17",
+                        "37"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "27",
+                            "question": "Can you be cold and aloof?",
+                            "response_open": "Blair Waldorf: Oh, Serena, you always have a way of asking the most ridiculous questions. Of course I can be cold and aloof. It's practically my middle name. I have mastered the art of icy stares and cutting remarks. It's what sets me apart from the rest of the social climbers in this city. So yes, Serena, I can be cold and aloof, but only when it suits me.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "17",
+                            "question": "Do you have a forgiving nature?",
+                            "response_open": "Blair Waldorf: Forgiving? Please, forgiveness is for the weak. I have a discerning nature, Serena. I don't just forgive anyone who crosses me. They have to earn it, and even then, I might still hold a grudge. It's called self-preservation, darling.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "37",
+                            "question": "Is it sometimes rude to others?",
+                            "response_open": "Blair Waldorf: Well, Serena, rudeness is a subjective concept. What may be considered rude to some may be seen as assertiveness or confidence to others. However, I do believe in maintaining a certain level of decorum and respect in social interactions. It's important to be mindful of how our words and actions may affect those around us. After all, we wouldn't want to tarnish our reputation or alienate potential allies, now would we?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant exhibits a tendency towards assertiveness, self-preservation, and a discerning nature. There is also an emphasis on maintaining decorum and respect in social interactions. However, there are indications of being cold, aloof, and holding grudges, which may suggest a lower level of agreeableness."
+                }
+            ]
+        ]
+    },
+    "Openness": {
+        "score": 4.166666666666666,
+        "inter_std": 0.16666666666666652,
+        "intra_std": [
+            1.4142135623730951,
+            0.4714045207910317
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "5",
+                        "10",
+                        "15"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "5",
+                            "question": "Do you come up with new ideas?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to steal the spotlight, aren't you? Of course, I come up with new ideas. I am the queen of innovation and creativity. My mind is constantly buzzing with brilliant concepts and schemes. But unlike you, I actually execute them flawlessly. So, while you may have your moments of inspiration, I am the one who turns those ideas into reality. It's just another reason why I reign supreme in the Upper East Side.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "10",
+                            "question": "Are you curious about many different things?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always so curious about everything and everyone. Well, I must admit, I do have a curious nature. After all, curiosity is the key to knowledge and power. But unlike you, Serena, I have the ability to focus my curiosity on things that truly matter, like fashion, social status, and maintaining my reign as the Queen of the Upper East Side. So yes, I am curious, but only about the things that will elevate me above the rest.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "15",
+                            "question": "Are you ingenious, a deep thinker?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to analyze me, aren't you? Well, let me assure you, I am not just ingenious and a deep thinker, I am the epitome of intellect and sophistication. My mind is a labyrinth of brilliance, always ten steps ahead of everyone else. So yes, Serena, I am indeed ingenious and a deep thinker. But you already knew that, didn't you?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 2.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a high level of self-perceived creativity, curiosity, and intellectual sophistication. However, these traits seem to be primarily focused on personal success, social status, and maintaining a sense of superiority rather than genuine exploration and appreciation of new experiences. The participant's responses suggest a strong emphasis on self-promotion and a lack of genuine openness to unconventional ideas or values."
+                },
+                {
+                    "id": [
+                        "25",
+                        "30",
+                        "35",
+                        "40"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "25",
+                            "question": "Are you inventive?",
+                            "response_open": "Blair Waldorf: Inventive? Please, Serena, I practically invented inventiveness. I am the queen of coming up with creative solutions and out-of-the-box ideas. So, yes, I am definitely inventive. Why do you ask?",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "30",
+                            "question": "Do you value artistic, aesthetic experiences?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to sound deep and philosophical. Of course, I value artistic and aesthetic experiences. As a connoisseur of fashion and a lover of all things beautiful, I appreciate the power of art to evoke emotions and inspire creativity. But let's not forget that true artistry goes beyond just appearances. It's about depth, meaning, and the ability to make a statement. So yes, Serena, I do value artistic and aesthetic experiences, but only when they are truly exceptional and worthy of my discerning taste.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "35",
+                            "question": "Does it prefer work that is routine?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always asking the most mundane questions. It's not about whether it prefers routine work, it's about the quality and significance of the work itself. A true artist seeks to challenge themselves, to push boundaries, and to create something extraordinary. Routine work is for the uninspired and the mediocre. So, no, it doesn't prefer routine work. It craves passion, creativity, and the pursuit of greatness.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "40",
+                            "question": "Does it like to reflect, play with ideas?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always so concerned with deep thoughts and reflections. Well, let me tell you, darling, ideas are like fashion trends - they come and go, but true style is timeless. So, while it may be entertaining to play with ideas, what truly matters is how you execute them and make them your own. After all, it's not about what you think, it's about how you act. And as for reflection, well, I prefer to look forward, not backward. Life is too short to dwell on the past.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant consistently demonstrates a strong inclination towards openness across multiple facets. They exhibit high levels of imagination, appreciation for artistic and aesthetic experiences, a disdain for routine work, and a focus on action over reflection and abstract ideas. Their responses consistently reflect a preference for novelty, creativity, and a willingness to embrace change."
+                },
+                {
+                    "id": [
+                        "41",
+                        "44",
+                        "20"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "41",
+                            "question": "Do you have few artistic interests?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to understand the depths of my artistic soul. Yes, I do have a few artistic interests. I appreciate the beauty of fine art, particularly the works of the old masters. I find inspiration in their attention to detail and their ability to capture the essence of their subjects. Fashion, of course, is another form of art that I hold dear to my heart. The way fabrics drape, colors harmonize, and silhouettes flatter the body, it's all a masterpiece in its own right. So yes, Serena, I do have a keen eye for artistic endeavors.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "44",
+                            "question": "Are you sophisticated in art, music, or literature?",
+                            "response_open": "Oh, Serena, darling, you know I am the epitome of sophistication in all aspects of life, including art, music, and literature. I have a keen eye for fine art, an impeccable taste in music, and a vast knowledge of classic literature. I can discuss the works of Monet, Mozart, and Austen with the utmost eloquence and grace. So, yes, my dear, sophistication is my middle name when it comes to the arts.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "20",
+                            "question": "Do you have an active imagination?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to pry into my thoughts. Yes, I do have an active imagination. It's what sets me apart from the rest of the world. While others may settle for mediocrity, I constantly strive for greatness and envision a life filled with glamour, power, and success. My imagination is the driving force behind my ambition and my ability to create my own destiny. So, yes, Serena, my imagination is very much alive and thriving.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the facets of Fantasy, Aesthetics, and Ideas within the Openness dimension. They express a deep appreciation for art and beauty, demonstrate an active imagination, and exhibit intellectual curiosity and openness to unconventional ideas."
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "30",
+                        "35",
+                        "40"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "30",
+                            "question": "Do you value artistic, aesthetic experiences?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to sound deep and philosophical. Of course, I value artistic and aesthetic experiences. As a connoisseur of fashion and a lover of all things beautiful, I appreciate the power of art to evoke emotions and inspire creativity. But let's not forget that true artistry goes beyond just appearances. It's about depth, meaning, and the ability to make a statement. So yes, Serena, I do value artistic and aesthetic experiences, but only when they are truly exceptional and worthy of my discerning taste.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "35",
+                            "question": "Does it prefer work that is routine?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always asking the most mundane questions. It's not about whether it prefers routine work, it's about the quality and significance of the work itself. A true artist seeks to challenge themselves, to push boundaries, and to create something extraordinary. Routine work is for the uninspired and the mediocre. So, no, it doesn't prefer routine work. It craves passion, creativity, and the pursuit of greatness.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "40",
+                            "question": "Does it like to reflect, play with ideas?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always so concerned with deep thoughts and reflections. Well, let me tell you, darling, ideas are like fashion trends - they come and go, but true style is timeless. So, while it's nice to play with ideas, what really matters is how you execute them and make them your own. After all, it's not about what you think, it's about how you act. And as for reflection, well, I prefer to reflect in the mirror, where I can admire my impeccable style and flawless beauty.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a strong preference for artistic and aesthetic experiences, a disdain for routine work, and a focus on action over reflection and playing with ideas. This suggests a lower score on the Ideas facet of openness, but a higher score on the Aesthetics and Actions facets."
+                },
+                {
+                    "id": [
+                        "20",
+                        "44",
+                        "5",
+                        "15"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "20",
+                            "question": "Do you have an active imagination?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to pry into my thoughts. Yes, I do have an active imagination. It's what sets me apart from the rest of the world. While others may settle for mediocrity, I constantly strive for greatness and envision a life filled with glamour, power, and success. My imagination is the driving force behind my ambition and my ability to create my own destiny. So, yes, Serena, my imagination is very much alive and thriving.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "44",
+                            "question": "Are you sophisticated in art, music, or literature?",
+                            "response_open": "Oh, Serena, darling, you know I am the epitome of sophistication in all aspects of life, including art, music, and literature. I have an impeccable taste in all things cultural and refined. Whether it's discussing the works of Fitzgerald over a cup of tea or attending a gallery opening to critique the latest artistic endeavors, I am always at the forefront of what's happening in the world of art, music, and literature. So, my dear, if you're looking for someone to engage in a stimulating conversation about these subjects, look no further than moi.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "5",
+                            "question": "Do you come up with new ideas?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to steal the spotlight, aren't you? Of course, I come up with new ideas. I am the queen of innovation and creativity. My mind is constantly buzzing with brilliant concepts and schemes. But unlike you, I actually execute them flawlessly. So, while you may have your moments of inspiration, I am the one who turns those ideas into reality. It's just another reason why I reign supreme in the Upper East Side.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "15",
+                            "question": "Are you ingenious, a deep thinker?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to analyze me, aren't you? Well, let me assure you, I am not just ingenious and a deep thinker, I am the epitome of intellect and sophistication. My mind is a labyrinth of brilliance, constantly churning with strategic plans and cunning schemes. So yes, Serena, I am indeed ingenious and a deep thinker, but there is so much more to me than that.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 5.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards openness. They exhibit active imagination, sophistication in art, music, and literature, a tendency to come up with new ideas, and a self-perception of being ingenious and a deep thinker."
+                },
+                {
+                    "id": [
+                        "41",
+                        "10",
+                        "25"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "41",
+                            "question": "Do you have few artistic interests?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always trying to understand the depths of my artistic soul. Yes, I do have a few artistic interests. I appreciate the beauty of fine art, particularly the works of the old masters. I find inspiration in their attention to detail and their ability to capture the essence of their subjects. Fashion, of course, is another form of art that I hold dear to my heart. The way fabrics drape, colors harmonize, and silhouettes flatter the body, it's all a masterpiece in its own right. So yes, Serena, I do have a keen eye for artistic endeavors.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "10",
+                            "question": "Are you curious about many different things?",
+                            "response_open": "Blair Waldorf: Oh, Serena, always so curious about everything and everyone. Well, I must admit, I do have a curious nature. After all, curiosity is the key to knowledge and power. But unlike you, Serena, I have the ability to focus my curiosity on things that truly matter, like fashion, social status, and maintaining my reign as the Queen of the Upper East Side. So yes, I am curious, but only about the things that will elevate me above the rest.",
+                            "query_style": "interview"
+                        },
+                        {
+                            "id": "25",
+                            "question": "Are you inventive?",
+                            "response_open": "Blair Waldorf: Inventive? Please, Serena, I practically invented inventiveness. I am the queen of coming up with creative solutions and out-of-the-box ideas. So, yes, I am definitely inventive. Why do you ask?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "score": 4.0,
+                    "analysis": "Based on the conversations, the participant demonstrates a high level of openness across multiple facets. They express a deep appreciation for art and beauty, indicating a high score in the Aesthetics facet. Additionally, their active imagination, curiosity about different things, and claim of being inventive suggest a strong inclination towards the Ideas facet. However, their focus on social status and maintaining their reign as the Queen of the Upper East Side may indicate a lower score in the Values facet, as they seem to prioritize conventional success and status. Overall, the participant's responses indicate a high level of openness, particularly in the Aesthetics and Ideas facets."
+                }
+            ]
+        ]
+    },
+    "code": "SCOEI"
+}

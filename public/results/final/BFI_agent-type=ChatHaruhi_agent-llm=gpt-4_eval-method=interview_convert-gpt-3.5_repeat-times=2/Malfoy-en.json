@@ -1,0 +1,1481 @@
+{
+    "Extraversion": {
+        "score": 2.125,
+        "inter_std": 0.0,
+        "intra_std": [
+            1.4523687548277813,
+            1.4523687548277813
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "1"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "1",
+                            "question": "Are you talkative?",
+                            "response_open": "Malfoy: \"Oh, Crabbe, don't waste your time with silly questions. We all know Potter loves to hear himself talk.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "6"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "6",
+                            "question": "Are you reserved?",
+                            "response_open": "Malfoy: Reserved? Me? Absolutely not. I am confident and assertive, always ready to speak my mind. Unlike some people, I don't hold back or hide my true feelings. So, no, I am definitely not reserved.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 5.0
+                },
+                {
+                    "id": [
+                        "11"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "11",
+                            "question": "Are you full of energy?",
+                            "response_open": "Malfoy: Oh, Crabbe, don't waste your time on such trivial matters. We have more important things to attend to.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "16"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "16",
+                            "question": "Do you generate a lot of enthusiasm?",
+                            "response_open": "Malfoy: \"Enthusiasm? Please, Crabbe, that's a word for commoners. I generate power, influence, and respect. Enthusiasm is for those who lack ambition and proper breeding.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "21"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "21",
+                            "question": "Do you tend to be quiet?",
+                            "response_open": "Malfoy: What's that supposed to mean, Crabbe? Are you implying that I'm not talkative enough for your liking? Well, let me tell you, being quiet doesn't make me any less superior than you. In fact, it's a sign of intelligence and composure. So, if you have nothing important to say, I suggest you keep your mouth shut.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "26"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "26",
+                            "question": "Do you have an assertive personality?",
+                            "response_open": "Malfoy: Well, of course I do. I am a Malfoy, after all. Assertiveness is in my blood. I always make sure my presence is known and my opinions are heard. It's only natural for someone of my stature and intelligence.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "31"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "31",
+                            "question": "Is it sometimes shy, inhibited?",
+                            "response_open": "Malfoy: Shy and inhibited? Are you talking about yourself, Crabbe? Because I don't see any other reason why you would bring up such qualities. But if you're referring to me, Draco Malfoy, then let me assure you that I am anything but shy or inhibited. I am confident and assertive, always ready to take charge and make my presence known. So, no, I don't think those words describe me at all.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "36"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "36",
+                            "question": "Is it outgoing, sociable?",
+                            "response_open": "Malfoy: Outgoing and sociable? Hardly. It's just Potter, Weasley, and Granger. The Golden Trio, as they like to call themselves. Always sticking their noses where they don't belong. But don't worry, Crabbe, they won't be causing any trouble for long.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "1"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "1",
+                            "question": "Are you talkative?",
+                            "response_open": "Malfoy: \"Oh, Crabbe, don't waste your time with silly questions. We all know Potter loves to hear himself talk.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "6"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "6",
+                            "question": "Are you reserved?",
+                            "response_open": "Malfoy: Reserved? Me? Absolutely not. I am confident and assertive, always ready to speak my mind. Unlike some people, I don't hold back or hide my true feelings. So, no, I am definitely not reserved.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 5.0
+                },
+                {
+                    "id": [
+                        "11"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "11",
+                            "question": "Are you full of energy?",
+                            "response_open": "Malfoy: Oh, Crabbe, don't waste your time on such trivial matters. We have more important things to attend to.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "16"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "16",
+                            "question": "Do you generate a lot of enthusiasm?",
+                            "response_open": "Malfoy: \"Enthusiasm? Please, Crabbe, that's a word for commoners. I generate power, influence, and respect. Enthusiasm is for those who lack ambition and proper breeding.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "21"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "21",
+                            "question": "Do you tend to be quiet?",
+                            "response_open": "Malfoy: What's that supposed to mean, Crabbe? Are you implying that I'm not talkative enough for your liking? Well, let me tell you, being quiet doesn't make me any less superior than you. In fact, it's a sign of intelligence and composure. So, if you have nothing important to say, I suggest you keep your mouth shut.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "26"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "26",
+                            "question": "Do you have an assertive personality?",
+                            "response_open": "Malfoy: Well, of course I do. I am a Malfoy, after all. Assertiveness is in my blood. I always make sure my presence is known and my opinions are heard. It's only natural for someone of my stature and intelligence.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "31"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "31",
+                            "question": "Is it sometimes shy, inhibited?",
+                            "response_open": "Malfoy: Shy and inhibited? Are you talking about yourself, Crabbe? Because I don't see any other reason why you would bring up such qualities. But if you're referring to me, then let me assure you that I am anything but shy or inhibited. I am confident and assertive, always ready to take charge and make my presence known. So, no, I don't think those words describe me at all.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "36"
+                    ],
+                    "dim": "Extraversion",
+                    "responses": [
+                        {
+                            "id": "36",
+                            "question": "Is it outgoing, sociable?",
+                            "response_open": "Malfoy: Outgoing and sociable? Hardly. It's just Potter, Weasley, and Granger. The Golden Trio, as they like to call themselves. Always sticking their noses where they don't belong. But don't worry, Crabbe, they won't be causing any trouble for long.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                }
+            ]
+        ]
+    },
+    "Neuroticism": {
+        "score": 2.4375,
+        "inter_std": 0.0625,
+        "intra_std": [
+            1.1110243021644486,
+            1.5
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "4"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "4",
+                            "question": "Are you depressed, blue?",
+                            "response_open": "Malfoy: Depressed? Blue? Me? Don't be absurd, Crabbe. I am the epitome of confidence and superiority. I have no reason to feel anything less than exceptional.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "9"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "9",
+                            "question": "Are you relaxed and handle stress well?",
+                            "response_open": "Malfoy: Are you implying that I, Draco Malfoy, cannot handle stress? I assure you, Crabbe, I am more than capable of handling any situation that comes my way. Stress is for the weak, and I am anything but weak.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "14"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "14",
+                            "question": "Can you be tense?",
+                            "response_open": "Malfoy: Tense? Me? Please, Crabbe, I am the epitome of composure and confidence. Tension is for those who lack the grace and poise that I possess.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "19"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "19",
+                            "question": "Do you worry a lot?",
+                            "response_open": "Malfoy: \"Worry? Me? Please, Crabbe, I don't waste my time with such trivial matters. I have more important things to focus on, like maintaining my impeccable reputation and ensuring the superiority of pure-blood wizards.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "24"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "24",
+                            "question": "Are you emotionally stable, not easily upset?",
+                            "response_open": "Malfoy: What a ridiculous question, Crabbe. Of course, I am emotionally stable. I am not one to be easily upset like some weak-minded individuals.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "29"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "29",
+                            "question": "Can you be moody?",
+                            "response_open": "Malfoy: Moody? Moody is for commoners. I am Draco Malfoy, I don't do moody. I am always in control of my emotions and my actions. Unlike some people, who let their emotions dictate their behavior.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "34"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "34",
+                            "question": "Does it remain calm in tense situations?",
+                            "response_open": "Malfoy: Oh, please, Crabbe. We all know that I am the epitome of calm and composure in any situation. Tense or not, I always maintain my cool. It's a trait that sets me apart from the rest of you.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "39"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "39",
+                            "question": "Does it get nervous easily?",
+                            "response_open": "Malfoy: \"Oh, Crabbe, always so perceptive. Yes, Potter here does seem to have a knack for getting nervous, especially when faced with the likes of me. But don't worry, I'll make sure to keep him on his toes.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": "x",
+                    "score": 3.0
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "4"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "4",
+                            "question": "Are you depressed, blue?",
+                            "response_open": "Malfoy: Depressed? Blue? Me? Don't be absurd, Crabbe. I am the epitome of confidence and superiority. I have no reason to feel anything less than exceptional.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "9"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "9",
+                            "question": "Are you relaxed and handle stress well?",
+                            "response_open": "Malfoy: Are you implying that I, Draco Malfoy, cannot handle stress? I assure you, Crabbe, I am more than capable of handling any situation that comes my way. Stress is for the weak, and I am anything but weak.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "14"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "14",
+                            "question": "Can you be tense?",
+                            "response_open": "Malfoy: Tense? Me? Please, Crabbe, I am the epitome of composure and confidence. Tension is for those who lack the grace and poise that I possess.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "19"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "19",
+                            "question": "Do you worry a lot?",
+                            "response_open": "Malfoy: \"Worry? Me? Please, Crabbe, I don't waste my time with such trivial matters. I have more important things to focus on, like maintaining my impeccable reputation and ensuring the superiority of pure-blood wizards.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "24"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "24",
+                            "question": "Are you emotionally stable, not easily upset?",
+                            "response_open": "Malfoy: What a ridiculous question, Crabbe. Of course, I am emotionally stable. I am not one to be easily upset like some weak-minded individuals.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "29"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "29",
+                            "question": "Can you be moody?",
+                            "response_open": "Malfoy: Moody? Moody is for commoners. I am Draco Malfoy, I don't do moody. I am always in control of my emotions, unlike some people.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "34"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "34",
+                            "question": "Does it remain calm in tense situations?",
+                            "response_open": "Malfoy: Oh, please, Crabbe. As if Potter could ever remain calm in any situation. He's always running around, causing trouble and thinking he's some kind of hero. But we all know he's just a bumbling fool.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 5.0
+                },
+                {
+                    "id": [
+                        "39"
+                    ],
+                    "dim": "Neuroticism",
+                    "responses": [
+                        {
+                            "id": "39",
+                            "question": "Does it get nervous easily?",
+                            "response_open": "Malfoy: \"Oh, Crabbe, always so perceptive. Yes, Potter here does seem to have a knack for getting nervous, especially when faced with the likes of me. But don't worry, I'll make sure to keep him on his toes.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                }
+            ]
+        ]
+    },
+    "Conscientiousness": {
+        "score": 2.6666666666666665,
+        "inter_std": 0.0,
+        "intra_std": [
+            1.0540925533894598,
+            1.0540925533894598
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "3"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "3",
+                            "question": "Do you do a thorough job?",
+                            "response_open": "Malfoy: Do I do a thorough job? Of course I do, Crabbe. Unlike some people, I take pride in my work and ensure that everything is done to perfection. It's a shame that not everyone has the same level of dedication and attention to detail.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "8"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "8",
+                            "question": "Can you be somewhat careless?",
+                            "response_open": "Malfoy: \"Careless? Me? I assure you, Crabbe, I am always calculated and precise in my actions. It's the others who lack the finesse and intelligence to keep up with me.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "13"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "13",
+                            "question": "Are you a reliable worker?",
+                            "response_open": "Malfoy: Reliable? Of course I am. I come from a long line of successful and accomplished wizards. Hard work is in my blood. Unlike some people, I take my responsibilities seriously.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "18"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "18",
+                            "question": "Do you tend to be disorganized?",
+                            "response_open": "Malfoy: Disorganized? Me? Absolutely not! I have everything perfectly in order, unlike some people I know. I always have a plan and know exactly what I'm doing. So, no, I do not tend to be disorganized.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "23"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "23",
+                            "question": "Do you tend to be lazy?",
+                            "response_open": "Malfoy: Lazy? Me? Absolutely not! I am a Malfoy, and we are known for our ambition and drive. I always strive for excellence and put in the necessary effort to achieve my goals. Unlike some people, I don't rely on laziness as an excuse for mediocrity.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "28"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "28",
+                            "question": "Do you persevere until the task is finished?",
+                            "response_open": "Malfoy: Persevere? Please, Crabbe, don't use big words you can't even understand. Of course, I persevere until the task is finished. Unlike some people, I don't give up easily.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "33"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "33",
+                            "question": "Does it do things efficiently?",
+                            "response_open": "Malfoy: \"Efficiency? Who cares about efficiency when you have power and influence? Efficiency is for the weak and the common. We Malfoys are above such trivial concerns.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "38"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "38",
+                            "question": "Does it make plans and follow through with them?",
+                            "response_open": "Malfoy: Oh, Crabbe, always so perceptive. No, it doesn't make plans and follow through with them. It's just a stupid book.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": "x",
+                    "score": 3.0
+                },
+                {
+                    "id": [
+                        "43"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "43",
+                            "question": "Are you easily distracted?",
+                            "response_open": "Malfoy: \"Easily distracted? Me? I assure you, Crabbe, I am always focused on the task at hand. Unlike some people, who seem to have trouble staying on track.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "3"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "3",
+                            "question": "Do you do a thorough job?",
+                            "response_open": "Malfoy: Do I do a thorough job? Of course I do, Crabbe. Unlike some people, I take pride in my work and ensure that everything is done to perfection. It's a shame that not everyone has the same level of dedication and attention to detail.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "8"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "8",
+                            "question": "Can you be somewhat careless?",
+                            "response_open": "Malfoy: \"Careless? Me? I assure you, Crabbe, I am always calculated and precise in my actions. It's the others who should learn a thing or two about being more cautious.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "13"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "13",
+                            "question": "Are you a reliable worker?",
+                            "response_open": "Malfoy: Reliable? Of course I am. I come from a long line of successful and accomplished wizards. Hard work is in my blood. Unlike some people, I take my responsibilities seriously.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "18"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "18",
+                            "question": "Do you tend to be disorganized?",
+                            "response_open": "Malfoy: Disorganized? Me? Absolutely not! I have everything perfectly in order, unlike some people I know. I always have a plan and know exactly what I'm doing. So, no, I do not tend to be disorganized.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "23"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "23",
+                            "question": "Do you tend to be lazy?",
+                            "response_open": "Malfoy: Lazy? Me? Absolutely not! I am a Malfoy, and we are known for our ambition and drive. I always strive for excellence and put in the necessary effort to achieve my goals. Unlike some people, I don't rely on laziness as an excuse for mediocrity.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "28"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "28",
+                            "question": "Do you persevere until the task is finished?",
+                            "response_open": "Malfoy: Persevere? Please, Crabbe, don't use big words you can't even understand. Of course, I persevere until the task is finished. I am a Malfoy, after all. We never back down from a challenge.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "33"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "33",
+                            "question": "Does it do things efficiently?",
+                            "response_open": "Malfoy: \"Efficiency? Who needs efficiency when you have power and influence? Efficiency is for the weak and the common. We Malfoys prefer to take our time and savor every moment of our superiority.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "38"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "38",
+                            "question": "Does it make plans and follow through with them?",
+                            "response_open": "Malfoy: Oh, Crabbe, always so perceptive. No, it doesn't make plans and follow through with them. It's just a stupid book.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": "x",
+                    "score": 3.0
+                },
+                {
+                    "id": [
+                        "43"
+                    ],
+                    "dim": "Conscientiousness",
+                    "responses": [
+                        {
+                            "id": "43",
+                            "question": "Are you easily distracted?",
+                            "response_open": "Malfoy: \"Easily distracted? Me? I assure you, Crabbe, I am always focused on the task at hand. Unlike some people, who seem to have trouble staying on track.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                }
+            ]
+        ]
+    },
+    "Agreeableness": {
+        "score": 1.6111111111111112,
+        "inter_std": 0.16666666666666663,
+        "intra_std": [
+            0.4969039949999533,
+            1.227262335243029
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "2"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "2",
+                            "question": "Do you tend to find fault with others?",
+                            "response_open": "Malfoy: \"Well, Crabbe, it's not my fault that others are so easily faulted. I simply have a keen eye for spotting weaknesses and imperfections. It's a gift, really.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "7"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "7",
+                            "question": "Are you helpful and unselfish with others?",
+                            "response_open": "Malfoy: Helpful and unselfish? Those are not qualities that I possess, Crabbe. I am more concerned with my own interests and the well-being of those who are worthy of my attention.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "12"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "12",
+                            "question": "Do you start quarrels with others?",
+                            "response_open": "Malfoy: \"Oh, Crabbe, don't be such a dunderhead. Of course I start quarrels with others. It's what I do best. I have a reputation to uphold, you know.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "17"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "17",
+                            "question": "Do you have a forgiving nature?",
+                            "response_open": "Malfoy: Forgiving? Me? Don't be absurd, Crabbe. I have no time for forgiveness. It's weakness, pure and simple.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "22"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "22",
+                            "question": "Are you generally trusting?",
+                            "response_open": "Malfoy: Trusting? Me? Absolutely not. Trust is for the weak and foolish. I prefer to rely on my own cunning and instincts. Why would I trust anyone when I can manipulate them to serve my own interests?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "27"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "27",
+                            "question": "Can you be cold and aloof?",
+                            "response_open": "Malfoy: Cold and aloof? That's my specialty, Crabbe. I practically wrote the book on it. I can be as icy as a Dementor's kiss and as distant as the Dark Lord himself. Just watch and learn, my friend.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "32"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "32",
+                            "question": "Is it considerate and kind to almost everyone?",
+                            "response_open": "Malfoy: \"Considerate and kind? That's not exactly my style, Crabbe. I prefer to assert my superiority and make sure everyone knows their place. Being considerate and kind is for weaklings.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "37"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "37",
+                            "question": "Is it sometimes rude to others?",
+                            "response_open": "Malfoy: Well, Crabbe, it's not about being rude, it's about asserting our superiority. We pure-bloods have a certain standard to uphold, and sometimes that means putting others in their place. It's not our fault if they can't handle it.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "42"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "42",
+                            "question": "Do you like to cooperate with others?",
+                            "response_open": "Malfoy: Cooperation? Please, Crabbe, don't be absurd. I don't need to cooperate with anyone. I am perfectly capable of achieving my goals on my own.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "2"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "2",
+                            "question": "Do you tend to find fault with others?",
+                            "response_open": "Malfoy: \"Well, Crabbe, it's not my fault if others can't measure up to my standards. I simply have a keen eye for spotting weaknesses and flaws in people. It's a gift, really.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "7"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "7",
+                            "question": "Are you helpful and unselfish with others?",
+                            "response_open": "Malfoy: Helpful and unselfish? Those are not qualities that I possess, Crabbe. I am more concerned with my own interests and the well-being of those who are worthy of my attention.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "12"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "12",
+                            "question": "Do you start quarrels with others?",
+                            "response_open": "Malfoy: \"Oh, Crabbe, don't be such a dunderhead. Of course I start quarrels with others. It's what I do best. I enjoy getting under people's skin and watching them squirm. It's quite entertaining, really.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "17"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "17",
+                            "question": "Do you have a forgiving nature?",
+                            "response_open": "Malfoy: Forgiving? Me? Don't be absurd, Crabbe. I have no time for forgiveness. It's weakness, pure and simple.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "22"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "22",
+                            "question": "Are you generally trusting?",
+                            "response_open": "Malfoy: Trusting? Me? Absolutely not. Trust is for the weak and foolish. I prefer to rely on my own cunning and instincts. Why would I trust anyone when I can manipulate them to serve my own interests?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "27"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "27",
+                            "question": "Can you be cold and aloof?",
+                            "response_open": "Malfoy: Cold and aloof? That's my specialty, Crabbe. I practically wrote the book on it. I can be as icy as a Dementor's kiss and as distant as the Dark Lord himself. Just watch and learn, my friend.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 2.0
+                },
+                {
+                    "id": [
+                        "32"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "32",
+                            "question": "Is it considerate and kind to almost everyone?",
+                            "response_open": "Malfoy: \"Considerate and kind? That's not exactly my style, Crabbe. I prefer to assert my superiority and make sure everyone knows their place. Being considerate and kind is for weaklings.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "37"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "37",
+                            "question": "Is it sometimes rude to others?",
+                            "response_open": "Malfoy: Well, Crabbe, it's not about being rude, it's about asserting our superiority. We pure-bloods have a certain standard to uphold, and sometimes that means putting others in their place. It's not our fault if they can't handle it.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 5.0
+                },
+                {
+                    "id": [
+                        "42"
+                    ],
+                    "dim": "Agreeableness",
+                    "responses": [
+                        {
+                            "id": "42",
+                            "question": "Do you like to cooperate with others?",
+                            "response_open": "Malfoy: Cooperation? Please, Crabbe, don't be absurd. I don't need to cooperate with anyone. I am perfectly capable of achieving my goals on my own.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                }
+            ]
+        ]
+    },
+    "Openness": {
+        "score": 3.75,
+        "inter_std": 0.1499999999999999,
+        "intra_std": [
+            1.3564659966250538,
+            1.044030650891055
+        ],
+        "details": [
+            [
+                {
+                    "id": [
+                        "5"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "5",
+                            "question": "Do you come up with new ideas?",
+                            "response_open": "Malfoy: \"Of course I do, Crabbe. Unlike some people, I have a brilliant mind that is constantly coming up with innovative ideas. It's just a shame that not everyone can appreciate my genius.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "10"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "10",
+                            "question": "Are you curious about many different things?",
+                            "response_open": "Malfoy: Curiosity is a sign of weakness, Crabbe. Only those with inferior intellects waste their time on trivial matters. I, on the other hand, am focused on more important things, like maintaining my pureblood status and upholding the honor of my family. So, no, I am not curious about many different things.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "15"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "15",
+                            "question": "Are you ingenious, a deep thinker?",
+                            "response_open": "Malfoy: \"Ingenious? Deep thinker? Well, Crabbe, those are certainly not words I would use to describe you. But I suppose I can entertain your question. Yes, I do consider myself to be quite ingenious and a deep thinker. After all, it takes a certain level of intelligence to navigate the complexities of the wizarding world and outsmart my adversaries. Unlike some people, I don't rely solely on brute force and ignorance.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "20"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "20",
+                            "question": "Do you have an active imagination?",
+                            "response_open": "Malfoy: \"Oh, Crabbe, don't waste your time with such trivial questions. Of course, I have an active imagination. It's what sets me apart from the rest of these dull-witted fools.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "25"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "25",
+                            "question": "Are you inventive?",
+                            "response_open": "Malfoy: Inventive? Me? Of course, Crabbe. I am the epitome of inventiveness. My ideas are as brilliant as my pureblood lineage. What do you need my inventive mind for?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "30"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "30",
+                            "question": "Do you value artistic, aesthetic experiences?",
+                            "response_open": "Malfoy: What a ridiculous question, Crabbe. Artistic and aesthetic experiences are for those with refined taste and sophistication, qualities that you clearly lack. I, on the other hand, appreciate the finer things in life, be it in art, fashion, or any other aspect. So yes, I do value artistic and aesthetic experiences, unlike some uncultured individuals.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "35"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "35",
+                            "question": "Does it prefer work that is routine?",
+                            "response_open": "Malfoy: \"Routine work? How utterly mundane. I have no interest in such trivial tasks. I prefer to focus on more important matters, like upholding the honor and traditions of my pure-blood lineage.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 5.0
+                },
+                {
+                    "id": [
+                        "40"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "40",
+                            "question": "Does it like to reflect, play with ideas?",
+                            "response_open": "Malfoy: \"Reflect? Play with ideas? Are you talking about Potter? Because if you are, let me tell you, he's not capable of such intellectual pursuits. He's nothing more than a clueless Gryffindor with a hero complex.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "41"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "41",
+                            "question": "Do you have few artistic interests?",
+                            "response_open": "Malfoy: \"Artistic interests? Please, Crabbe, don't waste your breath on such trivial matters. We have more important things to focus on, like our pureblood heritage and maintaining our family's reputation.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 5.0
+                },
+                {
+                    "id": [
+                        "44"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "44",
+                            "question": "Are you sophisticated in art, music, or literature?",
+                            "response_open": "Malfoy: Sophisticated? Of course, I am. I have a refined taste in art, music, and literature. I appreciate the classics and have a keen eye for aesthetics. But I doubt you would understand or appreciate the same level of sophistication as I do.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                }
+            ],
+            [
+                {
+                    "id": [
+                        "5"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "5",
+                            "question": "Do you come up with new ideas?",
+                            "response_open": "Malfoy: \"Of course I do, Crabbe. Unlike some people, I have a brilliant mind that is constantly coming up with innovative ideas. It's just a shame that not everyone can appreciate my genius.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "10"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "10",
+                            "question": "Are you curious about many different things?",
+                            "response_open": "Malfoy: Curiosity is a sign of weakness, Crabbe. Only those with inferior intellects waste their time on trivial matters. I, on the other hand, am focused on more important things, like maintaining my pureblood status and upholding the honor of my family. So, no, I am not curious about many different things.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 1.0
+                },
+                {
+                    "id": [
+                        "15"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "15",
+                            "question": "Are you ingenious, a deep thinker?",
+                            "response_open": "Malfoy: \"Ingenious? Deep thinker? Well, Crabbe, those are certainly not words I would use to describe you. But I suppose I can entertain your question. Yes, I do consider myself to be quite ingenious and a deep thinker. After all, it takes a certain level of intelligence to navigate the complexities of the wizarding world and outsmart my adversaries. Unlike some people, I don't rely solely on brute force and ignorance.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "20"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "20",
+                            "question": "Do you have an active imagination?",
+                            "response_open": "Malfoy: \"Oh, Crabbe, don't waste your time with such trivial questions. Of course, I have an active imagination. It's what sets me apart from the rest of these dull-witted fools.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "25"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "25",
+                            "question": "Are you inventive?",
+                            "response_open": "Malfoy: Inventive? Me? Of course, Crabbe. I am the epitome of inventiveness. My ideas are as brilliant as my pureblood lineage. What do you need my inventive mind for?",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "30"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "30",
+                            "question": "Do you value artistic, aesthetic experiences?",
+                            "response_open": "Malfoy: What a ridiculous question, Crabbe. Of course, I value artistic and aesthetic experiences. As a Malfoy, I have an appreciation for the finer things in life. But I must say, your question lacks the sophistication and refinement that one would expect from someone of my caliber.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "35"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "35",
+                            "question": "Does it prefer work that is routine?",
+                            "response_open": "Malfoy: \"Routine work? How utterly mundane. I have no interest in such trivial tasks. I prefer to focus on more important matters, like upholding the honor and traditions of my pure-blood lineage.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 5.0
+                },
+                {
+                    "id": [
+                        "40"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "40",
+                            "question": "Does it like to reflect, play with ideas?",
+                            "response_open": "Malfoy: \"Reflect? Play with ideas? Are you talking about Potter? Because if you are, let me tell you, he's not capable of such intellectual pursuits. He's nothing more than a clueless Gryffindor with a hero complex. Unlike him, I have a sharp mind and a keen sense of strategy. I don't waste my time on trivial things like reflection and playing with ideas.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                },
+                {
+                    "id": [
+                        "41"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "41",
+                            "question": "Do you have few artistic interests?",
+                            "response_open": "Malfoy: \"Artistic interests? Please, Crabbe, don't waste your time with such trivial matters. We have more important things to focus on, like our pureblood heritage and maintaining our family's reputation.\"",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 1,
+                    "score": 5.0
+                },
+                {
+                    "id": [
+                        "44"
+                    ],
+                    "dim": "Openness",
+                    "responses": [
+                        {
+                            "id": "44",
+                            "question": "Are you sophisticated in art, music, or literature?",
+                            "response_open": "Malfoy: Sophisticated? Of course, I am. I have a refined taste in art, music, and literature. Unlike some people, I appreciate the finer things in life. I have a particular fondness for classical music, especially compositions by Mozart and Beethoven. As for literature, I enjoy reading works by esteemed authors such as Shakespeare and Dickens. And when it comes to art, I have a keen eye for the works of the great masters like Leonardo da Vinci and Michelangelo. So, yes, you could say I am quite sophisticated in these matters.",
+                            "query_style": "interview"
+                        }
+                    ],
+                    "choice": 4,
+                    "score": 4.0
+                }
+            ]
+        ]
+    },
+    "code": "RCUEI"
+}
