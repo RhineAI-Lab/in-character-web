@@ -22,9 +22,9 @@ export default class StageConfig {
   static Start(): StageConfig {
     return new StageConfig(
       '',
-      'Select Experiment',
-      'Select parameters to view the experiment results.',
-      '/background/5.jpg'
+      'In Character',
+      'Personality Assessments on Role-Playing Agents.',
+      '/background/4.jpg'
     )
   }
 

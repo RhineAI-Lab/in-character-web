@@ -32,10 +32,10 @@ export default class Round {
 
   static OverviewRound(): Round {
     return new Round(
-      [new Stage([], StageType.Overview)],
+      [new Stage([], StageType.Start)],
       RoundType.Overview,
       'Overview',
-      [StageConfig.Overview()]
+      [StageConfig.Start()]
     )
   }
 

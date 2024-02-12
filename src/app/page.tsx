@@ -294,6 +294,7 @@ export default function Show() {
           {
             !needEmpty && <div className={styles.main}>
               {stage.type == StageType.Overview && <Overview/>}
+              {stage.type == StageType.Start && <Start/>}
               {
                 stage.messages.map((item: any, index: number) => {
                   // console.log(item)

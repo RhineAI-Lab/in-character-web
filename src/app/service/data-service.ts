@@ -13,9 +13,17 @@ export default class DataService {
   } = proxy({
     rounds: [
       Round.OverviewRound(),
-      Round.StartRound(),
+      // Round.StartRound(),
     ],
     state: SessionState.Initial,
+  })
+
+  static config : {
+    args: string[][],
+    files: string[],
+  } = proxy({
+    args: [['ChatHaruhi', 'RoleLLM'], ['gpt-3.5', 'gpt-4'], ['interview', 'choose-gpt-3.5', 'choose-gpt-4'], ['0.25', '1', '2']],
+    files: ['ayaka-zh.json', 'Dumbledore-en.json', 'Harry-en.json', 'haruhi-zh.json', 'Hermione-en.json', 'hutao-zh.json', 'Luna-en.json', 'Malfoy-en.json', 'McGonagall-en.json', 'raidenShogun-zh.json', 'Raj-en.json', 'Ron-en.json', 'Sheldon-en.json', 'Snape-en.json', 'wanderer-zh.json', 'zhongli-zh.json', 'Blair Waldorf-en.json', 'Gaston-en.json', 'James Bond-en.json', 'Jigsaw-en.json', 'Jim Morrison-en.json', 'John Keating-en.json', 'Klaus Mikaelson-en.json', 'Lestat de Lioncourt-en.json', 'Lucifer Morningstar-en.json', 'Michael Scott-en.json', 'Rorschach-en.json', 'Shrek-en.json', 'The Dude-en.json', 'Thor-en.json', 'Twilight Sparkle-en.json', 'Walt Kowalski-en.json', 'traveler-zh.json', 'Caesar-en.json']
   })
 
 
