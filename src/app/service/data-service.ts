@@ -13,6 +13,7 @@ export default class DataService {
   } = proxy({
     rounds: [
       Round.OverviewRound(),
+      Round.StartRound(),
     ],
     state: SessionState.Initial,
   })
@@ -20,7 +21,7 @@ export default class DataService {
 
   static characters: any[] = []
 
-  static init() {
+  static loadFromResult() {
     for (const q of results) {
       let c = this.getCharacter(q['test_role'])
       c.questions.push({

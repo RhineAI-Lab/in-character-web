@@ -37,6 +37,7 @@ export default class Stage {
 
 export enum StageType {
   Overview = 'Overview Stage',
+  Start = 'Start Stage',
 
   ChooseEI = 'Choose EI Stage',
   ChooseSN = 'Choose SN Stage',

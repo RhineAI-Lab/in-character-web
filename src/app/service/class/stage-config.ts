@@ -19,6 +19,15 @@ export default class StageConfig {
     )
   }
 
+  static Start(): StageConfig {
+    return new StageConfig(
+      '',
+      'Select Experiment',
+      'Select parameters to view the experiment results.',
+      '/background/5.jpg'
+    )
+  }
+
   static ChooseEI(): StageConfig {
     return new StageConfig(
       'E/I',

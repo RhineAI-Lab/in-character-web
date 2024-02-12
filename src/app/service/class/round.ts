@@ -39,6 +39,15 @@ export default class Round {
     )
   }
 
+  static StartRound(): Round {
+    return new Round(
+      [new Stage([], StageType.Start)],
+      RoundType.Start,
+      'Start',
+      [StageConfig.Start()]
+    )
+  }
+
   static CharacterRound(name: string = 'Character', stages: Stage[]): Round {
     return new Round(
       stages,
@@ -56,6 +65,7 @@ export default class Round {
 
 export enum RoundType {
   Overview = 'Overview Round',
+  Start = 'Start Round',
   Character = 'Character Round',
   Unknown = 'Unknown Round',
 }
