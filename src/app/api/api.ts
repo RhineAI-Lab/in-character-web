@@ -68,8 +68,8 @@ export default class Api {
     let settings = await Api.getSettings()
     console.log(settings)
     if (settings && settings.characters && settings.resources) {
-      DataService.settings.characters = settings.characters
-      DataService.settings.resources = settings.resources
+      // DataService.settings.characters = settings.characters
+      // DataService.settings.resources = settings.resources
     }
   }
 

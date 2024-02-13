@@ -28,7 +28,7 @@ export default function Show() {
   function onFirstEnter() {
   }
   async function onFirstEffect() {
-    // DataService.loadFromResult()
+    DataService.loadFromResult('ayaka-zh')
   }
 
   const firstEnter = useRef<boolean>(true)
@@ -205,10 +205,6 @@ export default function Show() {
       resizeObserver.disconnect()
     }
   }, [])
-
-
-  // 单一局局部详细代码模式
-  let [activeId, setActiveId] = useState(-1)
 
 
   return (

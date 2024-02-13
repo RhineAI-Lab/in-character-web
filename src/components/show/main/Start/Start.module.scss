@@ -5,7 +5,7 @@
   flex-direction: column;
   width: 600px;
   min-width: 400px;
-  padding: 0 0 140px 0;
+  padding: 80px 0 140px 0;
 
   h1 {
     margin-bottom: 40px;
@@ -34,8 +34,26 @@
       flex-grow: 1;
     }
 
-    *:nth-child(2) {
+    md-filled-select {
+      flex-grow: 1;
+    }
+
+    md-filled-select:nth-child(2) {
       margin-left: 20px;
+    }
+  }
+
+  .fieldLine:nth-child(4) {
+
+    md-filled-select:nth-child(1) {
+      flex-grow: 7;
+    }
+  }
+
+  .fieldLine:nth-child(2) {
+
+    md-filled-select:nth-child(2) {
+      flex-grow: 2;
     }
   }
 
