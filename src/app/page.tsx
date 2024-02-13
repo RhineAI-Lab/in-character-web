@@ -28,7 +28,7 @@ export default function Show() {
   function onFirstEnter() {
   }
   async function onFirstEffect() {
-    DataService.loadFromResult('ayaka-zh')
+    // DataService.loadFromResult('ayaka-zh')
   }
 
   const firstEnter = useRef<boolean>(true)

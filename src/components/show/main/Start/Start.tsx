@@ -18,6 +18,7 @@ import DataService from "@/app/service/data-service";
 import {clsx} from "clsx";
 import {useSnapshot} from "valtio";
 import {func} from "prop-types";
+import {allow} from "@/app/service/data/results";
 
 export default function Start () {
   function onFirstEnter() {
@@ -40,15 +41,11 @@ export default function Start () {
 
   const configSnap = useSnapshot(DataService.config)
 
-  const [questionnaire, setQuestionnaire] = useState(configSnap.args[4][0])
-  const [agentType, setAgentType] = useState(configSnap.args[0][0])
-  const [agentLLM, setAgentLLM] = useState(configSnap.args[1][0])
-  const [repeatTimes, setRepeatTimes] = useState(configSnap.args[3][1])
-  const [evalMethod, setEvalMethod] = useState(configSnap.args[2][0])
-
-  function addData(data: any) {
-    console.log(data)
-  }
+  const [questionnaire, setQuestionnaire] = useState(allow[0].value)
+  const [agentType, setAgentType] = useState(allow[0].list[0].value)
+  const [evalMethod, setEvalMethod] = useState(allow[0].list[0].list[0].value)
+  const [agentLLM, setAgentLLM] = useState(allow[0].list[0].list[0].list[0].value)
+  const [repeatTimes, setRepeatTimes] = useState(allow[0].list[0].list[0].list[0].list[1].value)
 
   function start() {
     const folderUrl = `/results/final/${questionnaire}_agent-type=${agentType}_agent-llm=${agentLLM}_eval-method=${evalMethod}_repeat-times=${repeatTimes}/`
@@ -62,7 +59,7 @@ export default function Start () {
         fetch(url).then((response) => {
           if (response.status === 200){
             response.json().then(data => {
-              addData(data)
+              DataService.loadFromResult(data, file)
               successNum++
             }).catch(e => {
               failNum++
@@ -88,7 +85,7 @@ export default function Start () {
           setQuestionnaire(e.target.value)
         }}>
           {
-            configSnap.args[4].map((t, i) => {
+            configSnap.args[0].map((t, i) => {
               return <md-select-option key={i} value={t}>
                 <div slot="headline">{t}</div>
               </md-select-option>
@@ -99,7 +96,7 @@ export default function Start () {
           setAgentType(e.target.value)
         }}>
           {
-            configSnap.args[0].map((t, i) => {
+            configSnap.args[1].map((t, i) => {
               return <md-select-option key={i} value={t}>
                 <div slot="headline">{t}</div>
               </md-select-option>
@@ -123,7 +120,7 @@ export default function Start () {
           setAgentLLM(e.target.value)
         }}>
           {
-            configSnap.args[1].map((t, i) => {
+            configSnap.args[3].map((t, i) => {
               return <md-select-option key={i} value={t}>
                 <div slot="headline">{t}</div>
               </md-select-option>
@@ -134,7 +131,7 @@ export default function Start () {
           setRepeatTimes(e.target.value)
         }}>
           {
-            configSnap.args[3].map((t, i) => {
+            configSnap.args[4].map((t, i) => {
               return <md-select-option key={i} value={t}>
                 <div slot="headline">{t}</div>
               </md-select-option>

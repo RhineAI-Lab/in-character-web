@@ -29,7 +29,7 @@ export default function Resources () {
     }
   }, [])
 
-  const data = useSnapshot(DataService.settings.resources)
+  const data: any[] = []
 
   const [name, setName] = useState('')
   const [owner, setOwner] = useState('C0000')
