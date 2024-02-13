@@ -58,7 +58,7 @@ export default class DataService {
               score: q['score'],
               test_role: name,
             }
-            console.log(q, message)
+            // console.log(q, message)
             stages[fi].push(message)
           }
         }
