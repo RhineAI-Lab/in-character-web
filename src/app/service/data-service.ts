@@ -36,9 +36,25 @@ export default class DataService {
       new Stage([], StageType.ChooseTF),
       new Stage([], StageType.ChoosePJ),
     ]
-    for(const factor of this.tps) {
-      for (const q of results[factor]['details']) {
-        console.log(q)
+    for(const fi in this.tps) {
+      const factor = this.tps[fi]
+      for (const group of results[factor]['details']) {
+        for (const q of group) {
+          for (const response of q['responses']) {
+            const message = {
+              id: response['id'],
+              question: response['question'],
+              responseOpen: response['response_open'],
+              responseClosed: response['response_closed'],
+              factor: q['dim'],
+              choice: q['choice'],
+              score: q['score'],
+              test_role: name,
+            }
+            console.log(q, message)
+            stages[fi].push(message)
+          }
+        }
       }
     }
     let round = Round.CharacterRound(name, stages)

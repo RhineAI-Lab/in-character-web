@@ -307,7 +307,10 @@ export default function Show() {
                         </div>
                         <span className={styles.space}></span>
                         <div className={clsx(styles.tag)}>
-                          <span>Question</span>
+                          <span>Choice {item.choice}</span>
+                        </div>
+                        <div className={clsx(styles.tag)}>
+                          <span>Score {item.score.toFixed(1)}</span>
                         </div>
                       </div>
                       <div className={styles.text}>
@@ -317,10 +320,14 @@ export default function Show() {
                         <p>
                           {item.responseOpen}
                         </p>
-                        <h3>Response Closed</h3>
-                        <p>
-                          {item.responseClosed}
-                        </p>
+                        {
+                          item.responseClosed && item.responseClosed.length > 0 && <h3>Response Closed</h3>
+                        }
+                        {
+                          item.responseClosed && item.responseClosed.length > 0 && <p>
+                            {item.responseClosed}
+                          </p>
+                        }
                       </div>
                     </div>
                   } else if (item.analysis) {

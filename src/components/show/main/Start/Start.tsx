@@ -43,7 +43,7 @@ export default function Start () {
   const [questionnaire, setQuestionnaire] = useState(configSnap.args[4][0])
   const [agentType, setAgentType] = useState(configSnap.args[0][0])
   const [agentLLM, setAgentLLM] = useState(configSnap.args[1][0])
-  const [repeatTimes, setRepeatTimes] = useState(configSnap.args[3][0])
+  const [repeatTimes, setRepeatTimes] = useState(configSnap.args[3][1])
   const [evalMethod, setEvalMethod] = useState(configSnap.args[2][0])
 
   function addData(data: any) {
