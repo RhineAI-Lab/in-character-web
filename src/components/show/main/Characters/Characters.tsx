@@ -29,7 +29,7 @@ export default function Characters () {
     }
   }, [])
 
-  const data = useSnapshot(DataService.settings.characters)
+  const data: any[] = []
 
   const [name, setName] = useState('')
   const [main, setMain] = useState(false)
