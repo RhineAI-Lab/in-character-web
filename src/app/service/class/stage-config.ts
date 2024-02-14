@@ -32,7 +32,7 @@ export default class StageConfig {
     return new StageConfig(
       'E/I',
       'E/I',
-      'Example Session For UI Design. Only has one round now. Other descriptions...',
+      'Extraversion (E) vs Introversion (I): Extraverts recharge by engaging with the external world and social interactions, while introverts gain energy from solitude and internal reflection.',
       '/background/2.jpg'
     )
   }
@@ -41,7 +41,7 @@ export default class StageConfig {
     return new StageConfig(
       'S/N',
       'S/N',
-      'Example Session For UI Design. Only has one round now. Other descriptions...',
+      'Sensing (S) vs Intuition (N): Sensing individuals concentrate on current realities and practical details, while Intuitive individuals look towards future possibilities and abstract concepts.',
       '/background/9.jpg'
     )
   }
@@ -50,7 +50,7 @@ export default class StageConfig {
     return new StageConfig(
       'T/F',
       'T/F',
-      'Example Session For UI Design. Only has one round now. Other descriptions...',
+      'Thinking (T) vs Feeling (F): Thinking individuals prioritize logic and efficiency in decision-making, while Feeling individuals value empathy and harmony, focusing on people\'s emotions and needs.',
       '/background/8.png',
       true
     )
@@ -60,7 +60,7 @@ export default class StageConfig {
     return new StageConfig(
       'P/J',
       'P/J',
-      'Example Session For UI Design. Only has one round now. Other descriptions...',
+      'Perceiving (P) vs Judging (J): Perceivers (P) are open and flexible, preferring to explore and keep options open, while Judgers (J) are structured and goal-oriented, focusing on organization and planning.',
       '/background/11.jpg'
     )
   }
@@ -69,7 +69,7 @@ export default class StageConfig {
     return new StageConfig(
       'Summary',
       'Summary',
-      'Example Session For UI Design. Only has one round now. Other descriptions...',
+      'The comprehensive summary page of character MBTI score information.',
       '/background/1.jpg'
     )
   }

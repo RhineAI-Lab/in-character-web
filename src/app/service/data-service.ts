@@ -37,14 +37,20 @@ export default class DataService {
 
   static loadFromResult(data: any, file: string) {
     let name = file.split('.')[0]
+    let avatar = name.split('-')[0]
     try {
-      name = characters[name]['alias'][0]
+      if (name.endsWith('-zh')) {
+        name = characters[name]['alias'][characters[name]['alias'].length - 1]
+      } else {
+        name = characters[name]['alias'][0]
+      }
     } catch (e) {}
     let stages: Stage[] = [
       new Stage([], StageType.ChooseEI),
       new Stage([], StageType.ChooseSN),
       new Stage([], StageType.ChooseTF),
       new Stage([], StageType.ChoosePJ),
+      new Stage([], StageType.Summary),
     ]
     for(const fi in this.tps) {
       const factor = this.tps[fi]
@@ -60,6 +66,7 @@ export default class DataService {
               choice: q['choice'],
               score: q['score'],
               test_role: name,
+              avatar: avatar
             }
             // console.log(q, message)
             stages[fi].push(message)

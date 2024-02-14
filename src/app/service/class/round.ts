@@ -58,6 +58,7 @@ export default class Round {
         StageConfig.ChooseSN(),
         StageConfig.ChooseTF(),
         StageConfig.ChoosePJ(),
+        StageConfig.Summary(),
       ]
     )
   }

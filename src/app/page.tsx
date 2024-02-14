@@ -252,7 +252,7 @@ export default function Show() {
             <img src={config.cover} alt=''/>
             <div className={styles.content}>
               <h1 className={clsx(styles.title, config.shadow ? styles.textShadow : '')}>{config.title}</h1>
-              <div className={styles.session}>{config.description}</div>
+              <div className={clsx(styles.session, config.shadow ? styles.textShadowMin : '')}>{config.description}</div>
             </div>
           </div>
           <div
@@ -298,7 +298,7 @@ export default function Show() {
                     return <div className={styles.message} key={index}>
                       <div className={styles.info}>
                         <div className={clsx(styles.item, styles.from)}>
-                          <img src='/profile/user.png' alt=''/>
+                          <img src={'/icons/' + item.avatar + '.jpg'} alt=''/>
                         </div>
                         <div className={clsx(styles.between)}>
                           <span>{round.name}</span>
