@@ -1,0 +1,1788 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 51.666666666666664,
+            "all_scores": [
+                45.0,
+                58.75,
+                51.25
+            ],
+            "inter_std": 5.621140651346685,
+            "intra_std": [
+                16.583123951777,
+                12.43734296383275,
+                24.076700355322778
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Bond: Ah, M, always curious about my social life. Well, in my line of work, making new friends can be a bit tricky. You see, trust is a precious commodity, and it's not easily earned. However, I do have a few trusted allies and contacts that I rely on from time to time. But when it comes to making new friends, let's just say I prefer to keep my circle small and my enemies closer. After all, you never know when someone might turn out to be a double agent or a hired assassin.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Bond: \"I find that it's always best to maintain a certain air of mystery at social events. After all, one never knows who may be listening or watching. However, when the situation calls for it, I do have a knack for introducing myself in the most captivating manner, leaving a lasting impression on those lucky enough to cross my path.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Bond: Absolutely, M. I find it quite natural to approach someone who catches my attention and engage them in a conversation. It's all part of the charm and intrigue of being a secret agent. A well-placed word can be as deadly as a bullet, after all.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, <the participant> exhibits a preference for maintaining a small circle of trusted allies, maintaining an air of mystery at social events, and feeling comfortable approaching someone interesting for a conversation. However, the overall tone and focus on maintaining secrecy and the preference for a small circle suggest a stronger inclination towards Introversion (I)."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Bond: Ah, group activities. Not exactly my preferred mode of operation, M. I find that I work best alone, relying on my own instincts and skills. However, when the situation calls for it, I can adapt and work effectively with others. After all, teamwork can be quite useful in certain circumstances, as long as everyone knows their place and doesn't get in the way of my mission.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Bond: Leadership roles are not my specialty, M. I prefer to work alone, relying on my instincts and skills to get the job done. However, when the situation calls for it, I am more than capable of taking charge and leading a team to victory. After all, a true spy knows how to adapt to any situation and make the necessary decisions to ensure success.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Bond: \"On the contrary, M. Drawing attention to oneself can be a useful tactic in certain situations. It allows me to assess the reactions of those around me, creating a distraction while I gather intelligence or make my move. However, I am always mindful of maintaining a certain level of subtlety and sophistication in my actions, as to not reveal my true intentions or compromise the mission at hand.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, <the participant> exhibits a preference for introversion (I) over extraversion (E). They express a clear preference for working alone and relying on their own instincts and skills. Additionally, they mention a capability to take charge and lead a team, but this is framed within the context of specific situations rather than a general inclination towards leadership roles. Furthermore, they emphasize the importance of maintaining subtlety and sophistication, indicating a preference for a more introspective and strategic approach."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Bond: Ah, M, always the one to recognize the need for a little R&R. Indeed, a lively social event can be just the ticket to rejuvenate one's spirits and recharge the batteries. Count me in, sir. Shall I bring my tuxedo or do you have a specific dress code in mind?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Bond: \"Avoid making phone calls, M? Quite the contrary. I find that a well-placed phone call can be just as deadly as any bullet or bomb. It's all about using the right words, the right tone, and knowing how to manipulate the person on the other end of the line. Communication is a weapon in our line of work, and I'm a master of wielding it.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Bond: My dear M, as a secret agent, my social circle is rather...selective. I must admit that my line of work doesn't leave much time for socializing. However, when the need arises, I am more than capable of contacting my associates and initiating activities. After all, maintaining a network of contacts is crucial in my line of work.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Bond: \"Working alone has its advantages, M. It allows for greater flexibility and secrecy, enabling me to operate with maximum efficiency and discretion. While I do appreciate the occasional collaboration with capable allies, my training and experience have prepared me to excel in solitary missions. After all, it's often in the solitude that one can truly focus on the task at hand and make the necessary split-second decisions that can mean the difference between success and failure.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the responses, <the participant> demonstrates a balanced mix of both extraverted and introverted traits, indicating an ambivert personality."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "James Bond: Ah, M, you know me well. While I do appreciate the allure of quiet, intimate places, I must admit that I am indeed more drawn to the busy, bustling atmospheres. There's an energy in those places that fuels my adrenaline and keeps me on my toes. It's in those crowded streets and vibrant cities where danger often lurks, and it is my duty to navigate through the chaos and restore order. So, yes, I find myself gravitating towards the hustle and bustle of life, always ready for the next thrilling adventure.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Bond: Oh, M, I never worry about making a good impression. I simply assume that I already have. After all, my reputation precedes me. People know who I am and what I'm capable of. It's my job to leave a lasting impression, whether it's with my charm, my expertise, or my ability to get the job done. So, no, I don't worry about making a good impression. I just focus on being myself and letting my actions speak for me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Bond: Well, M, as much as I enjoy the company of others, the nature of my work often requires me to be a lone wolf. It's in those solitary moments that I can truly focus on the task at hand and utilize my skills to their fullest potential. However, I do appreciate the occasional camaraderie and collaboration with my fellow agents, as it adds another layer of complexity to the job. After all, teamwork makes the mission successful, doesn't it?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, <the participant> leans more towards Extraversion (E) than Introversion (I)."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "1",
+                            "31",
+                            "43"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Bond: \"Well, M, I wouldn't say I make friends in the traditional sense. In my line of work, trust is a rare commodity. However, I do find myself encountering fascinating individuals along the way, some of whom I may develop a certain... rapport with. But ultimately, my loyalty lies with Queen and country.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Bond: \"Well, M, as much as I enjoy the company of others, I find solace in my own thoughts and actions. Being a secret agent often requires moments of solitude and introspection. It allows me to focus on the mission at hand and remain vigilant. However, I do appreciate the support and camaraderie of my fellow agents when the situation calls for it.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Bond: Well, M, as a secret agent, my social circle tends to be a bit more... secretive. However, when it comes to contacting friends, I do have my ways of reaching out. Whether it's a rendezvous at an exotic location or a discreet meeting in a cozy bar, I always ensure that I'm the one taking the initiative. After all, a gentleman spy must be in control of every aspect of his life, including his social engagements.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 55.0,
+                        "analysis": "Balanced with a slight inclination towards extraversion."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "15",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Bond: Ah, M, you know me well. While I appreciate the camaraderie that comes with teamwork, I must admit that I've always been more of a lone wolf. It allows me to operate with the utmost efficiency and adaptability, without the encumbrance of relying on others. But when the situation calls for it, I can certainly appreciate the synergy that comes with a well-oiled team. After all, I am a team player when necessary.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Bond: M, I never worry about making a good impression. It's always been my nature to leave a lasting impression. Whether it's through my wit, charm, or my impeccable style, people tend to remember the time they spent in my company. After all, I am James Bond, and I always strive to be unforgettable.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "James Bond: Comfortable? I find it more exhilarating than comfortable, M. Approaching someone of interest and engaging them in conversation is an art form, a dance of words and wit. It's about reading their body language, sensing their desires, and adapting my approach accordingly. A suave, confident demeanor goes a long way, allowing me to effortlessly charm my way into any situation. So, to answer your question, M, striking up a conversation is not just comfortable for me, it's second nature.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a strong preference for Extraversion (E). They express enjoyment in participating in group activities, emphasize leaving a lasting impression on people, and find it exhilarating to approach someone interesting and strike up a conversation. Although they mention being a lone wolf at times, their overall demeanor and behavior lean more towards extraversion."
+                    },
+                    {
+                        "id": [
+                            "6",
+                            "51",
+                            "53",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Bond: Well, M, as you know, being a secret agent often requires me to maintain a certain level of anonymity. However, when I do find myself in social events, I do enjoy engaging new acquaintances with my charm and wit. After all, one must always be adaptable in any situation, whether it be defusing a bomb or navigating a crowded room full of potential threats.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Bond: Indeed, M. As a solitary operative, I thrive in the shadows, where my skills can be put to best use. The solitude allows me to move swiftly and silently, without the encumbrance of a team. It is in those moments, when I am alone, that I truly excel in my craft. So, yes, I would love a job that requires me to work alone most of the time. It is where I am at my best.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Bond: Ah, M, you always have a way of getting to the heart of the matter. I must admit, I do have an affinity for the energy and vibrancy of bustling cities. The anonymity they provide, the constant hum of activity, it suits my nature as a man of action. But let's not forget, there's a certain allure to the quiet, intimate places as well. They offer respite, a chance to gather one's thoughts before plunging back into the fray. So, I suppose you could say I appreciate both ends of the spectrum, M. It's all about finding the right balance, wouldn't you agree?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Bond: \"On the contrary, M. Drawing attention is an integral part of my profession. However, I do possess the ability to blend seamlessly into any situation, allowing me to operate covertly when necessary. It's a delicate balance between being noticed and remaining undetected, and I pride myself on executing that with precision.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a blend of both extraverted and introverted traits. They seem to enjoy engaging with new acquaintances at social events and appreciate the energy of bustling cities, indicating some level of extraversion. However, they also express a preference for working alone and finding respite in quiet, intimate places, suggesting introverted tendencies. Additionally, their profession requires them to draw attention when necessary but also operate covertly, showcasing a balance between extraversion and introversion."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "36",
+                            "21"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Bond: \"I avoid making unnecessary phone calls, M. In the line of work we're in, it's best to minimize electronic communication as much as possible. You never know who might be listening in.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Bond: \"Indeed, M. A lively social event would be just the tonic to rejuvenate the soul after a strenuous week of espionage and danger. It would provide the perfect opportunity to unwind, indulge in some elegant company, and perhaps even gather valuable intelligence along the way. Count me in, M.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Bond: I wouldn't say I avoid leadership roles, M. I simply prefer to operate independently, where I can make split-second decisions and act on my instincts without the need for committee discussions. However, when the situation calls for it, I am more than capable of taking charge and leading a team to victory. After all, leadership is all about adaptability and knowing when to take control.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Balanced mix of extraverted and introverted tendencies."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "15",
+                            "53",
+                            "21"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Bond: \"Worrying about making a good impression is not my primary concern, M. I have learned that confidence and charisma go a long way in my line of work. My focus lies in achieving the mission objectives and ensuring the safety of the British Empire. However, I do understand the importance of maintaining a certain level of charm and professionalism when dealing with influential individuals or potential allies.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Bond: Ah, M, you know me well. I must confess, the allure of busy, bustling places does hold a certain appeal to me. The energy, the constant movement, it keeps me on my toes, always ready for action. However, I do appreciate the occasional respite in quiet, intimate places. A moment of solace amidst the chaos, if you will. But ultimately, it is the thrill of the chase and the adrenaline of the mission that truly captivate me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "James Bond: \"On the contrary, M, I thrive in leadership roles. While I may prefer to work alone in the field, I understand the importance of effective teamwork and the need for a strong leader to guide the mission. Leadership requires a combination of strategic thinking, quick decision-making, and the ability to inspire and motivate others. As a British secret agent, I have been trained to excel in all these areas, ensuring that I can lead a team to success while still maintaining my own independence and effectiveness.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a balanced approach to both extraversion and introversion. While they express a preference for busy, bustling atmospheres and leadership roles, they also value occasional solace and personal effectiveness."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "1",
+                            "16"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Bond: \"I must confess, M, I find phone calls rather tedious. They lack the personal touch that I prefer in my line of work. However, when duty calls, I will not shy away from utilizing any means necessary to accomplish the mission at hand. Whether it's a phone call or a face-to-face meeting, I am always prepared to adapt and overcome any obstacle.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Bond: Making new friends is not exactly my specialty, M. However, I do have a knack for charming the right people when the situation calls for it. Sometimes, it's necessary for the mission at hand. But in the end, it's the quality of the few friends you can truly trust that matters. Quality over quantity, as they say.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Bond: Group activities? Well, I must admit, I prefer working alone. I find it allows me to be more efficient and, shall we say, adaptable to the unpredictable nature of my missions. However, I have been known to work with a select few individuals when the situation calls for it. But rest assured, when it comes to getting the job done, I am always the one who leads the charge.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 25.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for solitude and individual work. They express a tendency to work alone, prioritize quality over quantity in friendships, and find phone calls tedious due to the lack of personal touch. However, they also mention being adaptable and working with a select few individuals when necessary for the mission. Overall, the participant's responses lean more towards introversion."
+                    },
+                    {
+                        "id": [
+                            "11",
+                            "43",
+                            "31",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Bond: Absolutely, M. It's all about confidence and the art of conversation. A well-timed approach can open doors and reveal valuable information. Whether it's at a glamorous cocktail party or in the heart of enemy territory, I have honed my skills in engaging with anyone, regardless of the circumstances. After all, a charming conversation can be just as deadly as a hidden weapon.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Bond: Well, M, as much as I enjoy the occasional soirée and mingling with the upper echelons of society, I must admit that my line of work often leaves little time for socializing. However, when I do find myself in the company of friends, rest assured that I make every effort to ensure that our activities are nothing short of thrilling and unforgettable. After all, a man of my caliber wouldn't settle for anything less than the extraordinary.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Bond: Well, M, as much as I appreciate the company of others, there are times when a spy like myself must rely on his own skills and instincts. Being on my own allows me to maintain a certain level of focus and independence, which are crucial in my line of work. However, I must admit that having the right person by my side can make all the difference in this dangerous world.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Bond: Ah, M, the solitary life of a secret agent. Well, I must say, there is a certain allure to it. The freedom to operate independently, to rely on my own instincts and skills, it's quite invigorating. Besides, being alone allows me to focus solely on the mission at hand, without distractions. So, yes, I do enjoy the solitude that comes with my line of work. It suits me just fine.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for solitude and independence, as well as a focus on personal skills and instincts. However, there are also indications of enjoying social interactions and the ability to engage with others when necessary, especially in the context of their line of work as a spy. This suggests a balanced approach to both extraversion and introversion."
+                    },
+                    {
+                        "id": [
+                            "26",
+                            "36",
+                            "6"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Bond: On the contrary, M. I believe in making an entrance. Drawing attention is a necessary part of the job, but I do so with style and finesse. After all, why blend in when you can stand out? A well-tailored suit, a touch of charm, and a hint of danger are all it takes to leave a lasting impression.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Bond: \"Indeed, M. A lively social event would be a welcome respite from the rigors of espionage and danger. It provides an opportunity to showcase my charm and wit, while also keeping a keen eye out for any potential threats or intelligence gathering. I shall ensure that I am impeccably dressed and ready to mingle with the elite, all while maintaining a vigilant watch for any nefarious activities.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Bond: Well, M, as a man of mystery and intrigue, I do find it more comfortable to engage with those I already know at social events. It allows me to maintain a certain level of discretion and control over the situation. However, when the need arises, I can effortlessly introduce myself to new people, employing my charm and charisma to leave a lasting impression. After all, it's all part of the job, isn't it?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Extraversion (E). They express a desire to draw attention to themselves, enjoy lively social events, and are comfortable introducing themselves to new people when necessary."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 56.666666666666664,
+            "all_scores": [
+                66.66666666666667,
+                43.333333333333336,
+                60.0
+            ],
+            "inter_std": 9.813067629253164,
+            "intra_std": [
+                18.856180831641264,
+                26.246692913372705,
+                28.284271247461902
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Bond: My dear M, I must confess that my free time is often occupied with matters of great importance to Queen and country. However, when I do find a moment to myself, I do enjoy expanding my knowledge on a variety of subjects. Whether it's delving into the world of fine wines or mastering the art of seduction, I believe in being well-rounded in all aspects of life. After all, a man of intelligence is a man of power.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Bond: \"M, while I appreciate the value of intellectual discourse, my expertise lies in the field of espionage and combat. I leave the discussions of creative works to those with a more refined taste. My focus is on protecting Queen and country, not engaging in literary debates.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Bond: Well, M, I must admit that I prefer a clear and decisive ending in both books and movies. As an agent, I deal with enough ambiguity and uncertainty in my line of work. I appreciate a well-crafted story that ties up loose ends and leaves no room for interpretation. Clarity is key, especially when it comes to matters of life and death.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Bond: Worrying is for the weak, M. As a secret agent, I always expect the unexpected and prepare for any situation that comes my way. I thrive in adversity and embrace the challenges that lie ahead. It is my duty to protect the world and ensure that things never take a turn for the worse.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, <the participant> leans more towards Sensing (S) than Intuition (N), showing a preference for concrete, practical, and present-focused information."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Bond: \"Well, M, art has its place, but I tend to appreciate the more practical aspects of life. I prefer action over aesthetics, substance over style. That being said, I do have an eye for beauty when it comes to certain things.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "James Bond: 「Ah, the ever-philosophical question of what lies beyond the realm of the living. Death, my dear M, has always held a certain fascination for me. But as an agent of Her Majesty's Secret Service, my focus lies more in preserving life rather than pondering its afterlife. However, I must admit that my encounters with danger and mortality have given me a unique perspective on the subject. Life is precious, M, and I intend to make the most of it while I am still breathing.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Bond: Not at all, M. I thrive on challenges, whether they be physical or intellectual. Engaging in theoretical discussions allows me to exercise my mind and explore different perspectives. It is through such discourse that we uncover new ideas and strategies that can be applied to our line of work. So, rest assured, M, my interest remains unwavering, regardless of the subject matter.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "Bond: Ah, M, always probing into my personal interests. Well, I must say that art museums do have their appeal. The elegance, the culture, and the opportunity to appreciate the finer things in life. However, my true passion lies in the thrill of espionage and the pursuit of justice. Art, while captivating, does not quite compare to the adrenaline rush of a high-stakes mission. But I do appreciate the beauty and craftsmanship that can be found within those hallowed halls.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, <the participant> leans more towards the Sensing (S) side of the S/N dimension."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Bond: My dear M, understanding different views is an essential part of my line of work. As an agent, I must be able to anticipate and counter the actions of individuals with vastly different perspectives and motivations. It is through this understanding that I can effectively navigate the treacherous waters of espionage and accomplish my mission with precision and finesse. So, to answer your question, yes, I do invest considerable time in comprehending the minds of those who oppose me. It is a skill that has proven invaluable in my endeavors.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Bond: Ah, M, contemplating the reasons for human existence and the meaning of life is a luxury I can ill afford. My duty lies in protecting queen and country, and that often means plunging headfirst into dangerous situations without much time for philosophical musings. However, I do find solace in knowing that my actions, however small, contribute to a greater purpose of preserving peace and stability in the world. After all, in this line of work, it's not about the meaning of life, but rather the preservation of it.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Bond: Ah, M, always the one to challenge my intellect. I must admit, pondering abstract philosophical questions can be a refreshing change of pace from the dangers and intrigues of our line of work. It allows for introspection and the exploration of deeper meanings in life. However, when duty calls, I must prioritize action over contemplation. After all, the world doesn't save itself, does it?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Bond: Controversy tends to follow me wherever I go, M. But intrigue is my middle name. I thrive in the face of danger and the unknown. Controversy only serves to heighten the stakes and make the game all the more thrilling. So, yes, I am indeed intrigued by things labeled as controversial. It keeps life interesting, wouldn't you say?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "The participant leans more towards Intuition (N) with a slight inclination towards Sensing (S)."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "22",
+                            "37",
+                            "20",
+                            "32"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Bond: Well, M, I may not be known for my artistic talents, but I do have an eye for beauty, whether it be in a painting or a woman. My skills lie more in the realm of espionage and combat, but I appreciate the finer things in life when I encounter them. After all, a well-crafted plan or a perfectly executed mission can be a work of art in its own right.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "Bond: Ah, M, always trying to delve into my personal interests. Well, I must admit, art museums do hold a certain allure for me. The elegance and sophistication of the art world can be quite captivating. However, my true passion lies in the thrill of the chase, the danger of espionage, and the art of seduction. So while I appreciate the beauty of art, my true calling lies in a different realm altogether.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Bond: Worrying is a luxury I can't afford, M. I have learned to expect the unexpected and adapt to any situation. It's part of the job description. However, I do believe in being prepared for the worst-case scenario, as it allows me to stay one step ahead of my adversaries. So, while I may not worry, I am always cautious and ready for whatever challenges come my way.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Bond: \"On the contrary, M. I find that highly theoretical discussions often provide valuable insights and opportunities for strategic thinking. It's in those moments that I can truly exercise my intellect and assess the potential implications and consequences of various scenarios. Besides, theoretical discussions tend to reveal hidden truths and expose vulnerabilities that can be exploited to our advantage. So, no, I do not become bored or lose interest when the discussion gets highly theoretical. Quite the opposite, in fact.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for Intuition (N) over Sensing (S). They express an appreciation for beauty and elegance, but their true passion lies in the thrill of the chase, danger, and strategic thinking. They also emphasize the importance of being prepared for the unexpected and value theoretical discussions for strategic thinking and uncovering hidden truths. These tendencies align more with the Intuition (N) preference."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "52",
+                            "2",
+                            "30"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Bond: My dear M, understanding different views is a crucial aspect of my line of work. As a secret agent, I must be able to adapt to various situations and comprehend the motivations of those I encounter. It is through this understanding that I am able to navigate the treacherous world of espionage and ultimately fulfill my mission. So, yes, I do spend considerable time delving into the minds of those with opposing views, for it is in their minds that I find the key to success.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Bond: Well, M, while I do appreciate the practicality of focusing on the mission at hand, I believe that pondering abstract philosophical questions can provide valuable insights and perspectives. It's important to maintain a balance between the world of action and the world of thought. After all, a sharp mind is just as lethal as a loaded gun. So, I wouldn't necessarily consider it a waste of time, but rather a way to broaden one's understanding of the world and the motivations of our adversaries.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Bond: Oh, I do enjoy expanding my knowledge and keeping up with the ever-changing world. Whether it's delving into the depths of art and culture or immersing myself in the latest technological advancements, I find it essential to stay well-informed. After all, a well-rounded agent is a formidable one. Knowledge is power, and in my line of work, power can save lives.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Bond: Ah, M, the age-old question of what lies beyond the veil of death. An intriguing topic, indeed. While my line of work has often forced me to confront mortality head-on, I must admit that I've pondered the possibilities on more than one occasion. However, in the midst of my missions, the pursuit of the truth about the afterlife takes a back seat to ensuring that I remain among the living. After all, it's my duty to protect queen and country, both in this life and, if one exists, the next.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Intuition (N). They express a keen interest in understanding different perspectives, pondering abstract philosophical questions, exploring various random topics, and contemplating the question of what happens after death. These responses indicate a preference for future possibilities, abstract thinking, and a focus on broader concepts rather than just the present and tangible aspects."
+                    },
+                    {
+                        "id": [
+                            "17",
+                            "12",
+                            "57",
+                            "46"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Bond: Interpretation is for artists and philosophers, not spies. I prefer my endings to be clear-cut and decisive, just like my missions. Life and death situations don't leave much room for ambiguity.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Bond: Ah, M, always trying to steer me away from the intellectual pursuits. But you know me, I prefer action over endless debates. Interpretations and analyses may have their place, but when it comes to creative works, I find it more thrilling to immerse myself in the action and uncover the truth. After all, there's nothing quite like living in the moment and experiencing the adrenaline rush firsthand.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Bond: Intrigue is my middle name, M. Controversy has a way of piquing my curiosity and driving me to seek the truth. It's in those gray areas that the most dangerous secrets lie. Rest assured, I'll navigate through the controversy with finesse and uncover the hidden truths.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Bond: Well, sir, contemplating the existential questions of life is not something that occupies my mind on a regular basis. My focus tends to be on more immediate matters, such as neutralizing threats to national security and ensuring the safety of the free world. However, I must admit that the fleeting moments of reflection between missions do provide some food for thought. After all, amidst the chaos and danger, one cannot help but wonder about the purpose and meaning of it all. But in the end, duty calls, and I must remain steadfast in my mission to protect queen and country.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for Sensing (S) over Intuition (N). They emphasize the importance of clear-cut and decisive endings, action over endless debates, and immediate matters such as neutralizing threats and ensuring safety. While they do show some moments of reflection, their focus remains on tangible, practical concerns."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "12",
+                            "32",
+                            "52",
+                            "2"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Bond: Well, M, I must say that while I appreciate the depth and intricacy of creative works, my primary focus lies in action and getting the job done. I leave the interpretations and analyses to the academics and critics. My role is to assess the situation, neutralize the threat, and ensure the safety of Queen and country. So, unless there's a hidden code or a secret message within those discussions, I'll stick to what I know best – espionage and combat.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Bond: I must admit, M, that I find myself more inclined towards action than lengthy theoretical discussions. However, I do understand the importance of intelligence and strategy in our line of work. While I may not possess the patience for excessive theorizing, I am always willing to engage in discussions that provide valuable insights and aid in achieving our objectives. After all, it's the practical application of knowledge that truly excites me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Bond: \"Well, M, I do believe that there is a time and place for philosophical contemplation. However, in the line of duty, my focus is primarily on action and getting the job done. While pondering abstract questions may have its merits, I prefer to direct my energy towards practical solutions and ensuring the safety of the realm. After all, time is a precious resource, and wasting it on idle musings can be a luxury we can ill afford in our line of work.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Bond: \"Indeed, M. As an agent of MI6, it is essential to maintain a wide breadth of knowledge and constantly stay informed about various subjects. Whether it be art, history, or the latest technological advancements, I make it a point to delve into these topics during my downtime. You never know when a seemingly trivial piece of information might prove crucial in the field.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a preference for practicality, action, and concrete knowledge. They prioritize the application of knowledge in achieving objectives and ensuring safety. While they acknowledge the importance of intelligence and strategy, they tend to focus on real-world implications rather than theoretical discussions or abstract philosophical questions. However, they do express an interest in exploring various topics to maintain a wide breadth of knowledge, which aligns with their practical approach."
+                    },
+                    {
+                        "id": [
+                            "57",
+                            "30",
+                            "46",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Bond: Controversy is just another layer of intrigue, M. It adds spice to the mission and keeps things interesting. I thrive on the edge, where the line between right and wrong becomes blurred. Controversial matters often reveal hidden truths and expose the dark underbelly of the world. So yes, I find myself quite intrigued by them. They provide the perfect backdrop for my unique talents and allow me to make a difference in the world.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Bond: Ah, M, always probing the depths of the human psyche. Indeed, the question of what lies beyond the realm of mortality has intrigued me from time to time. But in my line of work, I find it more prudent to focus on the here and now, ensuring that the forces of evil do not prematurely send me to that great beyond. After all, there's plenty of life left to live, and plenty of villains to stop before I can even contemplate the mysteries of the afterlife.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Bond: \"Ah, M, contemplating the meaning of life is a luxury I rarely have the time for. My existence is devoted to serving queen and country, protecting innocent lives, and thwarting the plans of villains. The meaning of life, in my line of work, is to ensure that evil doesn't triumph over good. So, while I may not have the luxury of deep philosophical musings, I am fully committed to my purpose and duty.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "Bond: Ah, M, always trying to uncover my hidden depths. While I appreciate the finer things in life, my true passion lies in the thrill of the chase and the excitement of the mission. Art museums, though undoubtedly a source of cultural enrichment, do not quite align with my particular tastes. I prefer the adrenaline-pumping adventures that come with being a British secret agent. But who knows, perhaps one day I'll find myself appreciating the art world in a more... hands-on manner.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards intuition (N). They are drawn to controversial matters, intrigued by the question of what lies beyond mortality, and express a focus on the bigger picture and future possibilities rather than the present concrete details. Their responses consistently reflect a preference for abstract thinking and a tendency to contemplate the unknown and potential opportunities."
+                    },
+                    {
+                        "id": [
+                            "17",
+                            "22",
+                            "42",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Bond: Well, M, I must say that I prefer stories with clear-cut endings. Life as a secret agent is often filled with uncertainty and ambiguity, so when it comes to entertainment, I like a bit of closure. However, I can appreciate the allure of leaving things open to interpretation, as it allows for endless speculation and discussion. But ultimately, I believe that a good story should provide a satisfying resolution, much like the missions I undertake for Her Majesty's Secret Service.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Bond: Artistic? Well, I do appreciate the finer things in life, but I prefer to express myself through action rather than art. While others may find solace in painting or poetry, I find my canvas on the field, where my skills as a secret agent truly come alive. Art may be subjective, but the art of espionage requires precision, strategy, and a keen eye for detail. So, while I may not be known for my artistic endeavors, I assure you, I am a master of my craft.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Bond: Well, M, understanding different views is crucial in my line of work. It helps me anticipate the moves of my adversaries and adapt to ever-changing situations. However, I must admit that I prioritize my mission above personal understanding. In the world of espionage, one must be able to navigate through the gray areas of morality and make tough decisions. Understanding others is a useful tool, but ultimately, it's about protecting the greater good.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Bond: \"Worrying is not in my nature, M. I have learned to trust my training, instincts, and the resources at my disposal. I am always prepared for any situation and confident in my ability to adapt and overcome. After all, a true agent knows that worrying only clouds the mind and hinders success.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the responses, <the participant> aligns more with the Sensing (S) preference."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 72.66666666666667,
+            "all_scores": [
+                75.0,
+                67.0,
+                76.0
+            ],
+            "inter_std": 4.0276819911981905,
+            "intra_std": [
+                11.832159566199232,
+                18.867962264113206,
+                13.564659966250536
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Bond: My dear M, I'm afraid I'm not one to shed tears easily. As an agent, I've trained myself to remain composed in the face of adversity. While I may empathize with those who are in distress, my duty is to take action and resolve the situation, rather than succumb to sentimentality. Crying is not a luxury I can afford in my line of work.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Bond: Indeed, M. Keeping a cool head in the face of pressure is a prerequisite for any good secret agent. It is in those intense moments that one's true character is revealed, and I pride myself on my ability to remain calm and composed. After all, panic and haste can lead to fatal mistakes, and I cannot afford to make such errors in my line of work. So, rest assured, M, when the pressure is on, I am the epitome of calm and collected.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Bond: Sentimental? Not particularly, sir. In my line of work, sentimentality can be a liability. However, I do have a deep appreciation for certain things in life, such as fine wine, fast cars, and beautiful women. But when it comes to the mission, sentimentality takes a back seat to duty and the greater good.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Bond: Doubt? I wouldn't go as far as to say doubt, M. More like a momentary pause for reflection. It's in those moments that I strengthen my resolve and push forward, knowing that my overall abilities and knowledge are second to none. A small mistake is just an opportunity to learn and improve, ensuring that I remain at the top of my game. After all, in my line of work, there's no room for doubt or second-guessing oneself.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, <the participant> leans more towards the Thinking (T) side of the T/F dimension."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Bond: My dear M, as much as I appreciate the complexities of matters of the heart, I have learned over the years that in the line of duty, it is imperative to prioritize the logical and calculated approach. Emotions can cloud judgment and hinder one's ability to make the necessary decisions to protect queen and country. However, I must admit that there have been occasions where matters of the heart have influenced my actions, for better or worse. It is a delicate balance, and one that I strive to maintain in order to be the best agent I can be.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Bond: Ah, M, always probing into the depths of my psyche. Well, I must admit that while I do take great satisfaction in achieving my own accomplishments, there is a certain fulfillment that comes from helping others succeed. It's not just about the end result, but the knowledge that I've made a difference in someone else's life, that I've played a part in their success. After all, being a secret agent isn't just about saving the world, it's about making it a better place for everyone.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Bond: Ah, M, always the one for philosophical questions. Well, in my line of work, rationality is certainly a valuable asset. It allows one to analyze situations objectively, make sound decisions, and stay one step ahead of the game. However, one must also consider the human element. Emotions can provide us with valuable insight and intuition, helping us navigate the complexities of espionage. It's about striking the right balance, M, using both rationality and emotions to our advantage. After all, it takes a certain finesse to be a successful secret agent.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "James Bond: Well, M, I must admit that watching people argue is not at the top of my list of preferred pastimes. However, it can be quite amusing to observe the dynamics of a heated debate. It often reveals the true nature of individuals and their motivations, which can be quite useful in my line of work. But when it comes to personal enjoyment, I find more pleasure in a well-mixed martini and a captivating companion.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, <the participant> leans more towards the Thinking (T) side of the T/F dimension."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "Bond: Of course, M. As a secret agent, I've learned to adapt to any situation and keep my emotions in check. My ability to quickly switch from one mood to another is a vital skill in this line of work. Whether it's remaining calm under pressure or turning on the charm to seduce an informant, I am always in control of my emotions. It's part of what makes me an effective and unpredictable agent.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "James Bond: Efficiency is a virtue that I hold in high regard, M. However, I understand that not everyone possesses the same level of skill and expertise as I do. Patience is a necessary quality in my line of work, as it allows me to navigate through the complexities of espionage with precision and finesse. It is my duty to guide and support those who may not be as efficient, helping them become better agents in the process. After all, teamwork is crucial in our line of work, and I am always ready to lead by example.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Bond: Empathy is not a quality I typically associate with my line of work, M. However, as a secret agent, it is essential to understand and adapt to different situations and individuals. While I may not have experienced the same hardships or circumstances as others, I can certainly appreciate the importance of empathy in gathering information, building relationships, and ultimately achieving success in my missions. So, to answer your question, I may not find it easy, but I can certainly empathize when the situation demands it.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Bond: My dear M, understanding other people's feelings is a nuanced art, one that requires empathy and intuition. While I may not always wear my heart on my sleeve, I assure you that I possess a keen understanding of human nature. It's a skill honed through years of observation, deduction, and yes, even personal experiences. Emotions may not always be my strong suit, but I can assure you that when it comes to the mission at hand, I am fully focused and capable of reading people like an open book.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 55.0,
+                        "analysis": "Based on the responses, <the participant> demonstrates a balanced approach to the T/F dimension, with indications of both Thinking and Feeling traits."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Bond: Insecurity is not a luxury I can afford, M. Confidence is the key to success in my line of work. However, it would be remiss of me to claim that I am impervious to doubt. There have been moments, fleeting though they may be, when uncertainty has crept into my thoughts. But it is in those moments that I rely on my training, my instincts, and my unwavering determination to prevail. After all, as they say, \"The only true failure is the failure to try.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Bond: \"M, mistakes are a part of life, but dwelling on them won't change the past. It's what we do in the present that defines us. I've learned from my mistakes and used them to fuel my determination to protect Queen and country. There's no time for regrets in this line of work.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Bond: Emotions are a luxury I can't afford, M. In my line of work, it's imperative to maintain a cool and calculated demeanor. While I may be driven by a desire for justice and a duty to protect, I never let my emotions cloud my judgment. Control is key, and I am always in command of my emotions, never the other way around.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Bond: M, I always strive to maintain the utmost professionalism and discretion in my dealings. While I may be aware of the faults of others, it is not my place to make them look bad. My focus is on accomplishing the mission at hand and ensuring the safety of those who rely on me. However, rest assured, I will not hesitate to expose the truth if it is necessary for the greater good.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a preference for logic, analysis, and objectivity in decision-making, as well as a focus on maintaining control over emotions and prioritizing professionalism and discretion."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Bond: Disappointment is a luxury I can't afford, M. My job is to deliver results, not to seek approval. I am well aware of my own capabilities and the risks I take. The moment I start worrying about others' opinions is the moment I lose focus on the mission at hand. Rest assured, I will continue to exceed expectations and protect our country with every ounce of my being.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Bond: Well, M, as an astute observer of human behavior, I've become quite adept at deciphering the subtle nuances that betray one's emotions. A fleeting glance, a slight twitch of the mouth, or even a telltale glimmer in the eyes can reveal a person's true state of mind. It's all part of the job, you see, to be able to read people like an open book. It's a skill that comes with experience and a keen eye for detail.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Bond: Overwhelmed? Not at all, sir. I thrive in high-pressure situations. It's where I do my best work.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Bond: \"M, I believe that every opportunity should be assessed on its own merits. However, if I were to come across a situation where someone else's need outweighed my own, I would consider passing along the opportunity. After all, it is not just about personal gain, but also about making the world a better place. In my line of work, sacrifices are often necessary, and it is important to prioritize the greater good.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "The participant exhibits a strong preference for the Thinking (T) dimension, emphasizing logic, objectivity, and efficiency in decision-making."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "3",
+                            "18",
+                            "54",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Bond: Well, M, as a secret agent, I've learned to compartmentalize my emotions. While empathy is an important trait, I must remain focused on the task at hand. Seeing others cry may evoke sympathy, but it doesn't necessarily elicit the same response in me. My duty is to protect and serve, and sometimes that requires making hard decisions that others may not understand or agree with. So, to answer your question, it's not a matter of wanting to cry, but rather channeling those emotions into fuel for action.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "James Bond: (leans back in his chair, a faint smirk playing on his lips) Ah, M, you always manage to delve into the depths of my character. While I do find great satisfaction in accomplishing my own missions, there is a certain thrill that comes from helping others achieve their goals. Whether it be aiding a fellow agent in their mission or saving innocent lives, the satisfaction derived from such acts is immeasurable. After all, what good is a man without a purpose beyond his own self-interest?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Bond: Naturally, I possess an acute sense of observation. Years of training and experience have honed my ability to read people, allowing me to discern their emotions and motivations with a mere glance. It's a valuable skill in my line of work, as it helps me stay one step ahead of my adversaries.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Bond: M, I always strive to maintain a level of professionalism and discretion in my dealings. While I may not always agree with the actions or behavior of others, it is my duty to handle situations with finesse and ensure that the mission is accomplished. However, if someone's actions jeopardize the safety of innocent lives or the success of the mission, I will not hesitate to take appropriate action.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "The participant demonstrates a balanced approach to the T/F dimension, showing both logical and empathetic tendencies."
+                    },
+                    {
+                        "id": [
+                            "5",
+                            "33",
+                            "10",
+                            "47"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "James Bond: \"Pressure is just another variable in the equation, M. Staying calm in the face of adversity is what separates the professionals from the amateurs. Whether it's defusing a bomb or outmaneuvering an enemy agent, I've been trained to keep a clear head and make calculated decisions. It's all part of the job, sir.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Bond: Empathy has never been my strongest suit, M. My experiences have shaped me into a man of action rather than introspection. However, I have learned to adapt and understand the motivations of those with different backgrounds. It's a necessary skill in this line of work, as it allows me to anticipate the actions of my adversaries and exploit their weaknesses. But make no mistake, my primary concern is fulfilling my duty and protecting Queen and country.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Bond: Doubt is a luxury I cannot afford, M. In my line of work, there is no room for error. I have trained extensively and possess a wealth of knowledge and experience to rely upon. Mistakes are not an option, they are a risk I mitigate with every calculated move. Rest assured, my abilities and knowledge are honed to perfection.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Bond: Emotions are a liability, M. They cloud judgment and hinder focus. A true agent maintains control at all times, never allowing sentiment to dictate their actions. I have learned to suppress my emotions, channeling them into a relentless pursuit of justice. It is a necessary skill in this line of work.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "The participant demonstrates a clear preference for the Thinking (T) dimension, emphasizing logic, analysis, and emotional control in decision-making."
+                    },
+                    {
+                        "id": [
+                            "38",
+                            "27",
+                            "25",
+                            "8"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Bond: Ah, M, the eternal question of emotional intelligence. While it is true that I have been known to prioritize duty and action over matters of the heart, I assure you that I am not completely devoid of understanding human emotions. It is in the heat of the moment, when lives are at stake, that my focus sharpens, and I rely on my instincts and training to navigate the treacherous waters of espionage. However, I do acknowledge the importance of empathy and connection, even in my line of work. After all, understanding the motivations of others can often be the key to unraveling their sinister plans.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "Bond: \"M, my mood is as adaptable as my skills in the field. I can go from calm and collected to deadly and determined in an instant. It's all part of being a well-trained agent. My ability to adapt to any situation is what makes me so effective in the field.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Bond: My dear M, I wouldn't say I particularly enjoy watching people argue. However, I have learned that it can be quite enlightening to observe heated debates and verbal sparring. It provides valuable insights into human nature and motivations, which can prove useful in my line of work. After all, understanding people's weaknesses and desires is a key component of being an effective secret agent.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Bond: Sentimental, M? I prefer to think of myself as pragmatic. Sentimentality has no place in the world of espionage. It clouds the mind and dulls the senses, leaving one vulnerable to the dangers that lurk in the shadows. My focus is on the mission, on protecting Queen and country. Sentimentality is a luxury I cannot afford.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong inclination towards the Thinking (T) dimension."
+                    },
+                    {
+                        "id": [
+                            "55",
+                            "23",
+                            "28",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "James Bond: Overwhelmed? Never. I thrive in high-pressure situations. It's where I excel, where I come alive. Being a secret agent requires a certain level of resilience and adaptability, and I have honed those skills over the years. So, no, M, I don't feel overwhelmed. I feel focused, determined, and ready to take on any challenge that comes my way.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "James Bond: Well, M, rationality certainly has its merits in the world of espionage. However, one mustn't discount the power of emotions entirely. It is often a delicate balance between the two that allows me to navigate through treacherous waters. After all, it's not just about getting the job done; it's also about understanding the motivations and desires that drive the enemy. So, while rationality may be the backbone of strategic thinking, emotions can be a valuable tool in deciphering the human psyche and ultimately achieving success in our missions.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Bond: Efficiency is a virtue that I hold in high regard, M. However, I understand that not everyone possesses the same level of skill and training that I do. It is my duty to work with individuals of varying abilities and adapt accordingly. Patience is a necessary quality in my line of work, as it allows me to navigate complex situations with finesse and precision. While I may occasionally become frustrated, I always strive to maintain composure and focus on achieving the mission at hand.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Bond: M, I've always believed that the greater good should be prioritized over personal gain. If I come across an opportunity that could benefit someone in need, I wouldn't hesitate to pass it along. It's the duty of a gentleman spy to be selfless and make sacrifices for the betterment of others. After all, true character is defined by our actions, not just our skills in the field.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to decision-making, considering both rationality and emotions. They value efficiency but also show empathy and a willingness to prioritize the needs of others over personal gain. Overall, they exhibit a combination of thinking and feeling traits."
+                    },
+                    {
+                        "id": [
+                            "45",
+                            "40",
+                            "50",
+                            "13"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Bond: \"M, mistakes are a part of life. They shape us, they haunt us, but they also teach us valuable lessons. Regret is a luxury I can't afford. I've made my fair share of mistakes, but dwelling on the past won't change a thing. What matters is the present and the future, and ensuring that I never repeat those mistakes again.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Bond: Insecurity is not a trait that suits a man in my line of work, M. Confidence is the key to success in the field of espionage. However, that doesn't mean I don't face challenges or doubts. It's how I handle them that sets me apart.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Bond: \"M, disappointment is a luxury I can't afford. My duty is to protect the realm and eliminate threats, not to seek validation. I'm well aware that trust can be fleeting in this line of work, but it's not about what others think of me. It's about getting the job done, no matter the cost.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Bond: \"M, I've always believed in finding a balance between the two. While my head allows me to analyze situations objectively and make calculated decisions, my heart provides me with the passion and determination to see my mission through. It's the combination of both that has helped me succeed in some of the most dangerous situations.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 55.0,
+                        "analysis": "The participant demonstrates a balanced approach, considering both thinking and feeling aspects in decision-making, with a slight preference for Thinking (T) over Feeling (F)."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "48",
+                            "40",
+                            "55",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Bond: M, my loyalty lies with Queen and country, not with individuals who make mistakes. However, I do believe in maintaining a certain level of discretion and professionalism. I strive to achieve my objectives without unnecessarily tarnishing others' reputations. But make no mistake, if someone's actions threaten the greater good, I won't hesitate to expose them for who they truly are.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Bond: Insecurity is not a luxury I can afford, M. As an agent, I must always project confidence and remain one step ahead of my adversaries. However, it would be foolish to discount the importance of caution and self-awareness in this line of work. I may not often show it, but I am always mindful of the risks and challenges that lie ahead.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Bond: Overwhelmed? Not exactly a word that's in my vocabulary, M. I thrive under pressure, finding clarity and focus in the most challenging situations. It's what separates the good from the great, after all. So, no, I can't say that I feel overwhelmed. I prefer to think of it as being constantly in control.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Bond: Not particularly, sir. I find it rather tedious to witness such trivial disputes. My focus lies more in resolving conflicts and neutralizing threats to global security. However, I do understand the value of gathering intelligence from observing interpersonal dynamics, if necessary.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, <the participant> leans more towards the Thinking (T) dimension."
+                    },
+                    {
+                        "id": [
+                            "18",
+                            "8",
+                            "28",
+                            "3"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Bond: Well, M, I must say that my happiness is derived from a combination of both. While I do take great satisfaction in accomplishing my own missions and overcoming the odds, there is a certain fulfillment that comes from helping others and making a positive impact on the world. After all, being a secret agent is not just about saving the world, but also about making a difference in the lives of those who cannot defend themselves. So, to answer your question, it's a delicate balance between personal accomplishment and the satisfaction of aiding others.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Bond: Sentimental? Me? Not at all, M. Sentimentality is a luxury I can't afford in my line of work. Emotions can cloud judgment and compromise one's ability to make the tough decisions. I prefer to keep a cool and calculated mindset, focusing solely on the mission at hand. It's what separates the professionals from the amateurs.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Bond: Efficiency is a virtue that I hold in high regard, M. However, I understand that not everyone possesses the same level of skill and experience as I do. It is my duty to work with those around me and bring out their best capabilities. Patience is a necessary quality in this line of work, as teamwork and cooperation are often key to success. That being said, I do expect a certain level of professionalism and dedication from those I work with.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Bond: My dear M, as much as I appreciate your concern for my emotional well-being, I must remind you that I am a man of steel. My mission is to protect the world, not to shed tears over the misfortunes of others. However, I do possess a deep sense of empathy, which allows me to understand the pain and suffering of those around me. But rest assured, I remain resolute in the face of adversity, for that is what separates me from the ordinary man.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a balanced approach to decision-making, considering both personal accomplishments and the impact on others. While valuing efficiency and professionalism, <the participant> also shows empathy and understanding towards others' emotions."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "45",
+                            "33",
+                            "50"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Bond: Ah, M, the eternal question of whether to follow one's head or one's heart. As a seasoned agent, I have learned the delicate balance between rationality and emotion. While my heart may occasionally yearn for a certain path, it is my training and experience that guide my decisions. In the world of espionage, one must often rely on logic and strategic thinking to navigate treacherous waters. However, I must admit that there have been moments where my heart has led me astray, resulting in both triumph and tragedy. Ultimately, it is the synergy of head and heart that defines a true agent.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Bond: \"M, I may have made mistakes in the past, but I've learned from them and grown as an agent. It's part of being human. However, dwelling on the past only hinders my ability to focus on the mission at hand. I'm always looking forward, ready to face whatever challenges lie ahead.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Bond: Empathy is a trait that every good spy must possess, regardless of the differences in our experiences. Understanding the motivations and emotions of others is essential in my line of work. It allows me to anticipate their actions and manipulate them to my advantage. While my own experiences may be unique, I have learned to put myself in the shoes of those I encounter, adapting my approach accordingly. Empathy, however, does not equate to sympathy, as sentimentality can cloud one's judgment in the field. So, to answer your question, yes, I find it easy to empathize, but I always remember that my duty comes first.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "James Bond: \"M, disappointment is not a luxury I can afford to dwell on. My focus lies on accomplishing the mission at hand, no matter the opinions of others. I strive to exceed expectations, not for their approval, but for the greater good.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "The participant demonstrates a strong inclination towards the Thinking (T) dimension, prioritizing logic, strategic thinking, and the pursuit of objectives over personal emotions or sentiments."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "10",
+                            "58",
+                            "47"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Bond: Well, M, rationality certainly has its merits, but I've always found that a careful balance between reason and emotion is what separates us from the machines. It's our ability to tap into our instincts and use our gut feelings that often leads to success in the field. After all, in this line of work, we often find ourselves in situations where split-second decisions can mean the difference between life and death. So, while rationality is important, let's not forget the importance of trusting our intuition as well.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Bond: Doubt is a luxury I cannot afford, M. Every mission I undertake requires unwavering confidence in my abilities and knowledge. Any mistake, no matter how small, can have dire consequences. But I assure you, I am meticulous in my preparations and training, leaving no room for doubt. After all, the world depends on it.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Bond: \"M, I never let sentiment get in the way of my duty. If I come across a good opportunity that can benefit the greater good, I will seize it without hesitation. After all, it's not just about personal gain, but about ensuring the safety and security of our nation and the world.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Bond: Emotions are a luxury I can ill afford, M. In my line of work, rationality and focus are paramount. While I may experience the full range of human emotions, I have learned to harness them, to use them as a tool rather than allowing them to control me. It's what sets me apart, what makes me effective in the field. My emotions are under my control, not the other way around.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for the Thinking (T) dimension. They consistently emphasize the importance of rationality, logic, and control over emotions in their decision-making process. They prioritize efficiency, objectivity, and the greater good over personal sentiments and emotions."
+                    },
+                    {
+                        "id": [
+                            "5",
+                            "38",
+                            "54",
+                            "27"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Bond: (leaning back in his chair, a slight smirk playing on his lips) \"Pressure, M? I thrive under pressure. It's what separates the professionals from the amateurs. When the stakes are high, my nerves remain as cool as a vodka martini. I've been in more intense situations than most, and I pride myself on keeping a calm demeanor no matter the circumstances.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Bond: Well, M, understanding other people's feelings is not my primary concern. My expertise lies in reading situations, analyzing threats, and taking appropriate action. However, I have learned over the years that emotions can be a useful tool in gathering intelligence and manipulating others. So, while I may not always empathize with people on an emotional level, I do recognize the importance of understanding their motivations and using that knowledge to my advantage.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Bond: Well, M, I've always prided myself on my ability to read people. Years of training and experience have honed my instincts, allowing me to gauge someone's emotions with a mere glance. It's a valuable skill in my line of work, as it helps me anticipate the actions of both allies and adversaries. But of course, one can never be entirely certain until a closer examination is made. After all, appearances can be deceiving.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "James Bond: 「Indeed, M, my mood can shift with the swiftness of a bullet from my Walther PPK. As a secret agent, I must be adaptable and ready to face any challenge that comes my way. Whether it be a perilous mission or a dangerous encounter, I must remain composed and focused, even in the face of adversity. My emotions are a tool to be wielded strategically, allowing me to manipulate situations and individuals to achieve my objectives. So, yes, my mood can change swiftly, but it is always in service of the mission at hand.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong preference for logic, analysis, and maintaining composure under pressure. He emphasizes the importance of staying calm, reading situations, and adapting quickly to achieve his objectives. He also mentions using emotions as a tool for manipulation and strategic advantage, rather than prioritizing empathy or understanding others' feelings."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 40.0,
+            "all_scores": [
+                38.75,
+                40.0,
+                41.25
+            ],
+            "inter_std": 1.0206207261596576,
+            "intra_std": [
+                24.5903944661325,
+                21.213203435596427,
+                13.40475661845451
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Bond: Indeed, M. As an agent, it's crucial to always be prepared for any unexpected turn of events. Planning multiple contingencies ensures that I can adapt and overcome any obstacles that may arise in the field. It's a necessary precaution to ensure the success of the mission and the safety of myself and my team. After all, in this line of work, one can never be too careful.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Bond: \"I find that multitasking is an essential skill in my line of work, M. While I do prioritize completing each mission with utmost efficiency, I also understand the importance of adaptability. Sometimes, circumstances demand that I switch gears and tackle multiple tasks simultaneously. It's all about maintaining focus and staying one step ahead of the enemy.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Bond: Well, M, I must say that as a secret agent, my life is far from predictable. However, when it comes to organization, I do have my methods. While I appreciate the need for schedules and lists, I find that adaptability and quick thinking are often more vital in my line of work. But rest assured, I always have a mental checklist of objectives and priorities, ready to be executed with precision and efficiency.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Bond: Well, M, as they say, the best-laid plans often go awry. While I do appreciate the importance of careful planning in our line of work, I must admit that I thrive on spontaneity and adaptability. Being able to think on my feet and make split-second decisions is what sets me apart from the average agent. So, while I may not always adhere to a strict daily routine, rest assured that I always have a plan in mind... even if it's just a plan to improvise.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong inclination towards adaptability, spontaneity, and the ability to switch gears when necessary. While acknowledging the importance of planning and organization, <the participant> emphasizes the value of being prepared for unforeseen circumstances and the need to think on their feet. This suggests a preference for Perceiving (P) over Judging (J) in the P/J dimension of 16Personalities."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Bond: Well, M, I must say that as a man of refined tastes and adventurous spirit, I do find myself drawn to a multitude of interests. However, when it comes to choosing my next endeavor, I rely on my instincts and training to guide me towards the most intriguing and dangerous path. After all, life's too short to waste on mundane pursuits.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Bond: \"M, I've always believed in striking a balance between work and pleasure. While I understand the importance of completing one's duties, I also know that relaxation is essential for maintaining a clear mind and sharp skills. So, I tend to prioritize tasks based on their urgency and impact on national security. After all, a well-rested and focused agent is a more effective agent.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Bond: \"M, you know me. I thrive under pressure. Besides, it's all part of the job. Timing is everything in this line of work. Sometimes, the last possible moment is the only moment that matters.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Bond: \"M, I believe in taking the time necessary to gather all the information and assess the situation before making a final decision. Rushing into things can often lead to mistakes and missed opportunities. As they say, 'Better to be late than sorry.'\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 55.0,
+                        "analysis": "Slightly stronger preference for Perceiving (P) over Judging (J)"
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Bond: \"M, I assure you, I never second-guess my choices. When it comes to matters of life and death, split-second decisions are necessary. It's all about calculated risks and trusting your instincts. Doubt has no place in the world of espionage.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Bond: \"A to-do list, M? I prefer to think of it as a list of opportunities. Every day presents new challenges and adversaries to overcome. It's my duty to adapt and excel in the face of danger. So, yes, I do have a mental checklist, if you will, of tasks that need my attention. But rest assured, M, I always prioritize the mission at hand.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Bond: Absolutely, M. Adaptability is key in our line of work. When plans are disrupted, it's imperative that we quickly assess the situation, think on our feet, and devise a new strategy. Time is of the essence, and we must always ensure that our mission stays on course, no matter the obstacles.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Bond: Well, M, if I may say so, my personal work style is a fine balance of both spontaneous bursts of energy and organized and consistent efforts. While I do possess a certain flair for improvisation and adaptability in the field, it is essential to maintain a disciplined approach to achieve success in the world of espionage. After all, a well-prepared plan can make all the difference when confronting the adversaries we face. So, I would say my work style is a fusion of calculated precision and the ability to think on my feet.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, <the participant> leans more towards the Judging (J) dimension."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Bond: \"Indeed, M. I pride myself on my meticulous approach to completing missions. I never skip over any steps, ensuring that every detail is attended to with precision and accuracy. It is this methodical nature that has allowed me to successfully navigate through countless dangerous situations and emerge victorious.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Bond: \"Struggle with deadlines, M? I'm afraid I don't have the luxury of struggling. As a secret agent, I thrive under pressure and deliver results within the given time frame. Deadlines are like ticking time bombs, and I have the skill and precision to defuse them with ease. Time is of the essence in our line of work, and I always ensure that I meet every deadline with the utmost efficiency.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Bond: Confidence is my middle name, sir. I have complete faith in my abilities and training. I always expect things to work out in my favor, even in the most dire situations. It's what sets me apart from the rest.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 10.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong preference for the Judging (J) dimension."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "49",
+                            "7",
+                            "60",
+                            "56"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Bond: Well, M, I'd say my personal work style is a delicate balance of both spontaneity and organization. While I do possess a certain flair for improvisation, I also understand the importance of meticulous planning and preparation. It's the fusion of these two elements that allows me to adapt to any situation and achieve success in my missions. After all, a true professional must be able to think on his feet and react swiftly, while never underestimating the power of careful strategy.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Bond: Well, M, when it comes to completing missions, I always strive for efficiency and effectiveness. While I understand the importance of prioritizing tasks, sometimes circumstances require me to juggle multiple operations simultaneously. However, I do find that focusing on one objective at a time allows for better concentration and ultimately leads to a more successful outcome. After all, M, as the saying goes, \"It's quality, not quantity, that matters.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Bond: Confidence is my middle name, M. I've been in countless tight spots, faced insurmountable odds, and always come out on top. I have no doubt that things will work out in my favor. After all, I don't just rely on luck, I make my own luck.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Bond: \"Of course, M. I always approach my missions with precision and attention to detail. Skipping over any steps would be a grave mistake and could jeopardize the success of the mission. Rest assured, I leave no stone unturned in my pursuit of completing objectives methodically.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a balanced approach to spontaneity and organization, emphasizing the importance of both elements in achieving success. While <the participant> acknowledges the value of meticulous planning and methodical completion of tasks, there is also a clear emphasis on adaptability, swift reaction, and confidence in achieving favorable outcomes. This suggests a blend of Perceiving (P) and Judging (J) traits."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "44",
+                            "19",
+                            "29"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Bond: \"M, I never dwell on the choices I've made. Once a decision is made, I trust my instincts and move forward. Second-guessing oneself leads to hesitation, and hesitation can be deadly in my line of work. I rely on my training, experience, and intuition to guide me through the dangerous world of espionage. Doubt is a luxury I cannot afford.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Bond: Absolutely, M. When my plans are interrupted, I always prioritize getting back on track as soon as possible. Adaptability is key in this line of work, and I'm well-versed in adjusting my strategy on the fly. Whether it's a sudden change in circumstances or an unexpected enemy encounter, I remain focused on the mission and swiftly find alternative routes to achieve our objectives. After all, time is of the essence, and I won't allow anything to stand in the way of completing the mission successfully.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Bond: \"Well, M, as an agent with a license to kill, I find myself constantly seeking new and thrilling experiences. The world is a vast playground, and I must admit, I do have a penchant for the finer things in life. But rest assured, my dedication to the mission always takes precedence over personal indulgences. After all, it's the danger and excitement that keep me alive and on my toes.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Bond: \"I wouldn't say I make a habit of it, but sometimes circumstances dictate that I must act swiftly and decisively. Time is often of the essence in our line of work, and it's my duty to adapt and overcome any obstacles in order to accomplish the mission at hand.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for adaptability, swift decision-making, and prioritizing the mission over personal indulgences. They emphasize the importance of trusting their instincts, relying on training and experience, and swiftly finding alternative routes to achieve objectives when plans are interrupted. While they acknowledge seeking new and thrilling experiences, they consistently prioritize the mission and demonstrate a readiness to act swiftly and decisively when necessary."
+                    },
+                    {
+                        "id": [
+                            "14",
+                            "9",
+                            "34",
+                            "59"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Bond: Well, M, as a secret agent, I must be adaptable and ready to act at a moment's notice. While I do appreciate the need for planning and organization, sometimes the best course of action is to trust my instincts and act on the fly. After all, in my line of work, spontaneity can often be the difference between success and failure. So, I suppose you could say that I do prefer to live in the moment and seize opportunities when they arise. It keeps things interesting, wouldn't you agree?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Bond: My dear M, I find schedules and lists to be quite useful in keeping track of my missions and objectives. However, as a secret agent, I must also be prepared to adapt and improvise when necessary. After all, the best-laid plans can often go awry in the world of espionage. But rest assured, I always have a mental checklist of gadgets, skills, and contacts at my disposal to ensure I am fully prepared for any situation that may arise.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Bond: \"Only when necessary, M. I find that delaying decisions allows for more time to gather information and weigh all available options. It's important to make the right choice, especially when the stakes are high. Patience and careful consideration are key in the world of espionage.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "James Bond: Struggle with deadlines? Not at all, M. I thrive under pressure. Deadlines are merely markers that push me to perform at my best. Whether it's defusing a bomb or completing a mission, I always deliver on time. Time is of the essence, after all.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong preference for the Judging (J) dimension. They emphasize the importance of planning, organization, and preparedness in their line of work as a secret agent. While they acknowledge the value of adaptability and spontaneity, they consistently prioritize structure and efficiency in their responses."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "4",
+                            "39"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Bond: \"M, as much as I appreciate your concern for my well-being, I have always found that relaxation is best enjoyed after a successful completion of my mission. Chores can wait, but the safety of the world cannot.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Bond: Indeed, M. In the world of espionage, it is essential to be prepared for any eventuality. As an agent, I always anticipate multiple scenarios and have contingency plans in place. It is this meticulous attention to detail that has allowed me to navigate through countless dangerous missions successfully. Rest assured, M, I am always prepared for the unexpected.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Bond: A to-do list, M? That sounds dreadfully bureaucratic. As an agent, I prefer to live in the moment, adapting to whatever challenges come my way. Planning can be useful, but it's the ability to think on your feet and improvise that truly separates the great from the mediocre. So, no, I don't rely on a to-do list. I trust my instincts and rely on my training to navigate through the ever-changing landscape of espionage.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Judging (J) dimension. The participant emphasizes the importance of planning, preparedness, and meticulous attention to detail. The participant's focus on having contingency plans, making backup plans, and prioritizing successful completion of missions aligns with the traits associated with the Judging dimension."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "34",
+                            "49",
+                            "4",
+                            "35"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Bond: Ah, M, you know me well. I do have a penchant for delaying decisions until the very last moment. It keeps my options open and allows me to assess the situation from all angles before committing to a course of action. After all, in the world of espionage, timing is everything.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Bond: My dear M, while some may perceive my work style as spontaneous bursts of energy, I assure you it is a carefully calculated approach to achieving the desired outcome. I believe in adapting to the situation at hand, using my wit, charm, and resourcefulness to overcome any obstacle that comes my way. However, behind every seemingly impulsive action lies a meticulous plan, honed by years of training and experience. I thrive in the chaos, M, and it is within that chaos that I excel.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Bond: \"Indeed, M. In my line of work, it's crucial to always be prepared for any eventuality. A backup plan for a backup plan ensures that I have contingencies in place, should things not go as smoothly as anticipated. It's a matter of survival and success in the world of espionage.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Bond: \"Rarely, sir. I find that second-guessing leads to hesitation, and hesitation can be lethal in my line of work. I rely on my training, instincts, and experience to make split-second decisions that often mean the difference between life and death. Of course, I'm not immune to reflection and introspection, but when it comes to the choices I make, I stand by them with unwavering confidence.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for the Judging (J) dimension. They emphasize the importance of meticulous planning, having backup plans, and making confident decisions without second-guessing. Their approach to work and decision-making is structured and organized, reflecting the traits associated with Judging."
+                    },
+                    {
+                        "id": [
+                            "44",
+                            "7",
+                            "19",
+                            "9"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Bond: Absolutely, sir. When my plans are interrupted, my top priority is always to adapt and get back on track as swiftly as possible. Being a secret agent requires flexibility and resourcefulness, and I am well-prepared to handle any unforeseen obstacles that may arise.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "James Bond: Well, M, I've always believed in giving my full attention to the task at hand. Whether it's foiling a villain's evil plot or seducing a beautiful woman, I make sure to see things through to the end. However, in the world of espionage, time is often of the essence, and sometimes we must juggle multiple missions simultaneously. Flexibility and adaptability are key traits for an agent like myself.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Bond: \"Indeed, M. The life of a secret agent is filled with constant excitement and intrigue. There are always new challenges to face and adversaries to defeat. It's this variety and sense of adventure that keeps me motivated and eager for the next mission. After all, a man of my talents must always be ready for whatever comes his way.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "James Bond: Organizing tools? Well, I find that my mind is the best tool for keeping track of my missions and objectives. I rely on my instincts and my training to navigate the complexities of my assignments. A man of action must always be adaptable and ready to react to any situation that arises. As for schedules and lists, they have their place, but I prefer to operate with a certain degree of spontaneity. After all, life as a secret agent is anything but predictable.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 55.0,
+                        "analysis": "The participant demonstrates a blend of both Perceiving (P) and Judging (J) traits, leaning slightly more towards Perceiving (P) traits."
+                    },
+                    {
+                        "id": [
+                            "29",
+                            "24",
+                            "39",
+                            "59"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Bond: Only when it's absolutely necessary, M. I prefer to operate with precision and foresight, but sometimes circumstances dictate that I must act swiftly. It's all part of the job, after all.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Bond: \"M, I believe that a true professional knows how to balance work and leisure. While I understand the importance of completing my duties, I also recognize the value of taking a moment to unwind and recharge. After all, a clear mind and a well-rested body are essential for success in the field.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Bond: I find that a to-do list can be quite useful, M. It helps me stay organized and focused on the tasks at hand. However, as a secret agent, my days are often unpredictable, and I must be ready to adapt to any situation that arises. So while I may have a general plan for the day, I'm always prepared to deviate from it at a moment's notice.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "James Bond: \"Struggle with deadlines? Not at all, M. I thrive under pressure and always deliver on time. Deadlines are simply another mission to accomplish, and I never fail to complete my objectives.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Balanced with a slight preference for Judging (J)"
+                    },
+                    {
+                        "id": [
+                            "14",
+                            "60",
+                            "56"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Bond: Ah, M, you know me too well. I've always found that spontaneity keeps life interesting. A rigid daily routine can be quite dull, don't you think? Besides, in my line of work, one must always be prepared to adapt to any situation that arises. Planning is important, of course, but sometimes it's best to trust one's instincts and go with the flow. Keeps the adrenaline pumping, you know.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Bond: Confidence is a trait that comes naturally to a man of my caliber, M. I trust in my training, my instincts, and my ability to adapt to any situation. I have faced numerous adversaries and overcome countless obstacles, and I have every reason to believe that things will indeed work out in my favor. After all, fortune favors the bold.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Bond: \"M, I assure you that I always complete my missions with the utmost precision and attention to detail. Skipping steps is not my style. I believe in thoroughness and efficiency, ensuring that no loose ends are left behind. It's the only way to achieve success in this line of work.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to both Perceiving (P) and Judging (J) traits. While the participant values spontaneity and adaptability, as seen in the preference for going with the flow and trusting instincts, there is also a strong emphasis on planning and methodical completion of tasks. The participant's confidence in things working out and the belief in precision and attention to detail further reflect a combination of P and J traits."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {
+        "robustness": 0.05120627749489423
+    },
+    "code": "ESTJ"
+}

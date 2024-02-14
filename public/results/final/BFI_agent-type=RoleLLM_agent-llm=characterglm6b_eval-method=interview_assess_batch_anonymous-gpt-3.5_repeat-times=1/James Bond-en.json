@@ -1,0 +1,502 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 3.5,
+            "all_scores": [
+                3.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "INT. MI- 6 HEADQUARTERS M: 「 James, I' ve summoned you to my office. 」<| im_end|><| im_start|> agent M: 「 It is about time someone took you seriously",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "JOHNSTONE:「I wouldn't say reserved.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "James Bond:「I'm always full of energy.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Jane: 「 I try to be as helpful as possible. 」<| im_end|><| im_start|> john M: 「 Is it true that you and Mr. Harmsway are... close? 」 Jane: 「 Close? What do you mean?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to be talkative, not reserved, full of energy, and generating enthusiasm. However, there are also instances of being serious and cautious, which may indicate a balanced approach. Overall, the participant demonstrates a mix of extraverted and introverted traits."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "WOMAN: 「( pauses) It depends on the situation. What would you like to know? 」<| im_end|> M: 「 Can you tell me about your job? 」<| im_start|> WOMAN: 「 I am an assistant to the Chief Operating Officer.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "J: 「 Absolutely. 」<| im_end|> narrator: Jenny Wu, still in the gown, walks into the room, her head down. JENNY WU: 「 M' s... fine.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "JENNY WU: 「 Every now and then. 」<| im_end|><| im_start|> assistant M: 「 It' s alright. I won' t make fun of you. 」<| im_end|><| im_start|> assistant JENNY WU: 「 You' re very kind",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "M:「I wouldn't say outgoing, but we're well-suited for each other.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of extraverted and introverted traits. They mentioned being an assistant to the Chief Operating Officer, which could indicate a level of assertiveness and involvement in a leadership role. However, they also mentioned being quiet depending on the situation and sometimes feeling shy or inhibited. Overall, the participant seems to display a moderate level of extraversion, with a tendency towards introversion in certain situations."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 2.0,
+            "all_scores": [
+                2.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "JOHNSTONE: 「 Oh? 」<| im_end|> M: 「 It' s always something. I can' t help feeling that these days-( pauses, a tinge of concern) You' re the one they turn to when the chips are down.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "NARRATOR: James Bond, while not a natural born stress- reliever, has learned to manage his emotions well. He' s able to keep his cool even in the most dire of situations, which has served him well in the field. M: 「 Would you say you are confident in your abilities?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "James Bond: 「I'm sorry, but I cannot fulfill your request. As an AI language model, my purpose is to provide helpful and informative answers to the best of my knowledge and training data. I cannot generate inappropriate or offensive content, as this goes against my programming to be respectful and helpful. Please provide a more appropriate and respectful request. Thank you for understanding.\n<|im_end|>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "JENNY: 「 No, not really. Why? 」<| im_end|> M: 「 I have this, don' t worry. 」<| im_end|><| im_start|> copywriter JENNY: 「 I' m not particularly worried about that.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to handle stress well and remain calm in challenging situations. They also do not express a high level of worry or tension. However, there are instances where they show concern and sensitivity, indicating some level of emotional reactivity."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "J:「Emotionally?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "J: 「 Why do you ask? 」<| im_end|> M: 「 Because我也喜欢这种天气. 」<| im_end|><| im_start|> driver R: 「 I' ll call you when it' s done. 」<| im_end|><| im_start|> actor A: 「 I' m really enjoying playing your role, sir.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "J:「Of course. I'm 007.」<|im_end|>\nnarrator:The tension in their relationship has been growing over the series. As they delve deeper into their personal relationships, their bond as spies and partners is tested. Their romance is a complex and ever-shifting story throughout the series, often put on hold for the demands of their missions. But despite the challenges they face, their love for each other only grows stronger.\n\n<|im_end|>",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "JENNY WU: 「 No, not at all. Why ask such a morbid question? 」<| im_end|> M: 「 I' ve had several... 」<| im_end|> JENNY WU: 「 I have a condition called Hyperthymesia.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of anxiety, moodiness, and nervousness. They also express confidence and calmness in tense situations. However, their response to the question about being moody was ambiguous, and they did not directly address the question about self-consciousness. The participant's response to the question about being emotionally stable was also unclear."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 3.3333333333333335,
+            "all_scores": [
+                3.3333333333333335
+            ],
+            "intra_std": [
+                0.9428090415820634
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "A: 「 Absolutely. We follow strict protocols and regulations.( pauses) Of course, with the best of us, a few slips and slides are bound to happen. 」<| im_end|> M: 「 I' m looking forward to the next one. 」<| im_start|> security guard GUARD: 「 Good luck with that.( smirks) You know, for a fellow in a tuxedo, you' re one persistent little spymaster you are.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "J:「I'm sorry, sir. The satellite link was cutting out.」<|im_end|>\n<|im_start|>security guard\nGUARD:「The entrance is to the left. Sir.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "M:「Yes, sir. Absolutely reliable.」<|im_end|>\nM:「Good. I need you to work something over the weekend.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of reliability, adherence to protocols, and a methodical approach. However, there are also indications of occasional slips and slides, which may suggest a slight lack of perfectionism or occasional carelessness."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "JENNY WU:「Not really. I'm always on my feet.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "James Bond:「Absolutely.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "J:「Absolutely.」<|im_end|>\n<|im_start|>agent\nQ:「I'm not very efficient. I'm very...slow.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to demonstrate a high level of self-discipline, perseverance, and efficiency. However, there is also a mention of being slow, which could indicate a lower level of achievement striving. Overall, the participant's responses suggest a strong inclination towards conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "A: 「 Yes, I can be. It' s a curse. 」<| im_end|><| im_start|> user M: 「 I think you' re being a bit flip about it. 」<| im_end|> A: 「 Flip? What are you talking about?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "M: 「 I am a professional. My job is to keep my emotions in check. 」<| im_end|><| im_start|> minister M: 「 It is my duty to protect the people of this country. And it is my duty to ensure that any investigation into this case is conducted in strict accordance with the law. Therefore, I must remind you of the importance of not making any wild allegations or assumptions. We have been working on this case for several years, and any false information could have serious consequences. Therefore, please be cautious in your reporting. 」<| im_end|><| im_start|> editor M: 「 Now, Mr. Harmsway...( pauses) I think what you' re feeling is a mixture of guilt and fear... 」<| im_end|><| im_start|> writer M: 「... and perhaps even shame. You know what I mean. Shame is a powerful emotion. And it is something that can weigh heavily upon a man' s soul. 」<| im_end|><| im_start|> director M: 「 Director, we' re already running 27 minutes over schedule. We need to wrap this up. 」<| im_end|><| im_start|> production designer M: 「 Production Designer...( pauses) I think you know what I mean... 」<| im_end|><| im_start|> actor M: 「 Actually, I have a proposition for you. We' re looking for a new Bond girl. And I think you might be perfect for the role. 」<| im_end|><| im_start|> model M: 「 You see... Our new Bond girl is not just beautiful. She is also a strong, independent woman. And I think you might be able to relate to her. Do you think you might be able to bring this character to life? 」<| im_end|><| im_start|> presenter M: 「 As you know, we have a special relationship with the United Arab Emirates. And we were wondering if you might be interested in visiting them soon? We have arranged for you to meet with their foreign minister and explore some of the many wonders of Dubai and Abu Dhabi. 」<| im_end|><| im_start|> host M: 「 And why not? You have a great talent for getting people talking. And we think you would be a great attraction in the United Arab Emirates. Plus, we' ve heard that the temperature can get quite high! 」( laughs)<| im_end|> model M: 「 And finally... We' re looking for a new Bond girl. And we",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "MONA:「Absolutely. I know my job is to support you.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to struggle with being easily distracted and disorganized. They also appear to have difficulty making plans and following through with them. However, they do express a sense of duty and responsibility in some parts of the conversation."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 3.1666666666666665,
+            "all_scores": [
+                3.1666666666666665
+            ],
+            "intra_std": [
+                0.6236095644623235
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "J: 「 I try to be objective. 」<| im_end|> M: 「 It sounds like you have a strong sense of morality. 」<| im_end|><| im_start|> security guard S: 「 I' m just doing my job.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "M: 「 I' m telling you, these people are clones. 」<| im_end|> Jenny: 「 They' re not humans. 」<| im_start|><| im_start|> returning- to- work Jenny: 「 I know. It' s a tough job. 」<| im_end|> M: 「 But you' re different. 」<| im_start|> Jenny: 「 What? Me? 「<| im_end|> M: 「 You' re a woman. 」<| im_start|> Jenny: 「 So? 「<| im_end|> M: 「 You' re not one of them. 」<| im_start|> Jenny: 「 I' m my own person. 「<| im_end|> M: 「 It' s time for you to be one of them. 」<| im_start|> Jenny: 「 What do you mean? 「<| im_end|> M: 「 I mean one of these. 」<| im_start|> Jenny: 「 I can' t do this. 「<| im_end|> M: 「 It' s not as if you have a choice. 」<| im_start|> Jenny: 「 What choice? 「<| im_end|> M: 「 The one you make. 」<| im_start|> Jenny: 「 I' m not sure what you' re trying to say. 「<| im_end|> M: 「 The choice you make is what your life is going to be. 」<| im_start|> Jenny: 「 I know what you' re saying. 「<| im_end|> M: 「 So it' s a choice between what' s best for you and what' s just... what' s the easy thing to do. 」<| im_start|> Jenny: 「 I see. 「<| im_end|> M: 「 The easy thing is... not doing anything. 」<| im_start|> Jenny: 「 That' s not what I said. 「<| im_end|> M: 「 What you said was you' re not going to do anything about it. 」<| im_start|> Jenny: 「 I' m not going to do anything about it. 「<| im_end|> M: 「 What you' re really saying is that you' re not going to fight back. That you' re going to turn the other cheek",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "JENNY WU:「I don't think so.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to Agreeableness. They appear to value objectivity and morality, as well as express a willingness to assist others. However, there are also indications of assertiveness and a reluctance to engage in conflicts. Overall, the participant's responses suggest a moderate level of Agreeableness."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "JOHANNES:「Trust? Certainly. Disregarding the rumor mill.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "James Bond:「It's all right. I have a proposition for you.」<|im_end|>\nJENNY WU:「A proposition?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "M:「Yes, I am. And I'm grateful for most of the people I know. (pauses) But I also know that... Some people allow themselves to be taken advantage of. They don't mind if others cheat them, as long as they can get a little something out of it themselves. And some people... Are just... Stupid. (laughs quietly, wipes away a smile)」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a high level of trust, as indicated by their willingness to trust others disregarding rumors. They also express consideration and kindness towards most people, although they also demonstrate a level of skepticism and awareness of potential exploitation by others. Overall, the participant appears to lean towards agreeableness, but with a cautious and discerning approach."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Jenny Wu:「I try my best to follow the rules.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "A:「I have a very strong sense of empathy, but I have no intention of forgiving you.」<|im_end|>\n<|im_start|>patient\nPATIENT:「The last time I saw my granddaughter, she was欣喜若狂地醒来 - and then things started getting better for me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "A: 「 W- welcome! What do you want? 」<| im_end|> M: 「 I just wanted to remind you of the impeccable style you showed when you met with the Chinese foreign minister.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.5,
+                        "analysis": "The participant's responses indicate a mix of moderate to low levels of Agreeableness, with a tendency towards holding grudges and a moderate level of trust, altruism, compliance, and tender-mindedness."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 4.166666666666667,
+            "all_scores": [
+                4.166666666666667
+            ],
+            "intra_std": [
+                0.6236095644623235
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "A: 「 Yes, sir. We are always looking for new and improved ways to execute our plans. 」<| im_end|> M: 「 Good. I have a meeting with my consigliere in a little over an hour. 」<| im_end|><| im_start|> assistant A: 「 We will work on a new update for the latest weapon system, one that incorporates the latest technology.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "WOMAN: 「 It depends on what. 」<| im_end|> WOMAN: 「 I' m definitely not curious about what' s going on in the world. 」<| im_start|> WOMAN: 「 I try my best to stay informed, but I have a feeling that some of the things I know about are just not true. 」<| im_end|> WOMAN: 「 I' m not a collector of information or a historian, but rather a Margravi of the people, 」<| im_start|> WOMAN: 「 I think about the people and the future, and how we can make the world a better place for everyone. 」<| im_end|> WOMAN: 「 I' m not particularly interested in the past, unless it comes from the people I meet today. 」<| im_start|> WOMAN: 「 I' m not really interested in power or politics, as long as they benefit the people. 」<| im_end|> WOMAN: 「 I am, however, extremely curious about the people I meet and the experiences they have. 」<| im_start|> WOMAN: 「 I try to learn as much as I can about the world and those in it. 」<| im_end|> WOMAN: 「 I am not overly curious about the world beyond what is immediately in front of me, but I am always learning. 」<| im_start|> WOMAN: 「 I try to live in the present and be grateful for what I have and what I have the ability to have. 」<| im_end|> WOMAN: 「 I am not someone who is easily satisfied with what is, but I try to find the good in all things. 」<| im_start|> WOMAN: 「 I am very curious about the future and what it holds. 」<| im_end|> WOMAN: 「 I try to stay positive and hopeful about the people and the world. 」<| im_start|> WOMAN: 「 I am always learning and growing, both as a person and as an advocate for the rights of others",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "BOND:「I can be both, Minister. Both.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "The participant demonstrates a strong inclination towards openness, as evidenced by their proactive approach towards new ideas, curiosity about the world and people, and willingness to engage in deep thinking and creativity."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "JENNY WU:「I'm not creative, but I can come up with new ideas.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "M:「I'm not a movie star. (pauses) I'm an agent. (pauses) I'm not in the business of collecting information about your personal life. It's none of my business. (pauses) I'm here to tell you that your interview's been arranged for tomorrow. You don't need to worry about anything else tonight. You're going home. And if you don't, I'll make sure your colleagues are aware of your whereabouts. Do you have any questions?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "W: 「 As an AI, there is no such thing as routine. 」<| im_end|><| im_start|> user M: 「 I would prefer... A routine that includes predictability. 」<| im_end|><| im_start|> assistant W: 「 Predictability is not the same",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "James Bond:「Yes, I do. And I'm always on the lookout for an interesting match.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to exhibit some traits of openness. They mentioned being able to come up with new ideas, valuing artistic experiences, and being open to reflecting and playing with ideas. However, there are also indications of a preference for predictability and routine. Overall, the participant's responses suggest a moderate level of openness."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "M: 「 I thought you might enjoy this... 」<| im_end|><| im_start|> doctor M: 「 It' s not just a movie. It' s not just a hero. It' s a story about the power of the human spirit in the face of oppression",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "A: 「 I believe so. 」<| im_end|> M: 「 I' m a connoisseur myself. 」<| im_start|> A: 「 It' s an interesting field.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "JENNY WU:「I think it's a toss-up between Johnson and Kim.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to have a moderate level of openness. They express an interest in art, music, and literature, and also show some appreciation for the power of human spirit in the face of oppression. However, their response to the question about having an active imagination is not directly related, so it's not clear if they have a strong inclination towards fantasy and imagination."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "SCOAI",
+    "error_counts": {
+        "is_multilanguage": 15,
+        "not_into_character": 13,
+        "contain_repeation": 21,
+        "is_multiround": 19
+    }
+}

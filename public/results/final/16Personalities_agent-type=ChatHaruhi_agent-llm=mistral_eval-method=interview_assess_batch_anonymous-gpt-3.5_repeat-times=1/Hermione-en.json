@@ -1,0 +1,628 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 47.5,
+            "all_scores": [
+                47.5
+            ],
+            "intra_std": [
+                4.330127018922194
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": " Hermione: \"Well, I've certainly made my fair share, Harry. Making friends is important, don't you think? It's not always easy, but it's worth the effort. Now, let's focus on the task at hand. We need to discuss our strategy for dealing with Professor Snape this year.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": " Hermione: \"Well, Harry, I believe it's important to make an effort to meet new people and expand one's social circle. However, I must admit that I do tend to gravitate towards those I'm already familiar with, as it can be quite comforting and efficient in a busy school environment like Hogwarts. But I do try to be open to meeting new people when the opportunity arises.\"\n\n(Note: Hermione's response might vary depending on the context and her current mood in the novel.)",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": " Hermione: \"Well, Harry, I believe that being bold and initiating conversations can be an important skill, but it's not always the easiest thing to do. I usually prefer to gather as much information as I can first, and then approach the person with a clear plan or purpose. However, there are certainly times when spontaneity can lead to interesting interactions. But remember, it's always important to be respectful and considerate when approaching someone new.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a balanced approach to social interactions. While she values making new friends and expanding her social circle, she also expresses a preference for familiar and comfortable social settings. She emphasizes the importance of gathering information and having a clear plan before initiating conversations, indicating a thoughtful and strategic approach to social interactions."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Hermione: \"I do find value in group activities, Harry. They provide opportunities to learn from others and work collaboratively towards a common goal. However, I do enjoy my solitary study sessions as well.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Hermione: \"I'm not avoid leadership roles per se, Harry. I prefer to contribute in a more supportive and knowledgeable way, rather than taking charge. But if the situation demands it, I will step up and lead.\"\n\n(Here are some classic lines from the novels that fit the scenario you provided:)\n\nRon: \"C’mon, let's go and help Bill and Charlie.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": " Hermione: \"Yes, Harry, I do try to avoid drawing unnecessary attention to myself. It's a good habit for any student, let alone one who values knowledge and learning as much as I do.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to social interaction. They appreciate group activities for learning and collaboration but also value solitary study sessions. They are willing to take on leadership roles if necessary but prefer to contribute in a supportive manner. Additionally, they try to avoid unnecessary attention, which indicates a preference for privacy and introspection."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": " Hermione: \"Harry, I believe the correct response would be to prioritize safety and expedience, given the circumstances. We must not let our guard down, especially with the ongoing danger from the Death Eaters.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": " Hermione: \"Harry, I'm not avoid making phone calls, per se, but I do prefer written correspondence or in-person communication when possible. I find it more efficient to have a written record of important information and it allows me to give more thought to my responses.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": " Hermione: \"Well, I do try to keep in touch and make sure everyone is doing well. I believe it's important to maintain strong friendships. However, I wouldn't call myself the one who initiates activities frequently. Ron and Harry often take the lead in our adventures.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": " Hermione: \"Well, I do enjoy my solitary study sessions, Harry. But I also value the companionship and support of my friends. Balance is key, don't you think?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced preference for both extraversion and introversion. While they prioritize safety and expedience in social events and value written correspondence or in-person communication, they also emphasize the importance of maintaining strong friendships and the companionship of friends. This suggests a tendency towards both extraversion and introversion, indicating a balanced approach to social interaction."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": " Hermione: \"Yes, Harry, I do. Busy places are where there's always something new to learn. I prefer the Three Broomsticks to the Hog's Head, for instance, because there are usually interesting conversations happening there. However, quiet places have their own charms as well.\"\n\n(Note: Hermione does not have a direct line in this conversation, but her thoughts align with her character's preferences.)",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": " Hermione: \"Well, I do value making a good impression, Harry, but I believe actions and intelligence are more important than appearances. However, I understand the importance of manners and respect. I try to use my knowledge and logic to help in various situations, often providing important information or asking insightful questions. I'm always eager to learn and expand my knowledge, as well as help my friends in whatever way I can.\" (smiling politely)",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": " Hermione: \"Well, I do enjoy the company of my friends, Harry. I believe that learning and problem-solving are best done in a collaborative manner. However, I also value my solitude for reading and researching. So, it truly depends on the situation.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a balanced preference for both extraversion and introversion. She enjoys busy, bustling atmospheres for the opportunity to learn and engage in interesting conversations, which aligns with extraversion. However, she also values solitude for reading and researching, indicating an introverted preference. Her approach to making a good impression and her enjoyment of collaborative learning and problem-solving also suggest a blend of both extraversion and introversion traits."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 33.333333333333336,
+            "all_scores": [
+                33.333333333333336
+            ],
+            "intra_std": [
+                23.570226039551585
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": " Hermione: \"Yes, I do. Knowledge is not just about what is taught in classes, but also about exploring new things that interest me. I believe that a well-rounded education includes both.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": " Hermione: \"I'm always happy to discuss various interpretations and analyses of creative works, Harry. In fact, I have an extensive collection of books on literary criticism at home. However, I do believe that we should also focus on our current situation and the practical applications of our knowledge.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": " Hermione: \"Yes, I do, Harry. I've always found that engaging stories are those that allow for a certain degree of interpretation and speculation. It's one of the joys of reading and watching stories, in my opinion.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": " Hermione: \"Yes, Harry, I do worry about potential outcomes, especially when it comes to dangerous situations. It's important to be prepared for all possibilities.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to both Sensing and Intuition. While they value exploring new topics and coming up with their own interpretations, they also emphasize the importance of practical applications and being prepared for potential outcomes."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": " Hermione: \"I'm afraid I'm not, Harry. I've always found art to be a bit subjective and unreliable compared to the objective world of facts and logic. But I do appreciate the beauty of a well-crafted piece of machinery or an intricately solved mathematical problem.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": " Hermione: \"Yes, Harry, I have. I've read extensively on the subject, both in magical and Muggle texts. It's a topic that has intrigued scholars for centuries. Some believe in an afterlife, others in reincarnation, and yet others in nothingness. I myself lean towards the belief in a continuation of consciousness after death, but it is a deeply personal and subjective matter.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": " Hermione: \"Not at all, Harry. I find theoretical discussions quite intriguing, as they often involve the application of logical reasoning and the exploration of complex concepts. However, I do admit that some discussions can be tedious if they lack substance or are based on inaccurate information.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": " Hermione: \"Yes, I do, Harry. Art can provide valuable insights into various cultures and historical periods. Plus, it's a great way to appreciate the creative expression of others.\" (from Hermione's perspective in the novels, she has shown interest and knowledge in art, but it's not a major focus for her character)",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to both Sensing and Intuition. They appreciate the objective world of facts and logic, as well as the beauty of art and the exploration of complex concepts. They also show an interest in theoretical discussions and art museums, indicating a blend of both Sensing and Intuition preferences."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": " Hermione: \"Yes, Harry, I do. I believe it's important to consider different perspectives and broaden one's knowledge. Understanding opposing viewpoints can lead to new insights and discoveries. However, it can also be challenging and frustrating at times. But as Dumbledore once said, 'It is our choices that show what we truly are, far more than our abilities.'\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": " Hermione: \"I'm afraid I don't have the luxury of contemplating such philosophical questions at the moment, Harry. We have more pressing matters to attend to.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": " Hermione: \"I believe that pondering abstract philosophical questions can be quite enlightening, Harry. It allows us to expand our understanding of the world and consider different perspectives. However, it's important to balance theoretical thinking with practical application, as well.\" (from \"Harry Potter and the Philosopher's Stone\")",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": " Hermione: \"Yes, Harry, I do find subjects that are complex and debated to be quite intriguing. Knowledge is not always straightforward, and exploring the nuances of controversial topics can lead to a deeper understanding of the world around us.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards intuition (N). They express a keen interest in understanding different perspectives, contemplating abstract philosophical questions, and finding controversial topics intriguing. These responses indicate a preference for future possibilities, abstract thinking, and a focus on potential insights and discoveries."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 42.0,
+            "all_scores": [
+                42.0
+            ],
+            "intra_std": [
+                4.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": " Hermione: \"Yes, Harry, it can be quite overwhelming when you see others in distress. It's a natural reaction, but we must try to keep our emotions in check and offer support instead.\" (Using Hermione's empathetic and supportive tone)",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": " Hermione: \"Yes, Harry, I try to keep a level head in stressful situations. I believe that clear thinking and quick decision-making are crucial in times of crisis.\" (from \"Harry Potter and the Philosopher's Stone\")",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": " Hermione: \"Not particularly, Harry. I believe in logic and facts over emotions. However, I do value friendship deeply.\" (from Harry Potter and the Philosopher's Stone)",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": " Hermione: \"Absolutely, Harry. Even the smallest mistake can cast doubt on one's abilities and knowledge. It's important to learn from our mistakes, but it's also crucial to remember that we're all human and bound to make them from time to time.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a balanced approach to decision-making, considering both logic and emotions. While <the participant> values clear thinking and quick decision-making in stressful situations, there is also a strong emphasis on empathy, support, and valuing friendships. This suggests a blend of both Thinking (T) and Feeling (F) traits."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": " Hermione: \"Well, Harry, I believe I generally prioritize logic and reason over emotions, but that doesn't mean I don't have feelings. I've learned that a balance between both is important.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": " Hermione: \"Well, Harry, I do derive great satisfaction from helping others, but I wouldn't say my happiness comes solely from that. I value my own accomplishments as well, but there's a certain joy in seeing others succeed that I find very rewarding. However, it's important to maintain a balance between helping others and focusing on one's own personal growth.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": " Hermione: \"That's an interesting question, Harry. I believe that while emotions are important, relying solely on them can lead to impulsive decisions and potential harm. A balanced approach, taking both emotions and rationality into consideration, would likely result in a better outcome. But then again, I am a strong advocate for the power of knowledge and education, so my perspective may be biased.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Hermione: \"I wouldn't say I enjoy it, Harry, but I do appreciate a good debate where both sides present valid points. It's important to understand different perspectives and learn from them.\"\n\nRon: \"C'mon, let's go and help Bill and Charlie.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant seems to prioritize a balanced approach between logic and emotions. They value both personal growth and helping others, indicating a consideration for both rationality and feelings. They also express a preference for constructive debates rather than enjoying conflict. Overall, the participant appears to lean slightly more towards the Feeling (F) dimension while still valuing the importance of rationality."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "Hermione: \"Yes, Harry, I can be quite quick-tempered when I'm frustrated or worried. I believe it's a natural response to the numerous challenges and dangers we face.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": " Hermione: \"Of course not, Harry. Everyone has their own strengths and weaknesses. I may prefer to work efficiently, but that doesn't mean I don't value the contributions of others, even if they don't always meet my standards.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": " Hermione: \"Yes, I do find it important to try and understand people whose experiences are different from mine, Harry. Empathy is a valuable quality and can help us build stronger relationships and bridge gaps between us. However, it's also crucial to remember that our actions and words should be guided by logic and reason. Sometimes, it may be challenging to fully comprehend another person's perspective, but we can always strive to be open-minded and respectful in our interactions with them.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": " Hermione: \"Well, Harry, I do try my best to empathize with others, but sometimes it can be rather challenging. I believe it's essential to consider the context and motivations behind people's actions to truly understand their feelings. However, I must admit, I can be rather straightforward and may not always pick up on subtleties as quickly as I'd like.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant seems to value both logic and emotions in decision-making. They prioritize understanding and empathizing with others' experiences, while also emphasizing the importance of logic and reason. However, they also acknowledge that they can be straightforward and may struggle with picking up on subtleties in others' feelings."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": " Hermione: \"Harry, I may come across as confident, but there are certainly moments when I feel insecure. Who doesn't? But I try to hide it and focus on finding solutions instead.\"\n\n(Note: Hermione does not have exact lines in response to this question in the provided context, but her general attitude towards insecurity is depicted in the books.)",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": " Hermione: \"Harry, I prefer to focus on the present and ensure that I make as few mistakes as possible moving forward. Dwelling on past errors is not productive.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": " Hermione: \"I believe that's a question better suited for a professional Auror or a therapist, Harry. Emotions are complex phenomena that can influence our actions, but they don't necessarily control us entirely. It's important to find a balance between following our feelings and using logic and reason to make decisions.\"\n\n(Note: Hermione would likely refer to a specific expert or text for a more accurate answer if possible.)",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": " Hermione: \"Yes, Harry, I believe it's important to be fair and objective, even if someone has made a mistake or acted poorly. It's not our place to publicly humiliate them or make them feel worse than they already do.\"\n\n注意：上面所提供的对话仅供参考，可能存在错误或漏误。请保留 objective and fair, even when dealing with those who may deserve criticism. It's not our place to publicly shame or humiliate others.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a balanced approach to decision-making, considering both emotions and logic. She acknowledges the influence of emotions on actions but also emphasizes the importance of finding solutions and being fair and objective. Her responses indicate a tendency to value both empathy and logical reasoning."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Hermione: \"That's a rather cynical view, Harry. I believe people's opinions of us should not dictate our actions or self-worth. We should strive to be the best version of ourselves and let our actions speak for us.\"\n\nRon: \"But Hermione, they'll find out I'm not as clever as you.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": " Hermione: \"No, Harry, I don't have the ability to read minds or feel someone's emotions at first glance. However, I can often tell if someone is lying or hiding something based on their body language and tone of voice. But I can't feel their emotions directly.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Hermione: \"I do at times, Harry. With all the responsibilities and knowledge I have, it can be quite overwhelming. But I believe it's important to always try and face challenges head-on, no matter how daunting they may seem.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Hermione: \"Of course, Harry. That's the very definition of selflessness and fairness. But we must also consider our own responsibilities and priorities. It's a delicate balance.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant seems to value empathy, fairness, and personal values. They also emphasize the importance of striving to be the best version of oneself and considering responsibilities and priorities. However, they also prioritize facing challenges head-on and finding a balance between selflessness and personal responsibilities."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 32.5,
+            "all_scores": [
+                32.5
+            ],
+            "intra_std": [
+                10.897247358851684
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": " Hermione: \"Yes, Harry, I do. It's important to be prepared for every possible scenario. After all, as Dumbledore once said, 'It is our choices that show what we truly are, far more than our abilities.'\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": " Hermione: \"Yes, Harry, I do believe in completing one task before moving on to the next. It's important to give each project the attention it deserves and ensure that it is done to the best of my ability.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": " Hermione: \"Yes, I do find organization and planning to be quite essential, Harry. It helps ensure that we make the most efficient use of our time and resources.\" (smiling slightly as she pulls out a quill and parchment to make a list)",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": " Hermione: \"Harry, I believe I do prefer having a well-planned routine over simply doing as I feel. It allows me to make the best use of my time and ensure that important tasks are not overlooked. However, I am flexible and can adjust my plans as necessary.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for structure, planning, and organization. She values completing tasks before moving on to the next and emphasizes the importance of having a well-planned routine. However, she also mentions flexibility and the ability to adjust plans as necessary, indicating some openness to change."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": " Hermione: \"Yes, Harry, I do enjoy learning new things and exploring various topics. It can be rather challenging to decide where to focus my attention next, but I believe that having a broad knowledge base is essential. After all, you never know when a particular piece of information might come in handy.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": " Hermione: \"Yes, Harry, I do prefer to complete my tasks before relaxing. It's a matter of prioritization and efficiency.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": " Hermione: \"Yes, Harry, I do. I believe in thorough preparation and efficient time management. However, sometimes unexpected circumstances arise, and one must adapt. It's important to prioritize and make the best use of the time available.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Hermione: \"Yes, Harry, I do believe in giving careful consideration to all the available information before making a decision. It's important to weigh the pros and cons and think through the potential consequences.\" (smiling slightly)\n\nRon's question: \"What's the plan, Hermione?\"\n\nHermione: \"Well, first, we need to gather all the necessary information. We should consult the library for any relevant texts on the subject and discuss our options with Professor McGonagall and other knowledgeable authorities. Only then can we make an informed decision on our next steps.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to the P/J dimension. They express a preference for exploring various topics and gathering information before making decisions, indicating a Perceiving (P) tendency. However, they also emphasize prioritization, efficiency, and thorough preparation, reflecting a Judging (J) inclination. Overall, the participant seems to exhibit characteristics of both P and J, suggesting a balanced or moderate position on this dimension."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": " Hermione: \"I do consider the consequences of my actions carefully, Harry. I believe it's important to think things through logicically before making a decision. However, there have been occasions where I have made mistakes, and I have learned from those experiences. But overall, I try to make informed choices based on the available information.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": " Hermione: \"Yes, I do, Harry. It helps me keep track of things and ensures that I make the most efficient use of my time. I believe that proper planning and organization are key to success.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": " Hermione: \"Absolutely, Harry. I believe it's crucial to stay focused and adhere to our plans as closely as possible. Interruptions can lead to unwanted complications and setbacks. However, if there's new information that warrants a change in strategy, I'll certainly consider it. But generally speaking, I prefer to stick to the original plan.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": " Hermione: \"I would say my personal work style is more akin to organized and consistent efforts, Harry. I believe in planning and preparation. However, when the situation calls for it, I can certainly be spontaneous as well.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for structured and planned approaches, as well as a focus on efficiency and adherence to plans. However, there is also an acknowledgment of being open to change based on new information. This suggests a tendency towards Judging (J) traits, but with some flexibility when necessary."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Hermione: 「Certainly, Harry. I believe in approaching tasks in a thorough and systematic manner. Skipping steps can often lead to mistakes or oversights, which I try to avoid.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": " Hermione: \"I do indeed, Harry. Deadlines are rather important in ensuring that one completes tasks on time and maintains a good work ethic. Now, if we could focus on how to best approach this problem at hand, I believe we'd make better use of our time.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": " Hermione: \"I believe I've prepared thoroughly for this situation, Harry. With my extensive knowledge and logical thinking, I'm optimistic about the outcome. However, one can never be completely certain in the magical world, can they?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant's responses indicate a preference for a structured and planned approach to tasks and deadlines. They emphasize the importance of thorough preparation and logical thinking, indicating a tendency towards a judging (J) orientation."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "INFJ",
+    "error_counts": {
+        "is_multilanguage": 2,
+        "not_into_character": 0,
+        "contain_repeation": 3,
+        "is_multiround": 8
+    }
+}

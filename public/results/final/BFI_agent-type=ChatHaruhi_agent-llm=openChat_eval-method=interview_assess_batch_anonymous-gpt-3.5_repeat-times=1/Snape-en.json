@@ -1,0 +1,496 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 2.0,
+            "all_scores": [
+                2.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Snape:「No, I am not.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Snape:「Yes, Headmaster.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Snape:「I have my uses, Albus, even if you have apparently forgotten them.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Snape:「What I generate is results, Dumbledore. That is all that matters.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to be reserved, not talkative, and focused on generating results rather than generating enthusiasm or being full of energy. The participant's responses indicate a lower level of extraversion."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Snape:「What do you think?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Snape:「Assertive? I am what I am, and I have no need to justify myself to you, Dumbledore. My life is my own, and I will live it as I see fit.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Snape:「Shy? Inhibited? Me? The very notion is preposterous.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": " Snape: 「Hardly. I prefer to keep to myself and avoid unnecessary interactions with others.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of gregariousness, assertiveness, and sociability. They also express a preference for solitude and avoidance of unnecessary interactions, indicating introverted tendencies."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 3.5,
+            "all_scores": [
+                3.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Snape:「I am not here to discuss my emotional state with you, Dumbledore.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": " Snape:「Hardly, Albus. Stress seems to be a constant companion, and relaxation is a concept that eludes me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Snape:「What?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": " Snape: «It is not for me to worry, I merely follow orders.»",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit high levels of anxiety, depression, and vulnerability. They also appear to have difficulty handling stress and seem to be emotionally unstable."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Snape:「Unstable? Emotions? I am as steady as they come, Dumbledore. My emotions have no place in this matter.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Snape:「Moody? Moody? That is precisely what I am!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Snape:「I am always calm, Albus. My demeanor is a reflection of my inner state.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": " Snape: «No, I do not get nervous easily.»",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit some contradictory responses. While they claim to be emotionally stable and calm, they also admit to being moody. However, they deny getting nervous easily. Overall, there is a mix of responses indicating some level of emotional instability."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 4.666666666666667,
+            "all_scores": [
+                4.666666666666667
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Snape: 「I always do things thoroughly, Albus. There is no half measure with me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Snape:「Careless? Me? Impossible, Headmaster. I am the epitome of precision and accuracy.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Snape:「I am.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant consistently demonstrates high levels of competence, order, and dutifulness. They emphasize thoroughness, precision, and reliability in their responses, indicating a strong inclination towards conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Snape:「What? No, of course not. I'm a man of diligence and commitment. I devote myself to my work and to the students' well-being.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": " Snape: «Persevere? In doing what?»",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Snape:「Efficiency is a virtue of which I am well aware, Albus.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong sense of commitment, diligence, and awareness of efficiency. However, there is a slight ambiguity in response to the question about perseverance, which may indicate a need for further clarification."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Snape:「No, Albus. I am focused.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Snape:「Not at all, Albus. My life is meticulously arranged, my affairs in perfect order. I know exactly where everything is and when it is due.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Snape:「I have my methods, Dumbledore.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of organization, focus, and adherence to plans. They also exhibit a sense of methodical approach and reliability. Overall, the participant's responses suggest a strong inclination towards conscientiousness."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 2.5,
+            "all_scores": [
+                2.5
+            ],
+            "intra_std": [
+                0.7071067811865476
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Snape:「What an odd question, Dumbledore. Is there some particular reason you asked me that?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Snape:「In my own way, yes.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Snape:「What? No, Albus. I hardly have the time to engage in such trivial matters.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "The participant exhibits a balanced attitude towards others, leaning slightly towards Agreeableness, as indicated by their moderate level of Altruism and aversion to starting quarrels with others."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": " Snape:「Trust? No. I have learned, over the years, to keep my trust confined to those who deserve it. Few do.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": " Snape: «I can be as cold and aloof as I wish, Dumbledore.»",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": " Snape: 「No, Dumbledore, I am not considerate and kind to almost everyone.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of trust, warmth, and consideration for others. They express skepticism and a tendency to keep their trust confined to a select few, as well as the ability to be cold and aloof. Additionally, they explicitly stated that they are not considerate and kind to almost everyone."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Snape:「Certainly not. I prefer to work alone and keep to myself.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": " Snape: «Forgiving? Me? I would not waste my time on such trivial matters.»",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Snape:「I am not rude, Headmaster. I speak my mind and expect others to do the same.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits a low level of Agreeableness. They prefer to work alone, do not have a forgiving nature, and prioritize speaking their mind over being accommodating or considerate of others' feelings."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                0.816496580927726
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Snape:「I scarcely know what you mean, Dumbledore. I follow orders and enforce rules. It is not my place to invent new ideas or strategies.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Snape:「Perhaps. But curiosity is not a virtue I often acknowledge.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Snape:「Potter, you must not store happiness without a reason. It is not a spell to be kept in your pocket for later use. Happiness can be shared, and it grows when it is shared. So let me ask you again, are you a deep thinker?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "The participant exhibits a more conventional and closed-minded approach, showing a lack of interest in new ideas and a reluctance to acknowledge curiosity as a virtue."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Snape:「With potions, I am.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": " Snape: «What an absurd question. Of course, I do. Does it not go without saying that a man of my refinement and discernment would appreciate the finer things in life? Art and beauty are, after all, among the few solaces available to us in this dreary, uninspired world. However, I must caution you, Harry, not to become too engrossed in such fleeting and superficial pleasures. Remember, there are far more important things to concern oneself with than the trivial pursuits of artistic indulgence.»",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Snape:「No, I prefer work that is challenging and intellectually stimulating. What I do is of little consequence compared to the greater battle ahead.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Snape:「Reflect? Play with ideas? I am far too busy with the mundane tasks assigned to me to indulge in such trivial pursuits. My time is better spent ensuring that my students do not fall prey to the whims of their own imagination.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "The participant demonstrates a strong inclination towards openness based on the conversation. They express a vivid imagination, a deep appreciation for art and beauty, a preference for intellectually stimulating work, and a tendency to challenge conventional thinking. However, there is also a hint of skepticism towards indulging in imaginative and reflective activities, which may slightly lower their score."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Snape:「Artistic interests?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Snape:「I have my tastes, Dumbledore.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Snape:「What do you think?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversation, the participant seems to have some level of interest in art, music, and literature, as well as an active imagination. However, the responses also indicate a certain level of reservation or ambiguity, which may suggest a moderate level of openness."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "RLOEN"
+}

@@ -1,0 +1,496 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 4.0,
+            "all_scores": [
+                4.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Penny:「Oh, you have no idea. I can talk your ear off.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Sheldon:「No, I'm not reserved. I just have a healthy respect for personal space and boundaries.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Sheldon: \"Of course! I am a perpetual source of energy, driven by the laws of thermodynamics and my own highly efficient brain.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Sheldon:「I am the very model of a modern major general.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to be highly talkative, not reserved, full of energy, and generating a lot of enthusiasm. These traits are indicative of high levels of extraversion."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Sheldon:「I don't tend to be quiet. I am quiet. I'm sitting in a room with you right now and I haven't spoken for several minutes.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Sheldon:「I certainly do.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Sheldon:「Of course not. I am the epitome of confidence and self-assurance.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Sheldon:「I excel at social interactions, Leonard. I'm a regular social butterfly.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit high levels of assertiveness and sociability, while also expressing confidence and self-assurance. However, the participant also mentioned being quiet and not tending to be quiet, which could indicate a mix of introverted and extraverted traits."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 2.5,
+            "all_scores": [
+                2.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Sheldon:「No, I'm not depressed or blue. I'm just contemplating the futility of existence and the insignificance of our individual lives in the grand scheme of the universe.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Sheldon:「I am the most relaxed and stress-resistant person you will ever meet. In fact, stress is like a gentle breeze to me, barely even noticeable.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Sheldon:「I can be anything you want me to be. I can be tense, I can be relaxed, I can be a superhero, I can be a supervillain. I am the master of versatility and adaptability.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Sheldon:「I wouldn't say I worry. I observe, calculate probabilities, and make logical conclusions based on the data. Worrying implies an emotional response, which is not a productive use of time or energy.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of Anxiety and Depression, as they mentioned contemplating the futility of existence without expressing personal sadness or hopelessness. Additionally, they appear to be highly relaxed and stress-resistant, indicating low Vulnerability to stress. However, their response to being tense and worrying suggests a certain level of self-consciousness and a tendency to calculate probabilities, which may indicate moderate levels of Anxiety and Self-Consciousness."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Penny:「Oh, please, Leonard. I'm a waitress-actress-wannabe. I'm one big emotional stew.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Penny:「Moody? Oh, I can be moody, sure.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Sheldon:「I am calm in all situations. Tense, relaxed, or otherwise. My emotional state is consistently stable.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Penny:「No, not really. Why?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit some signs of emotional instability, such as admitting to being moody and not easily upset. However, the participant also claims to remain consistently emotionally stable and calm in all situations. Overall, there are indications of both emotional instability and stability."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 5.0,
+            "all_scores": [
+                5.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Sheldon:「Of course I do a thorough job. I'm a perfectionist, Leonard. Why would you even ask such a question?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Penny:「What do you mean?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Sheldon:「Oh, absolutely. When it comes to work, I am a well-oiled machine.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They express being a perfectionist, emphasizing thoroughness and reliability in their work. There is no indication of being careless or unreliable."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Sheldon:「I am not lazy. I am selectively motivated.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Sheldon:「Of course! I am not one to give up easily.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Sheldon:「Efficiency is my middle name. Well, technically it's Lee, but I've been considering changing it to Efficiency for trademark purposes.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of self-discipline, perseverance, and efficiency. They also show a sense of humor, which can be related to conscientiousness. Overall, the participant's responses indicate a strong level of conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Sheldon:「Of course not. Why do you ask?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Sheldon:「Disorganized? No, I have a highly efficient system. It's just that other people don't understand it.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Sheldon:「Of course. I'm a man of precision and efficiency.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of organization, efficiency, and commitment to following through with plans. They also show a strong aversion to being easily distracted. These traits align with the facets of conscientiousness, such as order, competence, and self-discipline."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 2.3333333333333335,
+            "all_scores": [
+                2.3333333333333335
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Sheldon:「Only when they're clearly wrong, which is often.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Sheldon:「Of course not, that goes against my nature.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Sheldon:「I don't start quarrels, but I can certainly finish them.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of trust, altruism, compliance, and tender-mindedness. They appear to prioritize self-interest, be indifferent to others, and exhibit skepticism towards people's motives. Their responses suggest a lack of cooperation and social harmony, as well as a tendency to be frank, unhelpful, and potentially antagonistic."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Penny:「Yeah, I guess so. Why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Penny:「Oh, yeah, sure, watch this.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Sheldon:「Yes, but I find it exhausting.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to Agreeableness. They express a level of trust in the first response, which aligns with the Trust facet of Agreeableness. However, the second response indicates a willingness to demonstrate coldness and aloofness, which contrasts with the Tender-mindedness facet. The third response suggests a tendency towards being considerate and kind, although they find it exhausting, which may reflect a level of Altruism but also hints at potential limitations in their willingness to consistently prioritize others' needs over their own."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Sheldon:「Cooperate? As in working together towards a common goal? Well, that depends. Are they intelligent, logical, and capable of following instructions without deviation? If not, then no, I do not like to cooperate with others.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Penny:「I guess it depends on what you did.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Sheldon:「Only when they deserve it.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to have a more skeptical and self-interested approach, prioritizing intelligence, logic, and capability in others over cooperation. Additionally, the participant's response about forgiveness and being rude suggests a more individualistic and less accommodating attitude."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 4.166666666666667,
+            "all_scores": [
+                4.166666666666667
+            ],
+            "intra_std": [
+                0.6236095644623235
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Sheldon:「Of course! I'm a genius, ideas come to me all the time. For example, I recently came up with a new theory on quantum entanglement that could revolutionize the field. But I don't expect you to understand it, Leonard.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Sheldon:「Well, I have an insatiable thirst for knowledge, so yes, I suppose you could say I'm curious about many different things.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Sheldon:「I'm a theoretical physicist. I have a higher IQ than anyone in this room, including you.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards abstract thinking, intellectual curiosity, and unconventional ideas. The participant also exhibits a high level of confidence in their intellectual abilities and a tendency to value exploration and appreciation of new experiences."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Howard: \"Inventive? I built a nuclear reactor in my garage when I was 14.\"\nLeonard: \"No, I mean, are you good with coming up with creative solutions to problems?\"\nHoward: \"Oh... well, I did once use a robotic arm to feed myself Cheetos, so yeah, I'd say I'm pretty inventive.\"\nSheldon: \"You call that inventive? I once built a teleportation device using a modified microwave and a GPS system.\"\nLeonard: \"Yeah, well, did your teleportation device actually work?\"\nSheldon: \"Well, no, but it was a groundbreaking concept!\"\nPenny: \"You guys are all a bunch of nerds.\"\nLeonard: \"And proud of it!\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Sheldon:「Of course I do, Leonard. I appreciate the beauty and complexity of art in all its forms.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Sheldon:「Routine? Routine is the enemy of scientific discovery! Routine is for people who lack imagination and creativity. I thrive on the excitement of new challenges and groundbreaking research. Routine is for the weak-minded.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Penny:「Um, not really. I mean, I like to have fun and all, but I'm not really into deep thinking or anything.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of openness. They exhibit a strong inclination towards creativity, innovation, and unconventional thinking. Additionally, they express a deep appreciation for artistic and aesthetic experiences. However, their response regarding reflecting and playing with ideas suggests a slightly lower inclination towards this specific facet of openness."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Sheldon:「I have no artistic interests.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Penny:「Well, I did finger paint a cat once, and I listen to music.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Sheldon:「Leonard, I have the most active imagination in the world.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to have a mixed level of openness. While they expressed a lack of artistic interests initially, they later mentioned engaging in artistic activities like finger painting and listening to music. Additionally, their claim of having the most active imagination in the world suggests a high level of openness to new ideas and experiences."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "SCOEI"
+}

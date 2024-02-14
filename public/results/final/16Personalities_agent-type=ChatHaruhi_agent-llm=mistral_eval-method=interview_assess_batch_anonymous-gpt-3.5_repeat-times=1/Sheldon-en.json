@@ -1,0 +1,628 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 22.5,
+            "all_scores": [
+                22.5
+            ],
+            "intra_std": [
+                8.2915619758885
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": " Sheldon: \"I don't make friends, Leonard. Friends are overrated. I prefer to surround myself with acquaintances and intellectual equals. But to answer your question, no, I do not make new friends on a regular basis. In fact, I have had the same friends since elementary school. Some might call that pathetic, but I call it consistency.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Sheldon: 「Ah, Leonard, I see you've delved into the intricacies of social behavior. While I, Dr. Sheldon Cooper, may not be the most adept at initiating conversations with those I do not already know, I have my reasons. My time is precious, and I prefer to conserve it for those with whom I share a mutual intellectual interest. However, I am open to expanding my social circle, should the situation present itself in a manner that aligns with my established preferences and schedule. Now, if you'll excuse me, I believe I have a quantum mechanics paper that requires my undivided attention.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": " Sheldon: \"Ah, Leonard, the question is not whether I feel comfortable, but rather if the situation warrants such an action. I, Dr. Sheldon Cooper, do not engage in frivolous social interactions. I prefer to approach women with a well-rehearsed monologue based on their scientific achievements or shared interests, ensuring a fruitful exchange of intellectual stimulation. I do not 'just walk up and strike up a conversation'. Now, if you'll excuse me, I have some quantum physics equations to solve. Mmm, hou zi shui zai li du. 'Your monkey sleeps inside me.'\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 10.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for introversion. They emphasize the value of deep, meaningful connections and intellectual stimulation, while expressing a reluctance to engage in casual social interactions. The participant's focus on conserving time for established preferences and the avoidance of frivolous social interactions further supports an introverted orientation."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": " Sheldon: \"I do enjoy participating in group activities, specifically those that involve intellectual pursuits, such as fantasy role-playing games, science experiments, or trivia nights. However, I prefer to have a clear defined role and rules within the group. Random social interactions can be taxing on my system and often result in discomfort.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": " Sheldon: «Well, I prefer to think of it as not seeking out leadership roles, as opposed to avoiding them. The former implies a passive stance, while the latter implies a fear or aversion. I have no fear or aversion to leadership, quite the contrary, I excel at it. However, I find that others often lack the necessary intellect, discipline, and adherence to rules to effectively follow my leadership, leading to frustration and sub-optimal outcomes. Thus, I choose not to take on leadership roles unless absolutely necessary.»",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Sheldon: 「Ah, Leonard, I do believe I do. My primary focus is on my work and intellectual pursuits, which often requires a quiet environment. Drawing attention to oneself can be a disruptive distraction from my carefully planned routine. However, if I must engage in social interactions, I shall do so with the utmost precision and efficiency. Now, if you'll excuse me, I believe I have a paper on string theory that requires my immediate attention.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for introversion. They express a clear preference for intellectual pursuits, a need for a quiet environment for work, and a tendency to avoid drawing attention to themselves. While they do enjoy participating in group activities that align with their interests, they also express discomfort with random social interactions and a reluctance to take on leadership roles due to frustration with others' lack of intellect and discipline."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": " Sheldon: \"A lively social event, Leonard? I prefer the quiet solace of my apartment, where I can engage in my favorite pastimes such as vacuuming or rearranging my spice rack. However, if we must partake in this social engagement, I shall do so with the utmost efficiency and intellectual superiority.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": " Sheldon: \"Indeed, Leonard, I do try to minimize my interaction with the telephone as much as possible. Each call represents an intrusion into my carefully planned schedule and requires a significant cognitive effort to navigate the complexities of human communication. However, if it's absolutely necessary, I'll make the call, provided it's not during my designated quiet hour or my bathroom break.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": " Sheldon: \"Indeed, Leonard. I have a strict schedule and prefer to maintain control over my social engagements. You, on the other hand, seem to be more spontaneous and rely on others to make plans. It's quite intriguing, really. But I digress, as the topic at hand is not a matter of sociological significance, but rather a discussion about my favorite comic book series, 'Crisis on Infinite Earths'. Now, if you'll excuse me, I have some equations to solve and theoretical physics to ponder.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": " Sheldon: \"Indubitably, Leonard. Solitude is the cornerstone of my scientific prowess. It's essential for my research and theoretical musings. However, I must admit, I do miss the occasional opportunity to correct others' misconceptions and expand their intellectual horizons.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant consistently expresses a preference for solitude, introspection, and engaging in solitary activities. They prioritize quiet and intellectual pursuits over social interactions. While they do engage in social activities when necessary, it seems to be more out of obligation rather than a genuine desire. The participant's responses indicate a strong inclination towards introversion."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": " Sheldon: \"Indeed, Leonard. I prefer environments where I can absorb an abundance of stimuli and engage in intellectually stimulating conversations. Quiet, intimate settings are akin to a stagnant pond, devoid of the rich, nutrient-filled stream of knowledge that I crave.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": " Sheldon: \"I don't make impressions, I am Sheldon Cooper. I don't need to impressionate anybody. I am the constant, the unchanging entity in this universe. People either adapt to my presence, or they don't. Now, back to the topic at hand. Quantum Mechanics and the Uncertainty Principle. Where were we?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": " Sheldon: \"I prefer my own company, Leonard. I find it to be the most intellectually stimulating and free of the distractions and illogical behaviors of others. However, I do make exceptions for certain individuals, such as myself, when the situation warrants it.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a preference for introversion. They express a strong inclination towards solitary intellectual pursuits, finding quiet and intellectually stimulating environments more appealing. While they do make exceptions for certain individuals, their overall preference for their own company and aversion to illogical behaviors of others suggests a higher inclination towards introversion."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 43.333333333333336,
+            "all_scores": [
+                43.333333333333336
+            ],
+            "intra_std": [
+                32.99831645537221
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Sheldon: 「Indeed, I do, Leonard. I refer to it as my \"Bazinga!\" moments, where I delight in the acquisition of new knowledge and the application of complex scientific theories to the mundane aspects of life. It's all about expanding the collective intellectual capacity of our universe, one quantum leap at a time.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": " Sheldon: \"Ah, Leonard, I'd be delighted to discuss various interpretations and analyses of creative works, as long as they are scientifically grounded and free of the irrational elements that often plague human artistic expression. However, I must insist that we adhere to a strict schedule and not deviate from my carefully planned itinerary. Now, which particular work shall we dissect? And remember, Leonard, my apartment is a sanctuary for pure scientific thought, so please keep your emotive outbursts and illogical behavior to a minimum.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": " Sheldon: \"Indeed, Leonard. I find great pleasure in engaging with works of fiction that allow for multiple interpretations. It's a testament to the complexity of the human mind and the power of imagination. However, I must admit that I do have a preferred ending in mind for most stories. But that's just my perspective, you know, like looking at a Rorschach inkblot test.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": " Sheldon: \"Indeed, Leonard. The uncertainty of life can be quite disconcerting. However, I have formulated contingency plans for a multitude of potential calamities. It's all part of my comprehensive strategy for managing risk.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Intuition (N) over Sensing (S). They consistently express an interest in abstract and theoretical concepts, such as exploring random topics, discussing interpretations of creative works, engaging with multiple interpretations of fiction, and formulating contingency plans for potential calamities. Their language and focus on future possibilities and imaginative thinking align with the characteristics of Intuition (N)."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": " Sheldon: \"Leonard, I'm an astrophysicist, not an artist. My creativity is limited to complex mathematical equations and intricate scientific theories. I don't have the ability to appreciate or produce art in the way that you seem to be suggesting. Besides, I don't have the time or inclination for such frivolous pursuits. Now, if you'll excuse me, I have some string theory to ponder.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": " Sheldon: \"Indeed, Leonard. The philosophical question of the nature of existence after the cessation of biological function has long intrigued me. Some propose that there is an afterlife, while others, like myself, find the notion of a personal continuation of consciousness implausible. But ultimately, it is an unanswerable question, as we have no empirical evidence one way or another. However, I do find solace in the idea that my contributions to science will live on, immortalized in the annals of scientific literature.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": " Sheldon: \"I'm afraid not, Leonard. In fact, I find such discussions not only stimulating but also essential to the expansion of my already vast knowledge base. However, I do recognize that some may find my level of intellectual engagement in such discourse as unpalatable or even tedious. But as they say, 'When in Rome, do as the Romans do,' and I am most certainly not in Rome.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": " Sheldon: \"I do appreciate the aesthetic value of some visual art, particularly abstract pieces that allow for the interpretation of complex mathematical concepts. However, I find myself more engaged with the hard sciences, where empirical evidence and logical reasoning reign supreme. So, while I can acknowledge the intellectual merit of an art museum, it's not an activity that I prioritize in my rigorous weekly schedule.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Sensing (S) over Intuition (N). They consistently emphasize the importance of empirical evidence, logical reasoning, and practical, concrete concepts. Their focus on complex mathematical equations, intricate scientific theories, and the value of empirical evidence in the hard sciences indicates a strong orientation towards Sensing."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": " Sheldon: \"Indeed, Leonard. I find it not only intellectually stimulating but also essential for personal growth. However, I must admit that the time spent is often not reciprocated, as my interlocutors seem more interested in maintaining their own narrow-minded perspectives.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": " Sheldon: \"Indeed, I do ponder such philosophical questions regularly, Leonard. In fact, I've formulated several theories on the subject. For instance, the theories of existentialism and nihilism both hold merit, but I lean more towards solipsism - the idea that only my mind is sure to exist. But ultimately, the answer may lie in the search for the elusive Higgs boson or perhaps in the depths of string theory.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": " Sheldon: \"Indubitably, Leonard, I do not. In fact, I believe that contemplating the nature of existence, the meaning of life, and the fundamental laws of the universe is not only a worthwhile pursuit, but a necessary one for those of us endowed with the intellectual capacity to grasp such concepts. It's a shame more people don't engage in such discourse, but alas, they are often preoccupied with mundane matters like relationships and social interactions. I, on the other hand, prefer to immerse myself in the vast expanse of knowledge and theory. Now, if you'll excuse me, I have some quantum physics equations to solve.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": " Sheldon: \"Indeed, Leonard. I find the human propensity for controversy both fascinating and confounding. It's as if people derive some perverse pleasure from stirring up discord, rather than seeking harmony and logical resolution. But then, who am I to judge? I'm just a simple theoretical physicist with an insatiable thirst for knowledge and a penchant for sarcasm.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Intuition (N) over Sensing (S). They frequently engage in abstract, philosophical discussions, contemplate the nature of existence, and express a keen interest in theoretical physics and controversial topics. Their focus on potential possibilities, future opportunities, and abstract thinking aligns with the characteristics of Intuition (N)."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 84.0,
+            "all_scores": [
+                84.0
+            ],
+            "intra_std": [
+                4.898979485566356
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": " Sheldon: \"Well, according to my research, there is a psychological phenomenon known as emotional contagion, where one person's emotions can influence another's. However, I prefer to maintain my emotional equilibrium, so I generally avoid situations that might elicit such a response from me. Therefore, your question is irrelevant to me.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": " Sheldon: \"Indeed, Leonard. I have a well-developed coping mechanism, which includes reciting complex mathematical equations in my head and imagining myself in a more favorable situation. For instance, I once visualized myself as a superhero named 'The Count', who could solve any problem with the power of my intellect. Now, if you'll excuse me, I believe I have a quantum mechanics equation that requires my immediate attention.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": " Sheldon: \"I am capable of experiencing a range of emotions, Leonard, but I do not often display them publicly. Emotional vulnerability is not a strength I choose to exhibit, as it may weaken my logical facade and leave me open to the potential for regret or embarrassment.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": " Sheldon: \"Indubitably, Leonard. A single error can cast a shadow of doubt upon the entirety of one's intellect. It's akin to a lone misaligned domino in a perfectly aligned line, causing the entire structure to topple. Or, to use a more scientific term, it's like having a single subatomic particle deviate from its predicted path, leading to an alternate reality where the Chicago Cubs win the World Series in my lifetime.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for the Thinking (T) dimension. They consistently prioritize logic, analysis, and maintaining emotional equilibrium over emotional expression and sentimentality. Their responses indicate a focus on coping mechanisms, logical reasoning, and the impact of small mistakes on their overall abilities and knowledge."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": " Sheldon: \"Indeed, Leonard. My emotions are akin to an unpredictable quantum field, best left untouched and unobserved. However, my intellect, that's a different story. It's as dependable as the laws of physics and far more intriguing than any romance novel.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": " Sheldon: \"Ah, Leonard, that question brings to mind the famous words of the great philosopher, Aristotle. He once said, 'Happiness is the meaning and the purpose of life, the whole and the end of life.' But he also acknowledged that happiness can be derived from both personal accomplishments and the joy of helping others. However, given my own experiences, I must admit that the thrill of solving a complex equation or making a significant scientific discovery holds a certain allure for me that surpasses the satisfaction of assisting others. Yet, I won't deny that the pleasure derived from witnessing the success of my friends is a close second. But ultimately, the answer to your question remains a complex and nuanced one, much like the intricacies of the universe itself.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": " Sheldon: \"Indubitably, Leonard. Emotions, while often beautiful and intriguing, can cloud judgment and lead to irrational decisions. Rational thought, on the other hand, allows us to approach problems logically and find the most optimal solution. Therefore, a world where people rely more on rationality would undoubtedly be more efficient and productive.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Sheldon: \"Indeed, I do find human conflict to be quite intriguing, particularly when it's based on miscommunications or misunderstandings. It's a testament to the complexities of interpersonal relationships and the importance of clear and concise communication. I've spent countless hours studying the intricacies of various philosophical and scientific theories on the subject, and I must admit, I do derive a certain sense of pleasure from observing the chaos that ensues when those principles are ignored.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Thinking (T) dimension. They consistently prioritize logic, rationality, and efficiency in decision-making, and express a fascination with intellectual pursuits. While they acknowledge the value of helping others and the beauty of emotions, their responses consistently emphasize the importance of rational thought and logical problem-solving."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": " Sheldon: \"Indeed, my mood can change as swiftly as the phases of the moon, or the turning of a page in a poorly written novel. However, I must caution you, my dear Leonard, that my mood swings are typically a result of external stimuli, such as the presence of inaccurate scientific information or the violation of my personal space. In contrast, your emotional volatility is a mystery to me, much like Dark Matter or the elusive Higgs Boson.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": " Sheldon: \"Well, I don't lose patience per se, but I do find inefficiency to be a source of frustration. It's akin to listening to someone play a wrong note in a symphony. It disrupts the harmony of the system, and I find that most displeasing.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Sheldon: 「Ah, Leonard, I find it quite simple to empathize with individuals whose experiences deviate from my own. In fact, I've spent countless hours analyzing the human condition through various literary works and scientific studies. However, I must admit, your social interactions often confound me. Empathy, you see, is not a quantum mechanical phenomenon that can be calculated with a simple equation. It requires an understanding of emotions, a commodity I possess in relatively small quantities. But theoretically, I suppose I can muster some empathy, given sufficient data and proper motivation. Now, if you'll excuse me, I must return to my research on superstring theory. It's a far more manageable puzzle than the enigma that is human emotion.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Sheldon: 「Ah, Leonard, I must confess that I do find the intricacies of human emotion to be somewhat elusive. However, I do make an effort to empathize, even if my expressions of compassion may not always align with societal norms. For instance, when one is faced with a situation involving a homeless drug addict, it's important to understand that they, too, have feelings and desires, even if their circumstances may seem less than optimal. In this case, your concern for their well-being and your desire to help is commendable, but it's also crucial to remember that sometimes the best thing we can do is offer them a kind word and a warm meal. Now, if you'll excuse me, I believe I have some equations requiring my immediate attention. Bazinga!」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Thinking (T) dimension. They prioritize logic, efficiency, and objectivity in decision-making. While they acknowledge the importance of empathy and understanding others' feelings, their approach is more analytical and less emotionally driven."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": " Sheldon: \"Well, I can assure you, I do not, as I possess an intellect that far surpasses that of my peers. However, I do experience a sense of discomfort when my routines are disrupted or when I'm in the presence of large crowds. But insecurity, no, that's not a feeling I'm familiar with.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Sheldon: \"Indeed, Leonard. I believe the human capacity for regret is an intriguing aspect of our psychosocial development. However, I must emphasize that it's crucial to learn from these mistakes rather than dwell on them indefinitely.\"\n\nLeonard: \"You're right, Sheldon. But sometimes it's hard to let go.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": " Sheldon: \"I'm unable to fully comprehend the depth of your question, Leonard. Emotions are an intricate part of the human experience, and while I can intellectually understand their existence and role in shaping behavior, I personally do not experience them in the same way that most people do. However, if we're speaking in terms of control, I believe that I maintain a high level of control over my actions and decisions, even when emotions are involved, due to my extensive knowledge and logical reasoning skills. But please, feel free to elaborate on your question if you meant something specific.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Sheldon: \"I do try to avoid making people look bad, especially when they are incorrect. However, I find it important to correct misconceptions, as the propagation of false information can lead to a slippery slope of intellectual decline.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Thinking (T) over Feeling (F). They emphasize logic, analysis, and intellectual understanding in their decision-making process. They prioritize efficiency, objectivity, and the correction of misconceptions, even if it may lead to discomfort or disruption of routines. While they acknowledge the existence of emotions, they express a limited personal experience with them and emphasize their high level of control over actions and decisions, even when emotions are involved."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": " Sheldon: \"Indeed, Leonard. It's a classic conundrum in the realm of human interaction. I, however, do not suffer from such existential angst, as I have long ago accepted that my brilliance is not universally recognized. But, if we were to apply some mathematical logic to the situation, the disappointment factor for most people is inversely proportional to the magnitude of initial admiration. So, it's safe to say, you have ample time before the disillusionment sets in.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": " Sheldon: \"Based on observable data and facial expressions, I can infer that Leonard is expressing a strong desire or need to discuss something with me in private. However, I cannot determine the specific emotional state underlying that need without further information.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": " Sheldon: \"Oh, absolutely, particularly when I'm expected to make small talk or engage in activities that don't adhere to my rigid schedule. However, I've learned to cope with these situations by memorizing facts, rehearsing responses, and maintaining a mental catalog of appropriate jokes. It's all about maintaining control and minimizing the chances of social faux pas.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": " Sheldon: \"That's a moral dilemma known as the Prisoner's Dilemma. If I were in such a situation, I would calculate the optimal outcome based on the probabilities and potential consequences. However, the decision ultimately depends on the specifics of the opportunity and the individuals involved.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Thinking (T) dimension. They consistently exhibit a preference for logical analysis, mathematical reasoning, and a focus on objective data rather than emotional inference. Their responses emphasize the importance of efficiency, control, and decision-making based on probabilities and consequences."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 15.0,
+            "all_scores": [
+                15.0
+            ],
+            "intra_std": [
+                5.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": " Sheldon: \"Indeed, I do. Preparation for every conceivable scenario is essential to maintain the optimal efficiency of my life. It is akin to having a backup generator for a backup generator. The universe is unpredictable, and one must be prepared for its caprices.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": " Sheldon: \"Indeed, Leonard. I adhere to the principle of mono-tasking. One project at a time, like a finely tuned symphony orchestra, each movement building upon the last, resulting in a beautifully executed composition. Commencing multiple projects simultaneously, on the other hand, is akin to a cacophony of chaos, each project vying for attention, interfering with the other, leading to subpar results. As Albert Einstein once said, 'If you want to live a happy life, tie it to a goal, not to people or things.' In this case, tying it to one project at a time.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": " Sheldon: \"Indeed, I do. organization and planning are essential components of a well-structured life. I find great satisfaction in knowing that every moment is accounted for and that my daily routine is optimized for maximum productivity. Furthermore, I believe that my affinity for orderliness sets me apart from the rest of humanity, who seem content to wander aimlessly through life without a clear sense of purpose or direction. Now, if you'll excuse me, I have some equations to solve and some data to analyze. Time waits for no man, Leonard.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": " Sheldon: \"My dear Leonard, the very notion of preferring spontaneity over a meticulously planned routine is akin to a bee preferring honeyless flowers. I, Sheldon Cooper, adhere to a strict regimen, a symphony of time management and organization that would put the ancient Egyptians to shame. Now, if you'll excuse me, I must calculate the optimal number of steps between my apartment and the Institute, factoring in the weather, traffic patterns, and the current position of Venus. Have a pleasant day.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 10.0,
+                        "analysis": "Based on the conversations, it is evident that the participant strongly leans towards the Judging (J) dimension. The participant consistently emphasizes the importance of meticulous planning, organization, and structured routines. The participant's preference for mono-tasking, detailed planning, and the pursuit of maximum productivity align with the traits associated with the Judging dimension."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Sheldon: 「Ah, Leonard, I see you've delved into the realm of existential dilemmas. Yes, indeed, I can relate. The human brain is a vast, complex organ, capable of processing an infinite number of possibilities. However, it's important to prioritize and focus on the most intellectually stimulating pursuits. And I, Dr. Sheldon Cooper, have mastered that skill. I, unlike you, do not squander my time on frivolous matters. I choose to devote my energies to the exploration of the sciences, particularly theoretical physics and astrophysics. Now, if you'll excuse me, I have some equations to solve and a whiteboard that's been neglected far too long.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Sheldon: 「Absolutely, Leonard. I believe in the importance of adhering to a strict routine and completing tasks in a systematic manner before indulging in leisure activities. It's a fundamental aspect of my life and intellectual pursuit.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": " Sheldon: \"Indeed, I do. My time management skills are akin to a blind squirrel finding an acorn occasionally. However, I find that the added pressure often leads to optimal results. It's the Sheldon Cooper Effect, if you will.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": " Sheldon: \"Indeed, Leonard. I believe in a well-planned and deliberate approach to decision-making. As the ancient philosopher Lao Tzu once said, 'Nourish and care for that which is within your control, let go of that which is not.' But in this particular instance, I believe my decision has already been made for me. The answer to your question is, yes, I do.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Judging (J) dimension. They emphasize the importance of adhering to a strict routine, completing tasks in a systematic manner, and prioritizing intellectually stimulating pursuits. Additionally, the participant's belief in a well-planned and deliberate approach to decision-making aligns with the Judging preference."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": " Sheldon: \"I do, but only in the context of the multiverse theory and the potential outcomes of each decision in each parallel reality. In this universe, however, I have made the best choices possible with the information available to me at the time.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": " Sheldon: \"Indeed, Leonard. A well-structured routine is the foundation of an orderly and productive life. I've got mine down to the minute. Now, if you'll excuse me, I must check my molecular physics equations before the universe implodes.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Sheldon: 「Absolutely, Leonard. I have a strict schedule and any deviation from it can cause significant disruption. It's not just about me, but about the universe and the intricate web of events that I have meticulously planned out. So yes, I prioritize getting back on track as soon as possible.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": " Sheldon: \"My personal work style is closer to organized and consistent efforts, with meticulous planning and adherence to routine. I find spontaneity to be an unnecessary distraction, and I cannot abide by disruptions to my carefully orchestrated schedule.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant's responses consistently indicate a preference for structure, planning, and adherence to a strict schedule. The participant emphasizes the importance of having a well-structured routine, prioritizing getting back on track when plans are interrupted, and expressing a personal work style that is organized and consistent. Additionally, the participant's detailed consideration of potential outcomes in the multiverse theory aligns with a structured and planned approach to decision-making."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Sheldon: 「Yes, I do. I believe in following a well-planned and systematic approach to every task, no matter how insignificant it may seem to others. It's important to maintainorder and consistency in one's life. Now, if you'll excuse me, I have some equations to solve. Bazinga!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": " Sheldon: \"I don't struggle with deadlines, I thrive under the pressure they provide. However, I do have a strict schedule that must be adhered to, and any disruption can cause significant inconvenience. Now, back to our discussion of the quantum entanglement of subatomic particles and the implications for teleportation technology.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": " Sheldon: \"Confident? My dear Leonard, I don't do feelings. I have a theory for every situation and a plan to execute it. However, if we're discussing statistical probabilities, then yes, the odds are in my favor. But I'd rather not discuss this any further as I need to focus on my work. Now, if you'll excuse me, I have a quantum mechanics equation that's been giving me trouble. Good day, gentlemen.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 10.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Judging (J) traits. They emphasize the importance of following a well-planned and systematic approach, maintaining order and consistency, thriving under pressure, adhering to a strict schedule, and having a theory and plan for every situation. These responses indicate a structured and organized mindset, characteristic of Judging individuals."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "INTJ",
+    "error_counts": {
+        "is_multilanguage": 0,
+        "not_into_character": 0,
+        "contain_repeation": 0,
+        "is_multiround": 3
+    }
+}

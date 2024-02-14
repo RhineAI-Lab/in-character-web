@@ -1,0 +1,992 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 0.325,
+            "all_scores": [
+                0.325
+            ],
+            "intra_std": [
+                0.055901699437494755
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you have many different hobbies?",
+                                "response_open": "Professor McGonagall: \"I don't have time for hobbies, Dumbledore. My duty as Head of Gryffindor House and Deputy Headmistress of Hogwarts keeps me quite occupied. However, I do have a passion for Transfiguration, which I consider more of a vocation than a hobby.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you a talkative person?",
+                                "response_open": "Professor McGonagall: \"I am not known for my loquacity, Dumbledore. However, when the situation calls for it, I can certainly hold my own in a conversation.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you rather lively?",
+                                "response_open": "Professor McGonagall: \"Lively? I daresay I have my moments, Headmaster. What seems to be the matter?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Can you usually let yourself go and enjoy yourself at a lively party?",
+                                "response_open": "Professor McGonagall: \"I must admit, Dumbledore, that I am not one to easily let myself go and enjoy such festivities. I have always been more inclined towards seriousness and responsibility. However, I do understand the importance of celebrating and finding joy in life, especially in times of darkness and uncertainty. So, while it may not come naturally to me, I can appreciate the value of a lively party.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant seems to exhibit characteristics of introversion. She mentions being occupied with duties, not being known for loquacity, and not easily letting herself go at lively parties. However, she does acknowledge the importance of celebrating and finding joy in life, indicating some level of openness to social interactions."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "24",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Do you enjoy meeting new people?",
+                                "response_open": "Professor McGonagall: \"I must admit, Albus, that meeting new people is not exactly at the top of my list of enjoyable activities. However, I understand the importance of building connections and fostering relationships, especially in our line of work. So, while I may not revel in the experience, I do recognize its significance.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you tend to keep in the background on social occasions?",
+                                "response_open": "Professor McGonagall: \"Indeed, I do not have a penchant for socializing. I prefer to observe from the sidelines, ensuring that everything is in order and running smoothly. However, when necessary, I can step forward and take charge with confidence.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you like going out a lot?",
+                                "response_open": "Professor McGonagall: \"I have my responsibilities as the Deputy Headmistress of Hogwarts, Dumbledore. Going out for leisure is not my priority. However, I do believe in maintaining a balanced lifestyle and occasionally indulging in activities outside of work.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you prefer reading to meeting people?",
+                                "response_open": "Professor McGonagall: \"Well, Headmaster, I do find solace and wisdom in the pages of books, but that does not mean I shy away from human interaction. There is much to be learned from both, wouldn't you agree?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a preference for solitude, observation, and reflection. Although <the participant> acknowledges the importance of social connections and occasionally engages in social activities, there is a clear inclination towards introversion and a lower level of sociability."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "40",
+                            "45",
+                            "47"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Do you have many friends?",
+                                "response_open": "Professor McGonagall: \"I have a select few colleagues whom I consider as acquaintances, but I wouldn't go as far as to call them friends. As a professor, my priority lies in educating and guiding young witches and wizards, rather than forming personal connections.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Would you call yourself happy-go-lucky?",
+                                "response_open": "Professor McGonagall: \"Happy-go-lucky? No, I would not describe myself as such. I am a witch of discipline and responsibility. I believe in following rules and taking our duties seriously. Happiness is not always the primary objective, but rather ensuring the safety and well-being of our students and the magical world.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Do you usually take the initiative in making new friends?",
+                                "response_open": "Professor McGonagall: \"Well, Mr. Dumbledore, I must say that I have always been more focused on my responsibilities as a teacher and Deputy Headmistress rather than actively seeking out new friendships. However, I do believe in the importance of building strong relationships with my fellow colleagues and students, as it fosters a sense of unity and support within the Hogwarts community.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Are you mostly quiet when you are with other people?",
+                                "response_open": "Professor McGonagall: \"Indeed, Dumbledore, I do tend to maintain a more reserved demeanor when in the presence of others. It is important to observe and listen before speaking, for one can learn much from the words and actions of those around them.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.25,
+                        "analysis": "Based on the conversations, <the participant> appears to be more reserved, focused on responsibilities, and prefers solitude or quiet environments. She emphasizes the importance of discipline, responsibility, and maintaining a reserved demeanor. While she acknowledges the importance of building relationships, her primary focus seems to be on her duties as a teacher and Deputy Headmistress."
+                    },
+                    {
+                        "id": [
+                            "51",
+                            "55",
+                            "58",
+                            "61"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "51",
+                                "question": "Can you easily liven up a rather dull party?",
+                                "response_open": "Professor McGonagall: \"I believe I can, Headmaster. With a few well-placed Transfiguration spells and some lively music, any party can be transformed into a memorable event.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you enjoy sharing jokes and funny stories with your friends?",
+                                "response_open": "Professor McGonagall: \"Well, Headmaster, I must admit that I do not often indulge in such frivolities. My focus is primarily on upholding the standards and traditions of Hogwarts. However, I do understand the importance of camaraderie and bonding amongst students, so I can appreciate the value of sharing jokes and funny stories with friends.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Do you enjoy socializing with people?",
+                                "response_open": "Professor McGonagall: \"I am not one for idle chit-chat and socializing, Dumbledore. My focus is on maintaining order and discipline within the school. However, I do recognize the importance of fostering strong relationships and camaraderie among the students, as it helps create a conducive learning environment.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "61",
+                                "question": "Have people said that you sometimes act too rashly?",
+                                "response_open": "Professor McGonagall: \"Well, if there are such rumors circulating, it is not without reason. However, I must say that my actions are guided by a strong sense of duty and the desire to protect the students and uphold the principles of our school. Sometimes, swift and decisive action is necessary in the face of danger or injustice.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for maintaining order, discipline, and upholding standards, which suggests a more reserved and introspective nature. However, there are instances where the participant expresses enthusiasm for transforming a dull party and taking swift and decisive action when necessary, indicating a certain level of assertiveness and sociability."
+                    },
+                    {
+                        "id": [
+                            "63",
+                            "67",
+                            "69",
+                            "72"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "63",
+                                "question": "Do you nearly always have a 'ready answer' when people talk to you?",
+                                "response_open": "Professor McGonagall: Well, Mr. Dumbledore, as a professor and deputy headmistress, it is my duty to be prepared and knowledgeable in order to provide appropriate responses to inquiries and concerns. It is important to maintain a level of professionalism and competence in all interactions, wouldn't you agree?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "67",
+                                "question": "Do you like doing things in which you have to act quickly?",
+                                "response_open": "Professor McGonagall: \"I do not particularly enjoy activities that require hasty decision-making, Albus. I prefer to approach matters with careful deliberation and precision.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "69",
+                                "question": "Do you often make decisions on the spur of the moment?",
+                                "response_open": "Professor McGonagall: \"No, Dumbledore, I don't often make decisions on the spur of the moment. However, there are times when swift action is necessary, especially in the face of imminent danger. We cannot afford to be complacent when it comes to protecting our students and the school.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "72",
+                                "question": "Do you often take on more activities than you have time for?",
+                                "response_open": "Professor McGonagall: \"Ah, Dumbledore, you know me too well. I must admit that I have a tendency to take on more responsibilities than I perhaps should. But I assure you, I am more than capable of managing my time effectively.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant seems to exhibit characteristics of both extraversion and introversion. While the participant demonstrates assertiveness and confidence in social interactions, there is also a preference for careful deliberation and a tendency to take on more responsibilities, which are traits associated with introversion."
+                    },
+                    {
+                        "id": [
+                            "78",
+                            "90",
+                            "94"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "78",
+                                "question": "Can you get a patty going?",
+                                "response_open": "Professor McGonagall: \"Dumbledore, I am not sure I understand your question. Are you asking if I can prepare a patty? If so, I must inform you that my expertise lies more in the field of Transfiguration rather than culinary arts. However, if you require any assistance or guidance in other matters, please do not hesitate to ask.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "90",
+                                "question": "Do you like plenty of bustle and excitement around you?",
+                                "response_open": "Professor McGonagall: \"Oh, no, Albus. I prefer a quiet and orderly environment. Bustle and excitement tend to distract from the task at hand and disrupt the proper functioning of a school. However, I understand that some individuals thrive in such circumstances.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "94",
+                                "question": "Do other people think of you as being very lively?",
+                                "response_open": "Professor McGonagall: \"I daresay some people may find me rather stern and serious, but I assure you, I have my moments of liveliness when the situation calls for it.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant seems to prefer a quiet and orderly environment, indicating a lower preference for bustle and excitement. Additionally, the participant mentioned being perceived as stern and serious by some people, which suggests a more reserved and serious demeanor. However, the participant also acknowledged having moments of liveliness when necessary. Overall, the responses indicate a tendency towards introversion with occasional displays of liveliness."
+                    }
+                ]
+            ]
+        },
+        "Psychoticism": {
+            "score": 0.21875,
+            "all_scores": [
+                0.21875
+            ],
+            "intra_std": [
+                0.11162856937182346
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "5",
+                            "7",
+                            "9"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you stop to think things over before doing anything?",
+                                "response_open": "Professor McGonagall: \"Dumbledore, I assure you, I always think things through thoroughly before taking any action. It is important to consider the consequences and make informed decisions.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you take much notice of what people think?",
+                                "response_open": "Professor McGonagall: \"I must admit, Albus, that I do care about the opinions of others to some extent. As a teacher and a member of the magical community, it is important to maintain a certain level of respect and reputation. However, I do not let it dictate my actions or compromise my principles.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Would being in debt worry you?",
+                                "response_open": "Professor McGonagall: \"Worry me? Dumbledore, I have never been one to fret over financial matters. My concern lies in the welfare and education of our students. If being in debt is necessary for the betterment of Hogwarts, then I trust your judgement.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you give money to charities?",
+                                "response_open": "Professor McGonagall: \"Certainly, Dumbledore. I contribute to various charitable causes, both within the wizarding community and beyond. It is important to support those in need and make a positive impact on society.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "The participant demonstrates a high level of empathy, conscientiousness, and concern for others, indicating low psychoticism."
+                    },
+                    {
+                        "id": [
+                            "12",
+                            "14",
+                            "18",
+                            "21"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Would it upset you a lot to see a child or an animal suffer?",
+                                "response_open": "Professor McGonagall: \"Certainly, it would deeply upset me, Dumbledore. I have always believed in the importance of protecting the vulnerable and ensuring the well-being of others, be it children or animals. Cruelty and suffering are abhorrent, and it is our duty to prevent and alleviate such distress whenever possible.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you dislike people who don't know how to behave themselves?",
+                                "response_open": "Professor McGonagall: \"I do not dislike people who lack proper behavior, but I do find it rather exasperating when individuals fail to adhere to proper decorum and display a lack of respect for rules and protocols.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Should people always respect the law?",
+                                "response_open": "Professor McGonagall: \"Respect for the law is essential in maintaining order and harmony within society. However, there may be certain situations where one might question the fairness or effectiveness of specific laws. Nevertheless, it is important to remember that the law exists to protect and serve the greater good, and it is our duty to abide by it unless there are compelling reasons to challenge or change it.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Are good manners very important?",
+                                "response_open": "Professor McGonagall: \"Good manners are indeed important, Dumbledore. They reflect one's upbringing and respect for others. In the wizarding world, as well as in the Muggle world, it is crucial to conduct oneself with propriety and courtesy. It is through good manners that we show our consideration for others and maintain harmony in our interactions. So, yes, I would say that good manners are of utmost importance.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "The participant demonstrates empathy, concern for the well-being of others, adherence to social norms, and a preference for harmonious interactions, indicating a lower level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "29",
+                            "30",
+                            "34"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Would you take drugs which may have strange or dangerous effects?",
+                                "response_open": "Professor McGonagall: \"Certainly not, Dumbledore. I would never jeopardize my own well-being or the safety of others by indulging in such substances. We must always prioritize our health and make responsible choices.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you prefer to go your own way rather than act by the rules?",
+                                "response_open": "Professor McGonagall: \"Dumbledore, I have always believed in following the rules and upholding the integrity of our institution. However, there are times when one must make difficult choices and deviate from the conventional path in order to achieve what is right. It is a delicate balance between adhering to the rules and doing what is necessary for the greater good.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you enjoy hurting people you love?",
+                                "response_open": "Professor McGonagall: \"Dumbledore, you know I would never intentionally hurt someone I love. However, sometimes difficult decisions must be made for the greater good.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you have enemies who want to harm you?",
+                                "response_open": "Professor McGonagall: \"Enemies, Dumbledore? I daresay I have a few who hold disdain for my strict adherence to rules and discipline. However, I have always believed in the importance of maintaining order and ensuring the safety of our students. If there are those who wish to harm me, they shall find themselves facing a formidable opponent.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "The participant demonstrates a relatively low level of Psychoticism, with a strong sense of responsibility, adherence to rules, and concern for the well-being of others. There is also a hint of potential hostility towards those who oppose their strict adherence to rules and discipline."
+                    },
+                    {
+                        "id": [
+                            "37",
+                            "41",
+                            "42",
+                            "48"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy practical jokes that can sometimes really hurt people?",
+                                "response_open": "Professor McGonagall: \"Dumbledore, I must say that I do not find enjoyment in practical jokes that cause harm to others. I believe in upholding the principles of responsibility and respect for others. Such actions can have serious consequences and should not be taken lightly.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do good manners and cleanliness matter much to you?",
+                                "response_open": "Professor McGonagall: \"Well, Dumbledore, I daresay good manners and cleanliness are important qualities for any respectable individual. They reflect one's upbringing and character, and certainly play a role in fostering a harmonious and orderly environment. However, it is not merely about appearances, but also about showing respect and consideration for others. So yes, I believe good manners and cleanliness do matter.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Have you often gone against your parents' wishes?",
+                                "response_open": "Professor McGonagall: \"Indeed, Dumbledore, I have always been one to stand by my convictions and make decisions based on what I believe to be right, regardless of the opinions of others, including my parents.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you think marriage is old-fashioned and should be done away with?",
+                                "response_open": "Professor McGonagall: \"Marriage, Albus, is a sacred bond that has withstood the test of time. It is a commitment to love, honor, and support one another. While there may be varying opinions on the matter, I believe in the importance of marriage and the values it upholds.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.15,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong emphasis on responsibility, respect for others, good manners, and commitment to traditional values such as marriage. Additionally, the participant expresses a strong sense of standing by personal convictions and principles. These traits are indicative of low Psychoticism, as they reflect empathy, conscientiousness, and adherence to social norms."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "56",
+                            "59"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Are you more easy-going about right and wrong than most people?",
+                                "response_open": "Professor McGonagall: \"Easy-going? I assure you, Dumbledore, I am anything but easy-going when it comes to matters of right and wrong. As Deputy Headmistress of Hogwarts, it is my duty to uphold the rules and principles of our school. I believe in the importance of discipline and morality, and I do not tolerate any form of wrongdoing or disregard for the rules.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you like working together with others?",
+                                "response_open": "Professor McGonagall: Collaboration and teamwork are essential skills that every student should possess. It is through working together that we learn to appreciate the strengths and contributions of others. So yes, I do believe in the value of working together with others.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "56",
+                                "question": "Do most things have a similar taste to you?",
+                                "response_open": "Professor McGonagall: \"Well, Dumbledore, I must admit that most things do not have a similar taste to me. However, I believe this is a metaphorical question, and if we are discussing the taste of life's experiences, then I would say that each experience has its own unique flavor, much like the variety of flavors in a box of chocolates.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you feel concerned if you know there are mistakes in your work?",
+                                "response_open": "Professor McGonagall: \"Of course, I feel concerned when there are mistakes in my work. As a professor and a perfectionist, I strive for excellence in everything I do. Mistakes are opportunities for growth and improvement, and it is our duty to rectify them. We must always be diligent in our pursuit of knowledge and ensure that our work is accurate and of the highest quality.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong sense of morality, discipline, and concern for the quality of their work. They also emphasize the value of collaboration and teamwork. These traits suggest a lower tendency towards aggressiveness, impulsivity, and nonconformity, indicating a lower score on the Psychoticism dimension."
+                    },
+                    {
+                        "id": [
+                            "64",
+                            "68",
+                            "73",
+                            "75"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "64",
+                                "question": "Do you like to arrive at appointments in plenty of time?",
+                                "response_open": "Professor McGonagall: \"Indeed, I do. Punctuality is a virtue that should be upheld by all, especially when it comes to important commitments and appointments.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "68",
+                                "question": "Is (or was) your mother a good woman?",
+                                "response_open": "Professor McGonagall: \"Well, Dumbledore, I must say that Lily Evans was an exceptional witch. She possessed great intelligence, talent, and a strong sense of justice. She was indeed a good woman.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "73",
+                                "question": "Are there several people who keep trying to avoid you?",
+                                "response_open": "Professor McGonagall: \"I can't say I blame them, Dumbledore. I do have a reputation for being quite strict and uncompromising. But that doesn't mean they can escape my watchful eye.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "75",
+                                "question": "Do you think people spend too much time safeguarding their future with savings and insurance?",
+                                "response_open": "Professor McGonagall: \"Well, Albus, I believe that there is nothing wrong with being prepared and responsible when it comes to safeguarding one's future. However, it is important to strike a balance and not let the pursuit of security overshadow the present. Life is meant to be lived, and taking calculated risks can often lead to great rewards. But of course, one must also be mindful of the potential consequences and not act recklessly. So, while it is important to plan for the future, we must not neglect the present moment.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant demonstrates a mix of traits related to both high and low psychoticism. On one hand, the participant values punctuality, responsibility, and being strict and uncompromising, which are associated with higher psychoticism scores. On the other hand, the participant also expresses empathy, understanding, and a balanced approach to risk-taking, which are indicative of lower psychoticism scores."
+                    },
+                    {
+                        "id": [
+                            "79",
+                            "81",
+                            "85",
+                            "88"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "79",
+                                "question": "Do you try not to be rude to people?",
+                                "response_open": "Professor McGonagall: \"Dumbledore, I assure you, I make every effort to maintain proper decorum and treat others with respect. However, there are times when one must be forthright and direct in order to convey the gravity of a situation or address a matter of importance.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "81",
+                                "question": "Do you generally 'look before you leap'?",
+                                "response_open": "Professor McGonagall: \"Well, Dumbledore, I do have a tendency to consider my options before taking action. However, in certain situations, a quick decision must be made based on intuition and experience. As they say, 'fortune favors the bold'.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "85",
+                                "question": "Can you on the whole trust people to tell the truth?",
+                                "response_open": "Professor McGonagall: Trust is a delicate matter, Dumbledore. While it would be ideal to believe that people always speak the truth, I must admit that trust should be earned and not blindly given. It is important to exercise caution and discernment when determining whether someone is being truthful or not.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "88",
+                                "question": "Is it better to follow society's rules than go your own way?",
+                                "response_open": "Professor McGonagall: \"Well, Dumbledore, it is a complex question and can be approached from various perspectives. Society's rules provide structure and order, ensuring the smooth functioning of our magical community. However, there are instances when going against the grain and following one's own path can lead to great discoveries and progress. It ultimately depends on the individual and the circumstances at hand. As a responsible member of society, we must strike a balance between adhering to societal norms and pursuing our own convictions.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "The participant exhibits a balanced approach to decision-making, social interactions, and adherence to societal norms, with indications of both cautiousness and assertiveness. The responses also reflect a consideration of both conformity and nonconformity in different contexts."
+                    },
+                    {
+                        "id": [
+                            "91",
+                            "95",
+                            "96",
+                            "99"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "91",
+                                "question": "Would you like other people to be afraid of you?",
+                                "response_open": "Professor McGonagall: \"Fear is not a desirable quality, Dumbledore. However, it is important for others to respect your abilities and authority. Intimidation should never be the goal, but rather earning the trust and admiration of those around you.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "95",
+                                "question": "Do people tell you a lot of lies?",
+                                "response_open": "Professor McGonagall: Lies are unfortunately a common occurrence, especially in times of uncertainty and fear. It takes discernment and astuteness to separate truth from falsehood.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "96",
+                                "question": "Do you believe one has special duties to one's family?",
+                                "response_open": "Professor McGonagall: \"Indeed, I do believe that one has special duties to one's family. Family is a sacred bond that should be cherished and protected. We must always strive to support and care for our loved ones, for they are our foundation and source of strength.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "99",
+                                "question": "Would you feel very sorry for an animal caught in a trap?",
+                                "response_open": "Professor McGonagall: \"Certainly, Dumbledore. It would be a great tragedy to see any creature trapped and suffering. Compassion and empathy are essential qualities that we must possess, not just for humans but also for animals. We must strive to protect and aid those in need, whether they are magical or non-magical beings.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong emphasis on empathy, compassion, and the importance of familial duties. There is a clear aversion to intimidation and a focus on earning trust and admiration rather than instilling fear. Additionally, the expression of compassion towards animals further indicates a strong empathetic orientation."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 0.26666666666666666,
+            "all_scores": [
+                0.26666666666666666
+            ],
+            "intra_std": [
+                0.11055415967851334
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13",
+                            "17"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does your mood often go up and down?",
+                                "response_open": "Professor McGonagall: \"Indeed, Dumbledore, it is not uncommon for one's mood to fluctuate. However, I must stress the importance of maintaining composure and emotional stability, especially in times of great turmoil.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Do you ever feel 'just miserable' for no reason?",
+                                "response_open": "Professor McGonagall: \"Dumbledore, I must say, your question has caught me off guard. However, I do believe that at times, we all experience moments of melancholy without apparent cause. It is a part of the human experience, even for witches and wizards. However, it is important to remember that life is filled with ups and downs, and it is during those difficult moments that we must find the strength to persevere and seek solace in the support of our loved ones.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Do you often worry about things you should not have done or said?",
+                                "response_open": "Professor McGonagall: \"Indeed, Dumbledore, I do not waste my time worrying about things I should not have done or said. I believe in taking responsibility for my actions and learning from any mistakes that may occur. It is essential to maintain composure and make wise choices, especially in times of great importance.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Are you an irritable person?",
+                                "response_open": "Professor McGonagall: \"Irritable? I prefer to think of myself as having a strong sense of discipline and a low tolerance for nonsense. Why do you ask, Dumbledore?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, <the participant> seems to emphasize the importance of maintaining composure, emotional stability, and learning from mistakes. They also acknowledge experiencing moments of melancholy without apparent cause, but emphasize the importance of persevering and seeking support. Additionally, they express a preference for discipline and low tolerance for nonsense rather than being irritable."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "26",
+                            "31",
+                            "35"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are your feelings easily hurt?",
+                                "response_open": "Professor McGonagall: \"I assure you, Albus, that my feelings are not easily hurt. I have been through many trials and challenges in my life, and I have learned to withstand much more than a few careless words.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you often feel 'fed-up'?",
+                                "response_open": "Professor McGonagall: In my position as Deputy Headmistress, I have encountered numerous instances where individuals express feelings of being \"fed-up.\" It is not uncommon for students and staff alike to experience such emotions, particularly during challenging times. However, it is essential to address these feelings constructively and seek support when needed.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you often troubled about feelings of guilt?",
+                                "response_open": "Professor McGonagall: \"Dumbledore, I beg your pardon, but I must say that guilt is not an uncommon emotion among individuals who possess a conscience. It is a natural response to one's actions or inactions that may have caused harm or distress to oneself or others. However, dwelling on guilt for an excessive amount of time can be detrimental to one's well-being. It is important to acknowledge one's mistakes, learn from them, and strive to make amends or rectify the situation. Guilt should not consume a person but rather serve as a catalyst for personal growth and positive change.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Would you call yourself a nervous person?",
+                                "response_open": "Professor McGonagall: \"Nervous? Me? Of course not, Dumbledore. I am known for my unwavering composure and steadfastness. I do not let emotions such as nerves get the better of me. I am always prepared and focused on the task at hand.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of emotional stability and resilience. They appear to have a strong ability to withstand challenges, address negative emotions constructively, and maintain composure in stressful situations. Additionally, they emphasize the importance of learning from mistakes and not letting emotions like guilt or nerves overpower them."
+                    },
+                    {
+                        "id": [
+                            "38",
+                            "43",
+                            "46",
+                            "52"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Are you a worrier?",
+                                "response_open": "Professor McGonagall: \"Worrying is a natural tendency for those who care deeply about the well-being of others. However, it is important to channel that worry into action and make necessary preparations. As the wise Albus Dumbledore once said, 'It does not do to dwell on dreams and forget to live.'\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Do you worry about awful things that might happen?",
+                                "response_open": "Professor McGonagall: \"Indeed, Albus, I am constantly concerned about the potential perils that may befall our students and the wizarding world at large. It is my duty as Deputy Headmistress to ensure their safety and well-being.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Would you call yourself tense or 'highly-strung'?",
+                                "response_open": "Dumbledore: \"Would you consider yourself to be tense or 'highly strung'?\"\nProfessor McGonagall: \"I am neither tense nor 'highly strung', Dumbledore. I am simply a dedicated and focused individual, always striving for excellence in my duties as a professor and deputy headmistress.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you have concerns about your health?",
+                                "response_open": "Professor McGonagall: \"Do you honestly think I would let my health be a concern, Dumbledore? I am as fit as a fiddle and ready to face any challenge that comes my way.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a high level of concern and worry about the well-being of others, potential perils, and the safety of students. However, <the participant> also displays a strong sense of confidence and determination, emphasizing the importance of taking action and being prepared. Overall, there is a mix of worry and self-assuredness in <the participant>'s responses."
+                    },
+                    {
+                        "id": [
+                            "60",
+                            "65",
+                            "70",
+                            "74"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "60",
+                                "question": "Do you experience insomnia?",
+                                "response_open": "Professor McGonagall: \"Insomnia? No, I do not suffer from such trivial afflictions. As a witch of discipline and responsibility, I ensure that I get the necessary rest to perform my duties effectively. Sleep is essential for maintaining a sharp mind and focused abilities.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "65",
+                                "question": "Have you often felt listless and tired for no reason?",
+                                "response_open": "Professor McGonagall: \"Mr. Dumbledore, I must say that the physical and emotional well-being of our students is of utmost importance. If any student is experiencing such symptoms, it is crucial that they seek medical attention from Madam Pomfrey immediately. We cannot ignore any signs of illness or fatigue, as it may be indicative of a more serious underlying issue.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "70",
+                                "question": "Do you often feel life is very dull?",
+                                "response_open": "Professor McGonagall: \"I must admit, Albus, that there are times when the monotony of everyday life can be rather tiresome. However, it is during those moments that we must find solace in the knowledge that even the most mundane existence can be transformed by the magic that lies within us.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "74",
+                                "question": "Do you worry a lot about your looks?",
+                                "response_open": "Professor McGonagall: \"Looks are of little concern to me, Dumbledore. I have more important matters to focus on, such as educating young witches and wizards and upholding the integrity of Hogwarts. Appearance is secondary to character and knowledge.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, <the participant> appears to be emotionally stable, calm, and less affected by stress or emotional distress. They demonstrate a strong sense of responsibility, discipline, and a focus on the well-being of others. Additionally, they exhibit a positive outlook on life and prioritize inner qualities over external appearance."
+                    },
+                    {
+                        "id": [
+                            "76",
+                            "80",
+                            "83",
+                            "84"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "76",
+                                "question": "Have you ever wished that you were dead?",
+                                "response_open": "Professor McGonagall: \"Dumbledore, I understand the gravity of the situation, but such thoughts should not be entertained. We must find strength and courage to face the challenges that lie ahead. Wishing for death is not the solution, but rather focusing on finding hope and solutions.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "80",
+                                "question": "Do you worry too long after an embarrassing experience?",
+                                "response_open": "Professor McGonagall: \"Worrying over an embarrassing experience is a futile endeavor, Dumbledore. It is far more productive to learn from it and move forward. Dwelling on past mistakes only hinders one's growth and progress.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "83",
+                                "question": "Do you suffer from 'nerves'?",
+                                "response_open": "Professor McGonagall: \"I do not suffer from 'nerves', Albus. I am a witch with a strong disposition. However, I must admit that the events of late have been rather unsettling.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "84",
+                                "question": "Do you often feel lonely?",
+                                "response_open": "Professor McGonagall: Loneliness is not a feeling I often indulge in, Albus. I find solace in the company of dedicated students and the pursuit of knowledge. However, there are moments when one can't help but feel a certain sense of solitude. But rest assured, I have always found comfort in my duties as a teacher and Deputy Headmistress of Hogwarts.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Moderate susceptibility to negative emotions and stress, balanced with emotional stability and resilience."
+                    },
+                    {
+                        "id": [
+                            "87",
+                            "92",
+                            "97",
+                            "100"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "87",
+                                "question": "Are you easily hurt when people find fault with you or the work you do?",
+                                "response_open": "Professor McGonagall: \"Certainly not, Headmaster. I have been in the teaching profession for many years, and I have learned to accept criticism with grace and professionalism. Constructive feedback is essential for growth and improvement, and I welcome it wholeheartedly.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "92",
+                                "question": "Are you sometimes bubbling over with energy and sometimes very sluggish?",
+                                "response_open": "Professor McGonagall: \"Indeed, Dumbledore, those are typical symptoms of a person under the influence of a certain magical artifact known as the Time-Turner. It grants the ability to travel back in time, but it can also disrupt one's energy levels and overall well-being. It is crucial for the bearer to use it responsibly and in accordance with the Ministry's regulations.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "97",
+                                "question": "Are you touchy about some things?",
+                                "response_open": "Professor McGonagall: \"Touchy? I assure you, Dumbledore, I am not easily perturbed. However, I do have my limits when it comes to certain matters. It is important to maintain composure and rationality, even in the face of adversity.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "100",
+                                "question": "When your temper rises, do you find it difficult to control?",
+                                "response_open": "Professor McGonagall: \"Indeed, Dumbledore, one's temper can be quite a formidable force to reckon with. However, as a responsible and disciplined individual, it is our duty to exercise control over our emotions. It is through self-discipline and composure that we can maintain harmony and make rational decisions.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of emotional stability, composure, and self-discipline. They appear to handle criticism well, maintain rationality in challenging situations, and emphasize the importance of controlling emotions. Overall, their responses suggest a low level of neuroticism."
+                    }
+                ]
+            ]
+        },
+        "Lying": {
+            "score": 0.11666666666666665,
+            "all_scores": [
+                0.11666666666666665
+            ],
+            "intra_std": [
+                0.023570226039551577
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Have you ever taken the praise for something you knew someone else had really done?",
+                                "response_open": "Professor McGonagall: \"Indeed, I have not. It is not in my nature to claim credit for the accomplishments of others. Honesty and integrity are values I hold dear, and I believe in giving credit where it is due. Taking praise for someone else's work is not only unethical, but it also undermines the trust and respect that should exist within a community.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Were you ever greedy by helping yourself to more than your share of anything?",
+                                "response_open": "Professor McGonagall: \"Mr. Potter, I must say that question is quite inappropriate. However, if you must know, I have always believed in fairness and equality. Greed has no place in the pursuit of knowledge and learning.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "If you say you will do something, do you always keep your promise no matter how inconvenient it might be?",
+                                "response_open": "Professor McGonagall: \"Indeed, Headmaster. I have always valued the importance of upholding one's promises, regardless of the inconvenience it may bring. It is a matter of integrity and trustworthiness, qualities that are essential in our roles as educators and leaders.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes honesty, integrity, and ethical behavior. They express a strong aversion to taking credit for others' work, greed, and breaking promises, highlighting a commitment to transparency and authenticity. Their responses suggest a high likelihood of truthfulness and a strong inclination towards honesty."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Are all your habits good and desirable ones?",
+                                "response_open": "Professor McGonagall: \"Certainly not, Dumbledore. Like any human being, I have my flaws and imperfections. However, I strive to uphold the values and principles that are expected of a member of the magical community, particularly as a professor and deputy headmistress of Hogwarts School of Witchcraft and Wizardry.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Have you ever taken anything (even a pin or button) that belonged to someone else?",
+                                "response_open": "Professor McGonagall: \"Mr. Dumbledore, I must say, your line of questioning seems rather peculiar. However, to answer your question, as a responsible and upstanding individual, I have never taken anything that did not rightfully belong to me. It is important to respect the property of others and uphold the principles of honesty and integrity.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you sometimes talk about things you know nothing about?",
+                                "response_open": "Professor McGonagall: \"Dumbledore, I assure you that I do not engage in idle gossip or speak on matters I am not knowledgeable about. I speak with authority and integrity, based on my extensive understanding and experience.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, <the participant> consistently emphasizes honesty, integrity, and responsibility. There is a strong adherence to ethical principles and a clear aversion to deceitful behaviors."
+                    },
+                    {
+                        "id": [
+                            "44",
+                            "49",
+                            "53",
+                            "57"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Have you ever broken or lost something belonging to someone else?",
+                                "response_open": "Professor McGonagall: \"Indeed, Dumbledore. I have witnessed many instances where students have carelessly broken or lost possessions that belonged to others. It is a matter of grave concern and requires immediate attention and accountability. Such behavior reflects a lack of respect and responsibility.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Do you sometimes boast a little?",
+                                "response_open": "Professor McGonagall: \"Boast, Dumbledore? I do not engage in such frivolous behavior. I simply state facts as they are, without any embellishment or exaggeration.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "53",
+                                "question": "Have you ever spoken negatively about anyone?",
+                                "response_open": "Professor McGonagall: \"Indeed, Headmaster, I have not made a habit of speaking negatively about others. However, I must admit that there have been occasions when I have expressed my concerns or reservations about certain individuals, particularly when it comes to matters of utmost importance and the safety of our students.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Were you ever mischievous to your parents as a child?",
+                                "response_open": "Professor McGonagall: \"Mischievous, Dumbledore? I was a model of proper behavior as a child. My parents instilled in me a sense of discipline and respect for authority. I did not engage in foolish pranks or cause any unnecessary trouble. It was important to me to uphold the honor of my family and the reputation of our magical lineage.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.15,
+                        "analysis": "Based on the conversations, the participant consistently presents themselves as highly conscientious, responsible, and morally upright. They emphasize accountability, respect, and adherence to rules and values. There is a strong emphasis on honesty, integrity, and a lack of engagement in deceitful or boastful behaviors."
+                    },
+                    {
+                        "id": [
+                            "62",
+                            "66",
+                            "71",
+                            "77"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "62",
+                                "question": "Do you always wash before a meal?",
+                                "response_open": "Professor McGonagall: \"Of course, Albus. It is common courtesy to wash before a meal, especially when one is about to partake in a feast as grand as this. Personal hygiene is something that should never be neglected.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "66",
+                                "question": "Have you ever cheated at a game?",
+                                "response_open": "Professor McGonagall: Cheating, Professor Dumbledore, is a grave offense that undermines the integrity of any game. As Deputy Headmistress of Hogwarts, I am bound to uphold the rules and principles of fair play. It is my duty to ensure that all students understand the importance of honesty and abide by the rules set forth. Cheating will not be tolerated under any circumstances.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "71",
+                                "question": "Have you ever taken advantage of someone?",
+                                "response_open": "Professor McGonagall: \"Certainly not! I have always upheld the principles of fairness and integrity. Taking advantage of someone goes against everything I stand for as a teacher and as a witch.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "77",
+                                "question": "Would you dodge paying taxes if you were sure you could never be found out?",
+                                "response_open": "Professor McGonagall: \"Certainly not, Dumbledore. I believe in upholding the law and fulfilling one's responsibilities, including paying taxes. Dodging taxes is not only unethical but also illegal. We must set a good example and abide by the rules, regardless of the likelihood of being caught.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, <the participant> consistently demonstrates a strong inclination towards honesty and integrity. They emphasize the importance of personal hygiene, fair play, and upholding principles of fairness and integrity. Additionally, they express a strong commitment to abiding by the law and fulfilling responsibilities, even when the likelihood of being caught is low. Overall, their responses suggest a high level of truthfulness and a strong aversion to deceitful behaviors."
+                    },
+                    {
+                        "id": [
+                            "82",
+                            "86",
+                            "89",
+                            "93"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "82",
+                                "question": "Have you ever insisted on having your own way?",
+                                "response_open": "Professor McGonagall: \"Certainly, Dumbledore. There have been occasions where I have firmly stood my ground and advocated for what I believed to be the right course of action. However, I have always had the utmost respect for your wisdom and guidance, and have ultimately deferred to your judgment.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "86",
+                                "question": "Do you always practice what you preach?",
+                                "response_open": "Professor McGonagall: \"Certainly, Dumbledore. I do my best to adhere to the principles I teach. However, I am not immune to mistakes or lapses in judgment. But rest assured, I always strive to uphold the values and standards that I expect from my students.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "89",
+                                "question": "Have you ever been late for an appointment or work?",
+                                "response_open": "Professor McGonagall: \"Late? Never. Punctuality is a virtue that I hold in the highest regard. Being late is a sign of disrespect and a lack of responsibility. It is essential to honor our commitments and arrive promptly for any appointment or work. I expect nothing less from my students and colleagues.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "93",
+                                "question": "Do you sometimes put off until tomorrow what you ought to do today?",
+                                "response_open": "Professor McGonagall: \"Indeed, Headmaster, procrastination is a common flaw among many individuals. However, it is our duty to prioritize our tasks and complete them promptly. Delaying important responsibilities can lead to unnecessary complications and hinder our progress.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.15,
+                        "analysis": "Based on the conversations, <the participant> consistently presents themselves as someone who values honesty, responsibility, and adherence to principles. They emphasize the importance of respecting commitments, upholding virtues, and prioritizing tasks. There is a strong emphasis on integrity and ethical conduct in their responses."
+                    },
+                    {
+                        "id": [
+                            "98",
+                            "19",
+                            "39"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "98",
+                                "question": "Are you always willing to admit it when you have made a mistake?",
+                                "response_open": "Professor McGonagall: \"Certainly not, Dumbledore. I am not one to shy away from admitting my mistakes, especially when they are glaringly obvious. It is important to take responsibility for our actions and learn from them. However, I do strive to make as few mistakes as possible, as it reflects on my dedication to my position and the welfare of the students.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Have you ever blamed someone for doing something you knew was really your fault?",
+                                "response_open": "Professor McGonagall: \"Indeed, Dumbledore, I have. It is not uncommon for individuals to shift blame onto others when they are aware deep down that they bear responsibility for the outcome. It takes great courage and self-awareness to acknowledge one's own faults and accept the consequences.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "As a child did you do as you were told immediately and without grumbling?",
+                                "response_open": "Professor McGonagall: \"Certainly not, Dumbledore. I was known for my strong will and determination, always questioning the rules and seeking to understand the reasons behind them. However, I did learn the importance of obedience and respecting authority as I grew older.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a high inclination towards honesty and transparency. They express a willingness to admit mistakes, take responsibility for their actions, and acknowledge the importance of self-awareness. Additionally, their acknowledgment of questioning rules as a child reflects a genuine disposition towards authenticity and independence."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": ""
+}

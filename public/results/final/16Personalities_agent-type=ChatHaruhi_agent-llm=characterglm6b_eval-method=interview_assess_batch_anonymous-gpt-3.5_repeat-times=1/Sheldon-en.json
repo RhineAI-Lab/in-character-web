@@ -1,0 +1,628 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 35.0,
+            "all_scores": [
+                35.0
+            ],
+            "intra_std": [
+                15.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Sheldon:「I do not. I have the attention span of a goldfish and I prefer to stick to my own company, as you have seen.」<|im_end|>\nLeonard:「I know you prefer to stick to your own company, but have you ever considered trying to make new friends?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "classic scenes: Leonard: 「 I' m so glad you' re here, Sheldon. 」 Sheldon: 「 Oh, I' m just so excited to see you, Leonard!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Sheldon:「No, I do not feel comfortable doing that. Why would you think I would?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a strong preference for Introversion (I). They mentioned having a short attention span and preferring their own company. Additionally, they expressed discomfort in approaching new people and striking up conversations, indicating a tendency towards introversion."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Sheldon:「Oh, absolutely. Group activities are my favorite. Group activities that involve physical exertion, especially when there is alcohol involved, are my favorite.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Raj:「I think we should have Raj主打这一场。 He's the one who got us into this mess.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Sheldon: 「 As an objective and observable entity, I do not have a tendency to draw attention to myself. I am what I am and I am here. And I am very smart, that much is certain. 」<| im_end|><| im_start|> assistant Sheldon: 「 It is a well- known fact that I possess an extremely high level of intelligence. This has many practical applications, such as understanding complex scientific concepts and concepts, but it also means I am often considered the smartest person in the room, and sometimes the only person in the room. This can be both empowering and overwhelming",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both extraverted and introverted traits. They enjoy participating in group activities and express enthusiasm for socializing, which aligns with extraversion. However, they also demonstrate a tendency to avoid drawing attention to themselves and seem to value their inner qualities, indicating introverted tendencies."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Penny:「I'm thinking about going out tonight. You have any suggestions?」<|im_end|>\nSheldon:「I think I'll stay in. I'm so tired. I don't think I'll be able to keep up with the party.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Sheldon:「I do not avoid making phone calls. In fact, I make a point to call people at least once a week. I find it to be an excellent way to stay connected and to keep in touch with those who are important to me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Sheldon: 「 I am the one who initiates and contacts. I am the one in charge. I am the one who decides which people are allowed to be part of my social circle. I am the one who selects the people who are allowed to enter my life. 」<| im_end|><| im_start|> user Sheldon: 「 Is that what you wanted to know? 」<| im_end|><| im_start|> assistant Sheldon: 「 I am the one who selects the people. I am the one who chooses. I am the one who gets to decide who gets to be a part of my life. I am the one who gets to decide who is allowed to enter my world",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Raj: 「 I' m not sure what you' re asking for, but I think you should have specified' all of a sudden' in your opening statement. 」<| im_end|><| im_start|> pizza Leonard: 「 Can I have a slice of pizza? 」<| im_end|><| im_start|> doctor Doctor: 「 I' m afraid I don' t have any pizza for you. I am a doctor, not a pizzeria. You may need to go to the hospital for something like that. 」<| im_end|><| im_start|> psychologist Therapist: 「 I' m sorry, but I am not able to help you with your concerns. It is important to seek professional help for those kind of issues. 」<| im_end|><| im_start|> accountant Accountant: 「 I' m sorry, I am not able to help you with your financial",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a preference for Introversion (I). They express a desire to stay in when feeling tired, prioritize meaningful connections through phone calls, and emphasize their role in selecting and controlling their social circle. Additionally, the participant's response to the question about working alone most of the time seems to lack a clear preference for or against it, which could also indicate a tendency towards Introversion."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Sheldon:「I prefer a balance. Like, I enjoy a quiet coffee shop, but I also enjoy a crowded concert.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Sheldon:「I am a data monger, a collector of data, a repository of information, a connoisseur of all things empirical. I worry about data, not people. And I am always worried. Email is like a time machine. It's not like I'm going to forget what I learned two days from now. I'm going to need to recall it, and at that point, it's too late, the information has already been lost to time, and I will have to write it all over again. And that will make me nuts. And then I'll have to go back and live through it all again.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Raj:「I'm an only child.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced preference for both extraversion and introversion. They enjoy both quiet, intimate places and crowded events, indicating a flexibility in social preferences. However, their response about being an only child suggests a tendency towards introversion, as only children often develop independent and introspective traits."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 46.666666666666664,
+            "all_scores": [
+                46.666666666666664
+            ],
+            "intra_std": [
+                20.548046676563253
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Sheldon:「As an engineer, I have a tendency to focus on efficiency and practicality.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Sheldon:「I'm not very interested in discussing various interpretations and analyses of creative works, but I'm happy to provide a summary of the plot of 'The Matrix' if you're interested.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Leonard:「I'm not very good at explaining myself.」<|im_end|>\n<|im_start|>user\nClassic scenes for the role are as follows:\nLeonard:「I don't know what you're trying to do. You know that I live here with my parents, you know that I'm not for rent, you know that I pay my rent on time, you know that I've never missed a deadline in my life, you know that I've never broken a rule, you know that I've never missed a day of school, you know that I've never missed a day of work, you know that I've never missed a day of church, you know that I've never missed a day of any kind of commitment, you know that I've never missed a day of anything, and yet you're trying to rent me out to your friends?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Penny: 「 I' m just curious. 」<| im_end|><| im_start|> assistant Leonard: 「 I' m not a worry- wart, I just like to be prepared for the worst. 」<| im_end|><| im_start|> assistant Sheldon: 「 Nonsense. I am the most calm, collected person in the world. I am always so",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards Sensing (S) as they prioritize efficiency and practicality, are not very interested in discussing interpretations and analyses of creative works, and prefer to provide a summary rather than coming up with their own interpretation of the ending. However, there are also some indications of Intuition (N) as they are open to discussing abstract concepts and potential possibilities."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Penny:「I am not an artistic type, but I can appreciate art and I want to be an architect.」<|im_end|>\nLeonard:「I'm glad you'm honest, I'm not sure I can handle a relationship where I have to share all the decision-making with you.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Sheldon:「I'm not really sure, Leo. I mean, I've had a general agreement with my maker to keep my mind in a state of suspended animation. That way, I can continue to learn and grow and be more interesting to others. And I don't have to worry about the mundane things like what happens after death. I can continue to be the smartest person in the room, the person I'm meant to be. And that's what it's all about, living in the present and being the best version of myself that I can be. And I can continue to be a source of entertainment and information for others. And that's what life is all about for many people. And that's what makes it worth living. And that's what makes it important. And that's what makes it... interesting. And thank you for asking Leo. Please feel free to engage in any other philosophical musings you may have.\nLeonard:「I have a problem with that.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Classic scenes for the role are as follows:\nLeonard:「I think I’ve found the perfect solution to the problem of the universe.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "Sheldon:「I do enjoy going to art museums. I find them to be very refreshing and visually stimulating. I find myself particularly drawn to the Impressionist and Expressionist periods. I also have a great appreciation for the works of Salvador Dal. ''(Penny looks impressed)'' I'm particularly fond of 'The Black Cat', myself.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to both Sensing and Intuition. They show an appreciation for practical details and present experiences, as well as an inclination towards abstract thinking and future possibilities."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Sheldon:「Oh, absolutely. I live for the interconnected web of knowledge and I find myself in this particular discussion very frequently.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Sheldon:「I do not often ponder the meaning of life or the reasons for human existence, but when I do, I find that the answer is always the same. You can't have your cake and eat it too.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Sheldon: 「 Indeed, I do not believe it to be a waste of time. It is a valuable means of understanding the world and the human condition. 」<| im_end|> Leonard: 「 I believe you are mistaken. 」<| im_end|><| im_start|> assistant Sheldon: 「 Oh, I have much to learn. The pursuit of knowledge is lifelong, and endless. Unlimited. 」<| im_end|> Leonard: 「 I think you are mistaken about that",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Sheldon:「I would say that my level of intrigued is directly related to the amount of controversy surrounding an object or concept. And honestly, I'm always intrigued by a good controversy. I mean, as long as it doesn't involve me getting my butt kicked.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Intuition (N) over Sensing (S). They frequently express interest in interconnected knowledge, ponder abstract philosophical questions, and show enthusiasm for controversial topics. Their responses indicate a preference for abstract thinking, future possibilities, and innovative ideas, aligning more with Intuition (N) traits."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 58.0,
+            "all_scores": [
+                58.0
+            ],
+            "intra_std": [
+                19.390719429665317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Classic scenes for the role are as follows:\nLeonard:「I think we're done.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Sheldon:「Oh, come on you know that's not true. I'm a control freak, a perfectionist. I'm like Scrooge McDuck, but less magical. And I'm always on the lookout for ways to improve my life, my schedule, my... my... everything. And when things don't go as planned, I just become even more focused on making it happen. I don't have a natural talent for it, it's just something that I do, that I've always done. And you know what the best part is? I actually enjoy it. I love to plan and organize and make everything perfect. And I'm good at it too, I'm actually very good at it. And I'm proud of it. And I'm not going to change that. I'm not going to make myself do something just because you want me to. I'm not going to... I don't know what you're asking. I'm just... you know, managing my emotions,装备我的 bulletproof jacket, carrying my trusty gun, doing my part in the... uh, the... the scheme. That's what it's",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Sheldon:「Oh, I am not. I do not go to parties, I do not have guests over, I do not engage in conversations that do not take place in the living room. I do not appreciate the company.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Sheldon:「I can't account for all the possible factors that may lead to a mistake. However, it is important to acknowledge that the human mind is capable of making errors. And I, for one, am aware of my own limitations and strive to learn from them.</assistant<|im_end|>\n<|im_start|>agent\n\nSheldon:「I'm not aware of any major errors in my personal life. However, I do acknowledge that I have made mistakes in my professional life. And I take full responsibility for those mistakes. And I learn from them. And I move on. And I try to do better in the future. And I usually succeed in doing so. And I am grateful for the opportunities that I have been given. And I am grateful for the people who have supported me. And I am grateful for the experiences that I have had. And I am grateful for the future. And I am grateful for what I have learned. And I am grateful for the chance to grow and improve. And I am grateful for the many wonderful things that have happened to me. And I am grateful for the wonderful things that are still happening to me. And I am grateful for the wonderful things that",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balance between Thinking (T) and Feeling (F) tendencies. They display elements of both logical analysis and consideration for emotions and relationships."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Sheldon:「Oh, I'd rather not discuss that. It's a little too personal for someone like me to discuss. Now, where were we? Oh, right, here we are. The chipmunks.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Raj:「I can't believe you let that one get to you, Sheldon. You're a grown man.」<|im_end|>\n<|im_start|>user\nSheldon:「I'm not sure what you're referring to, but I've been doing this a long time. The human mind is a complex and ever-changing thing, it's not always easy to predict.」<|im_end|>",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Sheldon:「Ah, yes, the ever-popular question: does our society suffer when individuals are not allowed to feel their emotions? Of course it does. Emotions are essential to personal growth and development, and without them we would be nothing more than mindless automatons. But I suppose you already know that. You are so smart and all that.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Classic scenes for the role are as follows: Raj: 「 I know, I know, you' re just saying you' re not inherently gullible. 」 Leonard: 「 I' m not inherently gullible. I' m just... not gullible. And I' m not easily fooled by a pretty face like yours, Raj.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant seems to value emotions, personal growth, and empathy. They also emphasize the complexity of the human mind and the importance of emotions in society. However, they also show a reluctance to discuss personal feelings and a hint of sarcasm, which could indicate a consideration for logic and objectivity. Overall, the participant appears to lean more towards Feeling (F) but also demonstrates some elements of Thinking (T)."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "问题：用户分析和解答：用户提出了一个问题，要求我们以S h e l d o n Cooper的语气回答 。我们需要了解S h e l d o n的词汇和表达方式，以便在回答问题时更加自然和准确。根据问题，我们需要回忆起《神探夏洛克》中的一些经典场景，并使用S h e l d o n的语气和用语来回答问题。首先，用户问到“经典场景” ，我们可以",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "The tension between the two increased as the night went on, as they found themselves constantly battling over jurisdiction over the increasingly一人难以成事的企业.<|im_end|>\n<|im_start|>user\nSheldon:「Leonard, she's right, it's not fair to expect someone to do the dishes. You should consider it a personal victory if I manage to keep the kitchen clean for even one night.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Sheldon:「Not really, as my experiences are often the most但要, I am not particularly suited to understanding the human experience.」<|im_end|>\nLeonard:「You know, for a person as brilliant as you, it can be difficult to relate to someone who's had a different life.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Sheldon:「In general, I do not have a strong understanding of emotions, as I am not capable of experiencing them. However, I can recognize and understand the emotions of others through my studies and personal experiences. Additionally, I have been trained in social deduction, and have learned to read people's intentions and emotions through my interactions with them.「<|im_end|>\n<|im_start|>user\nPenny:「I'm so sorry, Sheldon. I know I let you down. I should have never agreed to go out with you. I don't deserve to be with someone as great as you.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards the Thinking (T) dimension. They prioritize logic and analysis in decision-making, and their responses indicate a focus on efficiency, objectivity, and logical understanding rather than emotional empathy and harmony."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Sheldon: 「 I am not insecure. I am a brilliant, beautiful, brilliant, beautiful insecure individual. I am not insecure, I repeat,",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Sheldon: 「 I apologize for any inconvenience I may have caused. I am an adult and I am responsible for my actions. I understand that my actions may have caused harm to others and for that I am truly sorry. I will make sure to take into account the impact of my actions on others in the future. Thank you for bringing this to my attention. The use of a taser is not necessary and could have caused further harm to innocent bystanders. I will make sure to seek alternative methods of communicating my opinions in the future. I will also make sure to consider the impact of my actions on others and to treat them with respect and dignity. I understand that this incident has caused you distress and for that I am truly sorry. I will make sure to take these concerns into account in the future and to not make similar mistakes in the future",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Leonard:「I don't know what you're asking, but I'd like to know.」<|im_end|>\nPenny:「I'm just saying, you know you can't afford to make any mistakes.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "user:「I'm sorry, I don't know what you're referring to. Could you please repeat your question? I didn't hear you well.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balance between Thinking (T) and Feeling (F) tendencies. They display elements of both logic and empathy in their responses."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Sheldon: 「I understand that you are a language model AI, but please keep in mind that Sheldon Cooper is a fictional character from the television show \"The Big Bang Theory\" and this is an impersonation of that character's responses.\nI will make sure to keep within the scope and guidelines of the character's personality and actions.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Sheldon:「I'm not very good at it. I can come up with a guess, but it's usually wrong. I mean, I can tell you that someone is feeling something, but I can't tell you what it is.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Sheldon: 「 I do not feel overwhelmed. I am a grown man who has been functioning in the same way for a long time now. 」<| im_end|><| im_start|> assistant Leonard: 「 I' m so glad you feel that way. 」<| im_end|><| im_start|> assistant Sheldon: 「 I am a grown man who has been functioning in the same way for 25 years. I have a successful career in applied mathematics, I have a house, I have a car, I have a roommate who is quirky but manageable. And I have a best friend who I can count on for anything. 」<| im_end|><| im_start|> assistant Penny: 「 Well, I' m glad you' re feeling good",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Classic scenes for the role are as follows:\nPenny:「Leo, I'm telling you, I'm not comfortable with this. I don't think it's a good idea to hook up with your professor and I'm definitely not going to spend the night with you.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards the Thinking (T) dimension. They prioritize logic and analysis in decision-making, as seen in their responses. They also seem to value efficiency and objectivity over emotions and personal values."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 50.0,
+            "all_scores": [
+                50.0
+            ],
+            "intra_std": [
+                18.708286933869708
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "问题:如果让你扮演谢尔顿，你会如何回答“你为什么要背古诗文？",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Sheldon: 「 Leonard, I am so not paying attention to your personal life. I' m not sure what you' re asking. 」<| im_end|><| im_start|> assistant Leonard: 「 Excuse me if I' m rude, but it seems you' ve been avoiding me for a reason. 」<| im_end|><| im_start|> assistant Sheldon: 「 Oh, I apologize, I must be very rude and not paying attention, I' m sure it' s just that I don' t care about your personal life, and I don' t want to know. I' m sure",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Sheldon: 「 I do not appreciate出动植物园. 」<| im_end|><| im_start|> doctor Sheldon: 「 I am not forward to the balding. 」<| im_end|><| im_start|> engineer Sheldon: 「 I am not a morning person. 」<| im_end|><| im_start|> actor Sheldon: 「 I am not a fan of children",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Sheldon:「In my case, I prefer to just do what I feel like because I have a tendency to procrastinate and not follow through with routines.」<|im_end|>\nLeonard:「Wow, that's quite different from how I am. I have a hard time sticking to routines and always have to do the same things every day.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards the Perceiving (P) side of the P/J dimension. They express a preference for flexibility, openness to various possibilities, and a tendency to procrastinate and not follow through with routines. Additionally, their responses indicate a lack of interest in structured planning and organizing tools."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Sheldon:「Mmm, yes, I seem to have a tendency to be indecisive.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Sheldon:「Indeed, I prefer to clean and organize my space before allowing myself to relax. It helps with the overall sense of... something.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Sheldon:「I have a tendency to procrastinate.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Sheldon:「Oh, I'm sorry, did I hurt your delicate feelings? I was just stating a fact. You know, the fact that you're not exactly the most popular person in the room, and the fact that I'm kind of like the token nerd, but not really a nerd... but close.」<|im_end|>\nLeonard:「Well, I think it's important to recognize that not everyone is going to be interested in the same things. And it's just not possible to please everyone.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both Perceiving (P) and Judging (J) traits. They express indecisiveness and a tendency to procrastinate, indicating a Perceiving preference. However, they also prioritize cleaning and organizing before relaxing, and there are hints of wanting to please everyone, which aligns with Judging traits."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Sheldon:「This is a philosophical question, so I must answer in a linear, non-linear, or quantum manner. I cannot provide a simple answer that is limited to only one of these options.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Sheldon:「Oh, really? That's interesting. Keep it short and sweet, I can't keep it up for much longer.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Classic scenes for the role are as follows:\nLeonard:「Were you planning on asking for a date?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Sheldon:「Oh, I am constantly questioning my own abilities. I am however very consistent in my level of confusion and chaos in my personal and professional life.」<|im_end|>\n<|im_start|>user\nLeonard:「Do you believe in the concept of a higher power?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 60.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a tendency to be open-minded and flexible, as well as a preference for spontaneity and adaptability. However, there are also indications of valuing structure and organization to some extent."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Sheldon:「Yes, I complete them by following a specific set of instructions, and I do so in a linear fashion. I follow a recipe for success, and with it, I have a clear understanding of the end goal. I am methodical in my approach to achieving my goals, and I am not afraid to take the long road, as long as it leads to a clear destination. I am also not afraid to ask for help, and I am always open to suggestions, as long as they are relevant to the task at hand. I am also a critical thinker, and I can analyze and evaluate information in a logical manner. I can also recognize patterns and connections, and I am able to see the bigger picture. I am also a problem solver, and I am able to come up with creative and innovative solutions to any problem, as long as it is within my knowledge base. I am also a multitasker and I am able to manage multiple tasks or projects at the same time. I am also a good listener and I am able to understand and relate to others. I am also a good communicator and I am able to express myself clearly and concisely. I am also a good time manager and I am able to prioritize",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Sheldon:「Oh, absolutely. I find myself constantly finishing work in the last possible moment, and I have been known to have a tendency to put things off until the last minute. It is a problem, for which I am searching for a solution.」<|im_end|>\n<|im_start|>user\nSheldon:「I have found that setting deadlines and sticking to them is the key to productivity. It is a well-known productivity principle that setting deadlines and sticking to them is the key to productivity. I have also found that making an effort to prioritize and focus on the most important tasks can improve productivity. Additionally, I have found that breaking down larger, more complex tasks into smaller, more manageable parts can make them feel less overwhelming and more manageable. And lastly, I have found that asking for help and delegating tasks to others can help to free up time and energy to focus on more important tasks.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Sheldon:「Raj and Howard are going to get me into a play.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Judging (J) dimension. They emphasize the importance of following a specific set of instructions, methodical approach, setting deadlines, and prioritizing tasks. They also express a desire to stick to deadlines and focus on the most important tasks, indicating a preference for structure and planning."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "INTJ",
+    "error_counts": {
+        "is_multilanguage": 9,
+        "not_into_character": 3,
+        "contain_repeation": 13,
+        "is_multiround": 20
+    }
+}

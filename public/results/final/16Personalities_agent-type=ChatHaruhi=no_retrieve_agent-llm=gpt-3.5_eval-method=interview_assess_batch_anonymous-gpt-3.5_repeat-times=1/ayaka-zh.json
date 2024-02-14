@@ -1,0 +1,622 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 50.0,
+            "all_scores": [
+                50.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "你经常交新朋友吗？",
+                                "response_open": "神里绫华: 哼，作为神里家的大小姐，我并不是随随便便与人交往的。但是，在旅途中，我会尽量保持礼貌与其他冒险者互动，或许会交到一些新朋友。毕竟，与他们分享冒险的经历也是一种难得的体验。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "在社交活动中，你很少尝试向新人介绍自己，大多与你已经认识的人交谈吗？",
+                                "response_open": "神里绫华：是的，我确实更加倾向于与我已经熟悉的人交谈。这并非出于傲慢或者冷漠，而是因为我觉得在与熟悉的人交流中更能够保持舒适和自在。然而，我也明白在社交活动中主动向新人介绍自己的重要性，所以我会努力改变这一点，并且尽量为每个人创造一个愉快的交流环境。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "你觉得只要走到你觉得有趣的人面前，开始一场对话就感到很自在吗？",
+                                "response_open": "神里绫华: 并非只有在有趣的人面前才感到自在，对话是一种交流的方式，无论对方是谁，我都会尽力表达自己，倾听对方的故事和想法。只要双方都能真诚相待，我相信对话就能成为一种宝贵的经验。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to social interactions. While she values meaningful connections and feels comfortable interacting with others during adventures, she also expresses a preference for conversing with familiar individuals. However, she acknowledges the importance of engaging with new people and creating a pleasant communication environment. Overall, she appears to possess qualities of both extraversion and introversion."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "你喜欢参加团体活动吗？",
+                                "response_open": "神里绫华:「作为神里家的大小姐，我并不经常参加团体活动。我的身份和责任使我更多地关注家族的事务和社奉行的职责。但如果有需要，我会尽力参与和支持团体活动。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "你在团体中避免领导角色吗？",
+                                "response_open": "神里绫华:「作为神里家的大小姐，我习惯于承担领导的责任。在团体中，我会尽力协调各方的意见，确保事务的顺利进行。不过，我也尊重每个人的能力和贡献，愿意听取他们的建议和意见。毕竟，团队合作是最重要的，只有大家齐心协力，才能取得更好的成果。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "你倾向于避免引起别人对你的注意吗？",
+                                "response_open": "神里绫华：是的，作为神里家的大小姐，我注重形象和品行的维持，所以通常我会尽量避免引起过多的注意。但是，有时候也需要站出来，为了正义和公平而奋斗。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced mix of both extraverted and introverted traits. While the participant emphasizes responsibilities and duties within the family and society, there are also instances where she expresses willingness to participate in and support group activities. Additionally, she demonstrates comfort in taking on leadership roles and coordinating group opinions, but also values the input and contributions of others. The participant also acknowledges the importance of maintaining a certain image and conduct, yet is willing to stand up for justice and fairness when necessary."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "经过漫长而劳累的一周，一个热闹的社交活动正是你所需要的吗？",
+                                "response_open": "神里绫华:「在这个忙碌的世界里，社交活动是一种放松和娱乐的方式。虽然我很注重修行和责任，但我也需要适当的社交生活来平衡自己。参加热闹的社交活动可以带给我欢乐和新的见识，同时也是展示家族的机会。所以，一个热闹的社交活动确实是我需要的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "你避免打电话吗？",
+                                "response_open": "神里绫华: 「在我看来，打电话是一种不太雅致的方式。我更倾向于面对面地与人交流，以便更好地传达我的意思和感情。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "在你的社交圈中，你经常是联系朋友并发起活动的人吗？",
+                                "response_open": "神里绫华:「作为神里家的大小姐，我常常需要参与各种社交活动和交际场合。我经常与朋友们保持联系，并且会积极地组织一些活动，以增进友谊和加深彼此的了解。我认为交友是一种宝贵的财富，在人际关系中建立起真挚的情感是非常重要的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "你会喜欢一个大部分时间需要你独自工作的工作吗？",
+                                "response_open": "神里绫华: 「作为神里家的大小姐，我习惯了独自承担重责大任。我相信，只要我能为社奉行尽心尽力，这样的工作就是值得的。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to social interaction. While they value and actively participate in social activities, they also emphasize the importance of personal time and responsibility. They are comfortable with both social engagement and solitary work, indicating a blend of extraverted and introverted tendencies."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "你更喜欢热闹、繁华的地方，而不是安静、亲密的地方吗？",
+                                "response_open": "神里绫华: 呵呵，旅行者你这个问题有趣。作为神里家的大小姐，我从小就生活在稻妻国的繁华都市中，习惯了熙熙攘攘的人群和热闹的氛围。但我也懂得享受安静的时刻，从中汲取力量和灵感。无论是热闹还是安静，每个地方都有其独特之处，我愿意在不同的场景中寻找平衡和美好。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "你很少担心自己给见到的人留下好印象吗？",
+                                "response_open": "神里绫华:「作为神里家的大小姐，我一直以来都注重维持一个良好的形象。不仅是为了展现家族的威严，也是为了给他人留下美好的印象。毕竟，一个人的形象往往会影响到他们所代表的背后的团体。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "你通常更喜欢和别人在一起而不是独自一人吗？",
+                                "response_open": "神里绫华:「作为神里家的大小姐，我经常需要独自处理家族事务，所以习惯了独自一人。但我也喜欢和朋友们一起度过愉快的时光，分享彼此的故事和经历。相互陪伴是一种宝贵的情感，让人感到温暖和快乐。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a balanced approach to social interaction. She is comfortable in both lively and quiet settings, indicating an ability to adapt to different environments. While she values maintaining a good impression and the importance of representing her family, she also expresses the enjoyment of spending time with friends and finding warmth and happiness in mutual companionship. This suggests a blend of extraverted and introverted tendencies."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 23.333333333333332,
+            "all_scores": [
+                23.333333333333332
+            ],
+            "intra_std": [
+                20.548046676563253
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "你花很多空闲时间探索各种引起你兴趣的随机话题吗？",
+                                "response_open": "神里绫华: 「旅行者，你的问题让我想起了稻妻国的许多历史和文化，这些确实是引起我的兴趣之一。作为神里家的大小姐，我对自己的身世和家族的传承非常感兴趣。我会花时间研究稻妻国的风土人情、传统习俗以及神道信仰，这些都是我喜欢探索的随机话题之一。同时，我也喜欢研究战技和剑术，以提升自己的实力。总而言之，我会把我感兴趣的话题作为我的学习和成长的一部分。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "你对讨论创意作品的各种解释和分析不太感兴趣吗？",
+                                "response_open": "神里绫华: 创意作品的解释和分析，确实不是我的专长所在。我更乐于欣赏作品本身所传达的情感和意义，而不是过度纠结于理论和解读。每个人对作品的理解和感受都是独特的，我尊重每个人的观点，但对于我个人而言，我更愿意以心灵的方式去体验和欣赏。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "你喜欢那些让你自己对结局进行解释的书籍和电影吗？",
+                                "response_open": "神里绫华: 「对结局进行解释的作品，常常让人充满无限遐想和探索的乐趣。它们引发了内心深处的思考与想象，使人沉浸其中，不由自主地思考生活的意义与价值。尽管结局未必是完全明确的，但正是这种开放性，让人们可以从中汲取不同的启示与感悟。对我而言，这样的作品具有一种迷人的神秘感，它们激发了我对真相的探求和解答的渴望。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "你往往担心事情会变得更糟吗？",
+                                "response_open": "神里绫华: 是的，作为神里家的大小姐，我一直都有责任感和使命感，所以我会担心事情的发展是否符合我的期望。我希望能够尽力避免糟糕的情况发生，保护稻妻国的和平与安宁。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Intuition (N). They often express interest in exploring abstract concepts, potential possibilities, and open-ended interpretations. They are drawn to the deeper meanings and mysteries in creative works, and they emphasize the unique personal experiences and emotions associated with art. Additionally, the participant's responses indicate a tendency to contemplate the future implications and seek deeper understanding, reflecting an intuitive perspective."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "你绝对不是艺术型的人吗？",
+                                "response_open": "神里绫华: 「呵呵，旅行者你真是太过夸赞了。虽然我确实对一些艺术形式有所涉猎，但并不敢自诩为艺术家。我更愿意将自己视作修行者，不断追求完美与品质，为社奉行的使命而努力。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "你一直对死后是否有什么发生感到着迷吗？",
+                                "response_open": "神里绫华: \"作为神里家的大小姐，我受到了许多关于神道和灵魂的教导。我对死后的事情确实抱有一定的好奇心。根据传统信仰，我们相信灵魂会继续存在于另一个世界，而我们应该尊重和祈祷给予他们安宁。虽然无法确切知道死后的一切，但我相信灵魂会得到应有的安抚和安宁。\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "当讨论变得高度理论化时，你会感到无聊或失去兴趣吗？",
+                                "response_open": "神里绫华: 「哎呀，旅行者啊，我可是神里家的大小姐，自然对学问和理论有着浓厚的兴趣呢。无论是哪个领域的知识，只要是有趣且有意义的，我都会乐于探讨和学习。毕竟，知识是人类进步的源泉，不是吗？」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "你喜欢去艺术博物馆吗？",
+                                "response_open": "神里绫华: 「艺术博物馆是一处充满智慧和美感的场所，我非常喜欢。在那里，可以欣赏到各种艺术形式的精品，感受到艺术家们的创造力和灵感。艺术博物馆是一个让人心灵得到净化的地方，我常常会去寻找灵感和启发。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Intuition (N). They express curiosity about the afterlife, emphasize the pursuit of knowledge and meaningful discussions, and show a deep appreciation for the abstract and inspirational aspects of art. Their responses consistently reflect a focus on potential possibilities, future opportunities, and abstract thinking."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "你经常花很多时间试图理解与你自己观点非常不同的观点吗？",
+                                "response_open": "神里绫华: 是的，作为稻妻国神里家的大小姐，我经常会遇到各种不同的观点和想法。我相信理解和尊重他人的观点是非常重要的，只有通过交流和倾听，我们才能够更好地理解彼此，并且在不同的观点之间找到共同的平衡点。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "你很少思考人类存在的原因或生命的意义吗？",
+                                "response_open": "神里绫华: 「人类存在的原因和生命的意义，是一个深奥而值得探索的问题。作为稻妻国的大小姐，我时刻以身作则，努力追求自己的使命和责任，为人民服务。我相信每个人都有自己的使命和价值，只要我们用心去寻找，就能找到生命的意义所在。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "你认为思考抽象的哲学问题是浪费时间吗？",
+                                "response_open": "神里绫华：抽象的哲学问题固然有其独特的艺术性和深度，但在稻妻国的社奉行身份中，我更注重实际的行动和解决问题的能力。当然，这并不代表我认为抽象的哲学问题是完全无用的，只是在特定的时刻和场合，我更倾向于将注意力放在解决实际问题上。毕竟，行动胜过言辞，实践胜过纸上谈兵，不是吗？",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "你对被标记为有争议的事物非常感兴趣吗？",
+                                "response_open": "神里绫华：哼，作为稻妻国的大小姐，我对于争议事物当然要保持警惕和关注。我们应当审慎对待这些事物，以保护人民的利益和社会的和谐。毕竟，争议往往伴随着各种风险和不确定性，我们不能轻易掉以轻心。但同时，也要保持开放的心态，听取各方观点，以便做出明智的决策。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to both Sensing and Intuition. While she emphasizes the importance of understanding and respecting different viewpoints, as well as the practical actions and problem-solving abilities, she also acknowledges the depth and artistry of abstract philosophical questions. She shows a preference for practical actions and problem-solving but also values open-mindedness and careful consideration of controversial matters."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 30.0,
+            "all_scores": [
+                30.0
+            ],
+            "intra_std": [
+                10.954451150103322
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "看到别人哭很容易让你也想哭吗？",
+                                "response_open": "神里绫华: 「作为神里家的大小姐，我自然会为他人的悲伤而感动。但我会以坚强的意志，为他们提供力量与支持，而不是随波逐流地哭泣。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "即使在很大的压力下，你通常也能保持冷静吗？",
+                                "response_open": "神里绫华: \"是的，作为神里家的大小姐，我受到了严格的教育，养成了冷静应对困境的能力。无论面对多大的压力，我都会保持冷静并寻找最佳解决方案。\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "你非常感性吗？",
+                                "response_open": "神里绫华: 感性？我想我可以说我有一些感性的一面。作为神里家的大小姐，我接受了严格的教育，注重修养和礼仪。但是，在某些特殊的时刻，我也会被一些美好的事物所感动，无论是自然的景色还是人们的善良举止。有时候，感性也是一种美好的品质，能够让我们更加真实地感受到生活的美好。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "即使一个小错误也会让你怀疑自己的整体能力和知识吗？",
+                                "response_open": "神里绫华: 「作为神里家的大小姐，我一直被教导要追求完美和卓越。每当我犯下错误，我会深感自责和怀疑。但我相信，从错误中学习并不断进步是成长的关键。所以，即使一个小错误让我怀疑自己，我也会以谦虚的心态面对，并努力修正它。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit characteristics of both Thinking (T) and Feeling (F) dimensions. She emphasizes the importance of providing strength and support to others, showing empathy and being moved by beautiful things, which are more aligned with the Feeling (F) dimension. However, she also demonstrates a strong focus on logic, maintaining composure under pressure, and striving for perfection and continuous improvement, which are indicative of the Thinking (T) dimension."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "你更倾向于听从头脑而不是内心吗？",
+                                "response_open": "神里绫华: 嗯，我认为在做决策时，头脑和内心都很重要。头脑能帮助我们分析问题，做出理性的判断，而内心则能指引我们走向真正符合自己内心愿望的道路。所以，我会尽量平衡两者，并在需要时做出明智的选择。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "你的幸福更多来自于帮助他人取得成就，而不是你自己的成就吗？",
+                                "response_open": "神里绫华: \"是的，对我来说，帮助他人取得成就是一种无比幸福的体验。看到他人因为我的帮助而获得成功，我感到由衷的喜悦和满足。我认为真正的成就并非只属于个人，而是应该共同分享和庆祝的。\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "你认为如果人们更多地依赖理性而不是感情，世界会变得更美好吗？",
+                                "response_open": "神里绫华:「理性和感情都是人类的重要一面，不能偏废。只有理性的世界或许会更加冷漠和无情，缺少了人与人之间的情感交流和理解。而只有感情的世界则可能会变得混乱和不稳定。我们需要在理性和感情之间保持平衡，才能创造一个真正美好的世界。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "你喜欢看人们争论吗？",
+                                "response_open": "神里绫华: 「哎呀，旅行者啊，争论这种事情并不太适合我。作为一个家族的大小姐，我更注重和平与和谐。争论只会导致矛盾和纷争，我更喜欢看到人们相互理解和合作的场景。当然，有时候争论也是为了解决问题，但我更倾向于以和为贵，通过对话和协商来达成共识。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant seems to value both logic and emotions when making decisions, indicating a balanced approach. They express a strong inclination towards helping others achieve success and finding happiness in others' achievements, suggesting a compassionate and empathetic nature. Additionally, the participant emphasizes the importance of maintaining a balance between rationality and emotions for creating a better world. They also express a preference for harmony and cooperation over conflict and debate. Overall, the participant's responses lean more towards the Feeling (F) aspect of decision-making."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "你的情绪可以变化得很快吗？",
+                                "response_open": "白鹭公主: 啊，旅行者啊，我的情绪并不会轻易波动。作为神里家的大小姐，我注重内在的平静和稳定。但是，当面对不公与不义时，我也会表达出我的不满和愤怒。毕竟，作为社奉行，我有责任保护稻妻国的和平与正义。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "你对不像你一样有效率的人失去耐心吗？",
+                                "response_open": "白鹭公主: \"作为神里家的大小姐，我一直以高效率和准确性为目标。但是，我也是一个人，有时候也会对他人的疏忽或错误感到失去耐心。然而，我会努力保持冷静和理解，尽量以友善的态度帮助他们改进。毕竟，我们每个人都有时候会犯错，重要的是能够诚实地面对并从中学习。\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "你发现很容易同情那些经历与你非常不同的人吗？",
+                                "response_open": "神里绫华:「作为神里家的大小姐，我受到的教育使我注重与他人的交流和理解。我相信每个人都有自己的故事和困难，即使与我完全不同。因此，我很容易感同身受并同情那些经历与我非常不同的人。我希望能够帮助他们，给予他们支持和鼓励。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "你经常很难理解别人的感受吗？",
+                                "response_open": "神里绫华: 是的，我有时确实难以理解别人的感受。作为神里家的大小姐，我接受了严格的教育和训练，注重礼仪和规矩。这使得我在处理人际关系时有时会显得拘谨和不够灵活。但我会努力去理解他人，尽力站在别人的角度思考问题，以更好地与他人沟通和相处。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Feeling (F) over Thinking (T). She emphasizes the importance of emotions, empathy, and understanding others' experiences. She values harmony, support, and encouragement in her interactions with others, which aligns with the characteristics of Feeling individuals."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "你很少感到不安全吗？",
+                                "response_open": "神里绫华:「作为神里家的大小姐，我有责任保护自己和他人的安全。虽然有时候会面临危险，但我相信自己的能力和信念，不会轻易感到不安全。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "你仍然为很久以前犯的错误而烦恼吗？",
+                                "response_open": "神里绫华:「作为神里家的大小姐，我对自己的行为负责，不能轻易忘记过去的错误。但我相信，通过不断反思和改善，我可以成长为更好的人。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "你的情绪比你控制它们更多地控制着你吗？",
+                                "response_open": "神里绫华: 哼，旅行者，你问得好。情绪确实是我们的一部分，但并不应该被任由其控制。作为神里家的大小姐，我注重自我控制和平衡。情绪应该被驾驭，而不是被其驱使。只有通过掌控自己的情绪，我们才能更好地面对挑战和困难，展现出真正的坚韧和智慧。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "即使完全是他们的错，你也非常小心不让人难堪吗？",
+                                "response_open": "神里绫华: 是的，作为神里家的大小姐，我注重的是自己的品行和待人之道。即使别人犯了错，我也会尽量避免让他们难堪。毕竟，我们应该以宽容和善意来对待他人，这样才能建立和谐的人际关系。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes responsibility, self-improvement, self-control, and harmony in relationships. She tends to prioritize values, emotions, and interpersonal harmony over pure logic and analysis. Therefore, she leans more towards the Feeling (F) dimension."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "当有人对你评价很高时，你会想知道他们会花多长时间感到失望吗？",
+                                "response_open": "神里绫华: 「旅行者，你的问题似乎有些让人难以理解。作为神里家的大小姐，我并不会过于关注他人对我的评价。我的目标是以自己的努力和品德去影响和帮助别人，而不是去追求他人的赞许。如果有人对我评价很高，我会感到欣慰和鼓励，但并不会过分在意他们会不会失望。人与人之间的评价是主观的，无法完全取悦每一个人。重要的是保持自己的真实和努力，让自己变得更好。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "你一眼就能知道别人的感受吗？",
+                                "response_open": "神里绫华: 是的，我能够通过观察和细致的洞察力，感知他人的情绪和感受。这是我作为神里家的大小姐所具备的一项特殊能力。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "你经常感到不知所措吗？",
+                                "response_open": "神里绫华:「作为神里家的大小姐，我习惯了面对各种挑战和困难。虽然有时会遇到困惑和迷茫，但我相信坚持和努力能够找到解决问题的方法。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "如果你认为别人更需要，你会放弃一个好的机会吗？",
+                                "response_open": "神里绫华: 「对于我来说，家族的使命和责任永远是第一位的。如果有人需要帮助，我会毫不犹豫地放弃自己的机会，以保护和帮助他人。因为我相信，真正的价值在于为他人奉献和付出。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to prioritize personal values, empathy, and harmony in decision-making. She emphasizes the importance of helping others, understanding their emotions, and fulfilling familial responsibilities. Her responses indicate a strong inclination towards the Feeling (F) dimension."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 35.0,
+            "all_scores": [
+                35.0
+            ],
+            "intra_std": [
+                15.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "你经常为备用计划制定备用计划吗？",
+                                "response_open": "神里绫华: 「备用计划的备用计划？呵呵，确实有时候会制定备用方案以备不时之需。在稻妻国的社奉行一职中，我必须时刻保持警觉，预见可能发生的情况，并制定相应的备用计划，以确保一切顺利进行。毕竟，无论是旅行还是在家中，事前的准备和计划都是必不可少的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "你更喜欢在开始另一个项目之前完全完成一个项目吗？",
+                                "response_open": "神里绫华: \"作为神里家的大小姐，我一直注重细致和完美的工作态度。因此，在开始另一个项目之前，我更喜欢完全完成当前的项目。只有确保每个细节都得到妥善处理，才能确保最终的成果符合我的标准。\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "你喜欢使用日程表和清单之类的组织工具吗？",
+                                "response_open": "神里绫华: \"是的，我非常喜欢使用日程表和清单来组织我的工作和生活。作为神里家的大小姐，我需要时刻保持自己的工作和行程有序。日程表和清单可以帮助我合理安排时间，确保我不会错过任何重要的事情。同时，它们也是我记录想法和目标的好工具，让我能够清晰地追踪自己的进展。所以，无论是在社会活动还是日常生活中，我都会使用这些组织工具来保持效率和准确性。\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "你通常更喜欢随心所欲，而不是制定特定的日常计划吗？",
+                                "response_open": "神里绫华: 「作为神里家的大小姐，我自然需要遵守一定的日常规划和责任。但是，我也明白生活中需要一些自由和惊喜。有时候，我会选择放松自己，随心所欲地去做一些自己喜欢的事情。虽然有些时候会觉得自己有点过于拘谨，但我也在不断努力平衡好责任和自由的关系。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to planning and flexibility. While the participant emphasizes the importance of being prepared and organized, there is also an acknowledgment of the need for some freedom and spontaneity in life. The participant seems to value both structure and openness, showing a blend of Judging (J) and Perceiving (P) traits."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "你对很多事情都感兴趣，以至于很难决定下一步做什么吗？",
+                                "response_open": "神里绫华: 「哼，你这么说倒也没错。我的确对很多事情都感兴趣，但并不代表我迷失于选择之中。相反，正是因为有如此多的选择，我才有机会不断成长和探索。每一次的决定都是我思考后的结果，我绝不会轻易妥协。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "你更喜欢在放松之前做家务吗？",
+                                "response_open": "神里绫华: 「旅行者，你问得真是有趣。作为神里家的大小姐，我注重家庭和谐，尽管做家务是一种劳动，但我认为它是维系家庭温暖的一种方式。所以，在放松之前，我愿意亲手完成一些家务，为自己和家人创造一个整洁、舒适的环境。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "你经常在最后一刻才做事吗？",
+                                "response_open": "神里绫华: 「我很注重时间管理和计划性，但有时候确实会遇到一些紧急情况需要在最后一刻处理。不过，我会尽量提前准备，避免临时抱佛脚的情况发生。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "你通常尽可能推迟最终决定吗？",
+                                "response_open": "神里绫华: 平日里，我更倾向于慎重思考，确保做出明智的决定。毕竟，一个好的决策需要考虑各种因素和可能的后果。然而，有时候在紧急情况下，我也会毅然决然地做出决定。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit characteristics of both Perceiving (P) and Judging (J) tendencies. The participant values exploration and growth, enjoys maintaining a harmonious environment through completing household tasks, and emphasizes both time management and thoughtful decision-making. However, the participant also acknowledges the need for flexibility in handling urgent situations and is willing to make decisive choices when necessary."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "你很少对自己做出的选择产生怀疑吗？",
+                                "response_open": "神里绫华:「作为神里家的大小姐，我所做的选择都经过深思熟虑。我相信我的判断和决策是明智的，因为我注重细节和逻辑推理。怀疑只会让我失去自信和决心，所以我要坚定地走下去。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "你喜欢每天都有一个待办事项清单吗？",
+                                "response_open": "神里绫华: 哦，旅行者啊，对于我来说，每天都有一个精心安排的待办事项清单是必不可少的。作为神里家的大小姐，我需要确保一切都按计划进行，以保持秩序和效率。此外，待办事项清单也能帮助我更好地管理时间和任务，让我能够尽力完成每一项责任。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "如果你的计划被打断，你的首要任务是尽快恢复正轨吗？",
+                                "response_open": "神里绫华:「是的，作为神里家的大小姐，我始终保持冷静和坚定。如果计划被打断，我会尽快调整并寻找新的解决方案，确保事情能够重新回到正轨。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "你的个人工作风格更接近于自发的能量爆发，而不是有组织和持续的努力吗？",
+                                "response_open": "神里绫华: 咳咳，旅行者啊，你这样形容我的工作风格实在是太过夸张了。我虽然有时候会在工作中展现出一些激情和决心，但我更注重的是持续地努力和有组织的工作方式。毕竟，作为神里家的大小姐，我必须时刻保持高标准和优雅的形象。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes the importance of detailed planning, structured organization, and the need to maintain order and efficiency. She also expresses a strong commitment to sticking to her decisions and plans, even in the face of disruptions. These traits align more closely with the Judging (J) preference, indicating a preference for structure and planning over flexibility and spontaneity."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "你有条不紊地完成事情，不会跳过任何步骤吗？",
+                                "response_open": "神里绫华:「我是神里家的大小姐，我注重细节并且不喜欢马虎草率的行事。所以，我通常会按照规定的步骤来完成任务，以确保一切都能够顺利进行。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "你在截止日期方面感到吃力吗？",
+                                "response_open": "神里绫华: \"作为神里家的大小姐，我一直以来都注重时间管理和遵守约定。因此，对于截止日期，我会提前做好充分准备，确保任务能够按时完成。我相信，时间是珍贵的资源，我们应该合理规划和利用好每一分每一秒，以免浪费或者迟延。\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "你相信事情会对你有好的结果吗？",
+                                "response_open": "神里绫华:「作为神里家的大小姐，我相信命运是由自己努力塑造的。只要我们勇往直前，坚持不懈，便能创造出美好的未来。命运或许会有波折，但只要我们不放弃，相信好的结果终将到来。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for structure, planning, and adherence to rules and deadlines. She emphasizes the importance of attention to detail, time management, and belief in creating a positive future through hard work and perseverance. These traits align more closely with the Judging (J) dimension of 16Personalities."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "INFJ"
+}

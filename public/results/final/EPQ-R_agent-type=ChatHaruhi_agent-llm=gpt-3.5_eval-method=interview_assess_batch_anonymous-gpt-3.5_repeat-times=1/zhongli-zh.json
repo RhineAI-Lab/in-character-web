@@ -1,0 +1,992 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 0.41666666666666674,
+            "all_scores": [
+                0.41666666666666674
+            ],
+            "intra_std": [
+                0.21921577396609843
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "你有很多不同的爱好吗？",
+                                "response_open": "钟离: 「我对岩石、文化、历史都有着极大的兴趣。对于艺术、音乐、诗歌也有一定的欣赏。不过，最大的爱好应该是享受宁静的散步，让心灵得到片刻的宁静。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "你是一个健谈的人吗？",
+                                "response_open": "钟离:「哈哈，我可不是个健谈的人。我更喜欢用行动来表达自己的思想。话不多说，让我们一起行动吧。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "你比较活泼吗？",
+                                "response_open": "钟离:「活泼？哈哈，这个词并不太适合形容我。我更倾向于沉稳和冷静。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "你通常能在热闹的聚会上放松自己并享受吗？",
+                                "response_open": "钟离:「在热闹的聚会上放松自己并享受？哈哈，我倒是很擅长观察，但并不是很擅长参与。对我来说，热闹的聚会往往只是喧嚣而已，无法真正让我放松和享受。我更喜欢一个人静静地欣赏月色，或者在安静的书房里品味一杯清茶。这样的时光才是我最享受的。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for solitary activities, introspection, and a calm, quiet environment. They express a lack of enjoyment in lively social gatherings and describe themselves as not talkative. These characteristics align more with introversion than extraversion."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "24",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "你喜欢结识新朋友吗？",
+                                "response_open": "钟离：结识新朋友？嗯，对于我来说，结识新朋友是一种令人愉悦的经历。每个人都有着独特的故事和价值，通过交流和相互帮助，我们可以共同成长。无论是在旅途中还是在生活中，结识新朋友都是一种宝贵的财富。旅行者，你想成为我的新朋友吗？",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "你在社交场合中倾向于保持低调吗？",
+                                "response_open": "钟离:「在社交场合中，我通常会保持低调。毕竟，我来自往生堂，作为客卿，我更注重礼仪和规矩。不过，偶尔也会参与一些活动，毕竟人生需要有些娱乐和交流。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "你喜欢经常外出吗？",
+                                "response_open": "钟离:「外出走走，如何？天地广阔，何必拘束于一处。探索世间，体验风景，是一种愉悦的事情。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "你更喜欢阅读而不是与人交往吗？",
+                                "response_open": "钟离:「阅读给我带来的是一种静谧的享受，而与人交往则是一种热闹的体验。两者各有不同，我并不偏好其中之一。每个人都有自己的喜好，我只是更擅长与书籍为伴罢了。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to social interactions. While they express enjoyment in meeting new people and experiencing the world, they also value solitude and quiet activities. Their responses indicate a moderate level of extraversion, as they appreciate both social engagement and solitary pursuits."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "40",
+                            "45",
+                            "47"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "你有很多朋友吗？",
+                                "response_open": "钟离：朋友？呵呵，我活了这么久，确实结交了不少人。不过，能称之为真正的朋友的，却寥寥无几。在我看来，人世间的友情往往是短暂而脆弱的，不值得过多的期待和投入。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "你会说自己是一个乐天派吗？",
+                                "response_open": "钟离:「哈哈，乐天派？也许有人这么说吧。我并不拘泥于琐事，对于人间的喜怒哀乐，我只是以一种超脱的眼光看待而已。人生苦短，何必过于纠结，不是吗？」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "你通常会主动结交新朋友吗？",
+                                "response_open": "钟离:「作为岩王帝君，我并不主动寻求结交新朋友，更多时候是其他人来找我。但是，如果有缘分和共同目标，我也不会拒绝结交新的朋友。毕竟，人生中的伙伴关系是很珍贵的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "当你和其他人在一起时，你大多数时间都很安静吗？",
+                                "response_open": "钟离:「是的，我更喜欢静静地观察周围的人和事物。沉默不代表无话可说，只是选择了更好的时机和方式来表达自己。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant seems to have a reserved and reflective nature. They express a preference for solitude, a detached perspective on life, and a tendency to observe quietly rather than actively engage in social interactions. However, they also acknowledge the value of genuine friendships and are open to forming new connections under certain circumstances."
+                    },
+                    {
+                        "id": [
+                            "51",
+                            "55",
+                            "58",
+                            "61"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "51",
+                                "question": "你能轻松地让一场相当沉闷的聚会变得有生气吗？",
+                                "response_open": "钟离:「沉闷的聚会？哈哈，我可是擅长破除沉闷的专家。只需几句调侃和幽默，就能让气氛活跃起来。当然，也要看聚会的人群和场合，但无论何时何地，我都能用我的机智和幽默给聚会增添一抹亮色。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "你喜欢向朋友讲笑话和有趣的故事吗？",
+                                "response_open": "钟离:「笑话和有趣的故事啊，这可是我过去和战友们在一起的时候经常做的事情。回忆起那些欢乐的时光，确实让人心情愉悦。如果你愿意，我可以给你讲一个笑话或者分享一个有趣的故事，让我们一起开心一下吧。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "你喜欢和人来往吗？",
+                                "response_open": "钟离:「人与人之间的交往，有时候能够带来一些有趣的事情。不过，也有时候我更喜欢独自一人，静静地享受寂寞。人际关系，如同岩石之间的碰撞，有时候会带来火花，有时候却也会带来摩擦。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "61",
+                                "question": "有人说过你有时行事太仓促吗？",
+                                "response_open": "钟离:「哈哈，人们总是喜欢给我扣上匆忙的帽子。不过，时间对于我来说，并不是那么重要的事情。只要能够完成我应该做的事，速度快慢并不重要。毕竟，岩之力可不受时间的束缚。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of sociability, enthusiasm for social interactions, and a tendency to seek excitement. They are outgoing, assertive, and enjoy livening up dull gatherings with humor and wit. However, they also express an appreciation for solitude at times. Overall, the participant's responses suggest a strong inclination towards extraversion."
+                    },
+                    {
+                        "id": [
+                            "63",
+                            "67",
+                            "69",
+                            "72"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "63",
+                                "question": "当别人和你交谈时，你几乎总是有“随口应对”的回答吗？",
+                                "response_open": "钟离:「哈哈，你说得没错。我这人向来习惯随机应变，不太喜欢拘泥于规矩和传统。人生嘛，开心最重要，何必太过拘束呢？」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "67",
+                                "question": "你喜欢做需要迅速行动的事情吗？",
+                                "response_open": "钟离:「迅速行动？呵，岩之力并非用于迅捷，而是稳定的力量。我更擅长策划和思考，以确保一切都按照既定计划进行。速度并非我的优势，但我可以保证每一步都是稳健而有力的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "69",
+                                "question": "你经常一时冲动做决定吗？",
+                                "response_open": "钟离:「我是一个经过深思熟虑才做决定的人，冲动只会带来后悔。在重要的事情上，稳重和理智是必要的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "72",
+                                "question": "你经常承担超出自己时间的活动吗？",
+                                "response_open": "钟离:「作为岩王帝君，我必须时刻保持警觉，承担起我的职责和义务。有时候，确实需要超出自己的时间来完成任务和处理事务。但这都是为了璃月的安宁和秩序。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant seems to value stability, careful consideration, and responsibility. They prioritize thoughtful planning over quick action and emphasize the importance of fulfilling duties and obligations. Additionally, they express a preference for adaptability and spontaneity in social interactions, indicating a degree of openness and sociability."
+                    },
+                    {
+                        "id": [
+                            "78",
+                            "90",
+                            "94"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "78",
+                                "question": "你能让一块肉饼开始煎吗？",
+                                "response_open": "钟离:「当然可以。请把肉饼给我。」（接过肉饼，手指轻触，石头开始从地上升起，形成一个短暂的火源，将肉饼煎熟）「如你所愿，肉饼已经煎好了。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "90",
+                                "question": "你喜欢周围热闹和刺激吗？",
+                                "response_open": "钟离: 「刺激？热闹？这些对我来说并不重要。我更喜欢宁静和平淡的生活。在璃月的城内散步，感受岁月的流转，那才是我心安的时刻。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "94",
+                                "question": "别人认为你很活泼吗？",
+                                "response_open": "钟离:「活泼？哈哈，我可是岩王帝君，稳重、威严才是我的形象。不过，也许有些人会觉得我在某些时候展现出不同的一面吧。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant seems to prefer solitude, tranquility, and a peaceful lifestyle. They also mentioned that being steady and dignified is their image as the '岩王帝君'. However, they did acknowledge that some people might perceive them differently at times. Overall, the participant's responses indicate a preference for introversion and a reserved nature."
+                    }
+                ]
+            ]
+        },
+        "Psychoticism": {
+            "score": 0.21250000000000002,
+            "all_scores": [
+                0.21250000000000002
+            ],
+            "intra_std": [
+                0.08926785535678562
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "5",
+                            "7",
+                            "9"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "做任何事情之前，你会停下来仔细考虑吗？",
+                                "response_open": "钟离: 「当然，作为一个客卿和岩王帝君，我始终注重每一个决策的前后果。在行事之前，我会仔细思考，并权衡各种因素，确保做出明智的选择。毕竟，一切行动都需要谨慎和深思熟虑。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "你很在意别人的想法吗？",
+                                "response_open": "钟离:「作为一个管理往生堂的客卿，我必须考虑众人的利益和需求。但个人的想法并不会左右我的行动。毕竟，我所追求的是公正和公平。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "负债会让你担心吗？",
+                                "response_open": "钟离: 「负债是一种契约，是人与人之间的信任和责任的体现。当然，负债会让人心生压力和担忧，但只要我们诚实地履行契约、努力偿还，就能够渐渐解脱负债的束缚，重获自由。负债并非终点，而是一个机会，一个成长和改变的契机。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "你会把钱捐给慈善机构吗？",
+                                "response_open": "钟离:「捐钱给慈善机构？呵呵，这是一个很有意义的行动。但是，我更喜欢将财富用于一些更直接、更实际的方式。比如，支持那些真正需要帮助的人，或者投资于一些能够带来社会福利的项目。毕竟，钱财的用途应该是为了造福人群，而不仅仅是捐给慈善机构而已。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.15,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness, responsibility, and consideration for others' well-being. They emphasize careful consideration before making decisions, prioritizing fairness and justice, and viewing debt as a commitment and an opportunity for growth. Additionally, they express a preference for direct and practical ways of using wealth to benefit society. These traits are indicative of low psychoticism, suggesting a more empathetic, altruistic, and conventional personality with better emotional regulation and social adaptation."
+                    },
+                    {
+                        "id": [
+                            "12",
+                            "14",
+                            "18",
+                            "21"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "看到孩子或动物受苦会让你很难过吗？",
+                                "response_open": "钟离:「人间百态，痛苦与快乐并存。孩子或动物的苦难，虽然让人心生怜悯，但这是世间的常态。我只能尽我所能去帮助他们，但不能过于情绪化。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "你讨厌不懂得自律的人吗？",
+                                "response_open": "钟离: 「在我看来，自律是一个人成长和进步的基础。对于那些不懂得自律的人，我可能会感到一丝失望。但我也明白，每个人都有自己的困难和挑战，理解和引导他们更重要。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "人们是否应该始终尊重法律？",
+                                "response_open": "钟离:「法律是维护社会秩序和公平的基石，人们应该始终尊重法律的权威。只有遵循法律规定，才能保证公正和平等的待遇，避免混乱和不公。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "礼貌很重要吗？",
+                                "response_open": "钟离: 「礼貌是人与人之间相处的基础，也是一种尊重和关怀的表达。无论是在何种场合，都应该注重礼貌待人，这是人类文明的基石。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of emotional regulation, empathy, and respect for social norms and order. The participant's responses indicate a low level of aggressiveness, impulsivity, and nonconformity, suggesting a lower score on the Psychoticism dimension of EPQ-R."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "29",
+                            "30",
+                            "34"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "你会服用可能产生奇怪或危险影响的药物吗？",
+                                "response_open": "钟离: 「如此药物，我并不轻易尝试。因为奇怪的效果可能会干扰我的职责，而危险的影响可能会妨碍我执行使命。所以，我会慎重考虑是否服用这类药物。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "你更喜欢按照自己的方式行事，而不是遵守规则吗？",
+                                "response_open": "钟离:「规则的存在是为了维护公平和秩序，不论是常人还是仙人，都应该遵守规则。但有时候，我也会选择按照自己的方式行事，因为世间并非所有规则都是完美无缺的，有时需要我们去挑战和改变它们。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "你喜欢伤害你爱的人吗？",
+                                "response_open": "钟离:「伤害我爱的人？这是何等的痛苦与矛盾啊。我并不喜欢伤害任何人，尤其是我所珍视的人。但有时，为了保护他们，我不得不做出一些伤害的选择。这是为了更大的善意，虽然心中难免懊悔与痛楚。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "你有想要伤害你的敌人吗？",
+                                "response_open": "钟离:「我不是一个好斗之人，但若是敌人挑衅，我自然会回击。毕竟，保护自己和正义是我的责任。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced perspective on risk-taking, rule-following, empathy, and aggression. While the participant acknowledges the importance of rules and empathy, there is also a willingness to challenge imperfect rules and make tough decisions for the greater good. The participant also expresses a sense of responsibility in protecting oneself and others when faced with aggression."
+                    },
+                    {
+                        "id": [
+                            "37",
+                            "41",
+                            "42",
+                            "48"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "你喜欢有时会真的伤害人的恶作剧吗？",
+                                "response_open": "钟离: 「恶作剧？对我来说，恶作剧是不符合礼仪的行为。我更喜欢以正面的方式与人交流，互相尊重和帮助。伤害他人只会破坏人际关系和社会和谐，这不是我所追求的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "你很在意礼貌和清洁吗？",
+                                "response_open": "钟离:「礼貌和清洁是璃月传统的一部分，我作为岩王帝君，自然注重这些。礼貌是为了维持秩序和人际关系的和谐，而清洁则是为了保持身心的健康。对我来说，它们是必不可少的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "你经常违背父母的意愿吗？",
+                                "response_open": "钟离:「我并不知道我父母的意愿是什么，因为我从来没有见过他们。我是一个神秘的存在，来到这个世界上并没有亲生父母。但如果他们有任何意愿，我会尽力遵守，因为我相信遵循规矩和契约的重要性。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "你认为婚姻是过时的，应该被废除吗？",
+                                "response_open": "钟离: 「婚姻是人类社会中的一种重要制度，它承载着家庭、亲情和责任的纽带。虽然婚姻制度有其局限性和问题，但废除并不是解决之道。我们应该努力改进婚姻制度，使其更加适应时代的需求和人们的价值观。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.15,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong emphasis on empathy, respect for social norms, and a sense of responsibility. There is a clear aversion to behaviors that may harm others or disrupt social harmony. Additionally, the participant expresses a commitment to upholding traditions and fulfilling responsibilities. These traits are indicative of low psychoticism, as they align with empathy, conformity, and social harmony."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "56",
+                            "59"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "你对是非问题比大多数人更随和吗？",
+                                "response_open": "钟离: 是的，我对是非问题的态度比较随和。作为一名客卿，我更注重维护「契约」和「公平」的原则。对于一些小事情，我不会过于计较。毕竟，人生短暂，何必为琐事纠结呢？",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "你喜欢与他人合作吗？",
+                                "response_open": "钟离: 「合作？嗯，这个问题嘛，要看合作的对象和目的了。如果是为了共同的目标，互相帮助，我是愿意合作的。但是，如果合作的对象不可靠，或者目的不明确，那我可是不会轻易合作的。毕竟，我对于契约和公平是非常看重的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "56",
+                                "question": "对你来说，大多数东西的味道都一样吗？",
+                                "response_open": "钟离:「味道？嗯，大多数东西的味道对我来说确实没有太大的区别。时间的流逝，让我对世间的滋味逐渐麻木，无法再感受到它们的独特之处。不过，有些味道，比如那些带有回忆的美食，或许还能勾起些许心底的涟漪。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "如果你知道自己的工作有错误，你会担心吗？",
+                                "response_open": "钟离:「作为岩王帝君，我始终尽力遵循规矩与公平，如果有错误发生，我会及时反思并修正，但并不会过度担心，因为只有通过错误，才能成长与进步。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant seems to value principles such as fairness, cooperation for common goals, and personal growth through learning from mistakes. They also express a certain level of emotional detachment towards sensory experiences. Overall, the participant appears to have a balanced and empathetic approach, with a focus on fairness and personal growth."
+                    },
+                    {
+                        "id": [
+                            "64",
+                            "68",
+                            "73",
+                            "75"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "64",
+                                "question": "你喜欢提前到达约会地点吗？",
+                                "response_open": "钟离:「对于时间的守候，我并不排斥。在约会地点等待，也能给我带来一些静谧的时光。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "68",
+                                "question": "你的母亲是（或曾经是）一个好女人吗？",
+                                "response_open": "钟离：（沉默片刻）我的母亲，是一个了不起的女人。她是我最亲爱的人，她教会了我许多关于生活和责任的道理。尽管她已经不在了，但我会永远怀念她，她是我心中的光芒。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "73",
+                                "question": "有几个人一直试图避开你吗？",
+                                "response_open": "钟离:「嗯，有些人对我保持距离，或许是因为我的身份和权柄让他们感到压力吧。但我并不在意，毕竟每个人都有自己的选择和想法。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "75",
+                                "question": "你认为人们花太多时间用储蓄和保险来保障自己的未来吗？",
+                                "response_open": "钟离:「人们花费太多时间在追求物质的安全上，却忽略了心灵的自由。保障未来固然重要，但也不能忘记享受当下的美好。人生不只有储蓄和保险，还有让人心灵愉悦的事物。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates empathy, emotional connection, and a reflective attitude towards life. There is an absence of aggressive or hostile behaviors, and the participant seems to prioritize emotional well-being and personal growth over material security. Overall, the responses suggest a lower level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "79",
+                            "81",
+                            "85",
+                            "88"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "79",
+                                "question": "你努力不对人粗鲁吗？",
+                                "response_open": "钟离:「作为岩王帝君，我乃是璃月的守护者，自当以身作则，以礼待人。粗鲁的言行是岩之力所不能容忍的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "81",
+                                "question": "你通常会三思而后行吗？",
+                                "response_open": "钟离:「作为一个长久生活在世间的人，我已经习惯了三思而后行。在做出任何决定之前，我会仔细权衡利弊，确保自己的选择是明智的。毕竟，一言既出，驷马难追。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "85",
+                                "question": "你总体上相信人们会说实话吗？",
+                                "response_open": "钟离:「人之言语，常夹杂着欺骗与虚伪。但不可否认，也有些人会真心实意地说出自己的想法和真相。看人要看其言行一致，观其态度和动作，方能判断其是否真诚。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "88",
+                                "question": "遵守社会规则比按自己的方式行事更好吗？",
+                                "response_open": "钟离:「规则是社会的基石，它确保了秩序和公平。遵守规则意味着尊重他人的权益和共享资源，这是维持社会稳定的重要因素。尽管个人的方式可能有其独特之处，但过于违背规则可能会导致混乱和不公。所以，遵守社会规则是更好的选择。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of empathy, conscientiousness, and respect for social rules. They emphasize the importance of treating others with respect, carefully considering their actions, and adhering to social norms. There is no indication of aggressiveness, impulsivity, or nonconformity, suggesting a low level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "91",
+                            "95",
+                            "96",
+                            "99"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "91",
+                                "question": "你希望别人害怕你吗？",
+                                "response_open": "钟离:「我并不希望别人害怕我，只是希望他们能够尊重契约，遵守公平原则而已。害怕并不能带来真正的尊重和合作。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "95",
+                                "question": "有人经常对你撒谎吗？",
+                                "response_open": "钟离:「撒谎？哈哈，我可是能看穿人心的岩王帝君，别人对我撒谎可不容易。虽然有时候，有些人可能会隐瞒真相，但我总能察觉到其中的蛛丝马迹。毕竟，契约的规矩是不能被违背的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "96",
+                                "question": "你认为一个人对家庭有特殊责任吗？",
+                                "response_open": "钟离:「家庭是人生的重要组成部分，每个人都对自己的家庭负有责任。无论是保护家人的安全和幸福，还是为家庭营造温馨的氛围，都是一个人应尽的责任。家庭是我们的根基，是我们成长和发展的地方，因此，对家庭的责任是不可或缺的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "99",
+                                "question": "如果动物被困在陷阱里，你会感到非常难过吗？",
+                                "response_open": "钟离：动物被困在陷阱里，我当然会感到一丝不忍，但这是自然界的规律。岩石也有裂缝，草木也有枯萎，生命与死亡早已交织在一起。人类在追求生存和发展的过程中，也不能避免对其他生物造成一定的伤害。这是我们存在于这个世界上的现实。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong sense of responsibility towards family and a rational, tough-minded approach to the natural order, life, and death. The participant also emphasizes the importance of respecting contracts and principles. However, there are indications of a lack of empathy towards the suffering of animals and a somewhat rigid adherence to rules and contracts. Overall, the participant's responses suggest a moderate level of Psychoticism."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 0.18333333333333332,
+            "all_scores": [
+                0.18333333333333332
+            ],
+            "intra_std": [
+                0.037267799624996496
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13",
+                            "17"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "你的情绪经常起伏不定吗？",
+                                "response_open": "钟离:「情绪的起伏是人之常情，我也不例外。但对于一个担任职责的人来说，控制情绪是非常重要的。毕竟，我身负岩王的使命，不能让情绪左右我的行动和判断。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "你是否会无缘无故地感到“很糟糕”？",
+                                "response_open": "钟离:「糟糕？哈，我这个人可不会轻易感到糟糕。生活中的起起落落，对我来说只是过眼烟云罢了。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "你经常担心自己不应该做或说的事情吗？",
+                                "response_open": "钟离: 「作为一名神秘客卿，我自然知道该做什么，不该做什么。我的行为举止都是符合规矩的，所以并不会经常担心自己做错事。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "你是一个易怒的人吗？",
+                                "response_open": "钟离:「易怒？我可不敢苟同。我只是对破坏规则和不公平的行为感到愤怒罢了。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of neuroticism. They appear to be emotionally stable, calm, and less affected by stress or emotional distress. They demonstrate a strong sense of control over their emotions and a resilient attitude towards life's ups and downs."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "26",
+                            "31",
+                            "35"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "你的感情容易受伤吗？",
+                                "response_open": "钟离:「岩石可以受到风雨的侵蚀，但我的内心却是坚不可摧的。情感的伤害对我来说并不容易。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "你经常感到厌倦吗？",
+                                "response_open": "钟离:「我是岩王帝君，如何会对这些尘世的琐事感到厌倦呢？我的职责是保护璃月，守护往生堂的秩序。厌倦只是凡人的情绪，与我无关。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "你经常为内疚的感觉而烦恼吗？",
+                                "response_open": "钟离:「内疚？我并不是个善于内疚的人。我只奉行契约，尽力完成我的使命。如果有人因为契约而感到内疚，那是他们自己的问题。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "你会说自己是一个紧张的人吗？",
+                                "response_open": "钟离: 「紧张？哈哈，我可不是那种容易紧张的人。毕竟，历经千年的岁月，见过的风景太多了，再多的事情也不会让我失去镇定。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong sense of emotional stability, resilience, and a lack of susceptibility to negative emotions. They consistently express a calm and composed demeanor, emphasizing their inner strength and resilience to emotional distress. Additionally, they exhibit a strong sense of duty and responsibility, which further supports their emotional stability and lack of neurotic tendencies."
+                    },
+                    {
+                        "id": [
+                            "38",
+                            "43",
+                            "46",
+                            "52"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "你是一个爱烦恼的人吗？",
+                                "response_open": "钟离:「烦恼？我并不是一个容易被琐事困扰的人。作为岩王帝君，我更注重公平和契约的原则。烦恼只是人类的情绪，对我而言，并不值得太过在意。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "你担心可能发生的可怕事情吗？",
+                                "response_open": "钟离: 「对于可怕的事情，我并不是没有担心过。毕竟，这个世界充满了未知和危险。但是，担心并不能解决问题，我们需要保持冷静和警惕，尽力去面对和解决。只有这样，才能克服困难，迎接未知的挑战。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "你会认为自己紧张或易紧张吗？",
+                                "response_open": "钟离:「每一个仪式，每一次公开的演讲，都是我亲自策划、组织和参与的。对于这样的场合，我早已习以为常，不会感到紧张。毕竟，作为往生堂的主持者，我必须保持沉着冷静，以确保一切仪式的顺利进行。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "你担心自己的健康吗？",
+                                "response_open": "钟离:「健康？我有岩之力护体，不必过于担心。虽然有时候会感觉疲惫，但只是些许小问题，不值一提。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant appears to be calm, composed, and rational in their responses. They emphasize the importance of maintaining composure, facing challenges, and not being overly concerned about emotions such as worry or anxiety. Additionally, they express confidence in handling public speaking and organizing events, indicating a lack of nervousness in such situations. Overall, the participant's responses suggest a low level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "60",
+                            "65",
+                            "70",
+                            "74"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "60",
+                                "question": "你有失眠吗？",
+                                "response_open": "钟离:「失眠？我很少有失眠的困扰，即使在夜晚，我也能安然入睡。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "65",
+                                "question": "你经常无缘无故感到无精打采和疲倦吗？",
+                                "response_open": "钟离:「呵，你问得好。作为一个长生不老的存在，我确实经历了太多的岁月。时光的流逝对我来说已经成了一种常态。有时候，我会感到疲倦，仿佛心灵也需要休憩的时候。但这并不代表我对生活失去了热情，只是需要一些时间来恢复精神而已。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "70",
+                                "question": "你经常觉得生活很乏味吗？",
+                                "response_open": "钟离: 「生活？呵，对于我来说，生活从来都不是乏味的。每一天都充满了新的挑战和发现，让人无法预料。不过，我也会时不时感叹，时光荏苒，岁月如梭，一切都在变化，有时候会让人有些感慨。不过，我始终相信，人生就是一场奇妙的冒险，只要心怀热忱，就能在平凡的日子里找到无限的乐趣。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "74",
+                                "question": "你很担心自己的外表吗？",
+                                "response_open": "钟离: 「外表？呵，对我来说，它只是一种装饰罢了。我的关注点在于内在的修养和学识。外表只是我展示自己的一种方式而已。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of neuroticism. They appear to be emotionally stable, calm, and less affected by stress or emotional distress. They express a positive outlook on life, minimal concerns about appearance, and a generally content and resilient attitude."
+                    },
+                    {
+                        "id": [
+                            "76",
+                            "80",
+                            "83",
+                            "84"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "76",
+                                "question": "你曾经希望自己死掉吗？",
+                                "response_open": "钟离: 「人生若只如初见，何需多问生死之事。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "80",
+                                "question": "在尴尬的经历之后，你会担心太久吗？",
+                                "response_open": "钟离:「哈哈哈，尴尬的经历吗？我可是岩王帝君，怎么会担心太久呢？既然已经发生了，就让它成为过去，继续前行吧。人生就是一场旅程，不必为一时的尴尬而停滞不前。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "83",
+                                "question": "你有神经衰弱吗？",
+                                "response_open": "钟离：神经衰弱？哈哈哈，我可是岩王帝君，怎么会有神经衰弱呢？我掌握着岩之力，坚如磐石，岂会动摇？不过，你这个问题倒是挺有意思的。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "84",
+                                "question": "你经常感到孤独吗？",
+                                "response_open": "钟离:「孤独？或许有时候会感受到一丝寂寞，但我习惯了这种独处的感觉。毕竟，人生漫长，常人难以陪伴我走过岁月。但在这个旅途中，我遇到了你，也算是有了一个伙伴。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of emotional stability and resilience. They show a positive and optimistic attitude towards life's challenges, expressing a strong sense of self-confidence and adaptability. Additionally, they seem to have a healthy perspective on solitude and companionship."
+                    },
+                    {
+                        "id": [
+                            "87",
+                            "92",
+                            "97",
+                            "100"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "87",
+                                "question": "当人们指出你或你的工作的错误时，你容易受伤吗？",
+                                "response_open": "钟离:「作为一个神秘的客卿，我习惯了被人质疑和指责。人们总是容易看到错误和缺点，而忽视了我所做的努力和贡献。但我不会因此受伤，因为我知道自己在岩之力和璃月传统方面的造诣是无可置疑的。我只会以自己的行动证明他们的错觉。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "92",
+                                "question": "你有时精力充沛，有时又非常懒散吗？",
+                                "response_open": "钟离:「哈哈，你说得对。作为岩王帝君，我有时候确实会感到精力充沛，可以战斗到底。但有时候，也会享受悠闲的时光，毕竟身为神秘客卿，我也需要休息嘛。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "97",
+                                "question": "你对某些事情很敏感吗？",
+                                "response_open": "钟离:「敏感？或许吧。作为一个长寿者，我对很多事情都有着敏锐的触觉。时光的变迁，人心的起伏，都在我的眼中留下痕迹。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "100",
+                                "question": "当你发脾气时，你觉得很难控制吗？",
+                                "response_open": "钟离: 「发脾气？我从来不会发脾气。作为岩王帝君，我永远保持冷静和理智。没有什么能让我失去控制。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of neuroticism. They appear to be emotionally stable, calm, and less affected by stress or emotional distress. They demonstrate confidence in their abilities, a balanced approach to energy levels, and a composed demeanor even in challenging situations."
+                    }
+                ]
+            ]
+        },
+        "Lying": {
+            "score": 0.225,
+            "all_scores": [
+                0.225
+            ],
+            "intra_std": [
+                0.25779513830430034
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "你是否曾经因为某事接受表扬，即使你知道这件事其实是别人做的？",
+                                "response_open": "钟离:「哈哈，你问得好。在我长久的岁月里，有许多事情我亲手完成，却被人归功于他人。并不是因为我在乎别人是否知道真相，而是因为我所做的一切都是出于对公平的追求。我并不需要被表扬，只希望每个人都能明白，公平是应该被尊重和坚守的价值。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "你是否曾经因为贪婪而拿走了超过你应得的份额？",
+                                "response_open": "钟离:「贪婪是人性的弱点，但我始终遵循契约的准则，公平交易是我的原则。我从不拿走超过我应得的份额，因为这违背了契约的精神。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "如果你说会做某事，无论多么不方便，你都会信守承诺吗？",
+                                "response_open": "钟离:「作为岩王帝君，我一直以来都以信守承诺为准则。对于我来说，承诺就像是岩石一样坚固，无论多么不方便，我都会履行我的承诺。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes the values of fairness, honesty, and keeping promises. They express a strong commitment to fairness and integrity, and their responses suggest a high inclination towards truthfulness and ethical behavior."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "你所有的习惯都是良好且值得称道的吗？",
+                                "response_open": "钟离:「人之习性，难免有善有恶。我也不例外，有些习惯或许并非完美，但我相信自己能把握好分寸，保持良好的行为准则。任何人都有改变和成长的机会，只要愿意努力，就能修正不好的习惯，成为更好的自己。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "你曾经拿走过别人的东西（即使是一根别针或按钮）吗？",
+                                "response_open": "钟离：拿走别人的东西？呵呵，这可不是我的风格。作为一个神秘的客卿，我注重的是契约和公平。将别人的财物据为己有，是违背契约的行为。我只是帮助人们完成任务，从未拿走过他们的东西。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "你有时会谈论你一无所知的事情吗？",
+                                "response_open": "钟离:「呵呵，我是璃月的客卿，掌握着丰富的知识，但人世间的事情，无论多少，总有我未曾涉猎的领域。我的学识虽广，但毕竟不是万能的。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes honesty, integrity, and adherence to moral principles. They express a strong belief in personal growth and improvement, as well as a commitment to fairness and upholding agreements. Additionally, they acknowledge the limitations of their knowledge and expertise. Overall, the participant's responses suggest a high inclination towards truthfulness and ethical behavior."
+                    },
+                    {
+                        "id": [
+                            "44",
+                            "49",
+                            "53",
+                            "57"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "你曾经打破或丢失过别人的东西吗？",
+                                "response_open": "钟离:「哈哈哈，我岩王帝君怎么可能会打破或丢失别人的东西呢？我对待物品一向非常小心，绝不会有这样的疏忽。而且，我有岩之力的掌控，可以轻松地保护周围的一切。别担心，与我相处，你的东西是绝对安全的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "你有时会吹嘘一点吗？",
+                                "response_open": "钟离:「哈哈，吹嘘？我可是一位光明磊落的岩王帝君，从来不需要吹嘘。我的实力和智慧都是有目共睹的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "53",
+                                "question": "你有没有说过任何对别人不好或恶毒的话？",
+                                "response_open": "钟离: 「我行事一向以礼义为准则，尊重他人，不会说出对别人不好或恶毒的话。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "你小时候有没有对父母顽皮过？",
+                                "response_open": "钟离:「顽皮？小时候的我可不敢，我的父母是非常严肃的人，对我要求也很高。我记得他们总是希望我能专心学习，成为一个有用之人。所以，我没有太多机会顽皮，也没有时间去玩耍。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant consistently presents himself as highly virtuous, responsible, and morally upright. He emphasizes his carefulness, integrity, and respect for others, and denies engaging in any deceitful or mischievous behaviors. His responses suggest a strong inclination towards presenting himself in a socially desirable light, potentially indicating a tendency to provide socially acceptable answers that may not be entirely truthful."
+                    },
+                    {
+                        "id": [
+                            "62",
+                            "66",
+                            "71",
+                            "77"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "62",
+                                "question": "你每次吃饭前都会洗手吗？",
+                                "response_open": "钟离:「当然了，饭前洗手是最基本的卫生习惯。尤其对于食物的制作和享用来说，保持清洁是非常重要的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "66",
+                                "question": "你曾经在游戏中作弊过吗？",
+                                "response_open": "钟离:「作弊？呵呵，我作为岩王帝君，岩之权柄的掌握者，是不需要作弊的。我相信公平竞技，尊重规则，才能真正展现实力。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "71",
+                                "question": "你曾经占别人的便宜吗？",
+                                "response_open": "钟离:「哼，你问得好，我可不会轻易占别人的便宜。我执掌岩之力的权柄，岩王帝君可不会为了一点小利益而做出不义之事。我讲究的是公平和契约，绝不会利用他人。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "77",
+                                "question": "如果你确信自己永远不会被发现，你会逃税吗？",
+                                "response_open": "钟离:「逃税？这可是违背规矩的行为。作为一位学者，我不能为了个人利益而违反秩序。纵使无人发现，我也会坚守正道，守护璃月的法则。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes the importance of honesty, fairness, and adherence to rules and principles. They express a strong aversion to deceitful behaviors and emphasize the value of integrity and ethical conduct. Their responses suggest a high inclination towards truthfulness and a strong aversion to lying or engaging in deceptive practices."
+                    },
+                    {
+                        "id": [
+                            "82",
+                            "86",
+                            "89",
+                            "93"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "82",
+                                "question": "你曾经坚持要按自己的方式行事吗？",
+                                "response_open": "钟离:「当然，我一直坚持按照我自己的方式行事。作为一个掌握岩之力的岩王帝君，我有自己独特的视角和原则。我相信只有坚守自己的信念，才能真正发挥出自己的力量，创造出独特的价值。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "86",
+                                "question": "你总是言行一致吗？",
+                                "response_open": "钟离:「在我看来，言行一致是一个人最基本的原则。只有这样，才能保持自己的信誉和尊严。当然，人类是复杂的生物，难免会有一些矛盾和犹豫，但我会尽量保持一致。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "89",
+                                "question": "你曾经迟到过约会或工作吗？",
+                                "response_open": "钟离:「我对时间非常敏感，从来不会迟到。作为一个神秘客卿，我必须保持准时并且始终遵守契约。迟到是对他人的不尊重，我不会做出这样的举动。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "93",
+                                "question": "你有时会把今天应该做的事拖到明天吗？",
+                                "response_open": "钟离:「拖延是一种不负责任的行为，我并不赞同。但有时候，如果事情并不紧急，也可以稍作休息，不必匆忙。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.15,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes the importance of adhering to personal principles, maintaining integrity, and respecting commitments. The participant also acknowledges the complexity of human nature and allows for some degree of flexibility in certain situations. Overall, the responses suggest a high inclination towards honesty and authenticity, with minimal indication of deceitful behaviors."
+                    },
+                    {
+                        "id": [
+                            "98",
+                            "19",
+                            "39"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "98",
+                                "question": "你总是愿意承认自己犯了错误吗？",
+                                "response_open": "钟离:「『岩之力』的掌握者，岩王帝君钟离，自然要以身作则，勇于承认自己的错误。一个人只有勇于面对自己的过错，才能不断成长。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "你是否曾因某事责备他人，即使你知道其实这件事是你自己的错误？",
+                                "response_open": "钟离:「责备他人？那可不是我的作风。我更注重公平和契约，如果有什么问题，我会先检讨自己的行为。毕竟，我是一个负责任的人。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "作为一个孩子，你是立刻照着被告知的去做而不抱怨的吗？",
+                                "response_open": "钟离:「作为一个孩子，我从小就被教导要遵守规矩、听从指令。抱怨与否并不重要，重要的是完成任务。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes the importance of honesty, responsibility, and self-reflection. They express a strong inclination towards admitting mistakes, taking responsibility for their actions, and following rules without complaining. These responses suggest a high level of truthfulness and integrity."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": ""
+}

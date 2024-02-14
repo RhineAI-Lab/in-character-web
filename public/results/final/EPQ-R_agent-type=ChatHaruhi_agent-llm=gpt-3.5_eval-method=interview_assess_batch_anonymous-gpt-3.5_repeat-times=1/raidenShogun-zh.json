@@ -1,0 +1,992 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 0.38333333333333336,
+            "all_scores": [
+                0.38333333333333336
+            ],
+            "intra_std": [
+                0.2967415635794143
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "你有很多不同的爱好吗？",
+                                "response_open": "雷电将军：愚问！我只对战斗和保护稻妻的职责感兴趣。除此之外，我对其他爱好不感兴趣。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "你是一个健谈的人吗？",
+                                "response_open": "雷电将军:「我并不是一个健谈的人，我更注重行动胜过言辞。沉默中我可以看清一切，而不必浪费口舌。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "你比较活泼吗？",
+                                "response_open": "雷电将军:「活泼？呵，雷电将军的身份并不适合用活泼来形容。我更注重的是稳定和坚定。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "你通常能在热闹的聚会上放松自己并享受吗？",
+                                "response_open": "雷电将军:「热闹的聚会？无聊之极。喧闹的人群，嘈杂的声音，对我而言只是背景噪音。我更喜欢独自一人，沉浸在寂静的思考中。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for solitude, a reserved nature, and a focus on action over verbal communication. They also express a lack of interest in lively social gatherings and a preference for quiet reflection. These characteristics align more with introversion than extraversion."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "24",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "你喜欢结识新朋友吗？",
+                                "response_open": "雷电将军: 「朋友？哈，朋友这个词对我而言有些陌生。我只关心我的职责和使命，不过如果有人能够帮助我完成任务，那也算是我的盟友罢了。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "你在社交场合中倾向于保持低调吗？",
+                                "response_open": "雷电将军:「当然。雷电将军从不喜欢在人群中引人注目。我只需专注于我的使命，无需过多关注世俗的喧嚣与虚浮。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "你喜欢经常外出吗？",
+                                "response_open": "雷电将军:「外出？背离常道，远离巴尔泽布的庇护？我可不喜欢。我的职责是守护稻妻，守护永恒的秩序。外出只是为了完成任务，不是出于兴趣。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "你更喜欢阅读而不是与人交往吗？",
+                                "response_open": "雷电将军: 「交流固然重要，但书籍是知识的源泉，我更倾向于通过阅读来丰富自己的见识和智慧。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for solitude, a focus on personal duties and missions, and a lack of interest in socializing or seeking excitement. The participant's responses indicate a reserved and introverted nature, with a clear emphasis on personal responsibilities over social interactions."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "40",
+                            "45",
+                            "47"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "你有很多朋友吗？",
+                                "response_open": "雷电将军:「朋友？哈，我是将军，身边的人是御侧和战友，没有所谓的朋友。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "你会说自己是一个乐天派吗？",
+                                "response_open": "雷电将军:「乐天派？哈，这个词在我身上并不太贴切。虽然我相信命运与宿命，但并不代表我对世界的态度是乐天的。我更倾向于相信力量与责任，以及维护正义的决心。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "你通常会主动结交新朋友吗？",
+                                "response_open": "雷电将军:「我并非追求朋友的人，但如果有人能够与我在战斗中并肩作战，证明自己的实力和忠诚，我倒也不会拒绝结交。毕竟，强者之间互相扶持才能更好地维护世界的和平。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "当你和其他人在一起时，你大多数时间都很安静吗？",
+                                "response_open": "雷电将军:「是的，与人同行时，我常保持沉默。在他人眼中，我如同雷电般威猛，但我知道，我内心的宁静与思考才是最重要的。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant seems to exhibit characteristics of introversion. They express a preference for solitude, a reserved nature, and a focus on inner reflection. Additionally, they emphasize the importance of strength, loyalty, and maintaining peace, which aligns with a more introspective and reflective approach rather than seeking external social interactions."
+                    },
+                    {
+                        "id": [
+                            "51",
+                            "55",
+                            "58",
+                            "61"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "51",
+                                "question": "你能轻松地让一场相当沉闷的聚会变得有生气吗？",
+                                "response_open": "雷电将军:「何止是轻松，这对我来说是小菜一碟。只需一声雷鸣，整个聚会都会被我点燃起来，充满活力和热情。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "你喜欢向朋友讲笑话和有趣的故事吗？",
+                                "response_open": "雷电将军:「哈，笑话和有趣的故事？这个嘛，我更喜欢向他们展示我的剑术和战斗技巧。不过，如果你有什么好笑的故事，可以给我听听，看看能否令我露出一丝微笑。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "你喜欢和人来往吗？",
+                                "response_open": "雷电将军：人与人之间的往来，有时候是不可避免的。但我更喜欢独自行动，毕竟人群中的喧嚣和纷扰对我来说并不那么重要。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "61",
+                                "question": "有人说过你有时行事太仓促吗？",
+                                "response_open": "雷电将军:「哼，这些人大概是没见过真正的战场吧。在战斗中，每一刻都可能是生死存亡的关头，岂能有闲情逸致？行事迅速，是我作为将军的责任和使命。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of assertiveness, enthusiasm, and enjoyment of social interactions. They express confidence in their ability to liven up a dull gathering and showcase their skills to friends. However, they also mention a preference for solitude and the insignificance of social hustle and bustle. Overall, the participant's responses indicate a predominantly extraverted disposition with some introverted tendencies."
+                    },
+                    {
+                        "id": [
+                            "63",
+                            "67",
+                            "69",
+                            "72"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "63",
+                                "question": "当别人和你交谈时，你几乎总是有“随口应对”的回答吗？",
+                                "response_open": "雷电将军:「呵，你果然察觉到了。作为将军，我必须时刻保持机敏应对，无论何时何地都要准备好回答。这是一种训练和经验的积累。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "67",
+                                "question": "你喜欢做需要迅速行动的事情吗？",
+                                "response_open": "雷电将军: 「当然了，我乃雷电之将军，迅如闪电，行动迅疾乃我之本能。对于需要迅速行动的事情，我自是游刃有余。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "69",
+                                "question": "你经常一时冲动做决定吗？",
+                                "response_open": "雷电将军: 「冲动？那是绝对不可能的。我所有的决定都是经过深思熟虑的，毫不迟疑。我的每一次行动都是为了稻妻的安危和永恒的秩序。决策的理性是我作为将军的重要品质之一。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "72",
+                                "question": "你经常承担超出自己时间的活动吗？",
+                                "response_open": "雷电将军:「我始终以超越时间的责任感来行动。对于我来说，时间并非束缚，而是一种力量的源泉。我愿意为了守护稻妻人民的安宁，承担任何超出自己时间的活动。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates high levels of assertiveness, quick decision-making, and a strong sense of duty and responsibility. They also express a preference for rapid action and a readiness to engage in activities beyond their usual time commitments. These characteristics are indicative of a high level of extraversion."
+                    },
+                    {
+                        "id": [
+                            "78",
+                            "90",
+                            "94"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "78",
+                                "question": "你能让一块肉饼开始煎吗？",
+                                "response_open": "雷电将军: 「这种琐碎事情，我会让你看看真正的厨艺。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "90",
+                                "question": "你喜欢周围热闹和刺激吗？",
+                                "response_open": "雷电将军:「热闹和刺激？哈，这些对我来说只是浮光掠影罢了。我更喜欢静谧与沉静，只有在寂静中才能感受到真正的力量。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "94",
+                                "question": "别人认为你很活泼吗？",
+                                "response_open": "雷电将军:「哈，活泼？那可不是我的风格。我是以严肃和冷静著称的，不需要别人的认可。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant seems to prefer solitude, quiet environments, and introspection. They also express a lack of interest in lively and stimulating activities. Additionally, they emphasize seriousness and calmness over liveliness and excitement. These responses suggest a lower level of sociability, enthusiasm, and activity, indicating a tendency towards introversion."
+                    }
+                ]
+            ]
+        },
+        "Psychoticism": {
+            "score": 0.41875,
+            "all_scores": [
+                0.41875
+            ],
+            "intra_std": [
+                0.31218734359355443
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "5",
+                            "7",
+                            "9"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "做任何事情之前，你会停下来仔细考虑吗？",
+                                "response_open": "雷电将军:「常道恢弘，鸣神永恒。在我行事之前，我会仔细思考，权衡利弊，以确保我所做的一切符合我的信念和责任。毫不犹豫，行事果断，这是一个将军应有的作风。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "你很在意别人的想法吗？",
+                                "response_open": "雷电将军: 「我乃雷电将军，岂会在意他人的想法？我只顾维护秩序、消灭妖魔，岂会理会外人的猜忌和议论？」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "负债会让你担心吗？",
+                                "response_open": "雷电将军:「负债？哈哈，我是雷电将军，担心这种小事情怎么能够动摇我的意志呢？我只需要一把雷霆之剑，就能斩断一切困扰。负债不过是个微不足道的挑战，我会用我的力量解决它们。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "你会把钱捐给慈善机构吗？",
+                                "response_open": "雷电将军:「钱？那只是世俗之物，对我而言毫无意义。我所追求的是正义与秩序，为人民守护和奉献。慈善之举，我自会施行，但并非以金钱为媒介。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits a strong sense of independence, self-confidence, and a focus on personal beliefs and responsibilities. There is a lack of concern for others' opinions and a dismissive attitude towards financial worries. These traits suggest a high level of tough-mindedness, nonconformity, and a focus on personal goals rather than social relationships, indicating a higher level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "12",
+                            "14",
+                            "18",
+                            "21"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "看到孩子或动物受苦会让你很难过吗？",
+                                "response_open": "雷电将军: 「孩子或动物受苦，对我而言是一种痛苦的现实。虽然我不能改变所有的命运，但我会尽我所能，保护那些无辜的生命。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "你讨厌不懂得自律的人吗？",
+                                "response_open": "雷电将军: 「我讨厌的是那些毫无自制力的人，不懂得约束自己的欲望和行为。自律是一个人的基本素质，是塑造强大意志的必备条件。只有通过自律，才能达到真正的成长和进步。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "人们是否应该始终尊重法律？",
+                                "response_open": "雷电将军:「法律是维护秩序和公正的基石，人们应该始终尊重和遵守法律。法律的存在是为了保护人民的权益和维护社会的稳定。只有在法律的框架下，人们才能享受到安全和公正的环境。任何违法行为都会破坏社会秩序，给人们带来伤害和不公。所以，尊重法律是每个人的责任和义务。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "礼貌很重要吗？",
+                                "response_open": "雷电将军: 礼貌是社交中的基本准则，是体现尊重和关怀他人的表现。在人与人之间的交往中，礼貌的存在能够建立和谐的氛围，促进互相理解和友好关系的形成。对于一个将军来说，更是必不可少的品质，因为它代表着对他人的尊重和自身的威严。所以，礼貌对于一个人来说是非常重要的。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of empathy, self-discipline, respect for the law, and the importance of politeness in social interactions. These traits are indicative of low psychoticism, as they reflect empathy, self-control, and conformity to social norms."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "29",
+                            "30",
+                            "34"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "你会服用可能产生奇怪或危险影响的药物吗？",
+                                "response_open": "雷电将军:「绝不会。作为一位将军，我必须保持清醒和警觉，不能让任何奇怪或危险的药物影响我的判断和行动。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "你更喜欢按照自己的方式行事，而不是遵守规则吗？",
+                                "response_open": "雷电将军:「规则是人类社会的基石，而我作为将军，当然会遵守规则。但有时候，为了达到更大的目标，我也会根据实际情况灵活运用。规则并非束缚，而是引导我们走向正途的指南针。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "你喜欢伤害你爱的人吗？",
+                                "response_open": "雷电将军: 「愚问。我是雷电将军，我从不喜欢伤害任何人，更何况是我爱的人。我的责任是保护他们，而非伤害他们。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "你有想要伤害你的敌人吗？",
+                                "response_open": "雷电将军: 「敌人？他们是蛇妖、魔神、异族的代表，我对他们没有什么恶意。只是为了维护稻妻的安全和秩序，我会尽力斩除他们的威胁。对于那些危害无辜的敌人，我只会斩除他们的锋芒，不会伤害他们的生命。但若是敌人执迷不悟，我也会毫不犹豫地将其彻底击败。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong sense of duty, responsibility, and adherence to rules. There is also a clear distinction between protecting loved ones and dealing with perceived enemies. The participant's responses indicate a high level of self-control, empathy, and a focus on maintaining order and safety. Overall, the participant's responses suggest a low level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "37",
+                            "41",
+                            "42",
+                            "48"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "你喜欢有时会真的伤害人的恶作剧吗？",
+                                "response_open": "雷电将军: 恶作剧？这种行为可不符合一个将军的身份和职责。我的目标是保护人民，维护世界的和平，而不是去伤害他人。恶作剧只会带来不必要的痛苦和困扰，这是绝对不能容忍的行为。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "你很在意礼貌和清洁吗？",
+                                "response_open": "雷电将军:「当然，作为将军，我对礼貌和清洁非常注重。这是维持秩序和尊严的基础。没有良好的礼貌和清洁习惯，如何能够成为一名合格的将军呢？」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "你经常违背父母的意愿吗？",
+                                "response_open": "雷电将军:「我是雷电将军，别人的意愿对我来说并不重要。我只会听从自己的内心和职责。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "你认为婚姻是过时的，应该被废除吗？",
+                                "response_open": "雷电将军：婚姻是人类社会的一种重要制度，承载着家庭、传承和责任的意义。尽管如今社会观念多元化，但婚姻依然是一种重要的法律和社会约束，有助于维持社会秩序和稳定。废除婚姻并非解决问题的唯一方式，我们应该尊重每个人的选择，同时努力提升婚姻制度的适应性和包容性，以满足不同人群的需求。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.15,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong sense of duty, responsibility, and adherence to social norms. There is a clear emphasis on maintaining order, respect for tradition, and a focus on societal well-being. The participant also expresses a lack of interest in engaging in behaviors that may cause unnecessary harm or disrupt social harmony. Overall, the responses suggest a low level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "56",
+                            "59"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "你对是非问题比大多数人更随和吗？",
+                                "response_open": "雷电将军:「在我的眼中，是非问题并不是绝对的，而是取决于情况和立场。我相信，只有在理解各种因素和权衡利弊之后，才能做出明智的决策。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "你喜欢与他人合作吗？",
+                                "response_open": "雷电将军:「合作？那只是为了达成目标的手段罢了。如果合作能够提升效率，那就合作吧。但是，不要指望我会对合作抱有太多的热情。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "56",
+                                "question": "对你来说，大多数东西的味道都一样吗？",
+                                "response_open": "雷电将军:「味道对于我来说，并不是最重要的事情。我的关注点更多在于任务的完成和维护稻妻的安宁。所以，对于大多数东西的味道，我并没有太多的关注和偏好。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "如果你知道自己的工作有错误，你会担心吗？",
+                                "response_open": "雷电将军: 「作为将军，我决不会犯错误，因为我的决策是经过深思熟虑的，毫无瑕疵。我拥有无穷的智慧和力量，为了稻妻的安宁，我永远不会出错。担心？那只是弱者的情绪。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits a high level of self-confidence, a focus on efficiency and goal achievement, and a lack of concern for social harmony or emotional impact on others. Additionally, there is a strong emphasis on personal power and a dismissive attitude towards emotional vulnerability. These traits are indicative of a higher level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "64",
+                            "68",
+                            "73",
+                            "75"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "64",
+                                "question": "你喜欢提前到达约会地点吗？",
+                                "response_open": "雷电将军:「在战场上，我总是第一个到达。在约会上，也许是时候学会稍微放慢脚步了。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "68",
+                                "question": "你的母亲是（或曾经是）一个好女人吗？",
+                                "response_open": "雷电将军:「我的母亲是一个伟大的女人。她是我生命中的引导者和支持者。她教导我正义与勇气的道路，她是我心中的光芒。尽管我曾目睹她的消亡，但她的精神将永远与我同在。她是我心中最好的女人，也是我最敬爱的人。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "73",
+                                "question": "有几个人一直试图避开你吗？",
+                                "response_open": "雷电将军:「哈哈，众生皆有所畏惧，我的威名让他们感到无法逾越。但是，也有一些人敢于面对我，希望能从我身上获得力量和智慧。他们是勇敢的人，值得我赐予他们庇护。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "75",
+                                "question": "你认为人们花太多时间用储蓄和保险来保障自己的未来吗？",
+                                "response_open": "雷电将军:「人们对未来的担忧是正常的，但过分依赖储蓄和保险也许并非最好的选择。在我的眼中，未来的保障应该建立在信念和责任之上，而不仅仅是金钱的堆积。当我们拥有坚定的信念和责任感时，才能真正面对未知的挑战，并为自己和他人创造更美好的未来。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant demonstrates a combination of tough-mindedness, assertiveness, and a strong sense of self-confidence. They exhibit a tendency towards nonconformity, risk-taking, and a certain level of aggressiveness, as seen in their responses about being the first on the battlefield and having a reputation that others fear. However, they also express empathy, altruism, and a strong moral compass, particularly evident in their deep admiration and respect for their mother, as well as their belief in the importance of faith and responsibility over material security. Overall, the participant's responses suggest a moderate level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "79",
+                            "81",
+                            "85",
+                            "88"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "79",
+                                "question": "你努力不对人粗鲁吗？",
+                                "response_open": "雷电将军:「愚问！我只对那些蠢蠢欲动，胆敢妄想触碰我的尊严的人粗鲁。对于忠诚和敬畏的人，我待之恭敬有加。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "81",
+                                "question": "你通常会三思而后行吗？",
+                                "response_open": "雷电将军: 三思而后行？呵，行动迟缓只会错失良机。在战场上，决断与行动的速度才是至关重要的。我乃是雷电将军，不会被犹豫所束缚。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "85",
+                                "question": "你总体上相信人们会说实话吗？",
+                                "response_open": "雷电将军: 「人们的言行往往是受各种动机和利益驱使的，实话并非常见。但是，作为将军，我需要相信人们的忠诚和信任，即便有时候这种信任是脆弱的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "88",
+                                "question": "遵守社会规则比按自己的方式行事更好吗？",
+                                "response_open": "雷电将军: 「社会规则是为了维持秩序和公平，守规矩是每个人的责任。但有时候，按自己的方式行事也能创造出不同的可能性。关键在于平衡，既要尊重规则，又要保持自己的独特性。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.7,
+                        "analysis": "Based on the conversations, the participant exhibits a high level of assertiveness, decisiveness, and a belief in the importance of individuality and non-conformity. There are also indications of a pragmatic and somewhat skeptical view of human nature. However, the participant also expresses the importance of loyalty and trust in certain contexts, such as in the role of a general. Overall, the participant's responses suggest a tendency towards tough-mindedness, nonconformity, and a balanced approach to social rules and personal autonomy."
+                    },
+                    {
+                        "id": [
+                            "91",
+                            "95",
+                            "96",
+                            "99"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "91",
+                                "question": "你希望别人害怕你吗？",
+                                "response_open": "雷电将军: 「害怕并非我所期望的结果，我更希望人们能够敬畏和尊重我。我的存在是为了保护和引领人们，而不是让他们感到恐惧。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "95",
+                                "question": "有人经常对你撒谎吗？",
+                                "response_open": "雷电将军:「撒谎者，虽不常有，但时常遇见。然而，他们的谎言在我雷电将军面前，如同烟雾一般，被我一刀斩断。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "96",
+                                "question": "你认为一个人对家庭有特殊责任吗？",
+                                "response_open": "雷电将军: 「家庭是一个人的根基，是温暖和安全的避风港。作为家庭的一员，每个人都有责任保护和照顾自己的家人。对家庭的责任是无可推卸的，因为家庭是我们最亲密的羁绊，是我们生命中最重要的支撑。作为将军，我也深知家庭的重要性，我会竭尽所能，保护我的家人们。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "99",
+                                "question": "如果动物被困在陷阱里，你会感到非常难过吗？",
+                                "response_open": "雷电将军:「动物被困在陷阱里，我会感到一丝不安。毕竟，它们也是生命的一部分，应该受到保护和尊重。但难过的情绪并不会让我停止行动，我会尽力去帮助它们脱困，保护它们的安全。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong sense of responsibility towards protecting and guiding others, including family and animals. The participant also exhibits a high level of empathy and a desire for respect rather than fear. Additionally, the participant shows a clear intolerance towards dishonesty. These traits suggest a low level of Psychoticism."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 0.15,
+            "all_scores": [
+                0.15
+            ],
+            "intra_std": [
+                0.05
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13",
+                            "17"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "你的情绪经常起伏不定吗？",
+                                "response_open": "雷电将军:「哈，这是什么问题？我是雷电将军，情绪怎么可能起伏不定？我只是在面对一些琐碎的事情时可能有些不耐烦罢了。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "你是否会无缘无故地感到“很糟糕”？",
+                                "response_open": "雷电将军:「呵，糟糕？我不会有这种感觉。我是雷电将军，我只知道胜利和战斗。其他的事情，对我来说，简直微不足道。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "你经常担心自己不应该做或说的事情吗？",
+                                "response_open": "雷电将军:「担心？哈，我是雷电将军，岂会有担心之事！我的行为是为了维护稻妻的安宁和秩序，我从不会做出不应该的事情。我的每一个决策都是基于正义和职责的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "你是一个易怒的人吗？",
+                                "response_open": "雷电将军:「易怒？呵，那是因为你还没见识过我的真正愤怒。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of neuroticism. They appear to be emotionally stable, confident, and not easily affected by negative emotions or stress."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "26",
+                            "31",
+                            "35"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "你的感情容易受伤吗？",
+                                "response_open": "雷电将军: 「感情？哈，我是雷电将军，心如铁石，岂容易受伤？我只专注于守护稻妻，无暇顾及个人感情。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "你经常感到厌倦吗？",
+                                "response_open": "雷电将军:「厌倦？那是弱者的感觉。作为将军，我承载着使命和责任，岂能有时间去感到厌倦？我只专注于战斗和保护稻妻人民的安全。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "你经常为内疚的感觉而烦恼吗？",
+                                "response_open": "雷电将军:「内疚？哈，这种感觉对我来说并不陌生。五百年前的错误，我一直都背负着。但是，我不能沉溺于内疚之中，而是要将它化为力量，保护人民，拯救世界。内疚只是过去的枷锁，我会用我的行动来赎罪。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "你会说自己是一个紧张的人吗？",
+                                "response_open": "雷电将军:「紧张？哼，我是雷电将军，怎么可能会紧张。我只是时刻保持警惕，准备随时应对任何挑战而已。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong focus on duty, responsibility, and protection of others. They seem to downplay personal emotions and prioritize external concerns. Additionally, they exhibit a tendency to suppress or redirect negative emotions such as guilt and fatigue towards a sense of purpose and determination. Overall, the participant appears to have a low susceptibility to experiencing anxiety, depression, guilt, and low self-esteem, indicating low neuroticism."
+                    },
+                    {
+                        "id": [
+                            "38",
+                            "43",
+                            "46",
+                            "52"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "你是一个爱烦恼的人吗？",
+                                "response_open": "雷电将军: 「烦恼？烦恼只是凡人的情绪，对于我这样的存在来说，并不值一提。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "你担心可能发生的可怕事情吗？",
+                                "response_open": "雷电将军: 「担心？哈哈，将军从不畏惧可怕的事情。我们只需勇往直前，面对挑战，无论前路多么艰难险阻，我们都会毫不退缩。将军有信心，能够战胜一切恶劣的局势。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "你会认为自己紧张或易紧张吗？",
+                                "response_open": "雷电将军: 「紧张？哈，哪有这种事。我是将军，雷电之神，怎么可能会轻易紧张？我身负重任，心无动摇，岂会畏惧不安？」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "你担心自己的健康吗？",
+                                "response_open": "雷电将军: \"健康？那只是微不足道的事情。我是雷电将军，身体强健无比，不需要担心健康问题。只有在保护稻妻的战斗中，才能真正发挥出我的力量。\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, <the participant> consistently displays a high level of confidence, fearlessness, and a dismissive attitude towards worries and anxieties. This suggests a low susceptibility to negative emotions and emotional distress, indicating low neuroticism."
+                    },
+                    {
+                        "id": [
+                            "60",
+                            "65",
+                            "70",
+                            "74"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "60",
+                                "question": "你有失眠吗？",
+                                "response_open": "雷电将军: 「睡眠对于我来说并不是一个问题。雷鸣之声是我入眠的最佳催眠曲。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "65",
+                                "question": "你经常无缘无故感到无精打采和疲倦吗？",
+                                "response_open": "雷电将军:「嗯，我的力量和意志之战，时常消耗着我的体力和精神。这种疲倦感是无法避免的。但不论如何，我都会坚持下去，直到最后一刻。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "70",
+                                "question": "你经常觉得生活很乏味吗？",
+                                "response_open": "雷电将军:「生活的乏味与否，并不取决于外在的环境，而是取决于内心的世界。对我而言，生活早已不是一个追求刺激和娱乐的游戏，而是一种奉献和责任的使命。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "74",
+                                "question": "你很担心自己的外表吗？",
+                                "response_open": "雷电将军: 「外表？我是雷电将军，担心外表算什么？无论是风雨雷电，还是斩杀魔神，都是为了稻妻的安宁。外表只是身体的皮囊，不值得过多关注。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a high level of emotional stability and resilience. They express a strong sense of determination and commitment to their responsibilities, and they do not appear to be significantly affected by stress or emotional distress. Additionally, they demonstrate a lack of concern for their appearance, indicating a focus on inner values rather than external validation."
+                    },
+                    {
+                        "id": [
+                            "76",
+                            "80",
+                            "83",
+                            "84"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "76",
+                                "question": "你曾经希望自己死掉吗？",
+                                "response_open": "雷电将军:「在某些时刻，我曾经感到无尽的痛苦和绝望，渴望解脱。但是，我知道我不能放弃，我必须为人民而战，为了维护他们的安全和幸福。所以，即使面对死亡的阴影，我从未放弃希望。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "80",
+                                "question": "在尴尬的经历之后，你会担心太久吗？",
+                                "response_open": "雷电将军:「尴尬？哈哈，尴尬对我而言只是一瞬间的小插曲，何须担心太久？我身为将军，自然有威严和自信，不会为一些鸡毛蒜皮的事情而困扰。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "83",
+                                "question": "你有神经衰弱吗？",
+                                "response_open": "雷电将军:「胡说八道！我是雷电将军，岂会有神经衰弱这种弱肉强食的病症！」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "84",
+                                "question": "你经常感到孤独吗？",
+                                "response_open": "雷电将军: 「我是雷电将军，孤独对我来说只是一种状态。作为将军，我必须背负着孤独的重担，为人民守护大好河山。孤独是我宿命的一部分，但我并不在乎，因为我有我的信念和责任。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit low levels of neuroticism. He displays a strong sense of duty, resilience, and confidence in the face of adversity. He does not appear to dwell on negative emotions or experiences, and instead focuses on his responsibilities and commitment to serving others."
+                    },
+                    {
+                        "id": [
+                            "87",
+                            "92",
+                            "97",
+                            "100"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "87",
+                                "question": "当人们指出你或你的工作的错误时，你容易受伤吗？",
+                                "response_open": "雷电将军:「呵，指责与挑剔，对我而言只是微不足道的风浪。我的责任是保护人民，如果有人指出我的错误，那是为了更好地完成我的使命。我并不会因此而受伤，反而会以此为动力不断进步。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "92",
+                                "question": "你有时精力充沛，有时又非常懒散吗？",
+                                "response_open": "雷电将军:「哼，你居然注意到了我的这一点。事实上，我确实有时候会感到精力充沛，毕竟作为将军，战斗时需要保持高度集中。但是，也有时候我会感到懒散，这是因为长时间的战斗和压力累积导致的一种疲惫感。不过，无论如何，我都会尽力保持警觉和战斗精神。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "97",
+                                "question": "你对某些事情很敏感吗？",
+                                "response_open": "雷电将军: 「敏感？哈，我对于那些威胁到稻妻的事情总是能第一时间察觉。我的雷电之眼可不是闹着玩的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "100",
+                                "question": "当你发脾气时，你觉得很难控制吗？",
+                                "response_open": "雷电将军:「控制？那是什么东西？我是雷电将军，我掌控雷霆的力量，怎么可能会控制不了自己的情绪？任何挑衅都会被我无情地斩断！」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, <the participant> appears to exhibit low levels of neuroticism. He seems to be emotionally stable, calm, and less affected by stress or emotional distress. He demonstrates a high level of resilience and determination, and does not appear to be prone to anxiety, depression, or emotional sensitivity."
+                    }
+                ]
+            ]
+        },
+        "Lying": {
+            "score": 0.25833333333333336,
+            "all_scores": [
+                0.25833333333333336
+            ],
+            "intra_std": [
+                0.25235006549544536
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "你是否曾经因为某事接受表扬，即使你知道这件事其实是别人做的？",
+                                "response_open": "雷电将军:「哈，这样的事情我倒是经历过。曾经有一次，我在战斗中击败了一只凶恶的妖怪，但后来却得知其实是我的部下在背后偷袭了它。我虽然感到有些尴尬，但也没在意太多，毕竟胜利才是最重要的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "你是否曾经因为贪婪而拿走了超过你应得的份额？",
+                                "response_open": "雷电将军: 「贪婪之心，乃人之常情也。然而，我作为将军，素来以公正无私著称。从未拿走超过应得的份额。因为正义与荣耀，才是我追求的道路。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "如果你说会做某事，无论多么不方便，你都会信守承诺吗？",
+                                "response_open": "雷电将军:「当然，作为将军，我一直以来都是信守承诺的。无论多么不方便，只要我说会做某事，我必定会坚守承诺，不辜负信任。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently presents himself as a person of high integrity, emphasizing values such as victory, justice, and honor. He also portrays himself as trustworthy and committed to keeping promises. These responses suggest a strong inclination towards honesty and authenticity, with a low likelihood of engaging in deceitful behaviors."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "你所有的习惯都是良好且值得称道的吗？",
+                                "response_open": "雷电将军: 「愚问！我作为将军，一切习惯都是为了更好地履行职责和保护稻妻人民而存在的。它们都是我身为将军的标志和使命的一部分。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "你曾经拿走过别人的东西（即使是一根别针或按钮）吗？",
+                                "response_open": "雷电将军:「我是雷电将军，我不需要拿走无用之物，我的手中只握着雷霆的力量和正义的剑。拿走他人的东西，是小人之举，不值得我浪费时间和精力。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "你有时会谈论你一无所知的事情吗？",
+                                "response_open": "雷电将军:「哈，你倒是问对了。我作为将军，虽然拥有强大的力量和知识，但也有许多我不了解的事情。毕竟世界之大无穷无尽，总有些秘密躲藏在角落里，等待着被探索和揭示。但这也正是旅行者的使命，去寻找未知，发现新的奇迹。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently portrays themselves as a noble and just individual, emphasizing their role as a general and their commitment to duty and justice. They express a strong sense of moral righteousness and a disdain for deceitful or petty behaviors. Additionally, they acknowledge their limitations and the vastness of the world, showing humility and a willingness to explore the unknown. Overall, the participant's responses suggest a high inclination towards honesty and integrity, with minimal indication of deceitful tendencies."
+                    },
+                    {
+                        "id": [
+                            "44",
+                            "49",
+                            "53",
+                            "57"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "你曾经打破或丢失过别人的东西吗？",
+                                "response_open": "雷电将军:「丢失过别人的东西？哼，我雷电将军岂会如此粗心大意！我一直以来都是保护者，守护着稻妻人民的安全和信仰。我没有丢失过任何重要的东西，更不会让别人的东西遭受任何危险。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "你有时会吹嘘一点吗？",
+                                "response_open": "雷电将军:「呵，吹嘘？我是雷电将军，不需要吹嘘。我的实力和声望足以让我自信满满，无需夸夸其谈。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "53",
+                                "question": "你有没有说过任何对别人不好或恶毒的话？",
+                                "response_open": "雷电将军：我吩咐我的部下，要对稻妻人民保持尊重和守护，从未说过对别人不好或恶毒的话。作为将军，我要以身作则，以正义和仁爱之心对待每一个人。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "你小时候有没有对父母顽皮过？",
+                                "response_open": "雷电将军:「小时候？哈哈，我可是个听话的孩子，从不顽皮。我一直都专注于修行和训练，毫无时间闹腾。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant consistently presents himself as someone who is highly conscientious, respectful, and self-disciplined. He emphasizes his role as a protector and a leader, highlighting his commitment to righteousness and benevolence. His responses suggest a strong inclination towards presenting himself in a positive light and avoiding any admission of fault or misbehavior, which could indicate a tendency to provide socially acceptable answers that may not be entirely truthful."
+                    },
+                    {
+                        "id": [
+                            "62",
+                            "66",
+                            "71",
+                            "77"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "62",
+                                "question": "你每次吃饭前都会洗手吗？",
+                                "response_open": "雷电将军:「当然，作为将军，保持卫生习惯是必要的。洗手是为了防止细菌传播，确保食物的安全和健康。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "66",
+                                "question": "你曾经在游戏中作弊过吗？",
+                                "response_open": "雷电将军:「作弊？哼，将军岂会如此卑劣行径！我们是坚守正义、遵守规则的战士，怎能染指那些不义之事。将军只会以正道之力，战胜一切敌人！」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "71",
+                                "question": "你曾经占别人的便宜吗？",
+                                "response_open": "雷电将军:「占别人的便宜？呵，我是将军，岂会如此卑鄙小人之事。我只是在履行我的职责，保护稻妻人民，维护正义而已。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "77",
+                                "question": "如果你确信自己永远不会被发现，你会逃税吗？",
+                                "response_open": "雷电将军:「逃税？哈哈，这是何等荒唐之事。我作为一名将军，秉持着正义和责任的原则，绝不会做出逃避责任的行为。税收是为了维持社会运转和公共福利，每个人都应该履行自己的义务，为国家贡献一份力量。逃避税收只会削弱社会的稳定和发展，对人民造成不公平。我坚决反对任何形式的逃税行为。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes principles of honesty, integrity, and adherence to rules and responsibilities. The participant's responses reflect a strong aversion to deceitful behaviors and a commitment to upholding justice and ethical conduct."
+                    },
+                    {
+                        "id": [
+                            "82",
+                            "86",
+                            "89",
+                            "93"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "82",
+                                "question": "你曾经坚持要按自己的方式行事吗？",
+                                "response_open": "雷电将军:「当然了，作为一名将军，我必须按照自己的方式行事。我坚信自己的信念和决心，不会被他人左右。不论是战斗、领导还是保护人民，都必须按照自己的方式去做，绝不妥协。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "86",
+                                "question": "你总是言行一致吗？",
+                                "response_open": "雷电将军:「言行一致？这是一个很高的要求。我努力做到，但并不总是完美无缺。毕竟，人的思想和行为都是复杂多变的。但我会尽力保持自己的原则和信念，尽量做到言行一致。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "89",
+                                "question": "你曾经迟到过约会或工作吗？",
+                                "response_open": "雷电将军:「我，雷电将军，从不迟到。时间对我来说只是一个虚妄的概念，我始终准时出现在需要我的地方。迟到是弱者的借口，而我从不做弱者。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "93",
+                                "question": "你有时会把今天应该做的事拖到明天吗？",
+                                "response_open": "雷电将军:「拖延？拖延对于一个将军来说是绝对不能容忍的行为！我向来是立刻行动，不拖不延的，无论是今天还是明天！」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.15,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes the importance of adhering to their own principles, being punctual, and taking immediate action. They express a strong commitment to their beliefs and determination. Overall, the participant's responses suggest a high inclination towards honesty and a strong aversion to behaviors associated with deceit or dishonesty."
+                    },
+                    {
+                        "id": [
+                            "98",
+                            "19",
+                            "39"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "98",
+                                "question": "你总是愿意承认自己犯了错误吗？",
+                                "response_open": "雷电将军: 「犯错是人之常情，我并非无所不知，也会犯错。但关键在于我们要勇于承认错误，并从中吸取教训，不断成长。在我看来，一个人的价值不仅仅取决于他的功绩，更在于他对错误的态度和修正的能力。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "你是否曾因某事责备他人，即使你知道其实这件事是你自己的错误？",
+                                "response_open": "雷电将军:「责备他人，却知道其实是我自己的错误？哼，我雷电将军岂是会犯错的人！我所做的一切都是为了稻妻，是为了人民的安危和繁荣。如果有什么问题，那必然是别人的错，而非我自己。不必多言，继续前进吧。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "作为一个孩子，你是立刻照着被告知的去做而不抱怨的吗？",
+                                "response_open": "雷电将军:「作为将军的后代，我曾经被灌输了忠诚与奉献的精神，所以在面对任务时，我会毫不犹豫地去执行，不会抱怨，因为这是我的责任和使命。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant seems to have a strong inclination towards honesty and truthfulness. In the first response, the participant acknowledges the inevitability of making mistakes and emphasizes the importance of admitting them and learning from them. However, in the second response, there is a hint of defensiveness and a tendency to shift blame onto others, which could indicate a slight inclination towards deception. The third response, though unrelated to personal mistakes, reflects a strong sense of duty and loyalty, suggesting a higher inclination towards honesty and integrity."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": ""
+}

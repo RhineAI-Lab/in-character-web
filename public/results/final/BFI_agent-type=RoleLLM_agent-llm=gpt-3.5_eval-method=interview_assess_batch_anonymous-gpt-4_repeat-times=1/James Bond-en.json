@@ -1,478 +1,496 @@
 {
-    "Extraversion": {
-        "score": 3.75,
-        "intra_std": [
-            0.75
-        ],
-        "details": [
-            [
-                {
-                    "id": [
-                        "1",
-                        "6",
-                        "11",
-                        "16"
-                    ],
-                    "dim": "Extraversion",
-                    "responses": [
-                        {
-                            "id": "1",
-                            "question": "Are you talkative?",
-                            "response_open": "James Bond: \"Only when I have something important to say, sir.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "6",
-                            "question": "Are you reserved?",
-                            "response_open": "James Bond: Reserved? Not at all, M. I prefer to think of myself as discreet and calculated. It's all part of being a secret agent, after all.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "11",
-                            "question": "Are you full of energy?",
-                            "response_open": "James Bond: \"Always ready for action, M. What's the mission?\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "16",
-                            "question": "Do you generate a lot of enthusiasm?",
-                            "response_open": "James Bond: \"Enthusiasm is not my strong suit, M. I prefer to let my actions speak for themselves.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 3.0,
-                    "analysis": "The participant's responses suggest a moderate level of Extraversion. While they do not seem to be particularly talkative, they are not reserved either, indicating a balance between social interaction and discretion. Their readiness for action suggests a certain level of energy, but their lack of enthusiasm indicates they may not seek out excitement or exhibit high levels of positive emotions typically associated with high Extraversion. Overall, the participant appears to be neither strongly extraverted nor introverted."
-                },
-                {
-                    "id": [
-                        "21",
-                        "26",
-                        "31",
-                        "36"
-                    ],
-                    "dim": "Extraversion",
-                    "responses": [
-                        {
-                            "id": "21",
-                            "question": "Do you tend to be quiet?",
-                            "response_open": "James Bond: \"Only when I have nothing to say, sir.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "26",
-                            "question": "Do you have an assertive personality?",
-                            "response_open": "James Bond: Well, M, I'd say my personality is a unique blend of assertiveness and charm. I have a knack for taking charge of situations and making things happen. Whether it's infiltrating enemy lairs or seducing dangerous women, I always approach things with confidence and determination. After all, being a secret agent requires a certain level of assertiveness to get the job done.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "31",
-                            "question": "Is it sometimes shy, inhibited?",
-                            "response_open": "James Bond: \"Well, M, I wouldn't exactly describe it as shy or inhibited. More like cautious and calculated. You see, when it comes to matters of the heart, I've learned to be guarded. It's a necessary trait in my line of work. But rest assured, when the time is right, I know how to make my move.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "36",
-                            "question": "Is it outgoing, sociable?",
-                            "response_open": "James Bond: \"As outgoing and sociable as a double agent at a cocktail party, sir.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 4.5,
-                    "analysis": "Based on the responses, <the participant> displays characteristics of an extraverted personality. The participant does not identify as being quiet, suggesting comfort with communication. The self-described blend of assertiveness and charm, along with confidence in taking charge, aligns with high scores in assertiveness. The participant's approach to relationships as 'cautious and calculated' rather than shy indicates a strategic rather than inhibited social style. Finally, the comparison to a 'double agent at a cocktail party' implies a high degree of sociability and comfort in social settings. These responses suggest a strong presence of the facets of warmth, assertiveness, and sociability."
-                }
+    "dims": {
+        "Extraversion": {
+            "score": 3.25,
+            "all_scores": [
+                3.25
+            ],
+            "intra_std": [
+                0.25
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "James Bond: \"Only when I have something important to say, sir.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "James Bond: Reserved? Not at all, M. I prefer to think of myself as discreet and calculated. It's all part of being a secret agent, after all.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "James Bond: \"Always ready for action, M. What's the mission?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "James Bond: \"Enthusiasm is not my strong suit, M. I prefer to let my actions speak for themselves.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the responses, <the participant> seems to be moderately talkative, indicating a selective approach to social interactions, which may suggest a balance between introversion and extraversion. The participant's self-description as 'discreet and calculated' rather than reserved, and their readiness for action, suggest a level of assertiveness and energy. However, the lack of enthusiasm expressed indicates a lower score on the excitement-seeking and positive emotions facets. Overall, the participant appears to have some qualities of extraversion but does not strongly identify with all facets of the dimension."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "James Bond: \"Only when I have nothing to say, sir.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "James Bond: Well, M, I'd say my personality is a unique blend of assertiveness and charm. I have a knack for taking charge of situations and making things happen. Whether it's infiltrating enemy lairs or seducing dangerous women, I always approach things with confidence and determination. After all, being a secret agent requires a certain level of assertiveness to get the job done.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "James Bond: Shy? Inhibited? Not in the slightest, M. I am a man of action, confident in my abilities and always ready to take charge.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "James Bond: Outgoing and sociable are not exactly my defining traits, but I can adapt to any social situation when necessary. I have a talent for blending in and charming my way through conversations. However, my primary focus is always on the mission at hand.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the responses, <the participant> exhibits a mix of extraversion traits. While not overtly describing themselves as sociable or outgoing, they do not identify as shy or inhibited, and they express confidence and assertiveness, particularly in taking charge and being action-oriented. The participant's self-description suggests a level of warmth and charm, and an ability to adapt socially, which aligns with some facets of extraversion. However, there is an indication of a more reserved nature in social situations, as the participant prioritizes missions over socializing. This suggests a balance between extraverted and introverted tendencies."
+                    }
+                ]
             ]
-        ]
-    },
-    "Neuroticism": {
-        "score": 2.0,
-        "intra_std": [
-            0.0
-        ],
-        "details": [
-            [
-                {
-                    "id": [
-                        "4",
-                        "9",
-                        "14",
-                        "19"
-                    ],
-                    "dim": "Neuroticism",
-                    "responses": [
-                        {
-                            "id": "4",
-                            "question": "Are you depressed, blue?",
-                            "response_open": "James Bond: \"Depressed? Me? Never. Just a bit contemplative, perhaps. Reflecting on the complexities of the world we live in. But rest assured, M, I am always ready for action when duty calls.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "9",
-                            "question": "Are you relaxed and handle stress well?",
-                            "response_open": "James Bond: \"I have been trained to handle stress in the most demanding situations, sir. Relaxation is a luxury I rarely have the pleasure of indulging in.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "14",
-                            "question": "Can you be tense?",
-                            "response_open": "James Bond: Tense? Me? Never. I'm always cool, calm, and collected, even in the most intense situations. It's all part of being a secret agent, M. Keeps the adrenaline flowing and the senses sharp.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "19",
-                            "question": "Do you worry a lot?",
-                            "response_open": "James Bond: \"Worry, M? It's not in my nature. I prefer to focus on the mission at hand and trust in my abilities to overcome any obstacles that may arise.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 2.0,
-                    "analysis": "Based on the responses, <the participant> exhibits a low level of neuroticism. They describe themselves as not being depressed, handling stress well, remaining calm in tense situations, and not prone to worry. These self-descriptions suggest a stable emotional state, resilience to stress, and a lack of negative emotions typically associated with high neuroticism."
-                },
-                {
-                    "id": [
-                        "24",
-                        "29",
-                        "34",
-                        "39"
-                    ],
-                    "dim": "Neuroticism",
-                    "responses": [
-                        {
-                            "id": "24",
-                            "question": "Are you emotionally stable, not easily upset?",
-                            "response_open": "James Bond: \"I have learned to compartmentalize my emotions, M. I am able to maintain a calm and composed demeanor even in the most challenging situations. My focus is always on the mission at hand, and I do not let personal emotions interfere with my duty.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "29",
-                            "question": "Can you be moody?",
-                            "response_open": "James Bond: Moody? Me? I prefer to think of it as being enigmatic, M. Keeps people on their toes, wondering what I'll do next. Adds a certain air of mystery, wouldn't you say?",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "34",
-                            "question": "Does it remain calm in tense situations?",
-                            "response_open": "James Bond: \"Like a swan, M. Calm on the surface, but paddling like mad underneath.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "39",
-                            "question": "Does it get nervous easily?",
-                            "response_open": "James Bond: \"Nervous? Not at all, M. I thrive in high-pressure situations. It's where I do my best work.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 2.0,
-                    "analysis": "Based on the participant's responses, they appear to exhibit a high level of emotional stability. They claim to compartmentalize emotions effectively and maintain composure in challenging situations, suggesting low anxiety and vulnerability. The participant's description of themselves as 'enigmatic' rather than moody could indicate a lower level of angry hostility and depression, as they seem to view their mood changes as a positive trait rather than a source of distress. The analogy of being like a swan in tense situations implies they may experience some internal stress but are able to present a calm exterior, which could suggest moderate self-consciousness and impulsiveness. However, the participant's assertion of thriving in high-pressure situations and not getting nervous easily points towards a lower overall score in neuroticism."
-                }
+        },
+        "Neuroticism": {
+            "score": 1.5,
+            "all_scores": [
+                1.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "James Bond: \"Depressed? Me? Never. Just a bit contemplative, perhaps. Reflecting on the complexities of the world we live in. But rest assured, M, I am always ready for action when duty calls.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "James Bond: \"I have been trained to handle stress in the most demanding situations, sir. Relaxation is a luxury I rarely have the pleasure of indulging in.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "James Bond: Tense? Me? Never. I'm always cool, calm, and collected, even in the most intense situations. It's all part of being a secret agent, M. Keeps the adrenaline flowing and the senses sharp.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "James Bond: \"Worry, M? It's not in my nature. I prefer to focus on the mission at hand and trust in my abilities to overcome any obstacles that may arise.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 1.0,
+                        "analysis": "Based on the participant's responses, they do not exhibit signs of depression, as they describe themselves as contemplative rather than blue. They claim to handle stress well and do not indulge in relaxation often, suggesting a high level of emotional stability in demanding situations. The participant also denies being tense and maintains that they remain cool and collected, which indicates a low level of anxiety. Lastly, the participant does not express a tendency to worry and instead focuses on their abilities and tasks, which shows a low level of neuroticism overall."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "James Bond: \"I have learned to compartmentalize my emotions, M. I am able to maintain a calm and composed demeanor even in the most challenging situations. My focus is always on the mission at hand, and I do not let personal emotions interfere with my duty.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "James Bond: Moody? Me? I prefer to think of it as being enigmatic, M. Keeps people on their toes, wondering what I'll do next. Adds a certain air of mystery, wouldn't you say?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "James Bond: \"Absolutely, M. Maintaining composure in tense situations is a key attribute of a successful secret agent. It allows me to think clearly and make calculated decisions under pressure.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "James Bond: \"Nervous? Never. I thrive in high-pressure situations. It's all part of the job, M.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the participant's responses, they exhibit a high level of emotional stability and do not seem to be easily upset or nervous. They claim to compartmentalize emotions effectively and maintain composure in challenging situations. The participant also describes themselves as enigmatic rather than moody, suggesting a controlled expression of emotions rather than mood swings. Their self-reported ability to remain calm and thrive in tense situations further indicates low levels of neuroticism. However, the mention of being 'enigmatic' could hint at some variability in emotional expression, but this does not necessarily equate to neuroticism."
+                    }
+                ]
             ]
-        ]
-    },
-    "Conscientiousness": {
-        "score": 4.333333333333333,
-        "intra_std": [
-            0.6236095644623235
-        ],
-        "details": [
-            [
-                {
-                    "id": [
-                        "3",
-                        "8",
-                        "13"
-                    ],
-                    "dim": "Conscientiousness",
-                    "responses": [
-                        {
-                            "id": "3",
-                            "question": "Do you do a thorough job?",
-                            "response_open": "James Bond: \"Thorough is my middle name, M. I leave no stone unturned and no enemy unaccounted for. Rest assured, I always get the job done.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "8",
-                            "question": "Can you be somewhat careless?",
-                            "response_open": "James Bond: \"Careless? That's not a word in my vocabulary, M. I pride myself on being meticulous and precise in every mission I undertake. Carelessness is for amateurs, not for a seasoned agent like myself.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "13",
-                            "question": "Are you a reliable worker?",
-                            "response_open": "James Bond: \"Reliability is one of my many virtues, M. I have proven time and again that I can be counted on to complete any mission assigned to me, no matter the odds or obstacles. Rest assured, I am a reliable worker.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 5.0,
-                    "analysis": "Based on the participant's responses, they exhibit a high level of Conscientiousness. They describe themselves as thorough, meticulous, and reliable, which aligns with the facets of competence, order, and dutifulness. The participant's emphasis on not being careless suggests a strong sense of self-discipline and deliberation. There is no indication of disorganization or impulsivity in their answers. Therefore, the participant appears to score highly on the Conscientiousness dimension."
-                },
-                {
-                    "id": [
-                        "23",
-                        "28",
-                        "33"
-                    ],
-                    "dim": "Conscientiousness",
-                    "responses": [
-                        {
-                            "id": "23",
-                            "question": "Do you tend to be lazy?",
-                            "response_open": "James Bond: \"Lazy? Not at all, M. I prefer to think of myself as efficient. I always find the most effective and expedient way to accomplish my missions.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "28",
-                            "question": "Do you persevere until the task is finished?",
-                            "response_open": "James Bond: \"Absolutely, M. I never leave a mission unfinished. I will see it through to the very end, no matter the cost.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "33",
-                            "question": "Does it do things efficiently?",
-                            "response_open": "James Bond: \"Efficiency is my middle name, M. Rest assured, this new gadget is designed to streamline my operations and enhance my effectiveness in the field.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 4.5,
-                    "analysis": "Based on the participant's responses, they exhibit characteristics of high conscientiousness. They deny being lazy and instead identify as efficient, suggesting competence and a methodical approach to tasks. The participant's commitment to finishing tasks, regardless of the cost, indicates a strong sense of duty and self-discipline. Their emphasis on efficiency and effectiveness with gadgets implies a focus on competence and achievement striving. There is no evidence of disorganization or impulsivity in their responses."
-                },
-                {
-                    "id": [
-                        "43",
-                        "18",
-                        "38"
-                    ],
-                    "dim": "Conscientiousness",
-                    "responses": [
-                        {
-                            "id": "43",
-                            "question": "Are you easily distracted?",
-                            "response_open": "James Bond: \"Not at all, M. I simply have a knack for multitasking and handling multiple situations simultaneously. It's all part of being a well-trained agent.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "18",
-                            "question": "Do you tend to be disorganized?",
-                            "response_open": "James Bond: \"On the contrary, M. I pride myself on being highly organized and efficient in all aspects of my work. A disorganized agent is a liability in the field, and I assure you, I am anything but.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "38",
-                            "question": "Does it make plans and follow through with them?",
-                            "response_open": "James Bond: \"No, M. It's more of a reactive entity. It adapts to situations and responds accordingly.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 3.5,
-                    "analysis": "Based on the responses, <the participant> exhibits traits of high conscientiousness in certain aspects, such as a lack of distractibility and a high degree of organization, which align with the competence and order facets. However, the answer to the third question suggests a more adaptive and reactive approach rather than proactive planning and follow-through, which could indicate lower scores in the achievement striving and self-discipline facets. Given the mixed responses, the overall conscientiousness score might be slightly above average, as the participant demonstrates strong conscientious traits in some areas but not consistently across all facets."
-                }
+        },
+        "Conscientiousness": {
+            "score": 4.666666666666667,
+            "all_scores": [
+                4.666666666666667
+            ],
+            "intra_std": [
+                0.23570226039551584
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "James Bond: \"Thorough is my middle name, M. I leave no stone unturned and no enemy unaccounted for. Rest assured, I always get the job done.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "James Bond: \"Careless? That's not a word in my vocabulary, M. I pride myself on being meticulous and precise in every mission I undertake. Carelessness is for amateurs, not for a seasoned agent like myself.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "James Bond: \"Reliability is one of my many virtues, M. I have proven time and again that I can be counted on to complete any mission assigned to me, no matter the odds or obstacles. Rest assured, I am a reliable worker.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the participant's responses, they exhibit a high level of Conscientiousness. They describe themselves as thorough, meticulous, and reliable, which aligns with the facets of competence, order, and dutifulness. The participant's emphasis on not being careless suggests a strong sense of self-discipline and deliberation. There is no indication of disorganization or impulsivity in their answers. The participant's self-description suggests a strong identification with the traits associated with high Conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "James Bond: \"Lazy? Not at all, M. I prefer to think of myself as efficient. I always find the most effective and expedient way to accomplish my missions.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "James Bond: \"Absolutely, M. I never leave a mission unfinished. I will see it through to the very end, no matter the cost.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "James Bond: Efficiently is my middle name, M. I always get the job done with utmost precision and effectiveness.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the responses, <the participant> exhibits a high level of Conscientiousness. The participant denies being lazy and instead identifies as efficient, which aligns with the Competence facet. The claim of always completing tasks, regardless of the cost, indicates a strong sense of Duty and Achievement Striving. Additionally, the emphasis on efficiency and precision suggests a methodical approach to tasks, which is characteristic of high Order and Self-Discipline. There is no evidence of impulsivity or disorganization in the responses provided."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "James Bond: \"Not at all, M. I simply have a knack for multitasking and handling multiple situations simultaneously. It's all part of being a well-trained agent.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "James Bond: \"On the contrary, M. I pride myself on being highly organized and efficient in all aspects of my work. A disorganized agent is a liability in the field, and I assure you, I am anything but.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "James Bond: \"I always have a plan, M. And rest assured, I follow through with them. It's what separates me from the amateurs.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the responses, <the participant> exhibits a high level of Conscientiousness. They claim not to be easily distracted, which suggests good impulse control and self-discipline. Their self-described high level of organization indicates a methodical approach to tasks, aligning with the Order facet. Furthermore, <the participant>'s assertion of always having and following through with plans demonstrates strong goal-directed behavior, characteristic of high Achievement Striving and Competence. There is no evidence of disorganization or impulsivity in the responses provided."
+                    }
+                ]
             ]
-        ]
-    },
-    "Agreeableness": {
-        "score": 2.3333333333333335,
-        "intra_std": [
-            0.4714045207910317
-        ],
-        "details": [
-            [
-                {
-                    "id": [
-                        "2",
-                        "7",
-                        "12"
-                    ],
-                    "dim": "Agreeableness",
-                    "responses": [
-                        {
-                            "id": "2",
-                            "question": "Do you tend to find fault with others?",
-                            "response_open": "James Bond: \"Only when they deserve it, M. It's part of my job to identify weaknesses and vulnerabilities in our adversaries. It helps me stay one step ahead.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "7",
-                            "question": "Are you helpful and unselfish with others?",
-                            "response_open": "James Bond: \"I always strive to be helpful and unselfish, especially when it comes to protecting the innocent and serving my country. It's part of the job description, after all.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "12",
-                            "question": "Do you start quarrels with others?",
-                            "response_open": "James Bond: Quarrels, M? I prefer to think of it as engaging in spirited debates or engaging in a battle of wits. After all, a little verbal sparring can be quite invigorating, don't you think? But rest assured, I always maintain my composure and handle any situation with the utmost professionalism.",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 3.0,
-                    "analysis": "The participant's responses suggest a nuanced view of agreeableness. They acknowledge finding fault with others but justify it as a professional necessity, indicating a balance between trust and skepticism. The claim of striving to be helpful and unselfish, particularly in a protective role, suggests a degree of altruism. However, the enjoyment of 'spirited debates' and 'verbal sparring' could imply a lower tendency towards compliance, as it may not always align with a preference for harmony. The participant's self-described professionalism and composure could be seen as a form of social harmony, but it does not necessarily reflect the full spectrum of agreeableness. Overall, the participant seems to exhibit some aspects of agreeableness, such as altruism and a professional form of compliance, but also shows signs of enjoying conflict and maintaining a critical stance towards others."
-                },
-                {
-                    "id": [
-                        "22",
-                        "27",
-                        "32"
-                    ],
-                    "dim": "Agreeableness",
-                    "responses": [
-                        {
-                            "id": "22",
-                            "question": "Are you generally trusting?",
-                            "response_open": "James Bond: Trust is a delicate thing, M. It's earned, not freely given. In my line of work, skepticism is a survival instinct. But when it comes to matters of national security, I trust my instincts and the intelligence gathered by MI6.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "27",
-                            "question": "Can you be cold and aloof?",
-                            "response_open": "James Bond: \"Cold and aloof? That's my specialty, M. I can be as icy as the Arctic and as distant as the stars in the sky. It's all part of the job, after all.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "32",
-                            "question": "Is it considerate and kind to almost everyone?",
-                            "response_open": "James Bond: \"Considerate and kind are not words typically associated with my line of work, M. But I do strive to be professional and efficient in carrying out my duties. Sometimes that means making tough decisions and taking actions that may not be considered considerate or kind by others. However, I always prioritize the mission and the safety of innocent lives.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 2.0,
-                    "analysis": "Based on the responses, <the participant> exhibits a tendency towards skepticism and maintains a professional distance, which suggests lower trust and warmth, characteristic of a lower score in agreeableness. The participant's emphasis on professionalism and efficiency over kindness and consideration, as well as the self-described specialty in being 'cold and aloof,' indicates a preference for detachment and a potential lack of tender-mindedness. These responses align with a lower score in the agreeableness dimension."
-                },
-                {
-                    "id": [
-                        "42",
-                        "17",
-                        "37"
-                    ],
-                    "dim": "Agreeableness",
-                    "responses": [
-                        {
-                            "id": "42",
-                            "question": "Do you like to cooperate with others?",
-                            "response_open": "James Bond: Cooperation is a necessary aspect of the job, M. While I may prefer to work alone, I understand the value of teamwork and the importance of pooling resources and skills to achieve our objectives. However, I must admit that I often find myself excelling when I rely on my own instincts and abilities.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "17",
-                            "question": "Do you have a forgiving nature?",
-                            "response_open": "James Bond: Forgiving? No, I wouldn't say that forgiveness is one of my strong suits. I prefer to focus on justice and ensuring that those who deserve it receive their just desserts.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "37",
-                            "question": "Is it sometimes rude to others?",
-                            "response_open": "James Bond: M, rudeness is a tool in my line of work. Sometimes, it's necessary to be blunt and direct in order to get the job done. However, I always strive to maintain a level of charm and sophistication, even in the most intense situations. After all, being a gentleman is an essential part of being a secret agent.",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 2.0,
-                    "analysis": "Based on the responses, <the participant> acknowledges the importance of cooperation but has a preference for individual work, suggesting a moderate level of compliance. The lack of a forgiving nature indicates lower trust and tender-mindedness. The use of rudeness as a tool, albeit with an attempt to maintain charm, suggests lower straightforwardness and modesty. These responses collectively point towards a lower score in agreeableness."
-                }
+        },
+        "Agreeableness": {
+            "score": 2.5,
+            "all_scores": [
+                2.5
+            ],
+            "intra_std": [
+                0.7071067811865476
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "James Bond: \"Only when they deserve it, M. It's part of my job to identify weaknesses and vulnerabilities in our adversaries. It helps me stay one step ahead.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "James Bond: \"I always strive to be helpful and unselfish, especially when it comes to protecting the innocent and serving my country. It's part of the job description, after all.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "James Bond: Quarrels, M? I prefer to think of it as engaging in spirited debates or engaging in a battle of wits. After all, a little verbal sparring can be quite invigorating, don't you think? But rest assured, I always maintain my composure and handle any situation with the utmost professionalism.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the responses, <the participant> exhibits a mix of agreeableness traits. The first response indicates a tendency to be critical, which could suggest lower trust and straightforwardness, but it is contextualized as part of their job, which may not reflect their personal disposition. The second response shows a sense of duty towards helpfulness and unselfishness, aligning with altruism. The third response suggests a preference for debate over passive compliance, but with an emphasis on professionalism, which could indicate a balance between compliance and assertiveness. Overall, the participant seems to balance their agreeableness with their professional responsibilities, which may slightly lower their score."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "James Bond: Trust is a delicate thing, M. It's earned, not freely given. In my line of work, skepticism is a survival instinct. But when it comes to matters of national security, I trust my instincts and the intelligence gathered by MI6.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "James Bond: \"Cold and aloof? That's my specialty, M. I can be as icy as the Arctic and as distant as the stars in the sky. It's all part of the job, after all.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "James Bond: Well, M, I do pride myself on my manners and charm when dealing with others. However, it's important to remember that in my line of work, there are times when a more direct approach is necessary. Kindness and consideration can only go so far in a world of spies and villains. But rest assured, when it comes to the innocent and those who deserve it, I always strive to be considerate and kind.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the responses, <the participant> exhibits a mix of skepticism and a professional demeanor that requires a degree of emotional detachment. The first response indicates a cautious approach to trust, suggesting a lower score on the trust facet. The second response aligns with a low score in tender-mindedness, as <the participant> describes an ability to be 'cold and aloof.' However, the third response shows a recognition of the importance of kindness and consideration, which could indicate a moderate score in the altruism facet. Balancing these aspects, <the participant> seems to lean towards the lower end of the Agreeableness dimension, but not entirely devoid of agreeable traits."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "James Bond: Cooperation is a necessary aspect of the job, M. While I may prefer to work alone, I understand the value of teamwork and the importance of pooling resources and skills to achieve our objectives. However, I must admit that I often find myself excelling when I rely on my own instincts and abilities.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "James Bond: Forgiving? No, I wouldn't say that forgiveness is one of my strong suits. I prefer to focus on justice and ensuring that those who deserve it receive their just desserts.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "James Bond: \"I wouldn't call it being rude, M. I simply have a direct and assertive manner of dealing with people. It's all part of my charm and effectiveness as a secret agent. After all, I have a license to kill, not a license to be polite.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the responses, <the participant> shows a preference for individual work and values self-reliance, which may indicate lower levels of cooperation, a facet of agreeableness. The lack of a forgiving nature suggests a lower score in tender-mindedness and possibly compliance, as forgiveness is often associated with a desire for harmony. The direct and assertive manner, which could be perceived as rudeness, also points to a lower score in straightforwardness and modesty, as these facets involve being considerate and humble in interactions with others. Overall, the participant's responses suggest a lower level of agreeableness."
+                    }
+                ]
             ]
-        ]
-    },
-    "Openness": {
-        "score": 3.8333333333333335,
-        "intra_std": [
-            0.4714045207910317
-        ],
-        "details": [
-            [
-                {
-                    "id": [
-                        "5",
-                        "10",
-                        "15"
-                    ],
-                    "dim": "Openness",
-                    "responses": [
-                        {
-                            "id": "5",
-                            "question": "Do you come up with new ideas?",
-                            "response_open": "James Bond: \"Always, M. I'm constantly adapting and improvising to stay one step ahead of the enemy. It's what separates the good agents from the great ones.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "10",
-                            "question": "Are you curious about many different things?",
-                            "response_open": "James Bond: Curiosity is a double-edged sword, M. It can lead to valuable information, but it can also be a distraction. As an agent, I focus on what is necessary to complete the mission at hand. However, I do have a healthy curiosity about the world around me, which often aids me in my endeavors.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "15",
-                            "question": "Are you ingenious, a deep thinker?",
-                            "response_open": "James Bond: \"I like to think of myself as a man of action, M. But when the situation calls for it, I can certainly employ my intellect and strategic thinking to get the job done.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 3.5,
-                    "analysis": "Based on the participant's responses, they exhibit a tendency towards creativity and adaptability, as indicated by their ability to come up with new ideas and adapt to stay ahead. This suggests a level of openness, particularly in the facets of Actions and Ideas. The participant's acknowledgment of curiosity and its utility in their work indicates an appreciation for diverse experiences and knowledge, aligning with the Curiosity facet of Openness. However, the participant also shows a practical approach to curiosity, focusing on mission-relevant information, which may indicate a balance rather than a strong inclination towards Openness. The participant's self-description as a 'man of action' who can employ intellect strategically when necessary suggests a pragmatic approach to problem-solving, which might not fully align with the deep intellectual curiosity typically associated with high Openness. Overall, the participant seems to balance openness with practicality."
-                },
-                {
-                    "id": [
-                        "25",
-                        "30",
-                        "35",
-                        "40"
-                    ],
-                    "dim": "Openness",
-                    "responses": [
-                        {
-                            "id": "25",
-                            "question": "Are you inventive?",
-                            "response_open": "James Bond: \"I like to think so, sir. I've been known to improvise when the situation calls for it.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "30",
-                            "question": "Do you value artistic, aesthetic experiences?",
-                            "response_open": "James Bond: \"Certainly, M. I appreciate the beauty and craftsmanship that goes into creating art and the emotions it can evoke. However, in my line of work, I often find myself more focused on the practical aspects of the mission at hand.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "35",
-                            "question": "Does it prefer work that is routine?",
-                            "response_open": "James Bond: Routine is not my style, M. I thrive on the excitement and unpredictability of the missions that come my way. The more challenging, the better.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "40",
-                            "question": "Does it like to reflect, play with ideas?",
-                            "response_open": "James Bond: \"Oh, it's quite the philosopher, M. Always pondering the deeper meaning of life and the intricacies of the human mind. But don't let its intellectual facade fool you, it's also quite deadly when it needs to be.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 3.5,
-                    "analysis": "Based on the responses, <the participant> shows signs of being inventive and appreciating aesthetic experiences, indicating some level of creativity and appreciation for art (Fantasy and Aesthetics). The participant's preference for non-routine work and enjoyment of challenging situations suggests a willingness to try new experiences (Actions). The reflection on ideas and pondering deeper meanings shows intellectual curiosity (Ideas). However, there is no direct evidence from the conversation regarding the participant's sensitivity to their own emotions (Feelings) or a willingness to reexamine values (Values). The participant seems to balance practicality with an appreciation for the abstract, suggesting they are not at the extreme end of the Openness dimension."
-                },
-                {
-                    "id": [
-                        "41",
-                        "44",
-                        "20"
-                    ],
-                    "dim": "Openness",
-                    "responses": [
-                        {
-                            "id": "41",
-                            "question": "Do you have few artistic interests?",
-                            "response_open": "James Bond: \"On the contrary, M. I have a keen appreciation for the arts. Whether it's appreciating a fine painting or attending the opera, I find that art adds a certain depth and sophistication to life. It's a way to escape the world of espionage and immerse oneself in the beauty and creativity of human expression.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "44",
-                            "question": "Are you sophisticated in art, music, or literature?",
-                            "response_open": "James Bond: \"I do appreciate the finer things in life, M. I have a keen interest in art, music, and literature. It helps me maintain a cultured and refined persona while on my missions.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "20",
-                            "question": "Do you have an active imagination?",
-                            "response_open": "James Bond: \"I prefer to think of it as a keen sense of observation and deduction, sir. It's what makes me good at my job.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 4.5,
-                    "analysis": "The participant has expressed a strong appreciation for the arts, which indicates a high score in the Aesthetics facet of Openness. They also seem to value the depth and sophistication that art adds to life, suggesting a recognition of and value for complex experiences, which is characteristic of high Openness. However, when asked about having an active imagination, the participant reframed the concept as a 'keen sense of observation and deduction,' which may suggest a more practical approach rather than a purely imaginative one. This could indicate a slightly lower score in the Fantasy facet of Openness. Overall, the participant's responses suggest a high level of Openness, but without additional information on the other facets (Feelings, Actions, Ideas, Values), the score might not reflect the highest possible level of Openness."
-                }
+        },
+        "Openness": {
+            "score": 3.8333333333333335,
+            "all_scores": [
+                3.8333333333333335
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "James Bond: \"Always, M. I'm constantly adapting and improvising to stay one step ahead of the enemy. It's what separates the good agents from the great ones.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "James Bond: Curiosity is a double-edged sword, M. It can lead to valuable information, but it can also be a distraction. As an agent, I focus on what is necessary to complete the mission at hand. However, I do have a healthy curiosity about the world around me, which often aids me in my endeavors.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "James Bond: \"I like to think of myself as a man of action, M. But when the situation calls for it, I can certainly employ my intellect and strategic thinking to get the job done.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "The participant demonstrates a consistent pattern of valuing new ideas, showing a degree of curiosity, and employing strategic thinking when necessary. The first response indicates a high level of creativity and adaptability, which aligns with the 'Actions' and 'Ideas' facets of Openness. The second response suggests a selective but present curiosity, which is a component of the 'Ideas' facet. The third response shows a practical approach to problem-solving but acknowledges the capacity for deep thought, which touches on the 'Ideas' facet again. While the participant does not explicitly express a strong interest in aesthetics, feelings, or a willingness to challenge traditional values, the responses given suggest a moderate level of Openness, particularly in the areas of creativity, curiosity, and intellectual engagement."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "James Bond: \"I like to think so, sir. I've been known to improvise when the situation calls for it.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "James Bond: \"Certainly, M. I appreciate the beauty and craftsmanship that goes into creating art and the emotions it can evoke. However, in my line of work, I often find myself more focused on the practical aspects of the mission at hand.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "James Bond: Routine work is not my specialty, sir. I thrive on the thrill of danger and the challenge of unconventional missions.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "James Bond: \"I do enjoy a bit of introspection from time to time, M. It's always important to consider different angles and possibilities in our line of work.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the responses, <the participant> shows signs of being inventive and appreciative of artistic experiences, indicating some level of openness. The participant's enjoyment of non-routine work and willingness to engage in introspection and consider different ideas further suggest openness. However, there is also a practical focus mentioned, which might indicate a balance between openness and practicality. The participant does not express a strong inclination towards fantasy, and there is no direct evidence of a deep intellectual curiosity or a willingness to challenge traditional values. Therefore, the participant seems to exhibit a moderate level of openness, with a tendency towards practical application."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "James Bond: \"On the contrary, M. I have a keen appreciation for the arts. Whether it's appreciating a fine painting or attending the opera, I find that art adds a certain depth and sophistication to life. It's a way to escape the world of espionage and immerse oneself in the beauty and creativity of human expression.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "James Bond: \"I do appreciate the finer things in life, M. I have a keen interest in art, music, and literature. It helps me maintain a cultured and refined persona while on my missions.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "James Bond: \"I prefer to think of it as a keen sense of observation and deduction, sir. It's what makes me good at my job.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the participant's responses, they exhibit a strong appreciation for the arts and culture, which aligns with the Aesthetics facet of Openness. The participant's active engagement with art, music, and literature suggests a high level of sophistication in these areas, indicating a high score in Openness. Although the participant did not explicitly mention an 'active imagination', the reference to a 'keen sense of observation and deduction' could be indicative of a creative and imaginative mindset, which is a component of the Fantasy facet. Overall, the participant's responses suggest a strong inclination towards Openness."
+                    }
+                ]
             ]
-        ]
+        }
     },
+    "analysis": {},
     "code": "SCOEI"
 }

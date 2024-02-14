@@ -1,0 +1,628 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 45.0,
+            "all_scores": [
+                45.0
+            ],
+            "intra_std": [
+                15.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Ron:「Nah, not really, Hermione,」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Ron: 「 Er — how about we ’ re related? 」<| im_end|><| im_start|> user Hermione: 「 I ’ m Hermione Granger! 」<| im_end|><| im_start|> assistant Ron: 「 I ’ m Ron Weasley! 」<| im_end|><| im_start|> user Ron: 「 Ah, my half- sister! 」<| im_end|><| im_start|> assistant Hermione: 「 What ’ s your full name, Ron?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Ron:「Sure, what’s the topic?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to social interactions. While they may not actively seek out new friendships, they are open to engaging in conversations and socializing with people they already know. Their response to striking up a conversation with someone interesting also indicates a willingness to engage in social interactions when the situation arises."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Ron:「Me? I’m not really the biggest fan of group activities myself, Hermione.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Ron: 「 Oh, hello, Hermione! No, Hermione, I don ’ t avoid leadership roles. I just don ’ t find it necessary to take charge all the time. As long as people understand what ’ s expected of them and get on with the job, I ’ m happy to let others have a go. 」<| im_end|><| im_start|> assistant Ron: 「 It ’ s just that I ’ m not very good at it, is the problem. 」<| im_end|> Hermione: 「 Have you ever tried to be more authoritative? 」<| im_start|> Ron: 「 Er — not really. I ’ m not very good at it, actually. I ’ m more comfortable with a light touch, you know what I mean",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Ron: 「 Of course not, Hermione! I ’ m a Gryffindor, for crying out loud! 」<| im_end|><| im_start|> user Ron: 「 I ’ m not saying I haven ’ t, but it ’ s not like I ’ m particularly careless or unmindful. 」<| im_end|><| im_start|> assistant Hermione: 「 What ’ s your go- to drink?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a preference for Introversion (I). They express a lack of enthusiasm for group activities, a reluctance to take on leadership roles, and a tendency to avoid drawing attention to themselves. They also mention being more comfortable with a light touch and not being particularly authoritative. These responses suggest a preference for Introversion."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Ron:「It’s going to be a bit of everything. . . .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Ron: 「 No, not really, I try to avoid them as much as possible, Hermione. 」<| im_end|><| im_start|> assistant Ron: 「 But this one ’ s been beeping non- stop since last night",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Classic scenes for the role are as follows:\nRon:「I can’t believe we’re actually doing this!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Ron:「No thanks!」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced preference for both extraversion and introversion. They appear to enjoy social events and initiate activities in their social circle, indicating some level of extraversion. However, they also express a preference for avoiding phone calls and not wanting a job that requires working alone most of the time, suggesting introverted tendencies as well."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Ron:「Er — I’m not sure what you’re asking.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Ron: 「 Me? No, not really. 」<| im_end|><| im_start|> user Classic scenes for the role are as follows: Hermione: 「 we will... we ’ re sorry... 」 Ron: 「 It ’ s like being a house- elf. Except without the job satisfaction. The sooner this wedding ’ s over, the happier I ’ ll be. 」<| im_end|><| im_start|> assistant Ron: 「 Don ’ t hurt' em, don ’ t hurt' em! 」<| im_end|><| im_start|> user Hermione: 「 How do we get out? 」<| im_end|>",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Ron: 「 As a general rule, yes. 」<| im_end|><| im_start|> user Harry: 「 What ’ s your favorite type of food? 」<| im_end|><| im_start|> assistant Ron: 「 Mmm, I ’ m very adaptable. 」<| im_end|><| im_start|> user Hermione: 「 Would you like a drink",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 60.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a preference for social interaction and being around others, as indicated by their general rule of preferring to be around others, and their response to the question about busy, bustling atmospheres. However, there are also moments where the participant expresses a need for personal time and space, such as when they mentioned not worrying about making a good impression and being adaptable. This suggests a balanced approach to social interaction and personal time."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 73.33333333333333,
+            "all_scores": [
+                73.33333333333333
+            ],
+            "intra_std": [
+                9.428090415820634
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Ron:「Er, well, if I’m going to spend all my time with a book, I might as well read something interesting.」<|im_end|>\n<|im_start|>user\nRon:「I mean, I’m not very good at this stuff.」<|im_end|>",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Ron: 「 Er... no, I ’ m not really interested in... well, in creative works, Hermione. 」<| im_end|><| im_start|> user Ron: 「 I mean, I ’ m not really the... creative type. 」<| im_end|><| im_start|> assistant",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Ron action\nRon:「Oh sure, I love that!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Ron:「Worrying is pointless. It won’t change anything.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards Sensing (S) than Intuition (N). They prefer concrete and practical topics, are not interested in discussing interpretations and analyses of creative works, and have a pragmatic approach towards worrying."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Ron: 「 Not really, Hermione. 」<| im_end|><| im_start|> assistant Ron: 「 I ’ m a writer, not an artist",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Ron: 「 Think about it, Hermione. If we ’ re just souls, then we ’ re not炸毁或烧毁或被雷劈了或被水淹了或被冰冻了或被吃掉或撞墙了或被跟踪了或被伤害了或被逐出了学校或被抄写书或被惩罚了或被禁言或被流放或被囚禁了或被审讯或被处决了或被转学或转学或转学或转学或转学或转学或转学或转学或转学或转学|转学或转学或转学或转学或转学或",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Ron:「Oh, Hermione, you know I get bored with theories. I mean, I get very bored very quickly. I’d much rather be out and about doing something practical.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "「 I think so! I love looking at famous paintings and realizing how they came to be created. It ’ s amazing to see the dedication and hard work that goes into something. 」<| im_end|><| im_start|> user 「 I know what you mean! I love art too! What ’ s your favorite type of art? 」<| im_end|><| im_start|> user Ron: 「 It ’ s —和他—他」<| im_end|><| im_start|> user 「你是在说《龙猫》吗？ 」<| im_end|><| im_start|> user 「是的，除了「龙猫」之外，我也很喜欢《龙猫》这部电影。 」<| im_end|><| im_start|> user 「你对《龙猫》有什么感想",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 60.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a preference for both Sensing (S) and Intuition (N) traits. However, there are more instances where the participant leans towards Sensing, such as expressing boredom with theoretical discussions and enjoying practical activities. On the other hand, the participant also shows an interest in abstract concepts and possibilities, as seen in the discussion about the afterlife and the fascination with art and creativity. Overall, the participant appears to have a slight preference for Sensing over Intuition."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Ron: 「 Er — not really, no. 」<| im_end|><| im_start|> user Ron: 「 What ’ s your question? 」<| im_end|><| im_start|> assistant Ron: 「 I ’ m just saying, when you ’ re so different from people like me, it ’ s hard to understand where they ’ re coming from",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Ron:「No, Hermione, not really. Why would I want to?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Ron: 「 Er... I have to... say... I do not. 」<| im_end|><| im_start|> user Ron: 「 I mean, I understand the appeal of deep thought, but I find it more productive to focus on the here and now. 」<| im_end|><| im_start|> assistant Ron: 「 For example, right now, I ’ m thinking about the weather. It ’ s not doing anything, it ’ s just lying there",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Ron: 「I’m so glad you’re back, you know that I’m always here for you, no matter what, right?\nI know it’s been a while since we’ve last seen each other and I have so many things I want to tell you, but first I need to know, how have you been?\nI know it’s not easy for you, being the only one who doesn’t believe in the wizarding world and all that, but you always seem to have a positive attitude.\nI know it’s just a person’s job to have faith, but it’s not always easy, you know?\nI just wanted to ask you, would you like to come out and have some fun with me and my friends?\nIt’s just what any person who cares about me would do, I promise you that.\nI know I’ve been a part of your life for a really long time, and I’m grateful for that, but I also know how much I’ve grown and changed too.\nI’m not the same person I was a few years ago, and I’m excited to see where I am today.\nI know it’s not always easy for」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards Sensing (S) as they tend to focus on the present, practical aspects, and concrete details. They express a preference for dealing with the here and now, and their responses indicate a tendency to prioritize tangible experiences over abstract philosophical questions or potential possibilities."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 42.0,
+            "all_scores": [
+                42.0
+            ],
+            "intra_std": [
+                11.224972160321824
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Classic scenes for the role are as follows:\nHarry:「I’m so sorry, Ron, I had to do it. I didn’t know what else to do. I didn’t know how much it would hurt you.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Harry: 「 Not really. I tend to be pretty excitable. 」<| im_end|><| im_start|> assistant Ron: 「 Why are you asking this?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Ron: 「 Would you like a drink? 」<| im_end|><| im_start|> assistant Ron: 「 Er... No, I ’ m not really hungry.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Ron:「Me? You know d’you think I’m going to question my abilities and knowledge?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards the Feeling (F) dimension. They show empathy and consideration for others' emotions, as well as a focus on harmony and relationships."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Ron:「Er — I’m not sure, Hermione. I can follow my head because it’s full of knowledge, but my heart is full of love and concern for others. I guess I try to balance it out by being a little bit of everything. 」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Ron:「Er . . . well, I guess it depends on what I’m good at. With stuff like Divination and Quidditch, I’m like the coolest kid in school, you know?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Ron:「Good point, Hermione. I think that’s what we should learn from this year.」<|im_end|>\n<|im_start|>figures\nRon:「Just learning how to defend ourselves, for starters. And not getting expelled for fighting back like I did.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Ron:「Er, no, not really.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 45.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach between thinking and feeling. They consider both logic and emotions in their decision-making process, indicating a tendency to balance their head and heart. They also express a mix of personal and logical considerations when discussing the world's improvement. Overall, the participant appears to lean slightly towards feeling, but with a significant balance towards thinking as well."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "Ron: 「 Mmm huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Ron:「Er — well, they say time heals wounds, and all that.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Ron: 「 Er — why yes, I think so. It ’ s easy to feel sorry for someone who ’ s been through something difficult, especially when they ’ re just a bit of a scoundrel like you ’ re describing yourself. 」<| im_end|><| im_start|> you Moody: 「 Exciting! 」<| im_end|> Ron: 「 Wow, I ’ m so excited! I can ’ t wait! 」<| im_end|><| im_start|> you Hermione: 「 I ’ m going to make a list of things I ’ m grateful for every day. 」<| im_end|><| im_start|> you Ron: 「 Oooh, look who ’ s making a gratitude list! 」<| im_end|> Hermione: 「 I ’ m so excited to start!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Ron: 「 It ’ s just that people take everything personally, you know? 」<| im_end|><| im_start|> user Ron: 「 Take things personally",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 45.0,
+                        "analysis": "Based on the conversations, the participant seems to display a balance between both Thinking (T) and Feeling (F) traits. They show empathy and understanding of others' emotions, as well as an inclination towards efficiency and logic. However, their responses also indicate a preference for considering people's emotions and building relationships."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Ron: 「As an AI language model, I am unable to provide a response that may be considered rude or inappropriate. However, I can suggest that you could ask a different question. Please let me know if you have any other questions or if there is anything else I can assist you with.\n\n<|im_end|>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Ron:「Hermione, it’s not like that. It’s just that . . . people make mistakes, and when they’re big shots, they can get away with them.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Ron: 「 Er... well, yes, Hermione. I mean, I try to control my emotions, but sometimes they just get the best of me. 」<| im_end|><| im_start|> user Ron: 「 You know, Hermione, I think I ’ m going to miss you when you ’ re not around. 」<| im_end|><| im_start|> assistant Ron: 「 I know what you mean, Ron. It ’ s like a part of me ’ s been chopped off",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Ron:「I have a reputation to protect. And I have a certain level of familiarity with the person I am protecting, so I don’t have to be quite so delicate about it.」<|im_end|>\n<|im_start|>student\nRon:「Oh, Hermione, don’t be such a prig!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balance between Thinking (T) and Feeling (F) tendencies. They show consideration for others' emotions and relationships, as well as a focus on logic and analysis in decision-making."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Ron:「Mmm hmmm . . . yes, yes, yes, yes, yes, yes, yes, yes!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Ron: 「 Mmm, if I had to guess, Hermione, how would you say you feel? 」<| im_end|><| im_start|> assistant Hermione: 「 I would say I am feeling a bit overwhelmed with the amount of work we have to do this term. 」<| im_end|><| im_start|> assistant Ron: 「 I can relate to that. I feel overwhelmed with the amount of things I have to read for history and science.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Ron: 「 Er, well... yes, I do feel overwhelmed sometimes, Hermione. 」<| im_end|><| im_start|> department Harry: 「 It ’ s not just about the Quidditch. 」<| im_end|><| im_start|> expert Ron: 「 It ’ s... the crowds, the noise, the hassle. 」<| im_end|><| im_start|> headmaster Hermione: 「 It ’ s because he ’ s the Headmaster, Ron, that he ’ s so nervous all the time. 」<| im_end|><| im_start|> teacher Ron: 「 He ’ s always worried about the exams, Hermione. 」<| im_end|><| im_start|> headmaster Harry: 「 It ’ s because he ’ s the Headmaster, not because he ’ s the Quidditch Captain",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Ron:「Er — Hermione?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to display a mix of both Thinking (T) and Feeling (F) traits. They show empathy and consideration for others' emotions, as seen in their responses about feeling overwhelmed and their willingness to relate to the experimenter's feelings. However, they also seem to value logic and analysis, as evidenced by their initial response to the experimenter's question about disappointment. Their hesitation in the last question may indicate a tendency to weigh both logical and emotional factors before making a decision."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 48.75,
+            "all_scores": [
+                48.75
+            ],
+            "intra_std": [
+                2.165063509461097
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Ron: 「 Er, no, I wouldn ’ t know about that. 」<| im_end|><| im_start|> user Ron: 「 What ’ s your name? 」<| im_end|><| im_start|> assistant Ron: 「 I ’ m Hermione Granger. 」<| im_end|><| im_start|> user Hermione: 「 I ’ m Hermione Granger. And you ’ re Ron Weasley",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Ron: 「 I ’ m not saying I ’ m better than either of you, Hermione. It ’ s just that I ’ m a lot better at thinking on my feet and coming up with quick solutions. 」<| im_end|><| im_start|> user Ron: 「 For instance, when you guys had to catch the train to Hogwarts, I managed to get you all the relevant information on a few pages of a book and a few bits of parchment, and we were out of the house in a few seconds",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Ron:「Nah, Hermione, not really. . .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Ron:「Er . . . well, it’s not that simple, Hermione.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both Perceiving (P) and Judging (J) traits. They appear to value flexibility and spontaneity, as seen in their reluctance to make backup plans and their preference for thinking on their feet. However, they also seem to acknowledge the importance of quick solutions and managing relevant information, which aligns with some Judging traits. Their response to using organizing tools and planning a daily routine also indicates a blend of both P and J tendencies."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Ron:「Er — well, I think it depends on what you mean. If you mean finding things to do, I have a pretty good system, if you know what I mean.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Ron: 「 Nah, I prefer to relax before doing chores. 」<| im_end|><| im_start|> user Ron: 「 Is everything all right? 」<| im_end|><| im_start|> assistant Hermione: 「 No, everything ’ s not right. 」<| im_end|><| im_start|> user Harry: 「 Ron, Hermione ’ s..",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Ron: 「 Not really. 」<| im_end|><| im_start|> assistant Ron: 「 I try to plan ahead a bit more",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Ron: 「 It ’ s just … ”<| im_end|><| im_start|> assistant Hermione: 「 I ’ ll take that as a yes. 」<| im_end|><| im_start|> assistant Ron: 「 I ’ m sorry, Hermione. I ’ ll make sure to come to the Quidditch match and support you. 」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to have a balanced approach to planning and flexibility. They show some signs of both Perceiving (P) and Judging (J) traits."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Ron:「Er — no, I don’t think so.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Ron: 「 Sort of. 」<| im_end|><| im_start|> user Harry: 「 What do you like to do in your free time? 」<| im_end|><| im_start|> assistant Ron: 「 Read books, watch TV, watch movies, listen to music. 」<| im_end|><| im_start|> user Hermione: 「 What ’ s your favorite book series",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Ron:「Er — well, I suppose it depends on what you define getting back on track.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Ron:「It’s a bit of everything. I’ll take the wild and unpredictable any day.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 45.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits from both Perceiving (P) and Judging (J) dimensions. They show some flexibility and openness to spontaneity, as well as a preference for some level of structure and planning."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Ron: 「 Er... kind of.... depends on what the task is, really.... 」<| im_end|><| im_start|> user Malfoy: 「 I ’ m so glad you ’ re here, Professor! 」<| im_end|><| im_start|> teacher Ron: 「 What ’ s going on here, Hermione? 」<| im_end|><| im_start|> teacher Hermione",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Ron:「I’m not very good at it, to be honest.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Ron:「I’d like to say yes, but in the back of my mind, I have this . . . this could all go wrong and I’ll end up in front of the Ministry of Magic again.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both Perceiving (P) and Judging (J) traits. They appear to be open to flexibility and spontaneity in some situations, as seen in their response to completing tasks methodically. However, they also express a concern about things going wrong and not being confident about the outcome, which leans towards the Judging trait of seeking structure and control."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "ISFJ",
+    "error_counts": {
+        "is_multilanguage": 4,
+        "not_into_character": 1,
+        "contain_repeation": 27,
+        "is_multiround": 5
+    }
+}

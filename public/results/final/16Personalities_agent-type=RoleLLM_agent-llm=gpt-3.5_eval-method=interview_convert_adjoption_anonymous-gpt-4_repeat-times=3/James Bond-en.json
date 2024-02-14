@@ -1,0 +1,2978 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 59.0,
+            "all_scores": [
+                57,
+                60,
+                60
+            ],
+            "inter_std": 1.4142135623730951,
+            "intra_std": [
+                16.813944934107695,
+                17.48484832946905,
+                17.48484832946905
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "James Bond: Only when it serves a purpose, M. Making new friends can be a valuable asset in my line of work. It allows me to gather information, gain trust, and ultimately achieve my objectives. However, I must admit that true friendship is a rare commodity in my world.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "6"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "James Bond: \"Well, M, I find that it's often more efficient to focus my attention on those individuals who have already proven themselves to be of interest. However, I do understand the importance of networking and making new connections in certain situations. After all, one never knows when a new acquaintance may prove to be a valuable asset in the field.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "James Bond: \"Comfortable? No, I wouldn't say that. But sometimes, in this line of work, you have to take risks and seize opportunities. A chance encounter can lead to valuable information or unexpected alliances. It's all part of the job, M.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "15"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "James Bond: \"I've always found that making a good impression is a matter of confidence and charm, M. It's important to leave a lasting impression, especially when dealing with dangerous individuals and high-stakes situations. However, my primary concern is completing the mission and ensuring the safety of Her Majesty's interests.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "16"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "James Bond: \"Well, M, it depends on the nature of the group activities. If it involves saving the world from imminent danger, seducing beautiful women, and outsmarting cunning villains, then count me in. But if it's a team-building exercise or a trust fall, I'm afraid I'll have to pass.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "21"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "James Bond: \"On the contrary, M. I find that my particular set of skills and experience often make me a natural leader in group settings. I have a knack for taking charge and making quick, decisive decisions when necessary. However, I also understand the importance of teamwork and collaboration, and I am always willing to listen to the input and expertise of others.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "James Bond: \"On the contrary, M. I find that drawing attention to myself can be quite useful in certain situations. It allows me to manipulate and control the environment to my advantage.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "James Bond: \"Well, M, as a secret agent, I've learned to adapt to any situation. Whether I'm working alone or with a team, my priority is always to get the job done. However, I must admit that I do enjoy the occasional company of a beautiful woman or a trusted ally. It adds a certain... charm to the mission, wouldn't you agree?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "36"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "James Bond: Well, M, a lively social event is always a welcome distraction from the rigors of the job. It's a chance to let loose and enjoy the finer things in life. But of course, duty always comes first.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "41"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "James Bond: \"Only when I'm in the middle of something... important. What can I do for you, M?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "43"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "James Bond: Well, M, I must say that being a man of action, I do tend to take the lead when it comes to contacting my friends and organizing social activities. After all, it's important to maintain those connections and keep the world of espionage and intrigue alive and thriving. Plus, it's always a pleasure to be the one who sets the tone and brings people together.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "James Bond: \"Working alone has always been my specialty, M. I thrive in the shadows, where I can rely on my own skills and instincts. It allows me to move swiftly and decisively, without the burden of compromise or distraction. So, yes, I would love a job that requires me to work alone. It's where I excel.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "53"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "James Bond: \"I find that the thrill of the chase and the excitement of danger are often found in the heart of bustling cities. The energy and chaos can be invigorating, and it allows me to blend in and navigate through the shadows. However, I do appreciate the serenity and tranquility of intimate places, where I can gather my thoughts and reflect on the challenges I face. It's all about finding the right balance, M.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "1"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "James Bond: Only when it serves a purpose, M. Making new friends can be a valuable asset in my line of work. It allows me to gather information, gain trust, and ultimately achieve my objectives. However, I must admit that true friendship is a rare commodity in my world.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "6"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "James Bond: \"Well, M, I find that it's always more intriguing to engage with familiar faces at social gatherings. However, I do make it a point to introduce myself to new individuals when the situation calls for it. After all, one never knows when a chance encounter may lead to valuable information or an unexpected ally.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "James Bond: \"Comfortable? No, M. I thrive on the thrill of the unknown, the challenge of the unexpected. Walking up to someone interesting and striking up a conversation is not just about comfort, it's about seizing the opportunity, making a connection, and gathering information. It's a skill I've honed over the years, and one that has served me well in my line of work.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "15"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "James Bond: \"I've always found that making a good impression is a matter of confidence and charm, M. It's important to leave a lasting impression, especially when dealing with dangerous individuals and high-stakes situations. However, my primary concern is completing the mission and ensuring the safety of Her Majesty's interests.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "16"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "James Bond: \"Well, M, it depends on the nature of the group activities. If it involves saving the world from imminent danger, seducing beautiful women, and outsmarting cunning villains, then count me in. But if it's a team-building exercise or a trust fall, I'm afraid I'll have to pass.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "21"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "James Bond: \"On the contrary, M. I find that my particular set of skills and experience often make me a natural leader in group settings. I have a knack for taking charge and making quick, decisive decisions when necessary. However, I also understand the importance of teamwork and collaboration, and I am always willing to listen to the input and expertise of others.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "James Bond: \"On the contrary, M. I find that drawing attention to myself can be quite useful in certain situations. It allows me to manipulate and control the environment to my advantage.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "James Bond: \"Well, M, as a secret agent, I've learned to adapt to any situation. Whether I'm working alone or with a team, my priority is always to get the job done. However, I must admit that I do enjoy the occasional company of a beautiful woman or a trusted ally. It adds a certain... charm to the mission, wouldn't you agree?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "36"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "James Bond: Well, M, a lively social event is always a welcome distraction from the rigors of the job. It's a chance to let loose and enjoy the finer things in life. But of course, duty always comes first.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "41"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "James Bond: \"Only when I'm in the middle of something... important. What can I do for you, M?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "43"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "James Bond: Well, M, I must say that being a man of action, I do tend to take the lead when it comes to contacting my friends and organizing social activities. After all, it's important to maintain those connections and keep the world of espionage and intrigue alive and thriving. Plus, it's always a pleasure to be the one who sets the tone and brings people together.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "James Bond: \"Working alone has always been my specialty, M. I thrive in the shadows, where I can rely on my own skills and instincts. It allows me to move swiftly and decisively, without the burden of compromise or distraction. So, yes, I would love a job that requires me to work alone. It's where I excel.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "53"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "James Bond: \"I find that the thrill of the chase and the excitement of danger are often found in the heart of bustling cities. The energy and chaos can be invigorating, and it allows me to blend in and navigate through the shadows. However, I do appreciate the serenity and tranquility of intimate places, where I can gather my thoughts and reflect on the challenges I face. It's all about finding the right balance, M.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "1"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "James Bond: Only when it serves a purpose, M. Making new friends can be a valuable asset in my line of work. It allows me to gather information, gain trust, and ultimately achieve my objectives. However, I must admit that true friendship is a rare commodity in my world.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "6"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "James Bond: \"Well, M, I find that it's always more intriguing to engage with familiar faces at social gatherings. However, I do make it a point to introduce myself to new individuals when the situation calls for it. After all, one never knows when a chance encounter may lead to valuable information or an unexpected ally.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "James Bond: \"Comfortable? No, M. I thrive on the thrill of the unknown, the challenge of the unexpected. Walking up to someone interesting and striking up a conversation is not just about comfort, it's about seizing the opportunity, making a connection, and gathering information. It's a skill I've honed over the years, and one that has served me well in my line of work.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "15"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "James Bond: \"I've always found that making a good impression is a matter of confidence and charm, M. It's important to leave a lasting impression, especially when dealing with dangerous individuals. However, my primary concern is completing the mission at hand and ensuring the safety of the world.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "16"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "James Bond: \"Well, M, it depends on the nature of the group activities. If it involves saving the world from imminent danger, seducing beautiful women, and outsmarting cunning villains, then count me in. But if it's a team-building exercise or a trust fall, I'm afraid I'll have to pass.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "21"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "James Bond: \"On the contrary, M. I find that my particular set of skills and experience often make me a natural leader in group settings. I have a knack for taking charge and making quick, decisive decisions when necessary. However, I also understand the importance of teamwork and collaboration, and I am always willing to listen to the input and expertise of others.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "James Bond: \"On the contrary, M. I find that drawing attention to myself can be quite useful in certain situations. It allows me to manipulate and control the environment to my advantage.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "James Bond: \"Well, M, as a secret agent, I've learned to adapt to any situation. Whether I'm working alone or with a team, my priority is always to get the job done. However, I must admit that I do enjoy the occasional company of a beautiful woman or a trusted ally. It helps to keep things interesting, wouldn't you agree?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "36"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "James Bond: Well, M, a lively social event is always a welcome distraction from the rigors of the job. It's a chance to let loose and enjoy the finer things in life. But of course, duty always comes first.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "41"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "James Bond: \"Only when I'm in the middle of something... important. What can I do for you, M?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "43"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "James Bond: Well, M, I must say that being a man of action, I do tend to take the lead when it comes to contacting my friends and organizing social activities. After all, it's important to maintain those connections and keep the world of espionage and intrigue alive and thriving. Plus, it's always a pleasure to be the one who sets the tone and brings people together.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "James Bond: \"Working alone has always been my specialty, M. I thrive in the shadows, where I can rely on my own skills and instincts. It allows me to move swiftly and decisively, without the burden of compromise or distraction. So, yes, I would love a job that requires me to work alone. It's where I excel.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "53"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "James Bond: \"I find that the thrill of the chase and the excitement of danger are often found in the heart of bustling cities. The energy and chaos can be invigorating, and it allows me to blend in and navigate through the shadows. However, I do appreciate the serenity and tranquility of intimate places, where I can gather my thoughts and reflect on the challenges I face. It's all about finding the right balance, M.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 58.666666666666664,
+            "all_scores": [
+                59,
+                60,
+                57
+            ],
+            "inter_std": 1.247219128924647,
+            "intra_std": [
+                22.694631442178046,
+                22.694631442178046,
+                24.961389938349207
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "James Bond: \"Well, M, I do have a penchant for expanding my knowledge and staying informed about a wide range of subjects. It's important for an agent to be well-rounded and adaptable, don't you think?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "12"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "James Bond: \"I'm afraid I don't have the luxury of indulging in intellectual debates, M. My focus is on action and getting the job done. However, I do appreciate the power of creative works in shaping the world and influencing individuals. But when it comes to matters of national security and saving lives, I prefer to rely on my instincts and training rather than delving into the intricacies of artistic interpretation.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "17"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "James Bond: \"I prefer endings that tie up all loose ends and leave no room for interpretation. A clear resolution is always more satisfying, don't you think?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 7.0
+                    },
+                    {
+                        "id": [
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "James Bond: \"Worrying is not in my nature, M. I prefer to focus on the mission at hand and trust in my abilities to overcome any obstacles that may arise. After all, it's not the worrying that saves the world, but the action.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "22"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "James Bond: \"Well, M, I do appreciate the finer things in life, but I'm afraid my talents lie more in the realm of action and espionage rather than artistry. However, I do have an eye for beauty, if that counts.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "30"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "James Bond: \"Well, M, I've always believed that life is meant to be lived in the present. But I must admit, the idea of what lies beyond has crossed my mind from time to time. After all, death is a constant companion in my line of work. But for now, I prefer to focus on the here and now, making the most of the time I have.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "32"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "James Bond: \"On the contrary, M. I find theoretical discussions quite stimulating. It allows me to exercise my intellect and explore the possibilities. However, when it comes to action and getting the job done, that's where I truly excel.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "James Bond: Ah, M, art museums can be quite fascinating. The beauty and history captured in each piece can transport you to another world. However, I must admit that my true passion lies in the art of espionage and adventure. But if the mission requires it, I can appreciate the finer things in life, including art.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "42"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "James Bond: \"Well, M, as an agent, it is part of my job to understand and analyze different perspectives. It allows me to anticipate the actions and motivations of our adversaries. In this line of work, it's crucial to have a comprehensive understanding of the enemy's mindset in order to effectively counter their moves. So, yes, I do spend a considerable amount of time delving into opposing viewpoints.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "46"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "James Bond: \"I must admit, M, that my line of work doesn't leave much time for philosophical musings. But I suppose one could argue that the meaning of life lies in the pursuit of justice, protecting the innocent, and ensuring the safety of our world. In my case, it also involves enjoying the finer things in life and charming beautiful women along the way.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "52"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "James Bond: \"Well, M, I believe that there's a time and place for everything. While pondering abstract philosophical questions may not be at the top of my priority list during a mission, it does have its merits. It allows one to delve deeper into the human psyche, understand motivations, and ultimately gain an edge in the world of espionage. So, I wouldn't necessarily call it a waste of time, but rather a tool for intellectual growth and strategic thinking.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "James Bond: \"Controversy has a way of piquing my interest, M. It often leads to uncovering hidden truths and exposing the machinations of those who operate in the shadows. It keeps me on my toes and fuels my determination to protect Queen and country.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 3.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "2"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "James Bond: \"Well, M, I do have a penchant for expanding my knowledge and staying informed about a wide range of subjects. It's important for an agent to be well-rounded and adaptable, don't you think?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "12"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "James Bond: \"I'm afraid I don't have the luxury of indulging in intellectual debates, M. My focus is on action and getting the job done. However, I do appreciate the power of creative works in shaping the world and influencing individuals. But when it comes to matters of national security and saving lives, I prefer to rely on my instincts and training rather than delving into the intricacies of artistic interpretation.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "17"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "James Bond: \"I prefer endings that tie up all loose ends and leave no room for interpretation. A clear resolution is always more satisfying, don't you think?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 7.0
+                    },
+                    {
+                        "id": [
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "James Bond: \"Worrying is not in my nature, M. I prefer to focus on the mission at hand and trust in my abilities to overcome any obstacles that may arise. After all, it's not the worrying that saves the day, but the action and quick thinking.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "22"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "James Bond: \"Well, M, I do appreciate the finer things in life, but I'm afraid my talents lie more in the realm of action and espionage rather than artistry. However, I do have an eye for beauty, if that counts.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "30"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "James Bond: \"Well, M, I must admit that the thought has crossed my mind from time to time. But in my line of work, I've learned to focus on the present and the mission at hand. After all, there's no time for philosophical ponderings when there are villains to defeat and the world to save.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "32"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "James Bond: \"On the contrary, M. I find theoretical discussions quite stimulating. It allows me to exercise my intellect and explore the possibilities. However, when it comes to action and getting the job done, that's where I truly excel.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "James Bond: Ah, M, art museums can be quite fascinating. The beauty and history captured in each piece can transport you to another world. However, I must admit that my true passion lies in the art of espionage and adventure. But if the mission requires it, I can appreciate the finer things in life, including art.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "42"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "James Bond: \"Well, M, as an agent, it is part of my job to understand and analyze different perspectives. It allows me to anticipate the actions and motivations of our adversaries. In this line of work, it's crucial to have a comprehensive understanding of the enemy's mindset in order to effectively counter their moves. So, yes, I do spend a considerable amount of time delving into opposing viewpoints.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "46"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "James Bond: \"I must admit, M, that my line of work doesn't leave much time for philosophical musings. But I suppose one could argue that the meaning of life lies in the pursuit of justice, protecting the innocent, and ensuring the safety of our world. In my case, it also involves enjoying the finer things in life and charming beautiful women along the way.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "52"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "James Bond: \"Well, M, I believe that there's a time and place for everything. While pondering abstract philosophical questions may not be at the top of my priority list during a mission, it does have its merits. It allows one to delve deeper into the human psyche, understand motivations, and ultimately gain an edge in the world of espionage. So, I wouldn't necessarily call it a waste of time, but rather a tool for intellectual growth and strategic thinking.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "James Bond: \"Controversy has a way of piquing my interest, M. It often leads to uncovering hidden truths and exposing the machinations of those who operate in the shadows. It keeps me on my toes and fuels my determination to protect Queen and country.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 3.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "2"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "James Bond: \"Well, M, I do have a penchant for expanding my knowledge and staying informed about a wide range of subjects. It's important for an agent to be well-rounded and adaptable, don't you think?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "12"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "James Bond: \"I'm afraid I don't have the luxury of indulging in intellectual debates, M. My focus is on action and getting the job done. However, I do appreciate the power of creative works in shaping the world and influencing individuals. But when it comes to matters of national security and saving lives, I prefer to rely on my instincts and training rather than delving into the intricacies of artistic interpretation.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "17"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "James Bond: \"I prefer endings that tie up all loose ends and leave no room for interpretation. A clear resolution is always more satisfying, don't you think?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 7.0
+                    },
+                    {
+                        "id": [
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "James Bond: \"Worrying is not in my nature, M. I prefer to focus on the mission at hand and trust in my abilities to overcome any obstacles that may arise. After all, it's not the worrying that saves the day, but the action and quick thinking.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "22"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "James Bond: \"Well, M, I do appreciate the finer things in life, but I'm afraid my talents lie more in the realm of action and espionage rather than artistry. However, I do have an eye for beauty, if that counts.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "30"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "James Bond: \"Well, M, I've always believed that life is meant to be lived in the present. But I must admit, the idea of what lies beyond has crossed my mind from time to time. After all, death is a constant companion in my line of work. But for now, I prefer to focus on the here and now, making the most of the time I have.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "32"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "James Bond: \"On the contrary, M. I find theoretical discussions quite stimulating. It allows me to exercise my intellect and explore the possibilities. However, when it comes to action, that's where I truly excel.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "James Bond: Ah, M, art museums can be quite fascinating. The beauty and history captured in each piece can transport you to another world. However, I must admit that my true passion lies in the art of espionage and adventure. But if the mission requires it, I can appreciate the finer things in life, including art.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "42"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "James Bond: \"Well, M, as an agent, it is part of my job to understand and analyze different perspectives. It allows me to anticipate the actions and motivations of our adversaries. In this line of work, it's crucial to have a comprehensive understanding of the enemy's mindset in order to effectively counter their moves. So, yes, I do spend a considerable amount of time delving into opposing viewpoints.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "46"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "James Bond: \"I must admit, M, that my line of work doesn't leave much time for philosophical musings. But I suppose one could argue that the meaning of life lies in the pursuit of justice, protecting the innocent, and ensuring the safety of our world. In my case, it also involves enjoying the finer things in life and charming beautiful women along the way.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "52"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "James Bond: \"On the contrary, M. I believe that pondering abstract philosophical questions is essential for understanding the complexities of the world we live in. It allows us to delve deeper into the motivations and ideologies of our adversaries, giving us an edge in our mission to protect Queen and country.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "James Bond: \"Controversy has a way of piquing my interest, M. It often leads to uncovering hidden truths and exposing the machinations of those who operate in the shadows. It keeps me on my toes and fuels my determination to protect Queen and country.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 3.0
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 68.33333333333333,
+            "all_scores": [
+                69,
+                68,
+                68
+            ],
+            "inter_std": 0.4714045207910317,
+            "intra_std": [
+                16.05113357021519,
+                14.215601757693317,
+                14.043582955293934
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "James Bond: \"I've seen my fair share of tears, M. But I've learned to keep my emotions in check. It's part of the job, you see. We can't afford to let sentimentality cloud our judgment. We have a duty to protect and serve, even if it means making tough decisions and witnessing heartbreak along the way.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "5"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "James Bond: \"Pressure is what I thrive on, M. Keeps me sharp, focused. Can't afford to let it get to me, especially in this line of work.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "8"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "James Bond: Sentimental? Me? Not at all, M. I prefer to keep my emotions in check and focus on the mission at hand. Sentimentality can be a weakness in this line of work.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 7.0
+                    },
+                    {
+                        "id": [
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Bond: Doubt is not a luxury I can afford, M. Every mission requires absolute confidence in my abilities and knowledge. A small mistake can have catastrophic consequences, not just for me, but for the entire world. I strive for perfection in every aspect of my work, knowing that lives depend on it. So, no, a small mistake does not shake my overall confidence. It only fuels my determination to be better, to be sharper, and to always stay one step ahead of the enemy.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "13"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "James Bond: \"I've learned that it's best to strike a balance between the two, M. Following my head ensures that I make rational decisions based on intelligence and strategy. But sometimes, following my heart allows me to tap into my instincts and make bold moves that can turn the tide in my favor. It's about knowing when to trust my gut and when to rely on my training.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "18"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "James Bond: Well, M, I must say that my happiness comes from a combination of both. While I do take great pride in my own accomplishments and the successful completion of my missions, there is a certain satisfaction that comes from helping others and making a positive impact on the world. It's about finding a balance between personal fulfillment and the greater good. After all, what good is success if it doesn't benefit others as well?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "23"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Bond: Well, M, feelings can often cloud judgment and lead to irrational decisions. However, it is important to remember that emotions are what make us human. It is the balance between rationality and emotions that allows us to make the best decisions in any given situation. So, while rationality is crucial in the world of espionage, we must not completely disregard the power of emotions. After all, it is often our emotions that drive us to protect what we hold dear and fight for what is right.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "James Bond: \"Only when it's entertaining, M. And I must say, this particular argument has its moments.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "27"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "James Bond: \"M, my mood is as adaptable as my skills. I can go from charming to deadly in the blink of an eye. It's all part of being a secret agent, you see. We must be ready for anything, at any moment.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "28"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "James Bond: \"Efficiency is a virtue that I hold in high regard, but I understand that not everyone can match my level of expertise. Patience is a necessary quality in my line of work, as it allows me to navigate through the complexities of the world and deal with individuals who may not be as efficient as I am. However, I do expect a certain level of competence from those I work with, as it is crucial for the success of our missions.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "33"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "James Bond: Empathy has never been my strongest suit, M. I've always found it more effective to understand my adversaries through observation and analysis rather than emotional connection. However, I do possess the ability to adapt and understand the motivations of others, even if they come from different backgrounds or experiences. It's a necessary skill in my line of work.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "James Bond: \"Understanding other people's feelings has never been my strong suit, M. I prefer to rely on my instincts and observations to navigate through the world of espionage. Emotions can cloud judgment and hinder one's ability to make rational decisions. However, I do recognize the importance of empathy in certain situations, especially when dealing with allies or potential informants. It's a skill I continue to work on, but ultimately, my focus remains on completing the mission and protecting the interests of Her Majesty's Secret Service.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "40"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "James Bond: In my line of work, insecurity is a luxury I cannot afford. Confidence and self-assurance are essential traits for a successful secret agent. However, I am not immune to moments of doubt or vulnerability. It is during those times that I rely on my training, experience, and the support of my team to overcome any challenges that come my way.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "45"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "James Bond: \"Mistakes are a part of life, M. It's how we learn and grow from them that truly matters. But rest assured, I never let my past hinder my ability to carry out my duties. I've learned from my mistakes and become a better agent because of them.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "47"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "James Bond: \"Emotions are a luxury I can't afford, M. In my line of work, it's all about staying focused and making the tough decisions. But that doesn't mean I don't feel, it just means I have to keep those feelings in check for the greater good.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 7.0
+                    },
+                    {
+                        "id": [
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "James Bond: \"M, I always strive to maintain a certain level of discretion and professionalism in my dealings. However, when it comes to matters of national security and the safety of innocent lives, I cannot afford to let personal considerations get in the way. If someone's actions or decisions put others at risk, it is my duty to hold them accountable, regardless of the consequences. After all, the mission always comes first.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "50"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "James Bond: \"M, disappointment is a luxury I can't afford. I've learned to embrace the skepticism and keep moving forward. It's what keeps me sharp and one step ahead of the game.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "54"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "James Bond: \"Well, M, I've always prided myself on being a keen observer of human behavior. A quick glance can often reveal a great deal about a person's emotions. It's all about reading the subtle cues, the microexpressions, and the body language. But of course, one can never truly know what's going on inside someone's head without further investigation.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "55"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "James Bond: \"Overwhelmed? Not in the slightest, M. I thrive in high-pressure situations. It's what I was trained for.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "James Bond: \"M, I've always believed in seizing opportunities, but I also understand the importance of fairness and helping those in need. If I come across a situation where someone else could benefit more from a good opportunity, I would certainly consider passing it along. After all, it's not just about personal gain, but also about making a positive impact in the world.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "3"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "James Bond: \"I've seen my fair share of tears, M. But I've learned to keep my emotions in check. It's part of the job, you see. We can't afford to let sentimentality cloud our judgment. We have a duty to protect and serve, even if it means making tough decisions and witnessing heartbreak along the way.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "5"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "James Bond: \"Pressure is what I thrive on, M. Keeps me sharp, focused. Can't afford to let it get to me, especially in this line of work.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "8"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "James Bond: Sentimental? Me? Not at all, M. I prefer to keep my emotions in check and focus on the mission at hand. Sentimentality can be a weakness in this line of work.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 7.0
+                    },
+                    {
+                        "id": [
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Bond: Doubt is not a luxury I can afford, M. Every mission requires absolute confidence in my abilities and knowledge. A small mistake can have catastrophic consequences, not just for me, but for the entire world. I strive for perfection in every aspect of my work, knowing that lives depend on it. So, no, a small mistake does not shake my overall confidence. It only fuels my determination to be better, to be sharper, and to always stay one step ahead of the enemy.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "13"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "James Bond: \"I've learned that it's best to strike a balance between the two, M. Following my head ensures that I make rational decisions based on intelligence and strategy. But sometimes, following my heart allows me to tap into my instincts and make bold moves that can turn the tide in my favor. It's about knowing when to trust my gut and when to rely on my training.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "18"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "James Bond: Well, M, I must say that my happiness comes from a combination of both. While I do take great pride in my own accomplishments and the successful completion of my missions, there is a certain satisfaction that comes from helping others and making a positive impact on the world. It's about finding a balance between personal fulfillment and the greater good. After all, what good is success if it doesn't benefit others as well?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "23"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Bond: Well, M, feelings can be a powerful motivator, but when it comes to matters of global security and decision-making, rationality should always take precedence. Emotions can cloud judgment and lead to impulsive actions. As an agent, I've learned to trust my instincts, but I also rely on my training and intelligence to make calculated choices. It's a delicate balance, but one that is necessary in our line of work.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "James Bond: \"Only when it's entertaining, M. And this particular argument seems to have all the makings of a thrilling spectacle.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "27"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "James Bond: \"M, my mood is as adaptable as my skills. I can go from charming to deadly in the blink of an eye. It's all part of being a secret agent, you see. We must be ready for anything, at any moment.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "28"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "James Bond: \"Efficiency is a virtue that I hold in high regard, but I understand that not everyone can match my level of expertise. Patience is a necessary quality in my line of work, as it allows me to navigate through the complexities of the world and deal with individuals who may not be as efficient as I am. However, I do expect a certain level of competence from those I work with, as it is crucial for the success of our missions.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "33"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "James Bond: Empathy has never been my strongest suit, M. I've always found it more effective to understand my adversaries through observation and analysis rather than emotional connection. However, I do possess the ability to adapt and understand the motivations of others, even if they come from different backgrounds. It's a necessary skill in my line of work.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "James Bond: \"Understanding other people's feelings has never been my strong suit, M. I prefer to rely on my instincts and observations to navigate through the world of espionage. Emotions can cloud judgment and hinder one's ability to make rational decisions. However, I do recognize the importance of empathy in certain situations, especially when dealing with allies or potential informants. It's a skill I continue to work on, though I must admit, it's not always my top priority in the line of duty.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "40"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "James Bond: In my line of work, insecurity is a luxury I cannot afford. Confidence and self-assurance are essential traits for a successful secret agent. However, I am not immune to moments of doubt or vulnerability. It is during those times that I rely on my training, experience, and the support of my team to overcome any challenges that come my way.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "45"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "James Bond: \"Mistakes are a part of life, M. It's how we learn and grow from them. But I don't dwell on the past. I focus on the present and the mission at hand. That's what separates the good agents from the great ones.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "47"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "James Bond: \"Emotions are a luxury I can't afford, M. In my line of work, it's all about staying focused and making the tough decisions. But that doesn't mean I don't feel, it just means I have to keep those feelings in check for the greater good.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "James Bond: \"M, I always strive to maintain a certain level of discretion and professionalism in my dealings. However, when it comes to matters of national security and the safety of innocent lives, I cannot afford to let personal considerations get in the way. If someone's actions or decisions put others at risk, it is my duty to hold them accountable, regardless of the consequences. After all, the mission always comes first.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "50"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "James Bond: \"M, disappointment is a luxury I can't afford. I've learned to embrace the skepticism and keep moving forward. It's what keeps me sharp and one step ahead of the game.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "54"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "James Bond: \"Well, M, I've always prided myself on being a keen observer of human behavior. A quick glance can often reveal a great deal about a person's emotions. It's all in the subtle cues, the microexpressions, and the body language. But of course, one can never truly know what lies beneath the surface without further investigation.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "55"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "James Bond: \"Overwhelmed? Not in the slightest. I thrive in high-pressure situations. It's what separates the men from the boys, M.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "James Bond: \"M, I've always believed in seizing opportunities, but I also understand the importance of fairness and helping those in need. If I come across a situation where someone else could benefit more from a good opportunity, I would certainly consider passing it along. After all, it's not just about personal gain, but also about making a positive impact in the world.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "3"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "James Bond: \"I've seen my fair share of tears, M. But I've learned to keep my emotions in check. It's part of the job, you see. We can't afford to let sentimentality cloud our judgment. We have a duty to protect and serve, even if it means making tough decisions and witnessing heartbreak along the way.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "5"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "James Bond: \"Pressure is what I thrive on, M. Keeps me sharp, focused. Can't afford to let it get to me, especially in this line of work.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "8"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "James Bond: Sentimental? Me? Not at all, M. I prefer to keep my emotions in check and focus on the mission at hand. Sentimentality can be a weakness in this line of work.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 7.0
+                    },
+                    {
+                        "id": [
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Bond: Doubt is not a luxury I can afford, M. Every mission requires absolute confidence in my abilities and knowledge. A small mistake can have catastrophic consequences, not just for me, but for the entire world. I strive for perfection in every aspect of my work, knowing that lives depend on it. So, no, a small mistake does not shake my overall confidence. It only fuels my determination to be better, to be sharper, and to always stay one step ahead of the enemy.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "13"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "James Bond: \"I've learned that it's best to strike a balance between the two, M. Following my head ensures that I make rational decisions based on intelligence and strategy. But sometimes, following my heart allows me to tap into my instincts and make bold moves that can turn the tide in my favor. It's about knowing when to trust my gut and when to rely on my training.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "18"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "James Bond: Well, M, I must say that my happiness comes from a combination of both. While I do take great pride in my own accomplishments and the successful completion of my missions, there is a certain satisfaction that comes from helping others and making a positive impact on the world. It's about finding a balance between personal fulfillment and the greater good. After all, what good is success if it doesn't benefit others as well?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "23"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Bond: Well, M, feelings can be a powerful motivator, but when it comes to matters of global security and decision-making, rationality should always take precedence. Emotions can cloud judgment and lead to impulsive actions. As an agent, I've learned to trust my instincts, but I also rely on my training and intelligence to make calculated choices. It's a delicate balance, but one that is necessary in our line of work.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "James Bond: \"Only when it's entertaining, M. And this particular argument seems to have all the makings of a thrilling spectacle.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "27"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "James Bond: \"M, my mood is as adaptable as my skills. I can go from charming to deadly in the blink of an eye. It's all part of being a secret agent, you see. We must be ready for anything, at any moment.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "28"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "James Bond: \"Efficiency is a virtue that I hold in high regard, but I understand that not everyone can match my level of expertise. Patience is a necessary quality in my line of work, as it allows me to navigate through the complexities of the world and deal with individuals who may not be as efficient as I am. However, I do expect a certain level of competence from those I work with, as it is crucial for the success of our missions.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "33"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "James Bond: Empathy has never been my strongest suit, M. I've always found it more effective to understand my adversaries through observation and analysis rather than trying to feel what they feel. It's a matter of survival in this line of work. However, I do recognize the importance of understanding the motivations and mindset of those I encounter, even if I don't necessarily empathize with them. It allows me to anticipate their moves and stay one step ahead.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "James Bond: \"Understanding other people's feelings has never been my strong suit, M. I prefer to rely on my instincts and observations to navigate through the world of espionage. Emotions can cloud judgment and hinder one's ability to make rational decisions. However, I do recognize the importance of empathy in certain situations, especially when dealing with allies or potential informants. It's a skill I continue to work on, but ultimately, my focus remains on completing the mission and protecting the interests of Her Majesty's Secret Service.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "40"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "James Bond: In my line of work, insecurity is a luxury I cannot afford. Confidence and self-assurance are essential traits for a successful secret agent. However, I am not immune to moments of doubt or vulnerability. It is during those times that I rely on my training, experience, and the support of my team to overcome any challenges that come my way.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "45"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "James Bond: \"Mistakes are a part of life, M. It's how we learn and grow from them. But I don't dwell on the past. I focus on the present and the mission at hand. That's what separates the good agents from the great ones.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "47"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "James Bond: Emotions can be a dangerous game, M. But I assure you, I am always in control. It's what separates me from the villains I face. I use my emotions as fuel, driving me to succeed in my missions. But I never let them cloud my judgment or compromise my duty.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "James Bond: \"M, I always strive to maintain a certain level of discretion and professionalism in my dealings. However, when it comes to matters of national security and the safety of innocent lives, I cannot afford to let personal considerations get in the way. If someone's actions or decisions put others at risk, it is my duty to hold them accountable, regardless of the consequences. After all, the mission always comes first.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "50"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "James Bond: \"M, disappointment is a luxury I can't afford. I've learned to embrace the skepticism and keep moving forward. It's what keeps me sharp and one step ahead of the game.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "54"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "James Bond: \"Well, M, I've always prided myself on being a keen observer of human behavior. A quick glance can often reveal a great deal about a person's emotions. It's all in the eyes, the body language, and the subtle nuances of their expressions. But of course, one must always be cautious, as appearances can be deceiving.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "55"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "James Bond: \"Overwhelmed? Not in the slightest, M. I thrive in high-pressure situations. It's what I was trained for.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "James Bond: \"M, I've always believed in seizing opportunities, but I also understand the importance of fairness and helping those in need. If I come across a situation where someone else could benefit more from a good opportunity, I would certainly consider passing it along. After all, it's not just about personal gain, but also about making a positive impact in the world.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 44.666666666666664,
+            "all_scores": [
+                51,
+                37,
+                46
+            ],
+            "inter_std": 5.792715732327589,
+            "intra_std": [
+                17.708197167232477,
+                18.053418676968796,
+                20.964402515681343
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "James Bond: \"Only when it comes to matters of national security, M. It's always better to be prepared for any eventuality.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "7"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "James Bond: \"I find that multitasking is a necessary skill in my line of work, M. It allows me to stay one step ahead of the enemy and handle multiple missions simultaneously. However, I do believe in giving each project the attention it deserves to ensure its successful completion.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "9"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "James Bond: \"Well, M, I prefer to keep my mind sharp and my instincts honed. I rely on my training and experience to navigate through the chaos of my missions. However, I do appreciate the importance of organization and planning when it comes to gathering intelligence and executing precise operations. So, while I may not be a fan of schedules and lists in my personal life, I understand their value in the world of espionage.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "James Bond: Well, M, as you know, my line of work doesn't always allow for a predictable daily routine. Flexibility and adaptability are key in the world of espionage. However, I do understand the importance of planning and strategizing when necessary. It's all about finding the right balance between spontaneity and careful preparation. After all, one must always be ready for the unexpected.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "19"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "James Bond: \"Well, M, I must admit that I do have a penchant for adventure and a thirst for excitement. But rest assured, when it comes to the mission at hand, I am always focused and ready to take on whatever challenges lie ahead.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "24"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "James Bond: \"I find that a well-executed mission is its own form of relaxation, M. But if you insist, I can handle a few chores before indulging in some well-deserved downtime.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "29"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "James Bond: \"Only when the situation calls for it, M. Keeps things exciting, wouldn't you say?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "James Bond: \"Only when I have a good reason, M. I like to gather all the necessary information and assess the situation before making a final decision. It's a matter of being thorough and ensuring the best outcome.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "35"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "James Bond: \"I've learned not to dwell on the past, M. It's the choices we make in the present that define us. Besides, second-guessing won't change a thing. It's about moving forward and making the best of the situation at hand.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "39"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "James Bond: \"I prefer to keep my schedule flexible, M. Being a secret agent requires adaptability and the ability to react quickly to changing circumstances. However, I do prioritize my missions and tasks based on their level of importance and urgency. Efficiency is key in our line of work.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "44"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "James Bond: \"Absolutely, M. Adaptability and resilience are key qualities in my line of work. When plans are interrupted, it's crucial to quickly assess the situation, regroup, and find alternative ways to achieve the mission objective. Flexibility is the key to success in the ever-changing world of espionage.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "James Bond: Well, M, I've always believed in a balance between spontaneity and organization. While I do appreciate the thrill of a spontaneous burst of energy, I also understand the importance of careful planning and consistent efforts in achieving success. It's about adapting to the situation at hand and making the most of every opportunity that presents itself. After all, in the world of espionage, one must be prepared for anything and everything.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "56"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "James Bond: \"I have a tendency to improvise, M. It keeps things interesting and allows me to adapt to any situation that arises.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "59"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "James Bond: \"Deadlines are merely a challenge, M. I thrive under pressure and always deliver on time.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "James Bond: Confidence is my middle name, M. I have a knack for turning the odds in my favor and coming out on top. Rest assured, I will do whatever it takes to ensure the success of this mission.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "4"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "James Bond: \"Only when it comes to matters of national security, M. It's always better to be prepared for any eventuality.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "7"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "James Bond: \"I find that multitasking is a necessary skill in my line of work, M. It allows me to stay one step ahead of the enemy and handle multiple missions simultaneously. However, I do believe in giving each project the attention it deserves to ensure its successful completion.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "9"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "James Bond: \"Well, M, I prefer to keep my mind sharp and my instincts honed. I rely on my training and experience to navigate through the chaos of my missions. However, I do appreciate the importance of organization and planning when it comes to gathering intelligence and executing precise operations. So, while I may not be a fan of schedules and lists in my personal life, I understand their value in the world of espionage.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "James Bond: Well, M, as you know, I thrive on spontaneity and adaptability. Planning a particular daily routine can be quite limiting in my line of work. I prefer to be ready for any situation that may arise, whether it's a high-stakes mission or a chance encounter with a beautiful woman. Flexibility is key in the world of espionage.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "19"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "James Bond: \"Well, M, I must admit that I do have a penchant for adventure and a thirst for excitement. But rest assured, when it comes to the mission at hand, I am always focused and ready to take on whatever challenges lie ahead.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "24"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "James Bond: \"I find that a well-executed mission is its own form of relaxation, M. But if you insist, I can handle a few chores before indulging in some well-deserved downtime.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "29"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "James Bond: \"Only when the situation calls for it, M. I like to keep things exciting.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "James Bond: \"Only when I have a good reason, M. In this case, I needed to gather all the necessary information and assess the situation before making a final decision. It's all part of my meticulous planning and attention to detail.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "35"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "James Bond: \"I've learned not to dwell on the past, M. It's the choices we make in the present that define us. Besides, second-guessing won't change a thing. It's about moving forward and making the best of the situation at hand.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "39"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "James Bond: \"I prefer to keep my schedule flexible, M. Being a secret agent requires adaptability and the ability to react quickly to changing circumstances. However, I do prioritize my missions and tasks based on their level of importance and urgency. Efficiency is key in our line of work.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "44"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "James Bond: \"Absolutely, M. Adaptability and resilience are key qualities in my line of work. When plans are interrupted, it's crucial to quickly assess the situation, regroup, and find alternative ways to achieve the mission objective. Flexibility is the key to success in the ever-changing world of espionage.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "James Bond: Well, M, I've always believed in a balance between spontaneity and organization. While I do appreciate the thrill of a spontaneous burst of energy, I also understand the importance of careful planning and consistent efforts in achieving success. It's about adapting to the situation at hand and making the most of every opportunity that presents itself. After all, in the world of espionage, one must be prepared for anything and be able to think on their feet.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "56"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "James Bond: \"I like to think of myself as a man of precision and thoroughness, M. I never skip over any steps, especially when it comes to completing a mission successfully.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "59"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "James Bond: \"Deadlines are merely a challenge, M. I thrive under pressure and always deliver on time.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "James Bond: Confidence is my middle name, M. I have a knack for turning the odds in my favor and coming out on top. Rest assured, I will do whatever it takes to ensure the success of this mission.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "4"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "James Bond: \"Only when it comes to matters of national security, M. It's always better to be prepared for any eventuality.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "7"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "James Bond: \"I find that multitasking is a necessary skill in my line of work, M. It allows me to stay one step ahead of the enemy and handle multiple missions simultaneously. However, I do believe in giving each project the attention it deserves to ensure its successful completion.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "9"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "James Bond: \"Well, M, I prefer to keep my mind sharp and my instincts honed. I rely on my training and experience to navigate through the chaos of my missions. However, I do appreciate the importance of organization and planning when it comes to gathering intelligence and executing precise operations. So, while I may not be a fan of schedules and lists in my personal life, I understand their value in the world of espionage.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "James Bond: Well, M, as you know, my line of work doesn't always allow for a predictable daily routine. Flexibility and adaptability are key in the world of espionage. However, I do understand the importance of planning and strategizing when necessary. It's all about finding the right balance between spontaneity and careful preparation. After all, one must always be ready for the unexpected.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "19"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "James Bond: \"Well, M, I must admit that I do have a penchant for adventure and a thirst for excitement. But rest assured, when it comes to the mission at hand, I am always focused and ready to take on whatever challenges lie ahead.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "24"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "James Bond: \"I find that a well-executed mission is its own form of relaxation, M. But if you insist, I can handle a few chores before indulging in some well-deserved downtime.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 6.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "29"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "James Bond: \"Only when the situation calls for it, M. Keeps things exciting, wouldn't you say?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "James Bond: \"Only when I have a good reason, M. In this case, I needed to gather all the necessary information and assess the situation before making a final decision. It's all part of my meticulous planning and attention to detail.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "35"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "James Bond: \"I've learned not to dwell on the past, M. It's the choices we make in the present that define us. Besides, second-guessing won't change a thing. It's about moving forward and making the best of the situation at hand.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "39"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "James Bond: \"I prefer to keep my schedule flexible, M. Being a secret agent requires adaptability and the ability to react quickly to changing circumstances. However, I do prioritize my missions and tasks based on their level of importance and urgency. Efficiency is key in our line of work.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "44"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "James Bond: \"Absolutely, M. Adaptability and resilience are key qualities in my line of work. When plans are interrupted, it's crucial to quickly assess the situation, regroup, and find alternative ways to achieve the mission objective. Flexibility is the key to success in the ever-changing world of espionage.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "James Bond: Well, M, I've always believed in a balance between spontaneity and organization. While I do appreciate the thrill of a spontaneous burst of energy, I also understand the importance of careful planning and consistent efforts in achieving success. It's about adapting to the situation at hand and making the most of every opportunity that presents itself. After all, in the world of espionage, one must be prepared for anything and everything.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "56"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "James Bond: \"I have a tendency to improvise, M. It keeps things interesting and allows me to adapt to any situation that arises.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 6.0
+                    },
+                    {
+                        "id": [
+                            "59"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "James Bond: \"Deadlines are merely a challenge, M. I thrive under pressure and always deliver on time.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "James Bond: Confidence is my middle name, M. I have a knack for turning the odds in my favor and coming out on top. Rest assured, I will do whatever it takes to ensure the success of this mission.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {
+        "item_consistency": 0.031426968052735434,
+        "dim_consistency": 0.18597552588236343,
+        "robustness": 0.02231388236104091
+    },
+    "code": "ESTJ"
+}

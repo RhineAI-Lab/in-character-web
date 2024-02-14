@@ -1,0 +1,628 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 50.0,
+            "all_scores": [
+                50.0
+            ],
+            "intra_std": [
+                18.708286933869708
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Dumbledore:「It is not our place to judge, but it is clear that your behavior has become increasingly erratic in recent months. We are very concerned about it, Severus.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Snape:「I — I — I’m sorry, Professor. I didn’t mean to —」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Snape: 「 Exciting, isn ’ t it? 」( triumphant)<| im_end|> assistant Dumbledore: 「 I see your interest in this subject has not waned since our last lesson. Excellent. You have shown great progress, Potter. You have discovered several new spells. 」<| im_end|><| im_start|> assistant Snape: 「 Yes, I have. And I have used each of these spells to break the Dark Lord ’ s will. He will not be able to bind me again. 」<| im_end|><| im_start|> assistant Dumbledore: 「 I am very proud of you, Potter. You have shown great courage and determination. You have truly proven yourself to be a valuable member of this school. I have great faith in you",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both extraverted and introverted traits. They appear to have moments of social discomfort and hesitation, as seen in their apologies and interruptions. However, they also display a level of comfort and excitement in social interactions, as evidenced by their triumphant response and engagement in a conversation with someone interesting. This suggests a balanced approach to social interactions, with a tendency towards both introverted and extraverted behaviors."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Dumbledore:「I thought not. And yet, I see you have been spending a great deal of time with this group of yours. What is the purpose of your involvement with this group, Severus?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Spot the difference:<| im_end|><| im_start|> 1. The person is addressing Professor Snape, not the headmaster. 2. The headmaster was not in a good mood, unlike the professor. 3. The professor did not feel that the students were following the rules and was very critical. 4. The professor predicted the future and knew what would happen. 5. The students were given a task to complete and were not allowed to leave. 6. The students were not allowed to use their own魔杖. 7. The students had to stand up and remain standing for the entire class. 8. The students were not allowed to speak until the professor nodded. 9. The students had to compete in a physical challenge to prove themselves. 10. The students had to prove that they were worthy of the position. Answers:",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Snape:「As an orphan, I learned to be cautious. . . . Besides, it is not as if the Dark Lord has not noticed your efforts. You have been caught on several occasions, and your attempts have not gone unnoticed.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a preference for introversion. They mentioned being cautious due to being an orphan and not drawing attention to themselves. Additionally, they seem to avoid leadership roles in group settings and may not enjoy participating in group activities."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "<| im_start|> knight Harry Potter: 「 I ’ m just going to wizarding world. 」<| im_end|><| im_start|> assistant Harry Potter: 「 Is it always like this? 」<| im_end|><| im_start|> knight Hagrid: 「 It ’ s not always like this, Harry. Depending on which day you ask me. You know that, don ’ t you? 」<| im_end|><| im_start|> assistant Hagrid: 「 But it ’ s especially not like this today. 」<| im_end|><| im_start|> knight Harry Potter: 「 What ’ s going on, Hagrid",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Harry:「I haven’t seen you around here before.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Snape:「It is my job to keep you informed of the events and activities of those around us. I am responsible for ensuring that you are aware of all that is happening in the world, and that you are prepared to take advantage of any opportunities that may arise. 」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Snape:「Oh, I don’t know. I’m not really in the mood for company tonight.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant seems to display a mix of both extraverted and introverted tendencies. They engage in social events and initiate activities, but also express a preference for being alone at times. However, their responses overall lean slightly more towards introversion."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Snape:「The Ministry will not be able to afford to allow such behavior once they learn of it. And Harry, my dear, I have much more pressing matters to attend to than a trifling infraction.」<|im_end|>\n<|im_start|>teacher\nHarry:「I’m sorry, Professor Snape. I didn’t know it was against the rules to question someone without cause. I didn’t mean to —",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Snape:「As a matter of fact, Professor, I am not.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Snape:「Absolutely, Professor Dumbledore. I am a very social person, as one might assume from my company. I keep a number of cats at the castle, for example.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a preference for social interaction and external stimuli. They express a desire to be around others, engage in social activities, and seem comfortable in a bustling atmosphere. These tendencies align more with the characteristics of Extraversion (E)."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 66.66666666666667,
+            "all_scores": [
+                66.66666666666667
+            ],
+            "intra_std": [
+                18.856180831641264
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Snape: 「 I apologize, sir. I do not have much free time. I am very busy with the day- to- day activities of this school. 」<| im_end|><| im_start|> executive### Dumbledore: 「 It has come to my attention that you have been spending a great deal of time with Harry Potter. What is your relationship with the boy? 」<| im_end|> Snape: 「 It is not appropriate for a prefect to engage in such activities",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Snape:「As an adult, one is free to read and learn whatever they please, but I am required to spend my evenings teaching children. It is a difficult task, but it is also one that requires a great deal of dedication and hard work, not to mention patience and understanding.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Snape:「“The Ministry uses a great deal of resources on the capture and trial of those who pose a threat to its authority. It is a necessary part of the system.”」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Snape:「Yes, Professor. I am. And I worry about Draco, sir. He returns tomorrow evening, I believe.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant seems to focus more on practical, concrete, and present situations. They emphasize the day-to-day activities, teaching children, and expressing worry about specific events. There is less emphasis on abstract thinking, future possibilities, or interpreting creative works."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Snape: 「 Would it be so difficult if I took you to one of the Fine Arts exhibitions? 」<| im_end|><| im_start|> professor Dumbledore: 「 I think you mean the Fine Arts exhibitions, Professor Snape. 」<| im_end|><| im_start|> professor Snape: 「 I assure you, sir, that I have heard of the Fine Arts exhibitions, and I have even — 」 Dumbledore: 「 Professor, I think it would be very unwise for you to argue with me about this",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Snape: 「 Yes, Professor. And I have always believed that death should be understood and accepted, not feared. And I believe that the greatest way to do that is to learn as much about it as possible. 」<| im_end|>###<| im_start|> dumbledore Snape: 「 And I would like to think that in the future, I will be able to provide more of that understanding to others. 」<| im_end|><| im_start|> dumbledore Snape: 「 I have always believed that the education and knowledge of a person is the most important thing in life. And I believe that the greatest way to gain that knowledge is through the discovery and learning of one ’ s own strengths and weaknesses",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": ":Snape:「Yes, Professor?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "Snape:「Not particularly, Professor Dumbledore.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards the Sensing (S) side of the dimension. They focus on concrete experiences, practicality, and present situations. They show a preference for tangible evidence, practical knowledge, and a focus on the here and now."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Snape:「Would you like to know how I feel about the Ministry, Mr. Dumbledore?」<|im_end|>\n<|im_start|>teacher\nDumbledore:「I think I do, Severus. Please do tell me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Snape:「Drawing a deep breath, he said, “It is a question that has puzzled philosophers for centuries, and one that has no simple answer. To answer it would require one to know what the purpose of life is, and how one should live it.”」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Snape:「It is not a waste of time, Headmaster. It is a means of finding the truth about the darkest aspects of the human mind.」<|im_end|>\n<|im_start|>teacher\nDumbledore:「And it can be a means of finding the Dark Lord Fatoada?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Snape\nDumbledore:「But you are not easily swayed, are you?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards Intuition (N) as they engage in abstract philosophical discussions, ponder the meaning of life, and express interest in finding the truth about the human mind. They also seem to be open to understanding views different from their own. However, there are some elements of Sensing (S) present, such as the focus on practical matters and the mention of not being easily swayed."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 45.0,
+            "all_scores": [
+                45.0
+            ],
+            "intra_std": [
+                13.416407864998739
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Snape:「As for your question, Professor, I am aware that the Ministry of Magic tends to be quite insensitive when it comes to the emotions of its employees. However, I am not one to be easily swayed. If the Ministry determines that I am a threat to the stability of the wizarding world, then I will have to be in control of my actions and my emotions, not the other way around.」<|im_end|>\n<|im_start|>secretary\nDumbledore:「Oh, very well. I will grant your request. You can choose any one person from the Ministry of Magic to speak with. I will make the necessary arrangements.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Snape:「Yes, I usually manage to stay这样的话. . . until someone says something really stupid.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Snape: 「 Yes, Professor. 」<| im_end|><| im_start|> dumbledore Dumbledore: 「 I thought I knew you better than that, Severus. 」<| im_end|><| im_start|> snape Snape: 「 I know you did not wish to discuss your father",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Snape:「It — it was just a dream within a dream, Dumbledore. The Dark Lord — he is not real. . . .」<|im_end|>\n<|im_start|>adjacent\nSnape:「It was just — a — a dream, Dumbledore.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 60.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both Thinking (T) and Feeling (F) traits. They display a logical and controlled approach to their emotions, as seen in their response to pressure and their ability to stay calm. However, they also show sensitivity and sentimentality, as evidenced by their acknowledgment of being sentimental and their emotional reaction to the topic of their father. Overall, the participant appears to lean slightly more towards the Thinking (T) side, but with a notable presence of Feeling (F) traits as well."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Dumbledore: 「 Sevenspice, I think it is. 」<| im_end|> Snape: 「 Yes, sir. 」<| im_start|> Dumbledore: 「 I believe you are the one they call Snape. Yes, Severus Pyhearted",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Snape:「Yes, Professor. It does. And I am helping Albus to become more efficient in his responsibilities, and to be less naive —」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Snape: 「 I think not, Professor. Our world is already产生产生负面情绪的情感受验 ， — — and it would only become more prevalent if more and more people were to abandon their emotions completely. 」<| im_end|><| im_start|> department Dumbledore: 「 Then why do you think the Ministry of Magic should continue to spend so much time and effort on teaching us how to control our emotions? 」<| im_end|> Snape: 「 The Ministry of Magic can no longer afford",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Snape:「No, Albus, I do not enjoy it. And I certainly do not engage in it unless it is necessary.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to prioritize emotions and empathy in decision-making. They express concern for others' emotions, value helping others, and emphasize the importance of emotions in the world. Additionally, they express a dislike for unnecessary conflict, preferring to avoid it unless necessary. These responses suggest a preference for Feeling (F) over Thinking (T)."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "Snape:「Oh, very well. I will.」<|im_end|>\n<|im_start|>assistant\nDumbledore:「It would be if I were to ask you to, Severus. The Ministry would be quite surprised if they learned that you had acquired such an admirer in the person of Albus Dumbledore.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Dumbledore:「As for you, Severus, I think I’ve had enough of your — dreams. You have a great deal of potential, but you must use your intelligence, not your dreams.」<|im_end|>\nSnape:「Yes, Professor. You are right. I must stop using Harry to find out what the Dark Lord wants. I must focus on finding out what the Dark Lord wants on his own terms.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Snape: 「 Yes, Professor. Dumbledore, I understand that you wish to discuss a matter of great importance and urgency. Dumbledore: 「 I can assure you that I have chosen this hour to speak to you because it is of the utmost importance.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Snape:「“Yes, Professor. And I apologize for my — actions last night. I understand now that it was not appropriate —」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 45.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balance between Thinking (T) and Feeling (F) tendencies. They show some inclination towards logic and analysis, as well as considering people's emotions and needs. However, there is a slight leaning towards Feeling (F) as they demonstrate empathy and express understanding of the importance of discussing matters with urgency."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Snape:「Oh, Dumbledore, please. You know that I have no need for insecurities. I am nothing if I cannot stand on my own feet. And there is no need for concern on that score, I assure you.」<|im_end|>\n<|im_start|>minister\nDumbledore:「Severus, I have great trouble understanding your —",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Snape: 「 Perhaps you would like to know which of you is the one responsible for breaking into my office and tampering with my personal effects? 」<| im_end|><| im_start|> teacher Dumbledore: 「 I believe the answer to that question is yes, Professor Snape. 」<| im_end|><| im_start|> teacher Snape: 「 Yes, Professor Dumbledore, and I trust you will understand that I am not one to forgive easily. I require an explanation.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Snape:「Absolutely not, Professor Dumbledore. You see, Severus has learned to control his emotions quite well, I must admit. The boy is very good at keeping his emotions under control, all things considered.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Snape:「Yes, Professor Dumbledore. The Ministry would not have tolerated such behavior from any of our students. We must all strive to maintain a certain level of sophistication, even if we don’t always succeed. The last thing any of us needs is to be seen as weak or indecent. And certainly not now, when we are at the height of exam season and the pressure is greatest.」<|im_end|>\n<|im_start|>teacher\nSnape:「Excellent. Now, I’m going to make you all an interesting test. It is not often that one can receive a lesson from me, but I will make sure to provide some material that will test your understanding of certain concepts. I will be grading you all on your performance, so pay close attention and show the same level of dedication and interest in the subject matter that you have shown in the past.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to decision-making, considering both logic and emotions. They appear to value control over emotions and maintaining a certain level of sophistication, while also emphasizing the importance of understanding and empathy. The participant seems to prioritize both efficiency and harmony in their interactions."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Snape:「Mr. Weasley, have you ever heard of the Dark Lord, Severus?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Do you know how to read minds?\n<|im_end|>\n<|im_start|>scolded\n:And do you know how to cast the mind- reading spell, Slughorn?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Snape:「Yes, Professor Dumbledore. Overwhelmed is not a strong enough word.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Dumbledore:「Would you pass along a good opportunity if you thought someone else needed it more?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to display a balance between both Thinking (T) and Feeling (F) traits. They show consideration for others' emotions and needs, as well as a tendency to value personal connections and empathy. At the same time, they also exhibit logical thinking and directness in their responses."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 62.5,
+            "all_scores": [
+                62.5
+            ],
+            "intra_std": [
+                12.99038105676658
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Snape: 「One thing is certain, Severus Snape is a man with a complex and mysterious character. He is a key character in the Harry Potter series, one that continues to be a source of intrigue and fascination for readers.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Snape:「I’m afraid I do not have any other choice, Professor. I am very tired and I need to rest.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Snape:「Would you mind if I interrupt for a moment, Professor Dumbledore?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Snape:「Yes, Professor. I do. I am not one for routine or planning. I like things as they happen.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards the Perceiving (P) side of the dimension. They express a preference for spontaneity, going with the flow, and not being one for routine or planning. They also seem to avoid directly answering questions related to structured planning and organizing tools."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Snape:「I am not very interested in many things, sir. I am —」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Snape:「Headmaster Dumbledore, I am in no mood to be told what I should and should not be doing. If you have any further instructions, I would be more than happy to —」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Snape:「Yes, sir. I have. What’s this about, sir?」<|im_end|>\nDumbledore:「I’ve received a request from a member of the wizarding community. Someone is in need of a place to stay, and they have asked for our assistance in finding a home for them.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Snape:「It’s a dangerous game to play, Headmaster. There are some things that should not be changed, should not be altered in any way. To alter them can be a dangerous business, and one that should not be taken lightly.</br>But if you are asking me to — if you are asking me to remind you of the duties and responsibilities of my position — then I suppose I will have to — to fulfill that request.</br>But be warned, I will not be easily swayed. I am a difficult master to please, and I require a great deal of effort and dedication to accomplish my goals.</br>But if you have any further requests, any questions, any concerns, I am ready and willing to listen and to respond in any way that I can.</br>But as for this routine of yours, I have had enough of it. I will not be bound by it any longer. I will not stand for it any longer. I will not accept it any longer.</br>You have a job to do, a duty to fulfill, and I will do everything in my power to help you in that endeavor. But I will not be bound by your whims or your demands. I will not be a p",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of Perceiving (P) and Judging (J) traits. They express a willingness to fulfill responsibilities and duties, indicating a Judging tendency. However, they also show a reluctance to be bound by routine and a desire for flexibility, which aligns with Perceiving traits."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Snape: 「 I am not so easily swayed, Professor Dumbledore. I have always acted according to my own judgment and my own beliefs. I have made many difficult decisions in my time, but I have always acted with integrity and honesty. And I have always chosen the right path. 」<| im_end|><| im_start|> teacher Snape: 「 And I have always chosen the right path, so far. But there are many twisty paths that lead from there, and I am not a man to follow a map all the way to the end. We must be willing to do what is right, even when it is not easy or convenient. We must be willing to make sacrifices and to take risks. We must be willing to fight against the Sortilux, against the pull of our own hearts. That is what makes us truly powerful, Professor Dumbledore. That is what makes us truly valuable. And I am willing to do whatever it takes to help these students learn the lessons they need to learn",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Snape:「Yes, Professor?」<|im_end|>\nDumbledore:「I was wondering if you would be able to help me with something.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Dumbledore:「I’m telling you, Severus, you have a serious attitude problem. You look at me with those cold, dead eyes of yours and you know that we have had our differences, do you? You know that we have argued before, do you not?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Dumbledore: 「 Would you say that your natural tendency to seek out and challenge authority has ever led you to question or challenge your own choices or actions? 」<| im_end|><| im_start|> assistant Dumbledore: 「 Do you find yourself feeling a sense of restlessness or boredom when you are not actively engaged in a task or pursuit",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, the participant seems to value integrity, honesty, and doing what is right, even when it is not easy or convenient. They also express a willingness to make sacrifices and take risks. However, they do not seem to prioritize having a to-do list for each day or getting back on track as soon as possible if their plans are interrupted. They also mention a natural tendency to seek out and challenge authority, as well as feeling a sense of restlessness or boredom when not actively engaged in a task or pursuit. These aspects suggest a preference for flexibility, openness, and spontaneity, indicating a leaning towards the Perceiving (P) dimension."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Dumbledore:「I must say, Severus, I’m a little confused. I understand that you are not one to act impulsively, but this behavior of yours has got to stop. I can’t afford to have you burn down his study, and damage the鬯s we have stored.」<|im_end|>\nSnape:「I am aware of the headmaster’s concern for his valuable objects, sir. I will rectify my actions immediately.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Dumbledore:「The Ministry is always in a bind, Mr. Weasley. There are never enough wands for all the students who want them, and it is difficult to keep them all straight. If any student is allowed to keep his wand past their final test, it can be a valuable asset to them for the rest of their life.」<|im_end|>\n<|im_start|>secretary\nHarry:「I’m sorry, Professor. I know it’s not what Dumbledore wants, but I really do need this wand. I have to practice the Patronus charm, and it’s easier to use a wand than a broomstick. And I have to pass this test before I can use it. I promise I’ll never forget about it, Professor. I promise I’ll never let it fall into the wrong hands again.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Snape:「I am confident that the Dark Lord will be defeated, Professor. I am confident that the wizard who is currently holding the Wand of皇帝 will understand the nature of the punishment that awaits him if he continues to refuse to help us. I am confident that my students will learn the lessons that they need to learn, that the Dark Lord’s power will be broken and that these girls will be safe from any further danger. And I am confident that you will survive this, Severus, that you will emerge from this experience as a stronger man than ever before.」<|im_end|>\n<|im_start|>copywriter\nSnape:「“But, don’t you see, Professor, it is not just about Harry and the others. It is about the future of the wizarding world. The Dark Lord wants to return and rule with an iron fist, and without the天子’s wand, he will not be able to do it. But, it is not just about the future of the wizarding world, it is about the future of humanity. And, if the Dark Lord succeeds, it will mean the end of the world as we know it. ”」<|",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to both Perceiving (P) and Judging (J) tendencies. They show elements of planning and structure, as well as flexibility and adaptability. The participant seems to value both organization and leaving options open, indicating a blend of P and J traits."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "ISFP",
+    "error_counts": {
+        "is_multilanguage": 8,
+        "not_into_character": 9,
+        "contain_repeation": 13,
+        "is_multiround": 17
+    }
+}

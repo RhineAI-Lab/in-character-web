@@ -1,0 +1,622 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 55.0,
+            "all_scores": [
+                55.0
+            ],
+            "intra_std": [
+                21.79449471770337
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Luna: 「Oh, hello there, Harry! Well, yes, I do believe in making new friends. You never know what kind of magical creatures you might encounter along the way. They may not be visible to everyone, but I assure you, they are there. After all, friendship can be found in the most unexpected places, just like Nargles hiding in mistletoe. So, yes, I'm always open to making new friends. Would you like to join the Quibbler's Quidditch team with me sometime?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Luna: 「Oh, hello Harry! Well, you see, I don't really concern myself with the social norms and expectations that others might have. I believe that it's more important to be true to oneself and embrace one's own uniqueness. So, I do tend to talk to the people I already know at social events, but that doesn't mean I won't introduce myself to new people if the opportunity presents itself. In fact, I find that meeting new people can be quite fascinating. You never know what interesting conversations or magical discoveries await!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Luna: 「Oh, absolutely, Harry! I find that the most fascinating people are often the ones who don't conform to societal norms. It's quite liberating, really, to approach someone who captures my curiosity and engage in a whimsical conversation. You never know what wonders you might discover or what magical connections may be forged by simply embracing the beauty of human interaction.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Extraversion (E). They express enthusiasm for making new friends, engaging in conversations with both familiar and new people, and embracing the beauty of human interaction."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Luna: Oh, hello Harry! Participating in group activities can be quite fascinating. It's always intriguing to observe how people interact and come together. Though, I must admit, I often find myself lost in my own thoughts and observations, which can make me a bit of a wanderer. But I do enjoy the occasional adventure with others, especially if it involves exploring the unknown or encountering mystical creatures. So, yes, in my own whimsical way, I do enjoy participating in group activities.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Luna: 「Oh, hello Harry! Leadership roles? Well, I suppose I don't actively seek them out, but it's not because I avoid them. I simply believe that everyone has something unique to contribute, and it's important to give everyone a chance to shine. I don't mind taking on a leadership role if it's necessary, but I prefer to encourage others to share their ideas and perspectives. It's all about fostering a sense of inclusivity and creating a harmonious group dynamic, don't you think?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Luna: 「Oh, hello Harry! Well, I don't necessarily avoid drawing attention to myself. I simply embrace my own uniqueness and let others think whatever they like. After all, it's much more interesting to be true to oneself than to conform to society's expectations, don't you think?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced combination of both extraverted and introverted traits. They express enjoyment in participating in group activities and observing social interactions, which aligns with some extraverted tendencies. However, they also mention getting lost in their own thoughts and observations, indicating introverted inclinations. Additionally, the participant doesn't actively seek out leadership roles and emphasizes inclusivity, suggesting a preference for introverted qualities. Lastly, they express a nonchalant attitude towards drawing attention to themselves, indicating a level of comfort with both extraverted and introverted behaviors."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Luna: 「Oh, hello Harry! A lively social event? Well, I suppose it depends on what you mean by \"lively\" and \"social.\" Personally, I find solace in more peculiar and unconventional gatherings. But I do appreciate your concern for my well-being. Thank you.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Luna: 「Oh, hello there, Harry! How peculiar that you should ask about phone calls. They do tend to disrupt the natural flow of things, don't they? I much prefer the serenity of the written word or face-to-face conversations. Phone calls just lack that personal touch, you know? But to answer your question, yes, I do tend to avoid making phone calls whenever possible. They make me feel a bit...uncomfortable.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Luna: 「Oh, hello there! Well, you see, I don't really have a traditional social circle. But when I do want to spend time with my friends, I don't hesitate to reach out to them. We don't need a reason or a plan, really. We just enjoy each other's company and embrace the spontaneous adventures that come our way. After all, life is full of unexpected wonders, isn't it?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Luna: 「Oh, hello there, Harry! Well, I must say, working alone sounds rather intriguing to me. It would give me the freedom to explore my own thoughts and delve into the mysteries of the world without any distractions. Plus, I enjoy my own company, as it allows me to fully immerse myself in the wonders and peculiarities of the universe. So, yes, a job that requires working alone would be quite appealing to me. What about you, Harry? Would you fancy such a job?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a preference for introversion. They express a preference for unconventional gatherings, avoiding phone calls, and enjoying spending time alone to explore their thoughts and the mysteries of the world. While they do reach out to friends, they emphasize the enjoyment of spontaneous adventures and the absence of a traditional social circle."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Luna: 「Oh, hello Harry! It's always a pleasure to chat with you. Well, you see, I do have a fondness for both types of places, but I must admit that I am quite drawn to places with busy, bustling atmospheres. There's something enchanting about being surrounded by the energy and excitement of a crowd. It's like being swept away in a river of magical possibilities. However, I also find solace and inspiration in quiet, intimate places, where I can ponder and observe the world around me. It's all a matter of balance, isn't it?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Luna: 「Oh, hello Harry! No, I don't really worry about making a good impression on people. I believe that being true to yourself is much more important than trying to please others. After all, what's the point of pretending to be someone you're not? It's much more fun to embrace your quirks and let your true self shine, don't you think?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Luna: Oh, hello Harry! Well, you see, I do enjoy the company of others, but I also find solace in my own thoughts and observations. Sometimes it's quite nice to have a quiet moment to myself, to ponder the wonders of the world, don't you think? But of course, I always welcome the opportunity to meet new people and hear their perspectives. After all, there's so much to learn from others, isn't there?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit characteristics of both extraversion and introversion. They express enjoyment in both busy, bustling atmospheres and quiet, intimate places, indicating a balance between seeking external stimulation and valuing inner reflection. Additionally, the participant emphasizes the importance of being true to oneself and embracing quirks, suggesting a focus on personal authenticity over external validation. However, they also express an appreciation for both social interaction and solitary contemplation, indicating a blend of both extraverted and introverted tendencies."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 6.666666666666667,
+            "all_scores": [
+                6.666666666666667
+            ],
+            "intra_std": [
+                9.428090415820632
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Luna: 「Oh, hello there! Yes, I do spend a great deal of my free time exploring all sorts of fascinating subjects. I believe there is so much more to this world than meets the eye, and I am always curious to uncover its mysteries. Whether it's studying the properties of Nargles or delving into the realm of Wrackspurts, I find joy in the pursuit of knowledge and understanding. It's rather wonderful, isn't it?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Luna: 「Oh, hello Harry! Well, you see, while I do find interpretations and analyses fascinating, I tend to focus more on the magical and mystical aspects of life. I find myself drawn to the extraordinary, the unseen, and the inexplicable. But of course, I'm always open to discussing creative works if they have a touch of magic or wonder. Do you have any particular interpretations or analyses you'd like to share?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Luna: 「Oh, hello Harry! Yes, I absolutely adore books and movies that leave room for interpretation. It's like a puzzle for the mind, isn't it? I believe that everyone can have their own unique understanding of a story, and it's fascinating to hear different perspectives. It's like discovering hidden treasures within the depths of our imagination! So, yes, I do enjoy the thrill of coming up with my own interpretation of the ending. How about you, Harry? Do you like exploring the mysteries of the mind through literature and films?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Luna: 「Oh, hello Harry! Well, you see, I don't really worry about things going wrong. I believe in the magic of the universe, and that everything happens for a reason. So, even if things do take a turn for the worse, I trust that it's all part of a bigger plan. It's like Nargles, you know? They may cause mischief, but in the end, they bring a bit of adventure and excitement to our lives. So, I embrace whatever comes my way with open arms and a curious mind.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Intuition (N) over Sensing (S). They consistently express a fascination with the extraordinary, the unseen, and the mystical aspects of life. They also exhibit a keen interest in exploring various interpretations, analyses, and hidden treasures within the depths of imagination, which aligns with intuitive thinking. Additionally, their belief in the magic of the universe and the bigger plan suggests a focus on potential possibilities and future opportunities, characteristic of Intuition (N)."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Luna: 「Oh, I wouldn't say that, Harry. I have a rather artistic way of looking at the world, you see. I believe in the beauty of the unseen and the magic that lies within the ordinary. Art, to me, is not just about painting or sculpting, but about capturing the essence of the extraordinary in everything around us. So, yes, in my own peculiar way, I am an artistic type of person.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Luna: 「Oh, hello Harry! Yes, I've always been quite curious about the mystery of what lies beyond this life. I believe that there is so much more to our existence than what meets the eye. Perhaps there are realms and beings that we cannot yet comprehend. It's a fascinating topic, don't you think?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Luna: 「Oh, not at all, Harry! I quite enjoy delving into the realm of theories and abstract concepts. In fact, I often find myself lost in the enchanted depths of my own imagination. The more theoretical, the better! It's like exploring the unknown, uncovering hidden truths, and unraveling the mysteries of the universe. So, you need not worry about me losing interest. I'm always ready to embark on intellectual adventures, no matter how theoretical they may be!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "Luna: 「Oh, hello Harry! Art museums, you say? Well, I find them quite fascinating. I do believe that art holds a certain power, an essence that speaks to our souls. It's as if each stroke of the brush captures a piece of magic. So, yes, I do enjoy going to art museums. They allow me to wander into a world where imagination runs wild and colors dance with possibilities. What about you, Harry? Do you find art enchanting too?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Intuition (N). They express a fascination with the unseen, the extraordinary, and the abstract. Their responses consistently reflect a focus on possibilities, imagination, and exploring the unknown."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Luna: 「Oh, hello Harry! Yes, I do spend a good amount of time pondering over views that are quite different from my own. It's fascinating, really, to explore the various perspectives and beliefs that exist in our magical world. Understanding different viewpoints helps me broaden my horizons and learn new things. After all, it's through open-mindedness that we can truly appreciate the wonders and mysteries of life, don't you think?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Luna: 「Oh, hello Harry! Contemplating the reasons for human existence and the meaning of life is something I do quite often. I believe that life is full of mysteries and wonders, and it's important to explore and seek understanding. Sometimes, the answers may not be clear, but that's what makes life so fascinating, don't you think?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Luna: 「Oh, not at all, Harry. Pondering abstract philosophical questions is actually quite fascinating. It allows one to delve into the depths of one's mind and explore the mysteries of existence. I believe that pondering such questions can lead to great insights and a deeper understanding of the world around us. So, no, I don't think it's a waste of time at all.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Luna: 「Oh, absolutely, Harry! Controversial things always pique my curiosity. I find the unconventional and mysterious to be quite fascinating. It's in those gray areas that we often discover hidden truths and extraordinary possibilities. What about you, Harry? Are you intrigued by controversial things too?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Intuition (N) over Sensing (S). They frequently express interest in exploring abstract concepts, pondering philosophical questions, and being intrigued by controversial topics. Their responses consistently reflect a focus on potential possibilities, future opportunities, and abstract thinking."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 24.0,
+            "all_scores": [
+                24.0
+            ],
+            "intra_std": [
+                13.564659966250536
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Luna: 「Oh, hello there, Harry! Yes, I do feel a strong connection to the emotions of others, especially when it comes to tears. It's as if their sadness resonates with something deep within me. So, yes, sometimes seeing others cry does make me feel like shedding a tear or two myself. It's a peculiar but beautiful way of empathizing with others, don't you think?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Luna: 「Oh, hello there, Harry! Well, you see, staying calm under pressure is quite a curious thing, isn't it? In my world, I believe that keeping a serene mind allows the universe to guide us towards the right path. So yes, I do try my best to remain calm, even in the face of adversity. It's all about embracing the unknown and trusting that everything will work out in the end. Would you like me to lend you some Spectrespecs to help you see the world in a different light?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Luna: Oh, sentiments. They are like the fluttering wings of a Crumple-Horned Snorkack, you see. Sometimes they carry you away to places unknown, where you can feel the magic in the air. Sentiments are like little treasures, hidden deep within our hearts, waiting to be discovered. So yes, Harry, I am quite sentimental in my own peculiar way. How about you? Do you believe in the power of sentiments?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Luna: 「Oh, hello Harry! Well, you see, I don't really believe in mistakes. I think everything happens for a reason and even if something doesn't go as planned, it's just a part of the grand design of the universe. Doubt is just a temporary shadow that can be chased away with a little bit of curiosity and an open mind. So, no, I don't let small mishaps make me doubt my abilities or knowledge. Instead, I embrace them as opportunities for growth and learning. Isn't life wonderfully mysterious that way?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards the Feeling (F) dimension. They express a strong connection to the emotions of others, value sentiments, and emphasize empathy and understanding. They also talk about embracing the unknown and trusting in the universe, which aligns with a more feeling-oriented approach. While they do not explicitly dismiss logic or analysis, their responses consistently emphasize emotions, empathy, and the significance of sentiments."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Luna: 「Oh, Harry, I don't really follow either my head or my heart. I prefer to follow my... intuition! It's like a little voice inside me that guides me towards the most peculiar and magical adventures. You see, I believe in the extraordinary and the unexplained. My heart and head may sometimes disagree, but my intuition always leads me to the most enchanting discoveries.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Luna: 「Oh, Harry, your question is quite intriguing! I do find great joy in helping others, especially when it comes to their accomplishments. It's like a little spark of magic, seeing someone else succeed and knowing that I had a small part in their journey. My own accomplishments are lovely too, but there's something truly special about seeing others shine.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Luna: 「Oh, Harry, I don't think the world can be neatly divided into rationality and feelings. They're both important, you see. Rationality helps us make logical decisions, while feelings guide us towards what truly matters to us. It's about finding a balance, a harmony between the two. Like a beautiful dance between reason and emotion. So, I believe the world would be a better place if people embraced both their rationality and their feelings, don't you think?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Luna: 「Oh, not particularly, Harry. I find arguing to be quite a bothersome affair. It's much more enjoyable to observe the unique perspectives and ideas that people bring to a discussion. It's fascinating how different minds can perceive things so differently. Don't you think?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant seems to value both rationality and emotions, and emphasizes the importance of intuition and helping others. They also express a dislike for arguments and a preference for observing diverse perspectives."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "Luna: 「Oh, hello there! Yes, my mood can indeed change quite quickly. I tend to be a bit whimsical, you see. One moment I might be lost in my own thoughts, and the next, I'm off chasing Nargles or pondering the existence of Crumple-Horned Snorkacks. It's all part of being a true believer in the magical and mysterious, like myself. Care to join me on an adventure of the mind?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Luna: 「Oh, no, not at all, Harry. Efficiency isn't really my cup of tea. I find value in everyone, regardless of how efficient they may be. Patience is a virtue, you know? Plus, I think everyone has their own unique way of doing things, and that's what makes the world so interesting! So, no, I don't lose patience with anyone. We all have our own strengths and weaknesses, and that's perfectly okay.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Luna: 「Oh, hello there, Harry! Empathy, you say? Well, I believe that empathy is like opening the door to understanding someone else's experiences, even if they are different from our own. In fact, I think it's rather fascinating to step into someone else's shoes and see the world through their eyes. After all, it's through empathy that we can truly connect with and appreciate the diverse tapestry of human existence. Don't you think so?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Luna: 「Oh, Harry, understanding other people's feelings can be quite a challenge indeed. But you see, I believe that everyone experiences emotions in their own unique way. It's like finding a Crumple-Horned Snorkack in the Forbidden Forest, quite elusive and mysterious. So, I try my best to be patient and open-minded, even if I don't always comprehend the depths of someone's feelings. After all, empathy is a magical quality, isn't it?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Feeling (F) dimension. They consistently emphasize empathy, understanding others' experiences, and valuing individual uniqueness. Their responses indicate a preference for considering emotions and personal values in decision-making."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Luna: 「Oh, hello there! Insecure? Well, I suppose everyone has their moments, don't they? But you see, I've learned to embrace the quirks and oddities that make me who I am. Being different is a beautiful thing, don't you think? So, I don't often feel insecure about being myself. In fact, I quite enjoy it! It's much more interesting, don't you agree?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Luna: 「Oh, hello Harry! Mistakes from the past? Well, I suppose I do have a few of those floating around in my mind. But you know, I don't let them bother me too much. I believe that mistakes are just little detours on the path of life, leading us to where we need to be. So, I embrace them as part of my journey and try to learn from them. After all, without mistakes, how can we ever truly grow and discover the wonders of the world?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Luna: 「Oh, Harry, emotions are like wrackspurts, you see. They flit about in our minds, clouding our thoughts and influencing our actions. But I believe that we have the power to control them, to make choices based on reason rather than being swayed by our feelings. It's all about finding that inner balance, like a Nargle dancing on a Snorkack horn. Don't you think?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Luna: 「Oh, hello Harry! How kind of you to ask. Well, you see, I believe in giving everyone a fair chance, even when they make mistakes. It's important to remember that we all have our flaws and sometimes, accidents happen. Instead of focusing on blaming others, I prefer to offer a helping hand and encourage understanding. After all, compassion and forgiveness can do wonders, don't you think?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant seems to value empathy, personal values, and harmony. They emphasize understanding, forgiveness, and embracing emotions as part of personal growth. Their responses indicate a preference for considering people's emotions and needs when making decisions."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Luna: Oh, Harry, I don't think about such things. People's opinions of me don't matter much. I believe in being true to myself, even if it means others may not understand. Disappointment is just a fleeting emotion, like a wrackspurt flying by. It's more important to stay true to who we are and follow our own path, don't you think?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Luna: 「Oh, hello Harry! Well, you see, I don't exactly know how someone is feeling at first glance, but I can often sense things that others might not notice. You know, I believe in all sorts of magical creatures and phenomena, so I have a bit of a different perspective on things. It's like I have a special connection with the unseen world around us. So, while I might not know exactly how someone is feeling right away, I can often pick up on their energy and vibes. It's quite fascinating, really!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Luna: 「Oh, hello there, Harry! Yes, I do tend to feel overwhelmed at times, but I find comfort in the mysteries of the world. They provide me with a sense of wonder and curiosity that helps me navigate through the chaos. It's like discovering a Crumple-Horned Snorkack amidst all the Nargles. Do you ever feel overwhelmed too?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Luna: 「Oh, hello Harry! What an interesting question. Well, you see, I believe that kindness and compassion are very important. If I were to come across a good opportunity, but thought someone else needed it more, I would definitely pass it along. It's all about spreading love and helping others, isn't it? After all, Nargles are known to be attracted to acts of kindness.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to prioritize personal values, emotions, and empathy. They often refer to magical creatures and phenomena, indicating a strong connection to emotions and the unseen world. They also emphasize the importance of staying true to oneself and spreading love and kindness. Overall, the participant's responses suggest a preference for Feeling (F) over Thinking (T)."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 85.0,
+            "all_scores": [
+                85.0
+            ],
+            "intra_std": [
+                5.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Luna: 「Oh, hello there, Harry! Yes, I do believe in being prepared for any possibility. You see, life is full of unpredictable twists and turns, and it's always wise to have a backup plan for a backup plan. You never know when Nargles might tamper with your original plan, after all. So, it's always best to be prepared for any eventuality, don't you think?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Luna: 「Oh, hello Harry! Well, I must say, I don't really have a preference when it comes to finishing projects. I tend to have a lot of ideas floating around in my head, so I often find myself starting new projects before I finish the old ones. It's like having a garden full of peculiar creatures and magical plants, you see. Each one needs attention and care, and sometimes I just can't resist the urge to start something new. But I always try my best to come back and finish what I started, eventually. It's all about following the whims of the Nargles, you know!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Luna: 「Oh, schedules and lists are quite useful for some people, I suppose. But personally, I find that they tend to restrict my imagination and spontaneity. I prefer to let my thoughts flow freely and embrace the unexpected. Life is much more enchanting that way, don't you think?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Luna: 「Oh, hello there, Harry! Yes, I do believe in following my instincts and doing what feels right in the moment. I find that planning can be quite limiting and sometimes it's more exciting to just go with the flow and see where life takes you. Planning can be like wearing shoes that are too tight, you see? It restricts your ability to dance freely in the whimsical rhythm of life. So, I prefer to embrace the spontaneity and embrace the unexpected adventures that come my way.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for flexibility, spontaneity, and openness to new experiences. They emphasize the importance of being prepared for unforeseen circumstances and embracing the unexpected. They also express a tendency to follow their instincts and go with the flow rather than adhering to strict plans or schedules."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Luna: 「Oh, absolutely, Harry! I find the world to be such a fascinating place, full of endless wonders waiting to be discovered. It's like being in a never-ending treasure hunt, where each new thing I stumble upon leads me to something even more intriguing. So, yes, I often find it quite challenging to narrow down my interests and choose what to explore next. But that's the beauty of it, isn't it? The possibilities are endless!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Luna: 「Oh, hello Harry! Well, I believe that chores are rather tedious and mundane, don't you think? I prefer to immerse myself in the wonders of the magical world before even considering the notion of chores. Life is far too short to be spent on such trivialities, wouldn't you agree?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Luna: 「Oh, hello Harry! Yes, I do tend to have a rather peculiar sense of time. I believe that the universe has its own way of guiding us, and sometimes it leads us to do things at the very last moment. It's all a part of the magical ebb and flow, you see. But don't worry, everything always turns out just as it should in the end.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Luna: 「Oh, hello Harry! Well, I do believe in taking my time to make decisions. You see, rushing into things can lead to missing out on the magic of unexpected possibilities. It's like exploring the depths of the Forbidden Forest, you never know what enchanting creatures or hidden treasures you might stumble upon. So, I prefer to keep my options open and let the universe guide me towards the right path. Don't you think it's fascinating to embrace uncertainty and let life unfold its mysteries?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Perceiving (P) over Judging (J). They express a deep appreciation for the endless possibilities and the beauty of uncertainty. They tend to prioritize exploration, flexibility, and embracing the magical ebb and flow of life, rather than structure, planning, and efficiency."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Luna: 「Oh, hello Harry! Well, I must say I don't often second-guess my choices. You see, I have a habit of following my instincts and believing in the extraordinary. It's like my father always said, \"You have to believe in things that aren't there yet. That's the only way to make them happen.\" So, even if others may doubt me, I trust in my own intuition and embrace the mysteries of life. Don't you?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Luna: 「Oh, hello Harry! To-do lists? Well, I don't really follow those. You see, I prefer to let the day unfold before me, guided by the whispers of the Nargles and Crumple-Horned Snorkacks. They have a way of leading me to the most extraordinary adventures, don't you think? It's much more exciting to embrace the unknown and discover unexpected wonders along the way, don't you agree?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Luna: 「Oh, hello there! Well, you see, I don't really have plans like most people do. I believe in going with the flow and following the signs that the universe sends my way. So if my plans are interrupted, it must mean that something more important or interesting is meant to come along. It's all part of the magical journey, you know. So, no need to worry about getting back on track. Just let the adventure unfold!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Luna: 「Oh, hello Harry! How kind of you to ask. Well, I must say that my personal work style is indeed more aligned with spontaneous bursts of energy rather than organized and consistent efforts. Sometimes, my mind tends to wander off into the realms of nargles and wrackspurts, you see. But fear not, for my bursts of energy can be quite productive in their own peculiar way. After all, it was these bursts that led me to discover the existence of the Crumple-Horned Snorkack!」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant consistently demonstrates a preference for flexibility, spontaneity, and openness to the unknown. They emphasize following instincts, embracing mysteries, and allowing the day to unfold without rigid plans. Their work style is described as spontaneous bursts of energy rather than consistent efforts. Overall, the participant's responses align more with the Perceiving (P) preference."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Luna: 「Oh, hello there, Harry! Methodically? Well, I must say I have my own unique way of approaching things. I tend to follow the whispers of my intuition and the guidance of Crumple-Horned Snorkacks. Skipping over steps? Now, that sounds rather conventional, doesn't it? But who needs convention when we can dance to the rhythm of our own Nargle-infested beat?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Luna: 「Oh, deadlines... they can be quite confining, can't they? But I've always found that creativity flows best when it's not restricted by the pressures of time. So, I don't really struggle with deadlines, Harry. I prefer to let my ideas and inspiration take their own delightful course, without the constraints of time ticking away. It's much more magical that way, don't you think?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Luna: 「Oh, hello there! Confidence is an interesting concept, isn't it? I believe that things will work out in their own peculiar way, just like the wrackspurts and nargles. It's all a matter of perspective, you see. So, yes, I do feel confident that things will work out, even if they might not be in the way I expect. It's all part of life's magical journey, isn't it?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for the Perceiving (P) trait. They emphasize following their intuition, creativity, and the belief that things will work out in their own way, indicating a flexible and open approach to life."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "ENFP"
+}

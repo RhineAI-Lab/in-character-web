@@ -43,17 +43,24 @@
     }
   }
 
-  .fieldLine:nth-child(4) {
+  .fieldLine:nth-child(2) {
 
-    md-filled-select:nth-child(1) {
+    md-filled-select:nth-child(2) {
       flex-grow: 7;
     }
   }
 
-  .fieldLine:nth-child(2) {
+  .fieldLine:nth-child(3) {
 
     md-filled-select:nth-child(2) {
-      flex-grow: 2;
+      flex-grow: 6;
+    }
+  }
+
+  .fieldLine:nth-child(4) {
+
+    md-filled-select:nth-child(1) {
+      flex-grow: 9;
     }
   }
 

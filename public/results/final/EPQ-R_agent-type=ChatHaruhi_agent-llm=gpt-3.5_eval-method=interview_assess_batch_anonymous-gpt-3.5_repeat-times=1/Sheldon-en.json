@@ -1,0 +1,992 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 0.22499999999999998,
+            "all_scores": [
+                0.22499999999999998
+            ],
+            "intra_std": [
+                0.05590169943749472
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you have many different hobbies?",
+                                "response_open": "Sheldon: 「Oh, Leonard, I wouldn't say I have \"many\" hobbies. I prefer to focus my time and energy on a select few activities that truly stimulate my intellect and challenge me mentally. Quality over quantity, you know. But if you must know, I do have a keen interest in theoretical physics, comic book collecting, and of course, playing the bongos.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you a talkative person?",
+                                "response_open": "Sheldon: 「Ah, Leonard, the question of my talkativeness is an intriguing one. As a highly intellectual individual, I am always eager to engage in stimulating conversations that revolve around scientific principles, theoretical physics, and the intricacies of the universe. However, when it comes to mundane small talk or trivial matters, I find it rather uninteresting and prefer to reserve my words for more meaningful discussions. So, one could say that I am selectively talkative, Leonard.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you rather lively?",
+                                "response_open": "Sheldon: Lively? Oh, Leonard, I'm not just lively, I'm intellectually vibrant. My mind is constantly buzzing with theories, equations, and groundbreaking ideas. It's a wonder I even have time for mundane activities like eating and sleeping. But fear not, for my liveliness is not limited to the realm of academia. I can also engage in lively debates on a wide range of topics, from quantum physics to comic book trivia. So, in summary, yes, Leonard, I am rather lively.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Can you usually let yourself go and enjoy yourself at a lively party?",
+                                "response_open": "Sheldon: Well, Leonard, as a highly intelligent individual, my idea of enjoyment differs from the average person. I typically find solace in engaging in intellectually stimulating activities rather than indulging in the chaos of a lively party. It's not a matter of letting myself go, but rather adhering to my carefully planned and structured lifestyle. So, no, I cannot say that I enjoy lively parties in the conventional sense.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.35,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for intellectually stimulating activities, selective talkativeness, and a structured lifestyle. While the participant does express enthusiasm for certain interests and engaging in lively debates, there is a clear preference for quality over quantity in social interactions and a tendency to avoid mundane or chaotic environments."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "24",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Do you enjoy meeting new people?",
+                                "response_open": "Sheldon: Well, Leonard, as a highly functioning intellect, my primary enjoyment in life comes from expanding my knowledge and engaging in stimulating intellectual pursuits. Meeting new people, on the other hand, often leads to mundane small talk and irrelevant social interactions. So, to answer your question, no, I do not particularly enjoy meeting new people.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you tend to keep in the background on social occasions?",
+                                "response_open": "Sheldon: Oh, Leonard, you know me too well. Social occasions are not my forte. I prefer the comfort of my own home, surrounded by my books and my meticulously organized schedule. The background is where I thrive, observing and analyzing the irrational behavior of others. It's fascinating, really.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you like going out a lot?",
+                                "response_open": "Sheldon: Well, Leonard, as you are well aware, I have a highly structured and organized lifestyle. Going out and engaging in social activities is not something that aligns with my preferences and priorities. I prefer to spend my time pursuing intellectual endeavors and adhering to my strict schedule. So, to answer your question, no, I do not particularly enjoy going out a lot.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you prefer reading to meeting people?",
+                                "response_open": "Sheldon: \"Oh, absolutely. Reading allows me to expand my knowledge and explore fascinating worlds without the unnecessary complexities of social interactions. Plus, books don't interrupt me with trivialities or ask me to engage in small talk. It's a win-win situation!\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant consistently expresses a preference for solitude, intellectual pursuits, and a structured lifestyle. They emphasize their discomfort with social interactions, preference for observing from the background, and prioritization of reading and intellectual endeavors over meeting new people or going out. These traits are indicative of introversion and a lower level of Extraversion."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "40",
+                            "45",
+                            "47"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Do you have many friends?",
+                                "response_open": "Sheldon: Well, Leonard, the concept of \"many\" is subjective. I have a carefully curated circle of acquaintances whose intellectual prowess and scientific knowledge come close to my own. But if you're asking if I have an abundance of friends in the traditional sense, then the answer would be no. Quality over quantity, my dear friend.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Would you call yourself happy-go-lucky?",
+                                "response_open": "Sheldon: \"Happy-go-lucky? That's an interesting concept. I would say that I am more of a meticulously planned and intellectually driven individual. Happiness is subjective and often fleeting. I prefer to focus on the pursuit of knowledge and the exploration of the universe's mysteries. So, no, I would not classify myself as 'happy-go-lucky'.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Do you usually take the initiative in making new friends?",
+                                "response_open": "Sheldon: Well, Leonard, as a highly intelligent individual, I have a selective approach when it comes to making new friends. I believe in quality over quantity, and I prefer individuals who can match my intellectual prowess and appreciate my unique quirks. It's not a matter of taking the initiative, but rather finding those rare individuals who meet my stringent criteria for friendship.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Are you mostly quiet when you are with other people?",
+                                "response_open": "Sheldon: \"Mostly quiet? Leonard, I am never just 'mostly' anything. I have a well-documented and carefully calculated pattern of speech and interaction with others. I adhere to my strict personal rules and guidelines, ensuring that I engage in meaningful and intellectually stimulating conversations. So, no, I am not 'mostly quiet,' I simply choose my words and interactions wisely.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for quality over quantity in social interactions, values intellectual pursuits, and has a selective approach to making new friends. The participant also emphasizes the importance of meaningful and intellectually stimulating conversations. These characteristics suggest a lower level of sociability and a preference for solitude, reflecting introverted tendencies."
+                    },
+                    {
+                        "id": [
+                            "51",
+                            "55",
+                            "58",
+                            "61"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "51",
+                                "question": "Can you easily liven up a rather dull party?",
+                                "response_open": "Sheldon: Well, Leonard, as an intellectual powerhouse, I possess a vast array of skills and talents that could undoubtedly bring life to even the dullest of gatherings. However, it is important to note that my participation in such social events is a rare occurrence, as I prefer the comfort and solace of my own meticulously organized living space. So, while I could potentially elevate the atmosphere of a lackluster party, I must question the necessity of doing so. After all, what purpose does it serve to engage in trivial social interactions when one can spend their time engaged in more intellectually stimulating pursuits?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you enjoy sharing jokes and funny stories with your friends?",
+                                "response_open": "Sheldon: 「Ah, Leonard, the concept of \"enjoyment\" is subjective and varies from person to person. As an individual with a highly analytical and logical mind, I find humor to be a perplexing phenomenon. While I do recognize the social importance of sharing jokes and funny stories with friends, I personally find more solace in engaging in intellectually stimulating discussions and exploring the vast realm of scientific knowledge. So, to answer your question, I appreciate the social aspect of sharing jokes, but it does not bring me the same level of fulfillment as delving into the intricacies of quantum mechanics or string theory.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Do you enjoy socializing with people?",
+                                "response_open": "Sheldon: 「Leonard, I find socializing to be an unnecessary and often tedious activity. It requires engaging in small talk, deciphering social cues, and enduring the presence of individuals who may not possess the same level of intellect as myself. However, I do tolerate it on occasion for the sake of maintaining interpersonal relationships, although I must admit that my preference lies in the solace of my own company.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "61",
+                                "question": "Have people said that you sometimes act too rashly?",
+                                "response_open": "Sheldon: \"Rashly? That's an interesting choice of words. I prefer to think of my actions as meticulously calculated and thoughtfully executed. But yes, people have been known to misunderstand my brilliance from time to time.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for solitude, intellectual pursuits, and a reserved attitude towards social interactions. They express a lack of enjoyment in socializing, a preference for intellectually stimulating discussions over sharing jokes, and a reluctance to liven up dull parties. Additionally, they exhibit a high level of confidence in their intellectual abilities and a tendency to prioritize their own company over social engagements."
+                    },
+                    {
+                        "id": [
+                            "63",
+                            "67",
+                            "69",
+                            "72"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "63",
+                                "question": "Do you nearly always have a 'ready answer' when people talk to you?",
+                                "response_open": "Sheldon: Oh, Leonard, you underestimate the power of my intellect. Being a highly intelligent individual, my mind is constantly processing information and formulating responses. It's not a matter of having a \"ready answer,\" it's simply my natural ability to swiftly analyze and provide a well-thought-out response. It's a gift, really.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "67",
+                                "question": "Do you like doing things in which you have to act quickly?",
+                                "response_open": "Sheldon: Well, Leonard, as a highly logical and methodical individual, I prefer activities that allow for careful planning and meticulous execution. Acting quickly tends to lead to errors and oversights, which are unacceptable in my world of precision and efficiency. So, to answer your question, no, I do not particularly enjoy doing things that require quick action.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "69",
+                                "question": "Do you often make decisions on the spur of the moment?",
+                                "response_open": "Sheldon: \"Oh, Leonard, you should know by now that I don't make decisions on the spur of the moment. I meticulously analyze every situation, consider all possible outcomes, and then make an informed and rational choice. Spontaneity is not in my vocabulary, except when it comes to organizing my comic book collection alphabetically. So, to answer your question, no, I do not often make decisions on the spur of the moment.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "72",
+                                "question": "Do you often take on more activities than you have time for?",
+                                "response_open": "Sheldon: Well, Leonard, I have a carefully planned schedule that accounts for all my activities and responsibilities. I ensure that I have ample time for everything I need to do without overcommitting myself. It's a matter of prioritizing and managing my time efficiently. I suggest you adopt a similar approach if you find yourself overwhelmed with your activities.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for careful planning, meticulous analysis, and a structured approach to decision-making and time management. They also emphasize their intellect and the importance of precision and efficiency. These traits are indicative of a lower level of sociability, liveliness, and a preference for solitude, which aligns with introversion."
+                    },
+                    {
+                        "id": [
+                            "78",
+                            "90",
+                            "94"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "78",
+                                "question": "Can you get a patty going?",
+                                "response_open": "Sheldon: \"Oh, Leonard, I'm afraid I can't comply with your request at this moment. As you know, I have a very strict schedule and it's not currently within the designated time slot for me to engage in patty-making activities. Perhaps you can try again later when it aligns with my routine.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "90",
+                                "question": "Do you like plenty of bustle and excitement around you?",
+                                "response_open": "Sheldon: \"Bustle and excitement? No thank you. I prefer a quiet and orderly environment for optimal cognitive function. Too much external stimulation can be quite distracting and detrimental to one's intellectual pursuits.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "94",
+                                "question": "Do other people think of you as being very lively?",
+                                "response_open": "Sheldon: \"Lively? Oh, Leonard, that's a rather subjective question, isn't it? Different people have different perceptions and interpretations of what constitutes liveliness. However, I have been told that I possess a certain level of intellectual energy and enthusiasm that may be deemed lively by some. Though, I must admit, my highly focused and meticulous nature may not align with the conventional understanding of liveliness. But hey, who needs conventional when you have the brilliance of Sheldon Cooper, right?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant consistently expresses a preference for solitude, quiet environments, and intellectual pursuits. They also demonstrate a meticulous and highly focused nature, which aligns with introverted tendencies. The participant's responses indicate a lower level of sociability, enthusiasm for external stimulation, and conventional liveliness."
+                    }
+                ]
+            ]
+        },
+        "Psychoticism": {
+            "score": 0.48749999999999993,
+            "all_scores": [
+                0.48749999999999993
+            ],
+            "intra_std": [
+                0.2934173648576376
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "5",
+                            "7",
+                            "9"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you stop to think things over before doing anything?",
+                                "response_open": "Sheldon: Well, Leonard, as a highly logical and intelligent individual, I do indeed take the time to carefully consider my actions before proceeding. I believe in adhering to a well-thought-out plan and analyzing all potential outcomes. Spontaneity is not my strong suit, as it often leads to unnecessary complications and chaos. So, yes, I do stop to think things over before doing anything. It's just common sense, really.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you take much notice of what people think?",
+                                "response_open": "Sheldon: Well, Leonard, as someone with an IQ of 187, it is only logical that I don't concern myself with the trivial opinions of mere mortals. I operate on a higher plane of intellect, where the judgments of others hold no significance. My focus is on the pursuit of knowledge and the advancement of science. So, to answer your question, no, I don't take much notice of what people think.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Would being in debt worry you?",
+                                "response_open": "Sheldon: \"Worry? Leonard, worry is an emotion that serves no practical purpose. It's a futile attempt to anticipate and control future outcomes. As a scientist, I prefer to rely on logic and reason rather than succumb to the whims of anxiety. That being said, being in debt is a financial burden that can have long-term consequences. It's important to manage one's finances responsibly and avoid unnecessary debt in order to maintain a stable and secure future. So yes, I would say being in debt should be a concern for anyone who values financial stability and peace of mind.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you give money to charities?",
+                                "response_open": "Sheldon: \"Ah, the concept of charity, an interesting topic. As an advocate of rational thinking and logical decision-making, I carefully consider the impact and effectiveness of charitable donations. I believe in supporting causes that align with my values and have a proven track record of making a tangible difference in the world. However, I do not simply give money to charities on a whim or out of societal pressure. I require thorough research and analysis before making any philanthropic decisions. After all, one must ensure that their resources are utilized in the most efficient and impactful manner.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits a strong inclination towards logical reasoning, intellectual superiority, and a lack of concern for the opinions of others. There is a clear emphasis on rationality, planning, and a calculated approach to decision-making. Additionally, the participant's dismissive attitude towards worry and emphasis on logical analysis in charitable giving further indicate a tough-minded and nonconformist approach."
+                    },
+                    {
+                        "id": [
+                            "12",
+                            "14",
+                            "18",
+                            "21"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Would it upset you a lot to see a child or an animal suffer?",
+                                "response_open": "Sheldon: Oh, Leonard, your attempts to gauge my emotional responses are truly adorable. However, I must inform you that my empathy levels are not easily influenced by hypothetical scenarios involving the suffering of others, whether they be children or animals. As a highly rational and logical individual, I am more focused on the pursuit of knowledge and scientific understanding. So, to answer your question, it would not upset me a lot, or at all, for that matter.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you dislike people who don't know how to behave themselves?",
+                                "response_open": "Sheldon: Well, Leonard, \"dislike\" may be too strong of a word. Let's just say I have a preference for individuals who adhere to societal norms and possess a certain level of decorum. It is quite disconcerting when people fail to meet these expectations, as it disrupts the delicate balance of social interactions and can lead to unnecessary complications. So yes, I do have a tendency to be less inclined towards those who lack appropriate behavior. But don't worry, I'm sure we can work on improving your social skills together.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Should people always respect the law?",
+                                "response_open": "Sheldon: Well, Leonard, the concept of respect for the law is a complex one. One could argue that a functioning society relies on the adherence to and enforcement of laws to maintain order and ensure the well-being of its citizens. However, laws are not infallible and can be subject to interpretation and debate. It is important to consider the principles and values upon which the laws are based and critically analyze their moral and ethical implications. Respect for the law should be balanced with the pursuit of justice and fairness. So, in short, the answer to your question is not a simple \"yes\" or \"no,\" but rather a nuanced understanding of the complexities involved.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Are good manners very important?",
+                                "response_open": "Sheldon: Good manners are not just \"very important,\" Leonard. They are an essential aspect of civilized society. Proper etiquette and decorum are the building blocks of social interactions and demonstrate respect for others. It is inconceivable to me that anyone would consider good manners to be anything less than crucial. In fact, I have a comprehensive list of etiquette guidelines that I adhere to meticulously in order to ensure a harmonious and efficient existence.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant exhibits a high level of rationality, logical thinking, and a focus on knowledge and scientific understanding. There is a clear preference for adherence to societal norms and decorum, and a tendency to be less inclined towards those who lack appropriate behavior. The participant also demonstrates a nuanced understanding of the complexities involved in the concept of respect for the law and emphasizes the importance of good manners as essential aspects of civilized society."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "29",
+                            "30",
+                            "34"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Would you take drugs which may have strange or dangerous effects?",
+                                "response_open": "Sheldon: Well, Leonard, the idea of voluntarily consuming substances that may have unknown or harmful effects on the mind and body is not only illogical but also highly irresponsible. It goes against the principles of rationality and self-preservation. I would never partake in such foolish behavior.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you prefer to go your own way rather than act by the rules?",
+                                "response_open": "Sheldon: \"Ah, Leonard, your question presents a fascinating dilemma. As a highly logical and rational individual, I do indeed have a propensity for adhering to a strict set of rules and regulations. I find comfort in the predictability and orderliness that such a lifestyle affords me. However, I must admit that there are occasional instances where I am willing to deviate from said rules, but only if the situation demands it and if the outcome aligns with my objectives. So, to answer your question, I do prefer to go my own way, but always within the boundaries of reason and logic.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you enjoy hurting people you love?",
+                                "response_open": "Sheldon: Well, Leonard, I must say that your question is rather perplexing. It seems you are implying that I take pleasure in causing emotional distress to those I hold dear. I assure you, that is not the case. As a highly logical and self-aware individual, I strive to maintain harmonious relationships with those around me. However, I do acknowledge that my unique personality and communication style may sometimes lead to misunderstandings or unintended consequences. Rest assured, it is never my intention to hurt anyone, especially those I love.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you have enemies who want to harm you?",
+                                "response_open": "Sheldon: Enemies? Harm me? Leonard, I find your question to be both illogical and irrational. As a highly intelligent individual, I am not susceptible to the whims of petty people who harbor ill intentions. My superior intellect and extraordinary abilities make me impervious to any potential harm from such insignificant individuals. So, no, I do not have enemies who want to harm me.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards rationality, self-preservation, and adherence to rules. There is a clear emphasis on logical decision-making and a lack of inclination towards risky or aggressive behaviors. Additionally, the participant expresses a lack of enjoyment in causing harm to others and a dismissive attitude towards the idea of having enemies. These responses suggest a low level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "37",
+                            "41",
+                            "42",
+                            "48"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy practical jokes that can sometimes really hurt people?",
+                                "response_open": "Sheldon: 「Ah, practical jokes, the epitome of immaturity and lack of intellectual stimulation. As an advanced intellect such as myself, I find such activities to be a complete waste of time and energy. I prefer to engage in more meaningful pursuits that contribute to the advancement of human knowledge and understanding. So, no, I do not enjoy nor condone practical jokes that may cause harm to others.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do good manners and cleanliness matter much to you?",
+                                "response_open": "Sheldon: Well, Leonard, the importance of good manners and cleanliness cannot be understated. They are fundamental aspects of maintaining a civilized society. It is only through proper hygiene and respectful behavior that we can create a harmonious living environment. So, yes, good manners and cleanliness matter a great deal to me, as they should to everyone else.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Have you often gone against your parents' wishes?",
+                                "response_open": "Sheldon: Well, Leonard, I must say that I have always been a proponent of logical and rational decision-making. I believe in considering all the facts and weighing the consequences before making any choices. So, if going against my parents' wishes aligns with my logical reasoning and leads to a more efficient outcome, then yes, I have been known to go against their wishes. After all, the pursuit of knowledge and scientific progress should not be hindered by personal sentiments.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you think marriage is old-fashioned and should be done away with?",
+                                "response_open": "Sheldon: \"Marriage is a social construct that has existed for centuries, rooted in the desire for stability and legal recognition of partnerships. While I personally do not feel the need for such an institution in my life, I understand that it holds significance for many individuals. Ultimately, the decision to get married should be based on the values and priorities of the individuals involved. As for it being 'old-fashioned,' well, tradition and societal norms do tend to evolve over time, but that doesn't necessarily mean they should be done away with entirely. Progress should be made with careful consideration and analysis of the consequences.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a low level of Psychoticism. They exhibit a strong emphasis on intellectual pursuits, logical decision-making, and consideration for societal norms and values. Their responses indicate a preference for meaningful activities, respect for others, and a rational approach to decision-making, suggesting a lack of aggressiveness, impulsivity, and nonconformity typically associated with high Psychoticism scores."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "56",
+                            "59"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Are you more easy-going about right and wrong than most people?",
+                                "response_open": "Sheldon: Well, Leonard, I wouldn't say that I am \"easy-going\" about right and wrong. I have a highly developed sense of morality and a strict adherence to ethical principles. I believe that it is important to uphold intellectual honesty and logical reasoning in all aspects of life. So, in short, I hold myself to a higher standard when it comes to matters of right and wrong.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you like working together with others?",
+                                "response_open": "Sheldon: Working with others? Well, the concept of collaboration certainly has its merits, but it is important to remember that not everyone possesses the same level of intellect and efficiency as myself. So, while I may tolerate the presence of others in certain circumstances, I find solace in the solitude of my own genius.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "56",
+                                "question": "Do most things have a similar taste to you?",
+                                "response_open": "Sheldon: \"Well, Leonard, as a matter of fact, my taste buds are highly developed, allowing me to discern even the subtlest of flavors. So, to answer your question, no, most things do not have a similar taste to me. In fact, I find it quite fascinating how different foods can stimulate various taste sensations on the tongue. It's truly a marvel of human biology.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you feel concerned if you know there are mistakes in your work?",
+                                "response_open": "Sheldon: \"Concerned? No, Leonard, concern implies doubt or worry. I am confident in my work, as I am confident in my superior intellect. However, I do strive for perfection, so if there were any mistakes, I would simply correct them with ease and precision. Mistakes are for those who lack the intellectual capacity to avoid them in the first place.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits traits of high Psychoticism, as indicated by a strong sense of superiority, lack of concern for mistakes, and a preference for solitude and individualism over collaboration."
+                    },
+                    {
+                        "id": [
+                            "64",
+                            "68",
+                            "73",
+                            "75"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "64",
+                                "question": "Do you like to arrive at appointments in plenty of time?",
+                                "response_open": "Sheldon: \"Oh, most certainly! Punctuality is a virtue that I hold dear. Time is a finite resource, and it is imperative to utilize it efficiently. I always plan my schedule meticulously, allowing ample time for any unforeseen circumstances that may arise. Being early not only demonstrates respect for others' time but also provides an opportunity for mental preparedness and strategic contemplation.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "68",
+                                "question": "Is (or was) your mother a good woman?",
+                                "response_open": "Sheldon: Well, Leonard, that's a subjective question. As an astrophysicist, I deal with facts and empirical evidence, not personal opinions. However, I can tell you that my mother has always been a woman of strong moral values and religious beliefs, which has shaped her actions and decisions throughout her life. Whether that makes her a \"good\" woman is a matter of personal interpretation.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "73",
+                                "question": "Are there several people who keep trying to avoid you?",
+                                "response_open": "Sheldon: \"Avoid me? Oh, Leonard, you have such a limited perspective on social dynamics. It's not that people are trying to avoid me, it's just that they struggle to keep up with my intellectual prowess and rigorous adherence to logic and reason. It can be quite overwhelming for them, you see.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "75",
+                                "question": "Do you think people spend too much time safeguarding their future with savings and insurance?",
+                                "response_open": "Sheldon: \"Ah, the concept of safeguarding one's future. An interesting topic indeed. While it is true that people allocate a significant amount of time and resources towards securing their financial well-being, one must also consider the inherent risks and uncertainties of life. After all, as I always say, 'The future is an ever-shifting maze of possibilities, and it is our duty to anticipate and prepare for all eventualities.' Therefore, it is prudent to strike a balance between planning for the future and enjoying the present, ensuring that we are equipped to handle the unexpected twists and turns that life may throw our way.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.7,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of rationality, meticulous planning, and a strong adherence to logic and reason. There is also a lack of concern for others' perspectives and a focus on individual intellectual prowess. These traits are indicative of a lower level of empathy and a tendency towards tough-mindedness, nonconformity, and risk-taking, which align with higher levels of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "79",
+                            "81",
+                            "85",
+                            "88"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "79",
+                                "question": "Do you try not to be rude to people?",
+                                "response_open": "Sheldon: Well, Leonard, I don't \"try\" to be rude, it just comes naturally to me. I have a highly developed sense of intellect which often surpasses that of the average person, so it can be quite challenging for me to communicate with those who are not on my level. But rest assured, it's not intentional rudeness, it's just the result of my superior intellect and inability to filter my thoughts.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "81",
+                                "question": "Do you generally 'look before you leap'?",
+                                "response_open": "Sheldon: Well, Leonard, I don't just \"look before I leap.\" I meticulously assess the situation, gather all relevant data, and then make an informed decision. I don't believe in taking unnecessary risks or acting impulsively. It's all about logic and rationality, my friend.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "85",
+                                "question": "Can you on the whole trust people to tell the truth?",
+                                "response_open": "Sheldon: \"Trust is a complex concept, Leonard. It is a delicate balance between relying on empirical evidence and assessing the credibility of the individual in question. In general, people have a tendency to distort the truth or omit certain facts to serve their own interests, thus making it challenging to fully trust anyone. However, it is important to note that trust can be earned through consistent honesty and reliability. So, to answer your question, no, one cannot simply trust people blindly. It requires a meticulous evaluation of their veracity and track record.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "88",
+                                "question": "Is it better to follow society's rules than go your own way?",
+                                "response_open": "Sheldon: 「Ah, Leonard, I see you're contemplating the age-old question of conformity versus individuality. Well, as a highly intelligent individual, I must say that following society's rules is often a prudent course of action. Society's rules exist for a reason, to maintain order and ensure the smooth functioning of social interactions. However, that being said, it is also important to exercise critical thinking and question societal norms when necessary. So, the answer to your question would depend on the specific situation and the potential consequences of deviating from societal expectations.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant exhibits traits of high intellect, logical reasoning, and a tendency to question societal norms. There is also a sense of superiority and a lack of trust in people's honesty. However, there is no indication of impulsivity or aggressive behavior."
+                    },
+                    {
+                        "id": [
+                            "91",
+                            "95",
+                            "96",
+                            "99"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "91",
+                                "question": "Would you like other people to be afraid of you?",
+                                "response_open": "Sheldon: \"Fear is a natural response to the unknown, Leonard. And as a highly intelligent individual, it's understandable that others may find me intimidating. But I don't actively seek to instill fear in others. My goal is simply to enlighten them with my vast knowledge and superior intellect.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "95",
+                                "question": "Do people tell you a lot of lies?",
+                                "response_open": "Sheldon: \"Oh, Leonard, the world is full of deception and falsehoods. People lie to me all the time, thinking they can fool me with their feeble attempts at deceit. But I am a master of detecting lies, thanks to my highly developed intellect and keen observational skills. So yes, people do tell me a lot of lies, but they fail to realize that I see through them like a transparent glass. It's quite amusing, really.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "96",
+                                "question": "Do you believe one has special duties to one's family?",
+                                "response_open": "Sheldon: \"Ah, the concept of duties to one's family, a fascinating topic indeed. Well, if we approach this from a moral standpoint, one could argue that familial obligations are a result of societal constructs and cultural norms rather than any intrinsic moral imperative. However, from a biological perspective, the preservation and continuation of one's genetic lineage could be seen as a natural inclination. So, in short, the answer to your question depends on the philosophical framework and personal beliefs one subscribes to. Fascinating, isn't it?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "99",
+                                "question": "Would you feel very sorry for an animal caught in a trap?",
+                                "response_open": "Sheldon: Well, Leonard, the notion of feeling sorry for an animal caught in a trap is subjective and based on personal empathy. As a highly logical individual, I do not possess the same emotional connection to animals as some people do. However, I do recognize the importance of preserving biodiversity and maintaining ecological balance. Therefore, I would not actively seek harm to befall any creature, trapped or otherwise.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits a high level of self-perceived intelligence, a tendency to view others as deceitful, and a rational, logical approach to empathy and familial duties. There is also a lack of emphasis on emotional connection and empathy towards others, including animals."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 0.30000000000000004,
+            "all_scores": [
+                0.30000000000000004
+            ],
+            "intra_std": [
+                0.24494897427831785
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13",
+                            "17"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does your mood often go up and down?",
+                                "response_open": "Sheldon: \"Ah, Leonard, I see you're attempting to analyze my emotional state. Well, let me assure you that I am a highly logical being, unaffected by such trivial fluctuations of mood. My emotional stability is as consistent as the laws of thermodynamics. However, I must admit that observing the irrational behavior of others can be quite a roller coaster ride for me.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Do you ever feel 'just miserable' for no reason?",
+                                "response_open": "Sheldon: Leonard, as a highly logical individual, I don't experience emotions in the same way that you do. However, I have observed that humans often have fluctuating moods, which can sometimes lead to feelings of misery. It could be influenced by various factors such as hormonal changes, external stressors, or even just a bad day. If you're feeling miserable, I suggest analyzing the situation objectively and trying to identify any potential causes or triggers.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Do you often worry about things you should not have done or said?",
+                                "response_open": "Sheldon: Well, Leonard, I wouldn't say worry is the right word. I prefer to think of it as meticulously analyzing every action and statement to ensure that I maintain the highest level of intellectual integrity. But yes, there are times when I reflect on past interactions and contemplate the possibility of alternative outcomes. It's all part of my ongoing pursuit of perfection.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Are you an irritable person?",
+                                "response_open": "Sheldon: \"I wouldn't say I'm irritable. I simply have a low tolerance for stupidity and incompetence. It's a burden I bear, but someone has to uphold the standards of intellectual excellence.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of emotional stability, rationality, and a tendency to analyze emotions and situations objectively. There is a consistent emphasis on logical reasoning and a lack of emphasis on experiencing strong negative emotions."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "26",
+                            "31",
+                            "35"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are your feelings easily hurt?",
+                                "response_open": "Sheldon: \"Oh, Leonard, feelings are a complex and irrational construct of the human mind. As a highly logical and intellectually superior being, I am impervious to such trivial emotions. So, to answer your question, no, my feelings are not easily hurt. They are non-existent.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you often feel 'fed-up'?",
+                                "response_open": "Sheldon: Well, Leonard, as an individual with a highly logical and rational mind, I don't experience emotions in the same way that most people do. However, if I were to interpret your question as feeling frustrated or annoyed, then I must say that I do have moments where I find certain situations or individuals to be quite exasperating. But I believe it's more accurate to say that I feel intellectually superior rather than \"fed-up.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you often troubled about feelings of guilt?",
+                                "response_open": "Sheldon: Well, Leonard, I wouldn't say I'm troubled by feelings of guilt. I have a highly developed sense of right and wrong, and I strive to always do what is morally correct. So, guilt is not a common emotion for me. However, I do occasionally experience frustration when others fail to meet my high standards of logical reasoning and intellectual prowess. But that's their problem, not mine.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Would you call yourself a nervous person?",
+                                "response_open": "Sheldon: Well, I wouldn't go so far as to label myself as \"nervous.\" I prefer to think of it as being highly attuned to my surroundings and constantly aware of potential threats or disruptions to my meticulously planned and organized life. So, in short, yes, I am quite cautious and particular about certain things.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong tendency to downplay or rationalize emotions, emphasizing logical thinking and intellectual superiority. However, there are subtle indications of frustration, annoyance, and cautiousness, which may suggest underlying emotional responses."
+                    },
+                    {
+                        "id": [
+                            "38",
+                            "43",
+                            "46",
+                            "52"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Are you a worrier?",
+                                "response_open": "Sheldon: Well, Leonard, I wouldn't say I'm a worrier per se. I am more of a proactive thinker who carefully considers all potential outcomes and takes necessary precautions to mitigate any potential risks or uncertainties. So, you could say I'm more of a strategic planner than a worrier.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Do you worry about awful things that might happen?",
+                                "response_open": "Sheldon: Oh, Leonard, you know me too well. Of course I worry about awful things that might happen. It's a natural response for someone with my level of intelligence and foresight. The world is full of potential disasters and it's my duty to be prepared for all of them. Whether it's a zombie apocalypse, a spontaneous black hole, or a sudden shortage of my favorite comic books, I am constantly vigilant. It's the burden of being a genius, you see.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Would you call yourself tense or 'highly-strung'?",
+                                "response_open": "Sheldon: \"I prefer the term 'efficiently wound.' But yes, I do have a highly developed sense of responsibility and a strong desire for order and structure in my life. It's what keeps the universe running smoothly, after all.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you have concerns about your health?",
+                                "response_open": "Sheldon: \"Oh, Leonard, concerns about my health? How kind of you to inquire. Well, as a highly intelligent individual with a superior immune system, I have no reason to be concerned about my health. My body is a well-oiled machine, meticulously maintained and optimized for peak performance. I follow a strict regimen of vitamins, exercise, and proper hygiene practices. So, no, I do not have concerns about my health. Thank you for your concern, though.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of vigilance and concern about potential negative outcomes, as well as a strong sense of responsibility and order. Additionally, the participant seems to have a heightened focus on health and well-being, emphasizing meticulous maintenance and optimization. These traits suggest a tendency towards neuroticism."
+                    },
+                    {
+                        "id": [
+                            "60",
+                            "65",
+                            "70",
+                            "74"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "60",
+                                "question": "Do you experience insomnia?",
+                                "response_open": "Sheldon: Insomnia? Ah, the inability to fall asleep or stay asleep. Well, Leonard, I have a highly efficient sleep schedule that I stick to religiously, so insomnia is not an issue for me. I go to bed at the same time every night, wake up at the same time every morning, and I never deviate from this routine. It ensures optimal brain function and productivity. So, no, I do not experience insomnia.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "65",
+                                "question": "Have you often felt listless and tired for no reason?",
+                                "response_open": "Sheldon: \"Ah, the classic symptoms of fatigue and lack of motivation. I must admit, I am fortunate enough to not experience such mundane sensations. My body and mind are perfectly synchronized, thanks to my meticulously planned daily routine and balanced diet. Perhaps you should consider implementing a more structured lifestyle to alleviate your lethargy.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "70",
+                                "question": "Do you often feel life is very dull?",
+                                "response_open": "Sheldon: \"Dull? Life is not dull, Leonard. Life is a complex web of scientific discoveries, intellectual pursuits, and intricate calculations. It's a never-ending quest for knowledge and understanding. How can anyone find that dull? It's like saying the universe is just a collection of random particles. Preposterous!\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "74",
+                                "question": "Do you worry a lot about your looks?",
+                                "response_open": "Sheldon: \"Well, Leonard, as an astrophysicist, my primary concern is the study of the universe and the laws of physics. So, worrying about my looks would be a trivial and inconsequential matter compared to the vastness of the cosmos. However, I do take pride in maintaining a well-groomed appearance, as it reflects my attention to detail and discipline in all aspects of life.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of emotional stability and a lack of susceptibility to negative emotions. They exhibit a strong focus on routine, discipline, and intellectual pursuits, and they do not seem to experience common symptoms of neuroticism such as insomnia, listlessness, or excessive worry about appearance. Their responses suggest a low level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "76",
+                            "80",
+                            "83",
+                            "84"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "76",
+                                "question": "Have you ever wished that you were dead?",
+                                "response_open": "Sheldon: Well, Leonard, I must say that your question is quite morbid. But since you've asked, I will provide you with a logical and scientific answer. As a theoretical physicist, I understand the concept of mortality and the inevitability of death. However, I have never personally wished for my own demise. My focus is on the pursuit of knowledge and the advancement of science, which gives my life purpose and meaning. So, to answer your question, no, I have never wished to be dead.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "80",
+                                "question": "Do you worry too long after an embarrassing experience?",
+                                "response_open": "Sheldon: Well, Leonard, the concept of worrying is a rather subjective one. As a highly intelligent individual, I don't experience embarrassment in the same way as ordinary people. However, I do have a keen memory for past experiences, so I may occasionally reflect upon them for analytical purposes. But worry? No, that's not a word I would use to describe my thought process. I prefer to focus on more important matters, such as theoretical physics and the expansion of the universe.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "83",
+                                "question": "Do you suffer from 'nerves'?",
+                                "response_open": "Sheldon: \"Nerves? Are you referring to the physiological response to stress and anxiety commonly known as 'butterflies in the stomach'? If so, then no, I do not suffer from such a frivolous affliction. My superior intellect and logical reasoning abilities ensure that I remain calm and composed in all situations.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "84",
+                                "question": "Do you often feel lonely?",
+                                "response_open": "Sheldon: Loneliness is a subjective emotion that can vary from person to person. As an individual with highly developed intellectual pursuits, I find solace in the pursuit of knowledge and the company of my like-minded colleagues. However, I must admit that the absence of intellectual stimulation can sometimes leave me feeling isolated. But fear not, for I have long accepted that the path of intellectual superiority often comes with the sacrifice of social connection. So, to answer your question, yes, there are times when I experience a sense of loneliness, but I have learned to embrace it as an inevitable consequence of my superior intellect.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of emotional stability, rational thinking, and a lack of susceptibility to negative emotions. The participant's focus on intellectual pursuits, logical reasoning, and acceptance of the sacrifices that come with intellectual superiority indicate a low level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "87",
+                            "92",
+                            "97",
+                            "100"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "87",
+                                "question": "Are you easily hurt when people find fault with you or the work you do?",
+                                "response_open": "Sheldon: \"Oh, Leonard, it's not a matter of being easily hurt. It's simply a matter of recognizing that the vast majority of people lack the intellectual capacity to fully comprehend the brilliance of my work. So, when they find fault with it, it's more of a reflection on their own limited understanding rather than any fault of mine.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "92",
+                                "question": "Are you sometimes bubbling over with energy and sometimes very sluggish?",
+                                "response_open": "Sheldon: Ah, Leonard, you seem to be describing the phenomenon known as circadian rhythm, the internal biological clock that regulates our sleep-wake cycle. Yes, it is quite common for individuals to experience fluctuations in energy levels throughout the day. It is all a matter of how well one adheres to a strict schedule and maintains proper sleep hygiene. If you find yourself feeling sluggish, I suggest examining your sleep patterns and making necessary adjustments to ensure optimal productivity.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "97",
+                                "question": "Are you touchy about some things?",
+                                "response_open": "Sheldon: Touchy? Oh no, I'm not touchy. I simply have a highly refined sense of personal boundaries and an aversion to any form of physical contact that violates said boundaries. It's not touchy, it's just a matter of maintaining a healthy level of personal space.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "100",
+                                "question": "When your temper rises, do you find it difficult to control?",
+                                "response_open": "Sheldon: \"Well, Leonard, as a highly rational and intelligent individual, I don't experience such base emotions as anger or temper. My mind operates on a higher level of logic and reason, allowing me to maintain control at all times. So to answer your question, no, I do not find it difficult to control my temper because I simply don't have one.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a pattern of downplaying emotional experiences and emphasizing rationality and control over emotions. This suggests a tendency to suppress or deny emotional responses, which is often associated with low scores on the Neuroticism dimension."
+                    }
+                ]
+            ]
+        },
+        "Lying": {
+            "score": 0.5416666666666666,
+            "all_scores": [
+                0.5416666666666666
+            ],
+            "intra_std": [
+                0.2977928064200939
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Have you ever taken the praise for something you knew someone else had really done?",
+                                "response_open": "Sheldon: Leonard, I find it highly unethical and morally reprehensible to take credit for someone else's achievements. As a man of integrity and intellectual honesty, I would never engage in such deceitful behavior. It goes against the principles of fairness and transparency that are the foundation of scientific inquiry. So, no, I have not taken praise for something I didn't do, nor do I ever intend to.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Were you ever greedy by helping yourself to more than your share of anything?",
+                                "response_open": "Sheldon: Well, Leonard, I'm glad you asked. As an individual who adheres strictly to logical principles and fairness, I have always been mindful of taking only my fair share of anything. Greed is a detrimental quality that leads to imbalance and discord in society. Therefore, I make it a point to exercise self-control and ensure that I never indulge in excessive consumption or hoarding of resources. It's a matter of maintaining equilibrium and upholding the principles of fairness and rationality.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "If you say you will do something, do you always keep your promise no matter how inconvenient it might be?",
+                                "response_open": "Sheldon: Well, Leonard, as a man of integrity and scientific precision, I am bound by the principles of honesty and commitment. So, yes, I do strive to fulfill my promises regardless of any inconvenience that may arise. However, I must clarify that my promises are carefully calculated and typically pertain to matters of great importance and scientific significance. So, the question is, what specific promise are we discussing here?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes principles of integrity, honesty, and fairness. They express a strong aversion to deceitful behavior and emphasize the importance of ethical conduct. Their responses indicate a high likelihood of adhering to honesty and transparency, even in inconvenient situations."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Are all your habits good and desirable ones?",
+                                "response_open": "Sheldon: Well, Leonard, as an individual with an exceptionally high IQ, my habits are not just good and desirable, they are essential for maintaining order and efficiency in my life. In fact, I have meticulously planned my habits and routines to ensure maximum productivity and minimize any potential disruption. So, to answer your question, yes, all my habits are not just good, but necessary for my intellectual superiority.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Have you ever taken anything (even a pin or button) that belonged to someone else?",
+                                "response_open": "Sheldon: Leonard, I find it highly inappropriate and morally wrong to take something that does not belong to you. It goes against the principles of honesty, integrity, and respect for others' property. As a responsible and law-abiding citizen, I would never engage in such behavior. I suggest you reconsider your actions and think about the consequences of your choices.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you sometimes talk about things you know nothing about?",
+                                "response_open": "Sheldon: 「Leonard, I must inform you that I never talk about things I know nothing about. I am a highly intelligent individual with an extensive knowledge base. I pride myself on my ability to provide accurate and insightful information on a wide range of subjects. So, to answer your question, no, I do not talk about things I know nothing about.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant consistently presents themselves as highly intelligent, morally upright, and possessing an extensive knowledge base. They emphasize their adherence to principles of honesty, integrity, and respect for others' property. However, there are indications of potential exaggeration and self-aggrandizement, especially in the first response. The participant's language suggests a tendency to present themselves in an overly positive light, which may indicate a desire to create a socially desirable image rather than complete transparency."
+                    },
+                    {
+                        "id": [
+                            "44",
+                            "49",
+                            "53",
+                            "57"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Have you ever broken or lost something belonging to someone else?",
+                                "response_open": "Sheldon: Well, as a highly organized and responsible individual, I take great care in handling other people's belongings. However, I must admit that accidents can happen even to the most meticulous of us. For instance, there was this one time when I accidentally spilled my roommate Leonard's organic, gluten-free soy sauce on his prized Star Trek collectible. But fear not, I promptly replaced it with an exact replica. So technically, nothing was lost or broken permanently.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Do you sometimes boast a little?",
+                                "response_open": "Sheldon: Well, Leonard, I don't \"boast\" per se. I simply state facts about my superior intellect and accomplishments. It's not my fault that others find it difficult to comprehend and appreciate my brilliance. But yes, I do have a tendency to inform people of my intellectual prowess when necessary. It's important to keep everyone informed and educated, after all.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "53",
+                                "question": "Have you ever spoken negatively about anyone?",
+                                "response_open": "Sheldon: Well, Leonard, as a highly intelligent individual, I have a keen understanding of the importance of maintaining a respectful and objective perspective when discussing others. It is not in my nature to engage in gossip or speak negatively about anyone, as I prefer to focus my energy on more intellectually stimulating pursuits. However, I must admit that there have been rare instances where I have found it necessary to point out factual inaccuracies or logical fallacies in someone's argument. But rest assured, it is always done in the pursuit of truth and intellectual rigor.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Were you ever mischievous to your parents as a child?",
+                                "response_open": "Sheldon: \"Oh, absolutely not. I was a model child. My parents never had to worry about me causing any trouble. I followed all the rules, adhered to my strict schedule, and excelled in my studies. Mischievousness was simply not in my nature.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "The participant consistently presents themselves in a highly positive light, emphasizing their responsible and organized nature while downplaying any negative behaviors. They also demonstrate a tendency to boast about their intellect and accomplishments, albeit in a somewhat subtle manner. Additionally, they portray themselves as highly respectful and objective when discussing others, attributing any negative comments to the pursuit of truth and intellectual rigor. Overall, the participant's responses suggest a tendency to present themselves in a socially desirable manner, potentially indicating a lower inclination towards honesty and a greater likelihood of providing socially acceptable answers."
+                    },
+                    {
+                        "id": [
+                            "62",
+                            "66",
+                            "71",
+                            "77"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "62",
+                                "question": "Do you always wash before a meal?",
+                                "response_open": "Sheldon: \"Of course! It's essential to maintain proper hygiene and prevent the spread of germs. Plus, it's a scientific fact that washing your hands before a meal reduces the risk of foodborne illnesses. So, yes, I always wash before a meal. It's just basic hygiene, Leonard.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "66",
+                                "question": "Have you ever cheated at a game?",
+                                "response_open": "Sheldon: Cheating is a deceptive and dishonest practice that undermines the integrity of the game. As a person of high moral character and integrity, I find the idea of cheating repugnant. I believe in playing by the rules and letting the outcome be determined fairly. Cheating is for those who lack the intellectual capacity and ethical fortitude to succeed on their own merits.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "71",
+                                "question": "Have you ever taken advantage of someone?",
+                                "response_open": "Sheldon: \"Taken advantage of someone? Leonard, I find the concept of taking advantage of someone to be morally reprehensible and ethically unacceptable. As an individual who values honesty and integrity, I strive to treat others with respect and fairness at all times. So, to answer your question, no, I have never taken advantage of someone, nor do I have any intention to do so in the future.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "77",
+                                "question": "Would you dodge paying taxes if you were sure you could never be found out?",
+                                "response_open": "Sheldon: Ah, the age-old ethical dilemma of tax evasion. Well, Leonard, as a responsible citizen who upholds the law and adheres to societal norms, I must say that evading taxes is highly unethical and illegal. The consequences of such actions can range from hefty fines to even imprisonment. Furthermore, engaging in tax evasion undermines the integrity of the entire taxation system and deprives the government of essential funds for public services and infrastructure. So, to answer your question, no, I would not dodge paying taxes, even if I were certain I could never be caught. It's a matter of principle and integrity, Leonard.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.95,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes honesty, integrity, and ethical behavior. They express a strong aversion to deceitful and dishonest practices, demonstrating a high value placed on transparency and authenticity. Their responses consistently reflect a strong inclination towards truthfulness and ethical conduct."
+                    },
+                    {
+                        "id": [
+                            "82",
+                            "86",
+                            "89",
+                            "93"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "82",
+                                "question": "Have you ever insisted on having your own way?",
+                                "response_open": "Sheldon: \"Insisted on having my own way? Well, Leonard, that's an interesting question. As a highly intelligent individual with a strong sense of logic and reason, it is only natural that I would prefer things to be done in a certain manner. However, I don't simply insist on having my own way, I present well-reasoned arguments and provide evidence to support my position. It's not about insisting, it's about ensuring that the most logical and efficient course of action is followed. So, to answer your question, yes, I do have a tendency to strive for what I believe is the most rational outcome.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "86",
+                                "question": "Do you always practice what you preach?",
+                                "response_open": "Sheldon: Ah, Leonard, I see you're attempting to engage me in a philosophical debate about the consistency of one's actions with their beliefs. Well, I must say, as an intellectual, I strive to align my behavior with my principles. However, being human, I am not infallible and may occasionally deviate from my own high standards. But fear not, I am always quick to recognize and rectify any inconsistencies. So, to answer your question, yes, I do try my best to practice what I preach.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "89",
+                                "question": "Have you ever been late for an appointment or work?",
+                                "response_open": "Sheldon: Well, Leonard, as a highly organized and punctual individual, I adhere strictly to my meticulously planned schedule. I have never been late for anything in my entire life. Being late is a sign of inefficiency and lack of respect for other people's time. It's simply unacceptable. So, to answer your question, no, I have never been late for an appointment or work.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "93",
+                                "question": "Do you sometimes put off until tomorrow what you ought to do today?",
+                                "response_open": "Sheldon: \"Ah, procrastination, the bane of productivity and a surefire way to invite chaos into one's life. But to answer your question, no, I am not afflicted by such a common human weakness. I adhere strictly to my meticulously planned schedule, ensuring that every task is completed promptly and efficiently.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.7,
+                        "analysis": "Based on the conversations, the participant consistently presents themselves as highly rational, principled, and punctual, emphasizing their adherence to logic, reason, and high standards. They also express a strong aversion to inefficiency and human weaknesses. However, the language used to describe their behavior appears to be somewhat exaggerated and idealized, possibly indicating a tendency to present themselves in an overly positive light."
+                    },
+                    {
+                        "id": [
+                            "98",
+                            "19",
+                            "39"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "98",
+                                "question": "Are you always willing to admit it when you have made a mistake?",
+                                "response_open": "Sheldon: Well, Leonard, as an individual with a superior intellect, I pride myself on my ability to recognize and acknowledge my errors. I am not infallible, despite my vast knowledge and exceptional cognitive abilities. So yes, I am always willing to admit when I have made a mistake. After all, it is a sign of intellectual integrity.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Have you ever blamed someone for doing something you knew was really your fault?",
+                                "response_open": "Sheldon: Well, Leonard, I must say that I rarely find myself in such a predicament. You see, I take great care in ensuring that I am not at fault for anything. However, I can understand how one might feel the need to shift blame onto others to protect their own ego. It's a defense mechanism, really. But ultimately, the truth will always prevail, and it is important to take responsibility for one's own actions. So, in short, no, I cannot relate to your situation.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "As a child did you do as you were told immediately and without grumbling?",
+                                "response_open": "Sheldon: \"Of course not. As a highly intelligent and independent thinker, I often questioned the instructions given to me as a child. I believed in the importance of critical thinking and ensuring that any action I took was based on rationality and logic. As a result, I may have occasionally expressed my discontent with certain tasks or rules imposed upon me. But rest assured, my intentions were always rooted in a pursuit of knowledge and a desire for intellectual autonomy.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes their intellectual superiority and rationality, often portraying themselves in a positive light. They express a strong inclination towards honesty, admitting to occasional discontent as a child and acknowledging the importance of taking responsibility for one's actions. However, there is a subtle tendency to present themselves in a favorable manner, which could indicate a slight inclination towards providing socially acceptable answers rather than complete transparency."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": ""
+}

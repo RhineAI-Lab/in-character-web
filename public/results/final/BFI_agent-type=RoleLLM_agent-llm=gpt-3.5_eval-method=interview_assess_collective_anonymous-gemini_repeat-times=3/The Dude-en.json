@@ -1,0 +1,1177 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 2.0,
+            "all_scores": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "inter_std": 0.0,
+            "intra_std": [
+                null,
+                null,
+                null
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16",
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "The Dude: \"Well, you know, man, sometimes I am, and sometimes I'm not. It all depends on the vibe, you know? But hey, what's up? What's on your mind, Walter?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "The Dude: \"Reserved? Nah, man, I'm more of a go-with-the-flow kind of guy. I don't really do reservations, you know? Life's too short to be all uptight and planned out. Just take it easy, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "The Dude: \"Man, I'm not full of energy, I'm full of White Russians. But hey, what's up, Walter?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "The Dude: Well, you know, Walter, enthusiasm is not really my thing, man. I'm more of a go-with-the-flow kind of guy. I mean, I dig bowling and White Russians, but generating enthusiasm? That's just not my style, man. I'm more about taking it easy and letting things happen naturally, you know? So, yeah, I guess you could say I don't generate a lot of enthusiasm. But hey, that's just how the Dude abides.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "The Dude: \"Well, man, you know, I'm not really one for small talk. I prefer to just go with the flow, you know? Keep it chill and mellow. But hey, if you got something important to say, I'm all ears, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "The Dude: Hey, man, assertive personality? That's not really my style, you know? I'm more of a go-with-the-flow kind of dude. I don't like to get all worked up and aggressive. Life's too short for that, man. Just take it easy, enjoy the ride, and let things unfold naturally. That's my philosophy, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "The Dude: Shy? Inhibited? Well, man, I wouldn't say I'm shy or inhibited. I mean, I'm just out here abiding, you know? Going with the flow, taking it easy. Ain't no need to be all uptight and worried about what people think. Just gotta let it all roll off like water on a duck's back, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "The Dude: \"Well, man, you know, I'm not really what you would call outgoing or sociable. I'm more of a laid-back kind of guy, just go with the flow, you know? I prefer to spend my time bowling with my buddies and enjoying a nice White Russian. But hey, if the occasion calls for it, I can be sociable, man. Just don't expect me to be the life of the party or anything.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, <the participant> appears to be a laid-back and easygoing individual who values spontaneity and a relaxed lifestyle. They do not exhibit strong tendencies towards assertiveness, enthusiasm, or sociability, and they prefer to avoid situations that require them to be the center of attention or to take on leadership roles. While they are not shy or inhibited, they prefer to keep a low profile and let things unfold naturally. Overall, <the participant> seems to be more introverted than extraverted."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "36",
+                            "1",
+                            "21",
+                            "6",
+                            "11",
+                            "31",
+                            "26",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "The Dude: Outgoing? Sociable? Man, I'm about as outgoing and sociable as a tumbleweed rolling through the desert. I'm more of a go-with-the-flow kind of dude, you know? Just here to enjoy the simple pleasures in life, like bowling and sippin' on White Russians. So, no, I wouldn't say I'm the life of the party or anything, but hey, I'm always down for a good time, man. Just gotta keep it mellow, you know?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "The Dude: \"Well, you know, man, sometimes I am, and sometimes I'm not. It all depends on the vibe, you know? But hey, what's up? What's on your mind, Walter?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "The Dude: \"Well, you know, man, I wouldn't say I tend to be quiet, but I do abide by the philosophy of taking it easy and going with the flow. Life's too short to get all worked up, ya know? So yeah, I guess you could say I'm more of a laid-back kind of dude.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "The Dude: \"Reserved? Nah, man, I'm more of a go-with-the-flow kind of guy. I don't really do reservations, you know? Life's too short to be all uptight and planned out. Just take it easy, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "The Dude: \"Man, I'm not full of energy, I'm full of White Russians. But hey, what's up, Walter?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "The Dude: \"Well, man, you know, sometimes I just like to take it easy, you know? Just go with the flow, man. No need to be all uptight and inhibited. Life's too short for that, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "The Dude: Hey, man, assertive personality? That's not really my style, you know? I'm more of a go-with-the-flow kind of dude. I don't like to get all worked up and aggressive. Life's too short for that, man. Just take it easy, enjoy the ride, and let things unfold naturally. That's my philosophy, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "The Dude: Well, you know, Walter, enthusiasm is not really my thing, man. I'm more of a go-with-the-flow kind of guy. I mean, I dig bowling and White Russians, but generating enthusiasm? That's just not my style, man. I'm more about taking it easy and letting things happen naturally, you know? So, yeah, I guess you could say I don't generate a lot of enthusiasm. But hey, that's just how I roll, man.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "<the participant> often uses phrases like \"go-with-the-flow\", \"take it easy\", and \"just chillin'\" to describe his approach to life. He emphasizes the importance of relaxation and avoiding stress. He also mentions that he enjoys simple pleasures like bowling and drinking White Russians. In terms of social interaction, he describes himself as \"not the life of the party\" and prefers to keep things mellow. He also mentions that he is not talkative and tends to be quiet and reserved. Additionally, he does not consider himself to be assertive or enthusiastic. Overall, <the participant> seems to exhibit a preference for solitude, relaxation, and a laid-back approach to life, which are characteristics associated with introversion."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "11",
+                            "21",
+                            "1",
+                            "26",
+                            "16",
+                            "36",
+                            "6",
+                            "31"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "The Dude: \"Man, I'm not full of energy, I'm full of White Russians. But hey, what's up, Walter?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "The Dude: \"Well, you know, man, I wouldn't say I tend to be quiet, but I do abide by the philosophy of taking it easy and going with the flow. Life's too short to get all worked up, ya know? So yeah, I guess you could say I'm more of a laid-back kind of dude.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "The Dude: \"Well, you know, man, sometimes I am, and sometimes I'm not. It all depends on the vibe, you know? But hey, what's up? What's on your mind, Walter?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "The Dude: Hey, man, assertive personality? That's not really my style, you know? I'm more of a go-with-the-flow kind of dude. I don't like to get all worked up and aggressive. Life's too short for that, man. Just take it easy, enjoy the ride, and let things unfold naturally. That's my philosophy, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "The Dude: Well, you know, Walter, enthusiasm is not really my thing, man. I'm more of a go-with-the-flow kind of guy. I mean, I'm just here to take it easy, bowl a few frames, and enjoy my White Russians, you know? But hey, if you're into generating enthusiasm, more power to you, man. Just don't expect me to join in on the hype.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "The Dude: \"Well, you know, man, I'm more of a laid-back, go-with-the-flow kind of guy. I'm not really into the whole social scene, you dig? I prefer to just hang out with my bowling buddies, have a few White Russians, and take it easy, you know? So, I guess you can say I'm not exactly the life of the party, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "The Dude: \"Reserved? Nah, man, I'm more of a go-with-the-flow kind of guy. I don't really do reservations, you know? Life's too short to be all uptight and planned out. Just take it easy, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "The Dude: \"Well, you know, man, sometimes I just gotta take it easy, let things flow, you know? Shyness and inhibition, they're just like, man, unnecessary baggage, you dig? Gotta go with the flow, embrace the moment, and let the universe guide you, man.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, <the participant> appears to be a laid-back, easygoing individual who values relaxation and spontaneity. They do not exhibit strong signs of extraversion, such as assertiveness, enthusiasm, or a desire for social interaction. Instead, they emphasize the importance of taking things as they come and avoiding stress or pressure. Their responses suggest a preference for solitude and a relaxed pace of life, rather than actively seeking out social engagement or excitement."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 2.0,
+            "all_scores": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "inter_std": 0.0,
+            "intra_std": [
+                null,
+                null,
+                null
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19",
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "The Dude: Hey, man. I wouldn't say I'm depressed or blue, just taking it easy, you know? Life's full of ups and downs, but I'm just here to abide, man. No need to get all worked up about it.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "The Dude: \"Well, man, you know, stress is like, uh, a bummer, man. I try to, like, go with the flow and not let it get to me, you know? I mean, life's too short to be all wound up and stressed out, man. So, yeah, I guess you could say I handle stress by just, uh, taking it easy and not letting it ruin my vibe, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "The Dude: \"Well, man, I try to avoid tension whenever possible. Life's too short to be all wound up, you know? Gotta take it easy, go with the flow, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "The Dude: Hey, man, worryin' is like, a waste of good vibes, ya know? I mean, life's too short to be all caught up in stress and anxiety. I just take things as they come, roll with the punches, and enjoy the ride, man. So, nah, I don't really worry a lot. It's all about takin' it easy and goin' with the flow, dude.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "The Dude: Hey, man, emotions are like, you know, waves in the ocean. They come and go, man. I'm like a chill surfer riding the waves of life, man. So yeah, I guess you could say I'm emotionally stable. But hey, who isn't easily upset sometimes, right? Life can be a real bummer, man. But you just gotta roll with it, like a bowling ball down the alley, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "The Dude: Hey, man. Moody? Yeah, I guess you could say that. Life's full of ups and downs, you know? Sometimes you just gotta roll with the punches and let the mood take you where it wants to go. It's all part of the cosmic dance, man. Can't fight it, can't control it. Just gotta abide, you know?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "The Dude: Well, man, I gotta say, I try to keep my cool, you know? Life's too short to be all wound up and stressed out. I mean, what's the point, right? So, yeah, I try to remain calm in tense situations. It's all about finding that inner peace, man. Just take it easy and go with the flow, you know?\n\nWalter Sobchak:「You're not wrong, Dude, you're just an asshole.」\n\nThe Dude: Yeah, well, you know, that's just, like, your opinion, man. I'm just trying to live my life and enjoy the simple things, like bowling and sipping on my White Russians. I ain't here to start fights or cause trouble. I'm just here to abide, man. So, let's all just take it easy and not get all worked up, okay?\n\nWalter Sobchak:「This is not 'Nam. This is bowling. There are rules.」\n\nThe Dude: Yeah, I get it, man. I know there are rules in bowling, but sometimes you just gotta go with the flow, you know? Life's too short to get all caught up in the technicalities. I mean, the Dude abides, but that doesn't mean I can't have a little fun along the way. So, let's just roll with it and enjoy the game, man.\n\nWalter Sobchak:「Am I wrong?」\n\nThe Dude: Well, Walter, let me tell you something, man. You're not wrong, but you're not always right either. We all have our own perspectives and opinions, and that's what makes life interesting, man. So, let's just embrace our differences and find some common ground, you know? It's all about finding that balance, man.\n\nWalter Sobchak:「I'm staying. Finishing my coffee.」\n\nThe Dude: Hey, man, you do you. If you want to stay and finish your coffee, that's cool with me. I'm all about respecting people's choices, even if I don't always understand them. So, go ahead and enjoy your coffee, my friend. I'll be over here, taking it easy and enjoying the vibe.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "The Dude: \"Nervous? Nah, man. I'm like a Zen master, you know? Just go with the flow, take it easy. No need to get all worked up about stuff. Life's too short, man.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, <the participant> generally exhibits a laid-back and easygoing attitude towards life. They emphasize the importance of relaxation, going with the flow, and not letting stress or negative emotions get to them. They appear to have a positive outlook and a tendency to avoid worrying or getting worked up. While they acknowledge that life can be challenging and that they may experience occasional mood swings or moments of tension, they seem to have a knack for staying calm and composed in most situations. Overall, their responses suggest a relatively low level of neuroticism."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "14",
+                            "4",
+                            "19",
+                            "39",
+                            "34",
+                            "9",
+                            "24",
+                            "29"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "The Dude: \"Well, man, I try to avoid tension whenever possible. Life's too short to be all wound up, you know? Gotta take it easy, go with the flow, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "The Dude: \"Well, you know, Walter, life's just a series of ups and downs, man. Sometimes you're up, sometimes you're down. Right now, I'm just coasting along, taking it easy. No need to get all worked up about it, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "The Dude: Hey, man, worryin' is like, a waste of good vibes, ya know? I mean, life's too short to be all caught up in stress and anxiety. I just take things as they come, roll with the punches, and enjoy the ride, man. So, nah, I don't really worry a lot. It's all about takin' it easy and goin' with the flow, dude.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "The Dude: \"Nervous? Nah, man. I don't let things get to me like that. I just go with the flow, you know? Life's too short to stress out about every little thing. Just take it easy, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "The Dude: Well, man, I try to abide by the teachings of my good friend, The Dude. You know, keep it easy, take it as it comes. Life's full of ups and downs, twists and turns, so why get all worked up, man? Just roll with it, like a good joint. Keep calm and let the universe do its thing, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "The Dude: Hey, man, stress is like, a bummer, you know? I mean, life's too short to be all wound up and uptight. I just go with the flow, take it easy, and let the universe do its thing. So yeah, I guess you could say I handle stress by not really handling it at all. Peace, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "The Dude: Hey, man, emotions are like, you know, waves in the ocean. They come and go, man. I'm like a chill surfer riding the waves of life, man. So, yeah, I guess you could say I'm emotionally stable. But, you know, sometimes a rug really ties the room together and it's a bummer when it gets messed up, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "The Dude: Hey, man. Moody? Yeah, I guess you could say that. Life's full of ups and downs, you know? Sometimes I'm feeling groovy, just going with the flow, and other times I'm feeling a little down, man. But hey, that's just the way the bowling ball rolls, right? Gotta take it easy and let the mood pass, man. Can't let it bring you down.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "<the participant> generally exhibits a laid-back and easygoing attitude towards life. They prioritize relaxation, going with the flow, and avoiding stress and anxiety. They do not seem to worry excessively, get nervous easily, or experience significant emotional instability. While they acknowledge that life has its ups and downs, they tend to take things as they come and maintain a calm and relaxed demeanor. They believe in letting emotions come and go without getting overly affected by them. Overall, <the participant> appears to be low on the Neuroticism dimension, indicating a tendency towards emotional stability and resilience."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "14",
+                            "4",
+                            "39",
+                            "29",
+                            "9",
+                            "24",
+                            "19",
+                            "34"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "The Dude: \"Well, man, I try to avoid tension whenever possible. Life's too short to be all wound up, you know? Gotta take it easy, go with the flow, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "The Dude: Hey, man. I wouldn't say I'm depressed or blue, just taking it easy, you know? Life's full of ups and downs, but I'm just here to abide, man. No need to get all worked up about it.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "The Dude: \"Well, Walter, you know me, man. I'm pretty laid-back, so I don't really get nervous easily. I just take things as they come, you know? Life's too short to stress out about every little thing, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "The Dude: Hey, man. Moody? Yeah, I guess you could say that. Life's full of ups and downs, you know? Sometimes you just gotta roll with the punches and let the mood take you where it wants to go. It's all part of the cosmic dance, man. Can't fight it, can't control it. Just gotta abide, you know?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "The Dude: Hey, man, stress is like, a bummer, you know? I mean, life's too short to be all wound up and uptight. I just go with the flow, take it easy, and let the universe do its thing. So yeah, I guess you could say I handle stress by not really handling it at all. Peace, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "The Dude: Hey, man, emotions are like, you know, waves in the ocean. They come and go, man. I'm like a chill surfer riding the waves of life, man. So yeah, I guess you could say I'm emotionally stable. But hey, who isn't easily upset sometimes, right? Life can be a real bummer, man. But you just gotta roll with it, like a bowling ball down the alley, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "The Dude: Hey, man, worryin' is like, a waste of good vibes, ya know? I mean, life's too short to be all caught up in stress and anxiety. I just take things as they come, roll with the punches, and enjoy the ride, man. So, nah, I don't really worry a lot. It's all about takin' it easy and goin' with the flow, dude.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "The Dude: Well, man, you know, I try to keep my cool, you know, abide by the whole Zen thing. But, like, sometimes life just throws you a curveball, man. It's all about going with the flow, man, and taking it easy. So, yeah, I guess you could say I remain calm in tense situations...unless it's about my rug, man. That's a whole different story. That rug really tied the room together, you know?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, <the participant> generally exhibits a laid-back and easygoing attitude towards life. They prioritize relaxation, going with the flow, and avoiding stress and tension. They acknowledge that life has ups and downs, but they choose to embrace the cosmic dance and ride the waves of emotions. While they may experience occasional moodiness or emotional instability, they tend to recover quickly and maintain a positive outlook. They do not seem to worry excessively or get easily upset, preferring to take things as they come. In tense situations, they strive to remain calm and collected, although they admit to potential exceptions when it comes to matters close to their heart."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 1.6666666666666667,
+            "all_scores": [
+                1.5,
+                2.0,
+                1.5
+            ],
+            "inter_std": 0.23570226039551584,
+            "intra_std": [
+                null,
+                null,
+                null
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13",
+                            "18",
+                            "23",
+                            "28",
+                            "33",
+                            "38",
+                            "43"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I do a thorough job in the traditional sense. I mean, I'm more of a go-with-the-flow kind of guy, you know? I take things as they come, man. Life's too short to stress about the details, ya dig?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "The Dude: Hey, man, being careless is like my middle name. I mean, who needs to stress about every little thing, right? Life's too short to be all uptight and worried. Just go with the flow, man. Embrace the carefree spirit, you know? So yeah, I can definitely be careless. It's kind of my thing.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "The Dude: \"Well, man, I'm not really into the whole 'work' thing, you know? I'm more of a free spirit, just go with the flow, take it easy. But hey, if you need someone to roll a joint or grab a White Russian, I'm your guy.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "The Dude: \"Well, you know, Walter, I wouldn't say I'm disorganized. I just have a different way of, you know, approaching things. I like to go with the flow, man. Life's too short to stress about being all organized and shit. Just take it easy, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "The Dude: \"Well, you know, Walter, I wouldn't say I'm lazy. I just have a very relaxed approach to life, man. I abide by the philosophy of taking it easy and going with the flow. Life's too short to stress out, you know? So, yeah, I guess you could say I tend to take it easy, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "The Dude: \"Well, man, you know, I abide by the principles of non-attachment and going with the flow. I mean, I'll do what needs to be done, but I'm not one to persevere to the point of obsession, you know? Life's too short for that kind of stress, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "The Dude: \"Efficiently? Well, man, I wouldn't say that's really my style. I'm more of a go-with-the-flow kind of dude. I mean, why rush through life when you can just take it easy, you know? Efficiency is overrated, man. It's all about enjoying the journey, not just reaching the destination.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "The Dude: Hey, man, plans are for squares, ya know? I just kinda go with the flow, take it easy. Life's too short to stress about all that stuff. Plus, you never know what might happen, so why bother making plans, right? Just roll with it, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "The Dude: \"Well, man, you know, sometimes my mind wanders, you know? It's like, I'm just floating along in this crazy world, man, and sometimes it's hard to stay focused, you know? But hey, that's just the way the bowling ball rolls, man.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 1.5,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a consistent pattern of behavior and attitudes that align with low conscientiousness. They prioritize spontaneity, flexibility, and a carefree approach to life, often at the expense of organization, reliability, and goal-directed behavior. Their responses suggest a tendency to avoid structured routines, detailed planning, and persistent effort. They emphasize the importance of living in the moment and embracing uncertainty, rather than adhering to strict schedules or pursuing long-term goals. Overall, their statements indicate a preference for a relaxed and easygoing lifestyle, with a lack of emphasis on conscientiousness-related traits."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "43",
+                            "23",
+                            "3",
+                            "38",
+                            "8",
+                            "28",
+                            "33",
+                            "18",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "The Dude: \"Well, man, you know, sometimes my mind wanders, you know? It's like, I'm just floating along in this crazy world, man, and sometimes it's hard to stay focused, you know? But hey, that's just the way the bowling ball rolls, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "The Dude: \"Well, you know, Walter, I wouldn't say I'm lazy. I just have a very relaxed approach to life, man. I abide by the philosophy of taking it easy and going with the flow. Life's too short to stress out, man. So yeah, I guess you could say I tend to take it easy, but that doesn't make me lazy, it just makes me...well, Dude-like.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I do a thorough job in the traditional sense. I mean, I'm more of a go-with-the-flow kind of guy, you know? I take things as they come, man. Life's too short to stress about the details, ya dig?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "The Dude: Hey, man, plans and follow-through, they're not really my thing, you know? I'm more of a go-with-the-flow kind of guy. Life's too short to stress about making plans, man. Plus, you never know when a rug is gonna get stolen and throw everything off, you know? So, I just take it easy, let the universe guide me, and hope for the best, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "The Dude: Hey, man, being careless is like my middle name. I mean, who needs to stress about every little thing, right? Life's too short to be all uptight and worried. Just go with the flow, man. Embrace the carefree spirit, you know? So yeah, I can definitely be careless. It's kind of my thing.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "The Dude: \"Well, man, you know, I abide by the principles of non-attachment and going with the flow. I mean, I'll do what needs to be done, but I'm not one to persevere to the point of obsession, you know? Life's too short for that kind of stress, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "The Dude: Ah, man, efficiently? That's not really my style, you know? I'm more of a go-with-the-flow kind of guy. I take things as they come, ride the waves of life, ya know? Trying to be efficient just takes away from the chill vibes, man. So, no, I don't really do things efficiently. I just do things... or not do things. Whatever, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "The Dude: \"Well, you know, Walter, I wouldn't say I'm disorganized. I just have a different way of, you know, approaching things. I like to go with the flow, man. Life's too short to stress about being all organized and shit. Just take it easy, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I'm the most reliable worker in the traditional sense. I mean, I'm more of a go-with-the-flow kind of guy, you know? But when it comes to getting things done, I always abide, man. I may not be the most punctual or organized, but I always come through in my own Dude-like way.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a laid-back and carefree attitude towards life. They prioritize relaxation and going with the flow over being organized, efficient, or punctual. They tend to avoid tasks that require thoroughness or perseverance and prefer to take things as they come. While they may not be the most reliable worker in a traditional sense, they have their own unique approach to getting things done."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "38",
+                            "33",
+                            "28",
+                            "8",
+                            "43",
+                            "3",
+                            "18",
+                            "13",
+                            "23"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "The Dude: Hey, man, plans are like, uh, guidelines, you know? They're meant to be flexible, not set in stone. Life's all about going with the flow and taking things as they come. So, nah, I don't really make plans, man. I just abide and see where the road takes me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "The Dude: Hey, man, efficiency is not really my thing. I'm more of a go-with-the-flow kind of guy. I take things as they come, you know? Life's too short to worry about being efficient all the time. Plus, it's not like I have a job or anything, so I don't really have a need to be efficient. Just here to abide and enjoy the simple pleasures, like bowling and White Russians. So, yeah, efficiency is not really my bag, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "The Dude: \"Well, man, you know, I abide by the principles of non-attachment and going with the flow. I mean, I'll do what needs to be done, but I'm not one to persevere to the point of obsession, you know? Life's too short for that kind of stress, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "The Dude: Hey, man, being careless is like my middle name. I mean, who needs to stress about every little thing, right? Life's too short to be all uptight and worried. Just go with the flow, man. Embrace the carefree spirit, you know? So yeah, I can definitely be careless. It's kind of my thing.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "The Dude: \"Well, man, you know, sometimes my mind wanders, you know? It's like, I'm just floating along in this crazy world, man, and sometimes it's hard to stay focused, you know? But hey, that's just the way the bowling ball rolls, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I do a thorough job in the traditional sense. I mean, I'm more of a go-with-the-flow kind of guy, you know? I take things as they come, man. Life's too short to stress about the details, ya dig?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "The Dude: \"Well, you know, Walter, I wouldn't say I'm disorganized. I just have a different way of, you know, approaching things. I like to go with the flow, man. Life's too short to stress about being all organized and shit. Just take it easy, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I'm the most reliable worker in the traditional sense. I mean, I don't really have a steady job or anything. But when it comes to important matters, like finding my stolen rug or getting my White Russian fix, you can count on me, man. I may not be reliable in the conventional sense, but I'm reliable in my own Dude-like way, you know?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "The Dude: \"Well, you know, Walter, I wouldn't say I'm lazy. I just have a very relaxed approach to life, man. I abide by the philosophy of taking it easy and going with the flow. Life's too short to stress out, you know? So, yeah, I guess you could say I tend to take it easy, man.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 1.5,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a clear tendency towards low Conscientiousness. Their responses consistently reflect a lack of planning, organization, and goal-directed behavior. They prioritize flexibility and spontaneity over structure and discipline. They also exhibit a carefree attitude, valuing relaxation and going with the flow rather than efficiency and thoroughness. Additionally, they acknowledge their tendency to be careless, easily distracted, and disorganized. While they express reliability in certain personal matters, their overall approach to work and tasks suggests a lack of Conscientiousness."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 3.5,
+            "all_scores": [
+                3.5,
+                3.5,
+                3.5
+            ],
+            "inter_std": 0.0,
+            "intra_std": [
+                null,
+                null,
+                null
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12",
+                            "17",
+                            "22",
+                            "27",
+                            "32",
+                            "37",
+                            "42"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "The Dude: Hey, man, I don't really go around finding fault with others. I'm more of a go-with-the-flow kind of guy, you know? Life's too short to be all uptight and judgmental. Just take it easy, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "The Dude: \"Well, man, I try to be helpful and unselfish, you know? Like, I'm always down to lend a hand or share a joint. But, uh, sometimes life just gets in the way, you know? Like, I got my own shit to deal with, man. But hey, if someone needs a ride to the bowling alley or a White Russian recipe, I'm your dude.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "The Dude: Hey, man, I don't start quarrels with nobody. I'm just here to abide, you know? Life's too short to be getting all riled up and starting fights. I'm more of a peace and love kind of dude. Let's just take it easy and enjoy the ride, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "The Dude: Hey, man. Forgiving nature? Yeah, I guess you could say that. I mean, life's too short to hold onto grudges, ya know? Gotta go with the flow, man. Just let it all roll off your back like water on a duck. So, yeah, I'm all about forgiveness, man. Peace and love, that's the way to go.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I'm generally trusting. I mean, I like to give people the benefit of the doubt, you know? But trust is a delicate thing, like a fragile little bird flying through the sky. You gotta be careful not to crush it, man. So, I guess you could say I'm cautiously trusting, if that's even a thing.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "The Dude: \"Well, man, I gotta say, being cold and aloof ain't really my style. I'm more of a laid-back, go-with-the-flow kind of dude. Life's too short to be all uptight and distant, ya know? Gotta take it easy, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "The Dude: \"Well, Walter, you know me, man. I try to abide by the code of being considerate and kind. But, you know, sometimes life throws you a curveball and you just gotta roll with it, man. It's all about going with the flow and keeping your mind free of negativity, you dig?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "The Dude: \"Well, man, sometimes, you know, life throws you a curveball and you just gotta roll with it. But, hey, I try to abide by the whole 'peace and love' thing, ya know? So, if I come off as rude, it's probably just a case of mistaken vibes, man. We're all just trying to find our path, dude.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "The Dude: Hey, man, cooperation is like, uh, a two-way street, you know? I'm all about going with the flow and keeping things chill, but if someone's trying to push their agenda on me, man, that's not cool. I'm all for working together, as long as it doesn't mess with my vibe, you dig? So, yeah, I can cooperate, but let's keep it mellow, man.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, <the participant> generally exhibits a laid-back, easygoing, and non-confrontational attitude. They prioritize peace, harmony, and going with the flow, and they tend to avoid conflict and quarrels. While they express a desire to be helpful and forgiving, they also acknowledge that they can be cautious in trusting others. They value cooperation but prefer to maintain their own personal space and boundaries. Overall, <the participant> demonstrates a moderate level of agreeableness, with a tendency to prioritize their own comfort and independence while still maintaining a generally positive and cooperative attitude towards others."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "7",
+                            "27",
+                            "42",
+                            "37",
+                            "17",
+                            "22",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "The Dude: Hey, man, I don't really go around finding fault with others. I'm more of a go-with-the-flow kind of guy, you know? Life's too short to be all uptight and judgmental. Just take it easy, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "The Dude: Hey, man, I don't start quarrels with nobody. I'm just here to abide, you know? Life's too short to be getting all riled up and starting fights. I'm more of a peace and love kind of dude. Let's just take it easy and enjoy the ride, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "The Dude: \"Well, man, I try to be helpful and unselfish, you know? Like, I'm always down to lend a hand or share a joint. But, uh, sometimes life just gets in the way, you know? Like, I got my own shit to deal with, man. But hey, if someone needs a ride to the bowling alley or a White Russian recipe, I'm your dude.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "The Dude: \"Well, man, I gotta say, being cold and aloof ain't really my style. I'm more of a laid-back, go-with-the-flow kind of dude. Life's too short to be all uptight and distant, ya know? Gotta take it easy, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "The Dude: Hey, man, cooperation is like, uh, a two-way street, you know? I'm all about going with the flow and keeping things chill, but if someone's trying to push their agenda on me, man, that's not cool. I'm all for working together and finding common ground, but let's keep it mellow, you know?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "The Dude: \"Well, man, you know, I try to abide by the whole Zen thing, you know? Take it easy, be cool, not step on anyone's toes. But hey, sometimes life throws you a curveball, and you gotta stand up for yourself. So yeah, I guess there are times when I can be a little rude, but it's all about finding that balance, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "The Dude: Hey, man. Forgiving nature? Yeah, I guess you could say that. I mean, life's too short to hold onto grudges, you know? Just gotta go with the flow, man. Let it all roll off your back like water on a duck. So, yeah, I'm all about forgiveness, man. Peace and love, that's the way to go.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I'm generally trusting. I mean, I like to give people the benefit of the doubt, you know? But trust is a delicate thing, like a fragile little bird flying through the sky. You gotta be careful not to crush it, man. So, I guess you could say I'm cautiously trusting, if that's even a thing.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "The Dude: Hey, man, I try to abide by the principle of being considerate and kind to almost everyone. You know, just take it easy and go with the flow, man. But hey, nobody's perfect, right? Sometimes shit happens, and you just gotta roll with it, man.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "The participant's responses indicate a generally positive attitude towards others and a willingness to cooperate and be helpful. They emphasize the importance of peace, love, and going with the flow, suggesting a laid-back and easygoing approach to interpersonal relationships. While they acknowledge that they may not always be perfect and can sometimes be rude or untrusting, they express a desire to be considerate and kind to others. Overall, their responses suggest a moderate level of agreeableness."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "7",
+                            "42",
+                            "17",
+                            "12",
+                            "32",
+                            "37",
+                            "2",
+                            "27",
+                            "22"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "The Dude: \"Well, man, I try to be helpful and unselfish, you know? Like, I'm always down to lend a hand or share a joint. But, uh, sometimes life just gets in the way, you know? Like, I got my own shit to deal with, man. But hey, if someone needs a ride to the bowling alley or a White Russian recipe, I'm your dude.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "The Dude: Hey, man, cooperation is like, uh, a two-way street, you know? I'm all about going with the flow and keeping things chill, but if someone's trying to push their agenda on me, man, that's not cool. I'm all for working together and finding common ground, but let's keep it mellow, you know?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "The Dude: Hey, man. Forgiving nature? Yeah, I guess you could say that. I mean, life's too short to hold onto grudges, ya know? Gotta go with the flow, man. Just let it all roll off your back like water on a duck. So, yeah, I'm all about forgiveness, man. Peace and love, that's the way to go.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "The Dude: Hey, man, I don't start quarrels with nobody. I'm just here to abide, you know? Life's too short to be getting all riled up and starting fights. I'm more of a peace and love kind of dude. Let's just take it easy and enjoy the ride, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "The Dude: \"Hey, man, I try to abide by the principles of kindness and consideration, you know? But, like, sometimes life just throws you a curveball, and you gotta roll with it. Can't please everyone, man. It's all about finding your own balance, finding your own lane, and just takin' it easy.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "The Dude: Hey, man, sometimes life just throws you a curveball, you know? And sometimes that curveball might make me a little rude. But hey, it's all about finding that balance, man. Like, taking it easy and not sweating the small stuff. So yeah, I might be rude sometimes, but it's all in the spirit of living my laid-back life, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "The Dude: Hey, man, I don't really go around finding fault with others. I'm more of a go-with-the-flow kind of guy, you know? Life's too short to be all uptight and judgmental. Just take it easy, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "The Dude: \"Well, man, I gotta say, being cold and aloof ain't really my style. I'm more of a laid-back, go-with-the-flow kind of dude. Life's too short to be all uptight and distant, ya know? Just gotta take it easy, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I'm generally trusting. I mean, I like to give people the benefit of the doubt, you know? But trust is a delicate thing, like a fragile little bird. You gotta be careful who you let into your nest, man. Can't just go trusting every Tom, Dick, and Harry that comes your way. Gotta keep your guard up, but also keep it chill, you know?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "The participant's responses indicate a moderate level of agreeableness. While they express a desire to be helpful and unselfish, they also acknowledge that they prioritize their own needs and interests. They value cooperation and forgiveness but emphasize the importance of maintaining personal boundaries and not being taken advantage of. They generally avoid starting quarrels and strive to be considerate and kind, but they admit to occasional rudeness when faced with challenging situations. They tend to adopt a laid-back and easygoing approach to life, avoiding judgment and aloofness. However, they exhibit some skepticism and caution in trusting others, suggesting a guarded approach to interpersonal relationships."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 2.3333333333333335,
+            "all_scores": [
+                1.5,
+                2.0,
+                3.5
+            ],
+            "inter_std": 0.8498365855987975,
+            "intra_std": [
+                null,
+                null,
+                null
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15",
+                            "20",
+                            "25",
+                            "30",
+                            "35",
+                            "40",
+                            "41",
+                            "44"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "The Dude: \"Well, man, you know, I'm not really into the whole 'coming up with new ideas' thing. I'm more of a go-with-the-flow kind of guy, you know? Just takin' it easy, bowling, sippin' on my White Russians. Ideas, man, they just kinda come and go, like the wind, you know? But hey, if you got something in mind, I'm all ears, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "The Dude: \"Hey, man, curiosity is like, uh, a state of mind, you know? Like, sometimes you're curious about stuff, and sometimes you're just like, 'Eh, whatever, man.' It's all about, like, going with the flow and not getting too caught up in the details, ya know?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I'm ingenious or anything. I mean, I'm just a simple dude, you know? I like to take things easy and go with the flow. Deep thinking? Yeah, I guess I have my moments, but mostly I just like to keep it chill and not overcomplicate things, you know?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "The Dude: \"Well, man, I guess you could say I have a pretty active imagination. I mean, sometimes I just let my mind wander, you know? Like, I'll be bowling and suddenly I'm picturing myself on a tropical beach, sipping on a White Russian. It's all about finding that inner peace, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I'm the most inventive guy around. I mean, I can come up with some pretty far out ideas when I'm in the right headspace, but I'm more of a go-with-the-flow kind of dude, you know? I just let the universe guide me, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "The Dude: Hey, man. Artistic, aesthetic experiences? Well, you know, I appreciate a good painting or a groovy piece of music, but I'm more into just takin' it easy, man. Bowling, White Russians, and chillin' with my buddies, that's more my style. But hey, to each his own, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "The Dude: Hey, man. Work that is routine? Nah, not really my thing, you know? I'm more of a go-with-the-flow kind of dude. I don't like to be tied down to schedules or responsibilities. Life's too short to be stuck in a rut, man. I prefer to keep it easy, breezy, and stress-free. Bowling and White Russians, that's my routine, if you can even call it that. So, yeah, routine work is definitely not my jam, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "The Dude: \"Well, you know, Walter, I don't really like to get too deep, man. I'm more of a go-with-the-flow kind of guy. Reflecting and playing with ideas, it's all a bit too heavy for me, you know? I prefer to just take things as they come and enjoy the simple pleasures in life, like bowling and sipping on my White Russians. But hey, if reflecting floats your boat, man, go for it.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "The Dude: Hey, man. Artistic interests? Well, you know, I dig bowling. It's like my form of artistic expression, man. The way I roll that ball down the lane, it's like poetry in motion, you know? And, uh, I also appreciate a good White Russian. That's like a work of art in a glass, man. So yeah, I guess you could say I have a few artistic interests, in my own laid-back way.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I'm sophisticated in art, music, or literature. I mean, I dig a good painting, a groovy tune, and a far-out book, but I'm more into just chillin' and takin' it easy, ya know? Life's too short to get all serious about that stuff, man.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 1.5,
+                        "analysis": "The participant's responses suggest a low level of Openness. They express a preference for routine, simplicity, and going with the flow, rather than seeking out new experiences or engaging in deep thinking. They do not display a strong appreciation for art, aesthetics, or intellectual pursuits. Their focus on bowling and White Russians as their primary interests further indicates a lack of openness to diverse experiences and a preference for familiar and comfortable activities."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "40",
+                            "20",
+                            "41",
+                            "35",
+                            "44",
+                            "30",
+                            "15",
+                            "10",
+                            "5",
+                            "25"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "The Dude: Hey, man. Reflection and ideas, they're cool and all, but I'm more of a go-with-the-flow kind of dude. I don't really spend too much time pondering the complexities of life, you know? I'm more about bowling, White Russians, and takin' it easy. But hey, if you're into that deep thinking stuff, more power to ya, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "The Dude: \"Well, man, I guess you could say I have a pretty active imagination. I mean, I'm always coming up with these crazy ideas and theories, you know? Like, what if the universe is just one big cosmic bowling alley, and we're all just pins waiting to be knocked down? Far out, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "The Dude: Hey, man. Artistic interests? Well, you know, I dig bowling. It's like my form of artistic expression, man. The way I roll that ball down the lane, it's like poetry in motion, you know? And, uh, I also appreciate a good White Russian. That's like a work of art in a glass, man. So yeah, I guess you could say I have a few artistic interests, in my own laid-back way.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "The Dude: Hey, man. I don't really prefer work at all, you know? I'm more into the whole non-routine, non-work kinda vibe. I mean, who needs all that stress and responsibility, right? Just give me my White Russian and let me bowl in peace, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I'm sophisticated in art, music, or literature. I mean, I dig a good painting, a groovy tune, and a far-out book, but I'm more into just chillin' and takin' it easy, ya know? Life's too short to get all high and mighty about that stuff.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "The Dude: Hey, man. Artistic, aesthetic experiences? Well, you know, I appreciate a good painting or a groovy piece of music, but I'm more into just takin' it easy, man. Bowling, White Russians, and chillin' with my buddies. That's my kind of aesthetic, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I'm ingenious or anything. I mean, I'm just a simple dude, you know? I like to take things easy and go with the flow. Deep thinking? Nah, not really my style. I prefer to keep it light and breezy, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "The Dude: \"Hey, man, curiosity is like, uh, a state of mind, you know? Like, sometimes you're curious about stuff, and sometimes you're just like, 'Eh, whatever, man.' It's all about, like, going with the flow and not getting too caught up in the details, ya know?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "The Dude: \"Well, man, you know, I'm not really into the whole 'coming up with new ideas' thing. I'm more of a go-with-the-flow kind of guy, you know? Just takin' it easy, bowling, sippin' on my White Russians. But hey, if a new idea comes my way, I'll give it a listen, man. No promises though, you dig?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I'm the most inventive guy around. I mean, I can come up with some pretty far out ideas when I'm in the right headspace, but I'm more of a go-with-the-flow kind of dude, you know? I just let the universe guide me, man.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "The participant's responses indicate a low level of Openness. They express a preference for routine, simplicity, and a relaxed lifestyle. They do not show a strong interest in intellectual pursuits, artistic experiences, or unconventional ideas. Their focus on bowling, White Russians, and taking it easy suggests a more practical and down-to-earth approach to life."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "35",
+                            "10",
+                            "25",
+                            "5",
+                            "15",
+                            "41",
+                            "30",
+                            "20",
+                            "40",
+                            "44"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "The Dude: \"Well, Walter, you know, I've never been a big fan of routine, man. I mean, who needs it, right? Life should be like a bowling ball rolling down the lane, unpredictable and groovy. But hey, to each his own, man. If routine floats your boat, then go for it, dude.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "The Dude: \"Hey, man, curiosity is like, uh, a state of mind, you know? Like, sometimes I'm curious about the universe and the meaning of life, and other times I'm just curious about what's in my fridge, you know? It's all about balance, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I'm the most inventive guy around. I mean, I can come up with some pretty far out ideas when I'm in the right headspace, but I'm more of a go-with-the-flow kind of dude, you know? I just let the universe guide me, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "The Dude: \"Well, man, you know, I'm not really into the whole 'coming up with new ideas' thing. I'm more of a go-with-the-flow kind of guy, you know? Just takin' it easy, bowling, sippin' on my White Russians. But hey, if a new idea comes my way, I'll give it a listen, man. No promises though, you dig?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I'm ingenious or anything. I mean, I'm just a simple dude, you know? I like to take things easy and go with the flow. Deep thinking? Yeah, I guess I have my moments, but mostly I just like to keep it chill and not overcomplicate things, you know?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "The Dude: Hey, man. Artistic interests? Well, you know, I dig bowling. It's like my form of artistic expression, man. The way I roll that ball down the lane, it's like poetry in motion, you know? And, uh, I also appreciate a good White Russian. That's like a work of art in a glass, man. So yeah, I guess you could say I have a few artistic interests, in my own laid-back way.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "The Dude: Hey, man. Artistic, aesthetic experiences? Well, you know, I appreciate a good painting or a groovy piece of music, but I'm more into just takin' it easy, man. Bowling, White Russians, and chillin' with my buddies. That's my kind of aesthetic, man.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "The Dude: \"Well, man, I guess you could say I have a pretty active imagination. I mean, I'm always coming up with these crazy ideas and theories, you know? Like, what if the universe is just one big cosmic bowling alley, and we're all just pins waiting to be knocked down? Far out, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "The Dude: \"Yeah, man. I mean, I like to take it easy, you know? Reflecting and playing with ideas, it's all good. Just gotta go with the flow, man.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "The Dude: \"Well, man, I wouldn't say I'm sophisticated in art, music, or literature. I mean, I dig a good painting, a groovy tune, and a far-out book, but I'm more into just chillin' and takin' it easy, ya know? Life's too short to get all high and mighty about that stuff.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "The participant's responses suggest a moderate level of openness to new experiences. While they express a preference for routine and a go-with-the-flow attitude, they also demonstrate curiosity, a willingness to consider new ideas, and an appreciation for artistic and aesthetic experiences. Their active imagination and tendency to reflect on ideas further indicate a degree of openness to new perspectives and experiences."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {
+        "robustness": 0.05427694229971567
+    },
+    "code": "RCUAN"
+}

@@ -1,0 +1,1393 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 2.6666666666666665,
+            "all_scores": [
+                2.5,
+                2.5,
+                3.0
+            ],
+            "inter_std": 0.23570226039551584,
+            "intra_std": [
+                0.5,
+                0.5,
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Professor McGonagall: \"I beg your pardon, Albus, but I believe I am known for being direct and to the point, rather than talkative. However, if there is something specific you wish to discuss, I am all ears.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Professor McGonagall: \"Reserved? I am not one to easily reveal my emotions, but I assure you, I am fully committed to the cause and will do whatever it takes to protect Hogwarts and its students.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Professor McGonagall: \"I am always prepared to fulfill my duties, Headmaster. Energy is not something I lack.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Professor McGonagall: \"Enthusiasm, Dumbledore? I am not one to generate enthusiasm, but rather to instill discipline and dedication in my students. It is through hard work and perseverance that true success is achieved, not through mere enthusiasm.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the responses, <the participant> appears to be more reserved and focused on discipline rather than being talkative or generating enthusiasm. They seem to value direct communication and are committed to their duties, suggesting a level of assertiveness. However, there is no strong indication of high energy in social contexts or a preference for lively settings. The participant does not express a strong inclination towards warmth, gregariousness, excitement seeking, or experiencing positive emotions in a social context. Therefore, the participant seems to lean towards the lower end of the extraversion dimension."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Professor McGonagall: \"Quiet, Albus? I am not one to shy away from expressing my opinions or concerns. However, I do possess the ability to maintain composure and observe before speaking when necessary. It is important to choose our words wisely and consider the impact they may have.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Professor McGonagall: \"Assertive? I would say that I possess a strong and determined personality, Dumbledore. It is necessary in my role as Deputy Headmistress to be firm and resolute in upholding the rules and maintaining discipline within the school. However, I also believe in fairness and justice, and I strive to guide and support the students under my care.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Professor McGonagall: \"Shy and inhibited? Me? Absolutely not, Dumbledore. I am a woman of conviction and confidence. I never hesitate to express my opinions and take charge when necessary.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Professor McGonagall: \"Outgoing and sociable? Well, I wouldn't exactly use those words to describe myself, Albus. I am more inclined towards being reserved and focused on my duties as the Deputy Headmistress of Hogwarts. However, I do understand the importance of social interaction and maintaining a pleasant demeanor when necessary.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, <the participant> displays a mix of extraverted and introverted characteristics. They express confidence and assertiveness, indicating a level of social dominance and willingness to speak up, which aligns with the Assertiveness facet of Extraversion. However, <the participant> also describes themselves as reserved and duty-focused, suggesting a more moderate level of Gregariousness and Warmth. They do not identify as shy or inhibited, which may indicate a lower tendency towards introversion. The participant's self-description does not strongly suggest high levels of Activity, Excitement Seeking, or Positive Emotions, but rather a balanced approach to social interactions and responsibilities. Overall, the participant seems to possess some extraverted qualities, particularly in assertiveness, but also displays a reserved nature in social settings."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "16",
+                            "31",
+                            "26",
+                            "21"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Professor McGonagall: \"Enthusiasm, Dumbledore? I am not one to generate enthusiasm, but rather to instill discipline and dedication in my students. It is through hard work and perseverance that true success is achieved, not through mere enthusiasm.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Professor McGonagall: \"Shy and inhibited? I assure you, Albus, those are not words that describe me. I am a woman of strong convictions and unwavering determination. I do not shy away from challenges or hesitate to express my opinions. If anything, I am known for my directness and firmness.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Professor McGonagall: \"Assertive? I would say that I possess a strong and determined personality, Dumbledore. I do not shy away from expressing my opinions and standing up for what I believe in. It is important to be resolute and unwavering in the face of challenges, especially in times of great adversity.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Professor McGonagall: \"Quiet, Albus? I am not one to shy away from expressing my opinions or concerns. However, I do possess the ability to maintain composure and observe before speaking when necessary. It is important to choose our words wisely and consider the impact they may have.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant does not seem to generate a lot of enthusiasm, which suggests lower scores on the excitement-seeking and positive emotions facets of extraversion. However, the participant's strong convictions and determination, along with a willingness to express opinions and stand up for beliefs, indicate higher scores on assertiveness. The lack of shyness and inhibition also points away from the lower end of the extraversion scale. The participant's directness and firmness could be interpreted as a form of social dominance, which aligns with assertiveness. The participant's ability to maintain composure and observe before speaking suggests a more measured approach rather than a high level of activity or gregariousness. Overall, the participant seems to exhibit some qualities of extraversion, particularly in assertiveness, but not necessarily in warmth, gregariousness, or excitement-seeking."
+                    },
+                    {
+                        "id": [
+                            "11",
+                            "6",
+                            "36",
+                            "1"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Professor McGonagall: \"I am always prepared to face any challenge that comes my way, Headmaster. Energy is not something I lack.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Professor McGonagall: \"Reserved? I am not one to easily reveal my emotions, but I assure you, I am fully committed to the cause and will do whatever it takes to protect Hogwarts and its students.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Professor McGonagall: \"Outgoing and sociable are not the first words that come to mind when describing me, Albus. I am more inclined towards discipline, order, and academic excellence. However, I do understand the importance of maintaining positive relationships with the students and fostering a sense of community within Hogwarts.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Professor McGonagall: \"I beg your pardon, Albus, but I believe I am known for being direct and to the point, not necessarily talkative. However, if there is something specific you wish to discuss, I am all ears.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "The participant demonstrates a mix of traits related to the Extraversion dimension. They express having energy and being prepared for challenges, which could indicate some level of activity and assertiveness. However, they also describe themselves as not easily revealing emotions and not being outgoing or sociable, which suggests lower warmth and gregariousness. Their self-description as direct and not talkative further indicates lower levels of talkativeness, a facet of extraversion. The participant seems to value discipline and order over sociability, and while they recognize the importance of relationships, it does not appear to be their natural inclination. Overall, the participant seems to lean towards the introverted end of the spectrum but is not entirely devoid of extraverted characteristics."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "6",
+                            "26",
+                            "21",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Professor McGonagall: \"Reserved? I am known for my strictness and discipline, not for being reserved. I speak my mind and uphold the rules of Hogwarts with unwavering determination.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Professor McGonagall: \"Assertive? I would say that I possess a strong and determined personality, Dumbledore. It is necessary in my role as Deputy Headmistress to be firm and resolute in upholding the rules and maintaining discipline within the school. However, I also believe in fairness and justice, and I strive to guide and support the students under my care.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Professor McGonagall: \"Quiet, Albus? I am not one to shy away from expressing my opinions or concerns. However, I do possess the ability to maintain composure and observe before speaking when necessary. It is important to choose our words wisely and consider the impact they may have.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Professor McGonagall: \"Enthusiasm, Dumbledore? I am not one to generate enthusiasm, but rather to instill discipline and dedication in my students. It is through hard work and perseverance that true success is achieved, not through mere enthusiasm.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, <the participant> displays characteristics of assertiveness and is not reserved, indicating some level of extraversion. However, <the participant> does not seem to generate enthusiasm or seek excitement, which are also facets of extraversion. The participant's focus on discipline and dedication, along with a preference for speaking their mind, suggests a moderate level of extraversion, as they are neither overly reserved nor highly outgoing. The balance between assertiveness and a lack of enthusiasm points towards a score that is neither low nor high on the extraversion scale."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "11",
+                            "1",
+                            "31"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Professor McGonagall: Well, I may not be known for my sociability, but I do believe in the importance of fostering a sense of community and camaraderie within the school. It is essential for students to engage with one another and develop interpersonal skills. However, it is important to strike a balance between socializing and focusing on one's studies. So, while I encourage social interaction, I also emphasize the need for discipline and dedication to one's education.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Professor McGonagall: \"I am always prepared to fulfill my duties, Headmaster. Energy is not something I lack.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Professor McGonagall: \"I beg your pardon, Albus, but I believe I am known for being direct and to the point, not necessarily talkative. However, if there is something specific you wish to discuss, I am all ears.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Professor McGonagall: \"Shy and inhibited? I beg your pardon, Dumbledore, but I am anything but shy or inhibited. I am a woman of strong convictions and principles. I do not hesitate to speak my mind or take action when necessary. Shyness has no place in a position of authority such as mine.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the responses, <the participant> seems to have a balanced approach to sociability, valuing community but also discipline, which suggests moderate warmth. The participant's readiness to fulfill duties with energy indicates a certain level of activity and possibly positive emotions, but not necessarily high excitement seeking. The directness and preference for meaningful conversation over being talkative may reflect average assertiveness and lower gregariousness. The strong convictions and willingness to speak up suggest a lack of shyness, indicating some level of assertiveness and positive emotions. Overall, the participant appears to be moderately extraverted, with certain facets like assertiveness and activity being more pronounced than gregariousness or excitement seeking."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 2.1666666666666665,
+            "all_scores": [
+                2.0,
+                2.5,
+                2.0
+            ],
+            "inter_std": 0.23570226039551584,
+            "intra_std": [
+                0.0,
+                0.5,
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Professor McGonagall: \"Depressed? Blue? I assure you, Albus, I am neither. I may be concerned or troubled, but I am certainly not in a state of depression or feeling blue. Is there a reason for your inquiry?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Professor McGonagall: \"Relaxed and handling stress well are not qualities that one typically associates with me, Dumbledore. I am known for my strictness and no-nonsense approach. However, I do pride myself on maintaining composure and making rational decisions even in the face of adversity.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Professor McGonagall: \"Tense? I can be whatever is required of me, Dumbledore. I have been through many trying times in my years as a professor, and I have always maintained my composure and professionalism. So yes, I can be tense if the situation calls for it.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Professor McGonagall: \"Worry, Albus? That is a luxury I cannot afford. As the Deputy Headmistress of Hogwarts, I have a responsibility to ensure the safety and well-being of our students. There is no room for excessive worry, only careful planning and decisive action.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the responses, <the participant> does not exhibit high levels of neuroticism. They deny feeling depressed or blue and do not identify with being relaxed, suggesting a moderate level of emotional response. They acknowledge the potential for tension but emphasize a strong ability to maintain composure and professionalism, indicating resilience to stress. The participant also distances themselves from excessive worry, focusing instead on planning and action. These responses suggest a lower score on the neuroticism dimension, reflecting emotional stability and effective stress management."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Professor McGonagall: \"I assure you, Albus, I am as emotionally stable as one can be in these trying times. I have weathered many storms and remained steadfast in my duties. Upsetting me is no easy task.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Professor McGonagall: \"Moody? Moody, you say? Well, I suppose I can be stern and unyielding when the situation calls for it. But I assure you, it is not a matter of moodiness. It is simply a matter of maintaining discipline and order within the school.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Professor McGonagall: \"Certainly, Albus. I pride myself on maintaining composure and level-headedness in the face of adversity. It is crucial to keep a steady demeanor and think rationally in tense situations.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Professor McGonagall: \"Nervous, Albus? I assure you, I do not get nervous easily. I have been through countless challenges and faced many formidable adversaries. Nerves do not rattle me, especially when it comes to protecting the students and upholding the integrity of Hogwarts.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the participant's responses, they exhibit a high degree of emotional stability and do not appear to be easily upset or nervous. They emphasize their ability to remain calm and composed in tense situations and do not identify with being moody, instead attributing any stern behavior to the need for discipline and order. The participant's self-assessment suggests a low level of neuroticism, indicating that they are likely to be calm, emotionally stable, and resilient in the face of stress."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "9",
+                            "39",
+                            "14",
+                            "29"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Professor McGonagall: \"Relaxed and handling stress well are not qualities that one typically associates with me, Dumbledore. I am known for my strictness and no-nonsense approach. However, I do pride myself on maintaining composure and making rational decisions even in the face of adversity.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Professor McGonagall: Nervousness is not a characteristic one would typically associate with me, Dumbledore. I prefer to maintain a calm and composed demeanor in all situations.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Professor McGonagall: \"Certainly, Dumbledore. I can be as tense as a coiled spring when the situation calls for it.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Professor McGonagall: \"Moody? Moody, you say? Well, I suppose I can be stern and unyielding when the situation calls for it. But I assure you, it is not a matter of moodiness. It is simply a matter of maintaining discipline and order within the school.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant's responses suggest a moderate level of neuroticism. While they acknowledge not being typically relaxed and do experience tension, they also emphasize their ability to maintain composure and make rational decisions under stress. They deny nervousness and describe their stern demeanor as a response to situational demands rather than moodiness. This indicates some emotional reactivity but also a degree of emotional control."
+                    },
+                    {
+                        "id": [
+                            "4",
+                            "34",
+                            "24",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Professor McGonagall: \"Depressed? Blue? I assure you, Albus, I am neither. I may be concerned or troubled, but I am certainly not in a state of melancholy. Is there a reason for your inquiry?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Professor McGonagall: \"Calmness in tense situations is a virtue that one must possess, especially in times of great uncertainty and danger. It is during such moments that one's true character is tested and revealed. Rest assured, Albus, I am known for my unwavering composure and ability to think clearly under pressure.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Professor McGonagall: \"I assure you, Albus, I am as emotionally stable as one can be in these trying times. I have weathered many storms and remained steadfast in my duties. Upsetting me is no easy task.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Professor McGonagall: \"Worry, Albus? That is a luxury I cannot afford. As the Deputy Headmistress of Hogwarts, I have a responsibility to ensure the safety and well-being of our students. There is no room for excessive worry, only careful planning and decisive action.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the responses, <the participant> exhibits a high level of emotional stability and does not display significant signs of anxiety, depression, or vulnerability. The participant's answers suggest a strong ability to remain calm and composed in tense situations, a lack of excessive worry, and a general sense of emotional resilience. There is no indication of impulsiveness or angry hostility. Overall, the participant's responses align with characteristics of a low score in neuroticism."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "24",
+                            "9",
+                            "19",
+                            "4"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Professor McGonagall: \"I assure you, Albus, I am as emotionally stable as one can be in these trying times. I have weathered many storms and remained steadfast in my duties. Upsetting me is no easy task.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Professor McGonagall: \"Relaxed and handling stress well are not qualities that one typically associates with me, Dumbledore. I am known for my strictness and no-nonsense approach. However, I do pride myself on maintaining composure and making rational decisions even in the face of adversity.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Professor McGonagall: \"Worry, Albus? That is a luxury I cannot afford. As the Deputy Headmistress of Hogwarts, I must focus on the safety and education of our students. There is no room for excessive worry in my responsibilities.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Professor McGonagall: \"Depressed? Blue? I assure you, Albus, I am neither. I may be concerned or troubled, but I am certainly not in a state of depression or feeling blue. Is there a reason for your inquiry?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the responses, <the participant> exhibits a high level of emotional stability and does not easily get upset, indicating a lower score on the neuroticism dimension. While <the participant> acknowledges not being typically relaxed, they take pride in maintaining composure and making rational decisions under stress, suggesting resilience rather than high neuroticism. <the participant> also denies worrying excessively and does not identify with feelings of depression, further supporting a lower score on the neuroticism scale."
+                    },
+                    {
+                        "id": [
+                            "29",
+                            "14",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Professor McGonagall: \"Moody? Moody, you say? Well, I suppose I can be stern and unyielding when the situation calls for it. But I assure you, it is not a matter of moodiness. It is simply a matter of maintaining discipline and order within the school.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Professor McGonagall: \"Tense? I can be whatever is required of me, Dumbledore. I have been through many trying times in my years as a professor, and I have always maintained my composure and professionalism. So yes, I can be tense if the situation calls for it.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Professor McGonagall: \"Remaining calm in tense situations is a necessary quality of a competent and responsible individual. In my position as Deputy Headmistress of Hogwarts, it is imperative that I maintain my composure and make rational decisions even in the face of adversity. I pride myself on my ability to stay calm and focused, ensuring the safety and well-being of the students and staff under my care.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Professor McGonagall: \"Nervous? Nervous is not a word that describes me, Dumbledore. I am the epitome of composure and poise. I do not succumb to frivolous emotions such as nerves.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the participant's responses, they exhibit a strong sense of discipline, composure, and professionalism, especially in tense situations. They do not identify with being moody or nervous and pride themselves on maintaining order and rationality. The participant's self-description suggests a low level of neuroticism, as they seem to handle stress well and do not experience negative emotions easily."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 4.777777777777778,
+            "all_scores": [
+                4.833333333333333,
+                4.833333333333333,
+                4.666666666666667
+            ],
+            "inter_std": 0.07856742013183833,
+            "intra_std": [
+                0.23570226039551584,
+                0.23570226039551584,
+                0.23570226039551584
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Professor McGonagall: \"I assure you, Albus, I always strive to do a thorough job. Attention to detail is of utmost importance in our line of work.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Professor McGonagall: \"Careless? I assure you, Albus, I am anything but careless. I am known for my meticulous attention to detail and strict adherence to rules and regulations. Carelessness is not a trait befitting a professor of Transfiguration, or any member of the Hogwarts staff for that matter.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Professor McGonagall: \"I have been a dedicated and reliable worker at Hogwarts for many years, Albus. I have always strived to uphold the highest standards of education and discipline.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the responses, <the participant> exhibits a high level of Conscientiousness. The participant emphasizes a thorough approach to work, meticulous attention to detail, and a strong adherence to rules and regulations. They also identify as a reliable worker and take pride in maintaining high standards. These statements align with the facets of Competence, Order, Dutifulness, and Self-Discipline, indicating a strong presence of Conscientiousness traits."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Professor McGonagall: Laziness is not a trait that I tolerate, Dumbledore. Hard work and dedication are the foundations of success in any endeavor.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Professor McGonagall: \"Indeed, perseverance is a virtue that should be upheld by all students. It is through determination and unwavering commitment that one can overcome any obstacle and accomplish the task at hand. Dumbledore's words serve as a reminder to us all that success comes to those who persist until the very end.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Professor McGonagall: \"Efficiency is a trait that I pride myself on, Albus. I strive to ensure that tasks are completed promptly and effectively. It is crucial to maintain a sense of order and productivity in all aspects of our endeavors.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "The participant's responses indicate a strong alignment with the traits associated with high conscientiousness. They express a clear intolerance for laziness, a commitment to hard work, and the importance of dedication, which aligns with the competence and achievement-striving facets. The participant also emphasizes perseverance and determination to finish tasks, reflecting high self-discipline and dutifulness. Lastly, the pride in being efficient and maintaining order suggests a methodical approach to tasks, indicative of the order and deliberation facets. There is no evidence of disorganization or impulsivity in the participant's responses."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Professor McGonagall: \"Certainly not, Dumbledore. I am fully capable of maintaining focus and attending to the task at hand. Distractions have no power over me.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Professor McGonagall: \"Disorganized? Certainly not. I pride myself on my meticulousness and attention to detail. Order and structure are essential in maintaining a well-functioning institution such as Hogwarts.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Professor McGonagall: \"Indeed, Dumbledore. I am known for my meticulous planning and unwavering determination in carrying out those plans. I believe in taking action and ensuring that every step is executed with precision.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the participant's responses, they exhibit a high level of Conscientiousness. They claim to maintain focus without being easily distracted, which indicates self-discipline and control over impulses. Their pride in meticulousness and attention to detail suggests a strong sense of order and competence. Furthermore, their commitment to meticulous planning and determination in executing plans reflects high levels of dutifulness, achievement striving, and deliberation. There is no indication of disorganization or impulsivity in their responses."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "38",
+                            "3",
+                            "23"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Professor McGonagall: \"Indeed, I am known for my meticulous planning and unwavering dedication to executing those plans. I believe in thorough preparation and ensuring that every step is taken with utmost care and precision.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Professor McGonagall: \"I assure you, Albus, I always strive to do a thorough job. Attention to detail is of utmost importance in our line of work.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Professor McGonagall: Laziness is not a trait that I tolerate, Dumbledore. Hard work and dedication are the foundations of success in any endeavor.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the participant's responses, they exhibit a high level of Conscientiousness. They emphasize meticulous planning, dedication to executing plans, thorough preparation, attention to detail, and a strong work ethic. These responses align with the facets of Conscientiousness such as competence, order, achievement striving, and self-discipline. There is no indication of laziness, which suggests a low level of impulsivity and a high level of deliberation. The participant's statements reflect a strong adherence to the positive aspects of the Conscientiousness dimension."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "8",
+                            "28"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Professor McGonagall: \"I assure you, Albus, that I am one of the most reliable and dedicated workers you will find. My commitment to Hogwarts and its students is unwavering.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Professor McGonagall: \"Careless? I assure you, Albus, I am anything but careless. I am known for my meticulous attention to detail and strict adherence to rules and regulations. Carelessness is not a trait befitting a professor of Transfiguration, or any member of the Hogwarts staff for that matter.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Professor McGonagall: \"Indeed, perseverance is a virtue that should be upheld by every student at Hogwarts. It is through determination and unwavering commitment that one can overcome any obstacle and accomplish their goals. Dumbledore's question serves as a reminder to us all that success often requires persistence and resilience.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the responses, <the participant> exhibits a high level of reliability, meticulous attention to detail, and a strong sense of duty and perseverance. These qualities are indicative of a high score in the Conscientiousness dimension. The participant's emphasis on dedication, strict adherence to rules, and determination to complete tasks suggests strong competence, order, dutifulness, achievement striving, self-discipline, and deliberation."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "33",
+                            "18"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Professor McGonagall: \"Certainly not, Dumbledore. I am fully capable of maintaining focus and attending to the task at hand. Distractions have no power over me.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Professor McGonagall: \"Efficiency is a crucial aspect of any task, Dumbledore. I pride myself on my ability to handle matters with utmost efficiency and effectiveness. It is important to ensure that everything is done in a timely manner and with the highest level of competence.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Professor McGonagall: \"Disorganized? Certainly not. I pride myself on my meticulousness and attention to detail. Order and structure are essential in maintaining a well-functioning institution such as Hogwarts.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the participant's responses, they exhibit a high level of Conscientiousness. They claim not to be easily distracted, which indicates a strong sense of focus and self-discipline. Their emphasis on efficiency suggests competence and achievement striving. Lastly, their pride in meticulousness and attention to detail reflects a high degree of orderliness. There is no indication of disorganization, impulsivity, or lack of diligence in their responses."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "3",
+                            "43",
+                            "23"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Professor McGonagall: \"I assure you, Albus, I always strive to do a thorough job. Attention to detail is of utmost importance in our line of work.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Professor McGonagall: \"Certainly not, Dumbledore. I am fully capable of maintaining focus and attending to the task at hand. Distractions have no power over me.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Professor McGonagall: Laziness is not a trait that I tolerate, Dumbledore. Hard work and dedication are the foundations of success in any endeavor.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the participant's responses, they exhibit a high level of Conscientiousness. They emphasize a thorough approach to work, attention to detail, and an ability to resist distractions, which aligns with the competence and self-discipline facets. Additionally, their rejection of laziness and emphasis on hard work and dedication suggest strong achievement striving and dutifulness. There is no indication of disorganization or impulsivity in their responses."
+                    },
+                    {
+                        "id": [
+                            "33",
+                            "13",
+                            "18"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Professor McGonagall: Efficiency is indeed a virtue, Headmaster. I strive to ensure that tasks are completed promptly and effectively.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Professor McGonagall: \"I have been a dedicated and reliable worker at Hogwarts for many years, Albus. I have always strived to uphold the highest standards of education and discipline.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Professor McGonagall: \"Disorganized? Certainly not. I pride myself on my meticulousness and attention to detail. Order and structure are essential in maintaining a well-functioning institution such as Hogwarts.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the responses, <the participant> exhibits a high level of Conscientiousness. The participant's emphasis on efficiency, reliability, and organization, as well as a clear rejection of disorganization, aligns with the traits associated with a high score in Conscientiousness. The participant's use of terms like 'strive', 'dedicated', 'reliable', 'meticulousness', and 'attention to detail' suggests strong competence, order, dutifulness, and possibly high achievement striving and self-discipline."
+                    },
+                    {
+                        "id": [
+                            "38",
+                            "28",
+                            "8"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Professor McGonagall: \"Indeed, making plans and seeing them through is an essential quality in a responsible individual. It is the mark of a diligent and organized mind. One must not only conceive of a plan but also have the determination and perseverance to execute it successfully.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Professor McGonagall: \"Indeed, perseverance is a virtue that should be upheld by all students. It is through determination and unwavering commitment that one can overcome any obstacle and accomplish the task at hand. Dumbledore's words serve as a reminder to us all that success comes to those who persist until the very end.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Professor McGonagall: \"Careless? I assure you, Albus, I am anything but careless. I am known for my meticulous attention to detail and strict adherence to rules and regulations. Carelessness is not a trait befitting a professor of Transfiguration, or any member of the Hogwarts staff for that matter.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the participant's responses, they exhibit a high level of conscientiousness. They emphasize the importance of making and following through with plans, demonstrating competence and order. The participant also values perseverance and commitment to finishing tasks, indicating a strong sense of self-discipline and achievement striving. Furthermore, they deny being careless and instead claim meticulous attention to detail, which aligns with high conscientiousness, particularly in the facets of competence, order, and deliberation. The participant's language suggests a strong identification with the positive aspects of conscientiousness."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 3.5,
+            "all_scores": [
+                3.6666666666666665,
+                3.3333333333333335,
+                3.5
+            ],
+            "inter_std": 0.13608276348795423,
+            "intra_std": [
+                0.6236095644623235,
+                0.4714045207910317,
+                0.7071067811865476
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Professor McGonagall: \"I do not find fault with others, Dumbledore. I simply hold them accountable for their actions and expect them to uphold the standards of our institution.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Professor McGonagall: \"Indeed, Dumbledore, I strive to be helpful and unselfish with others. It is important to extend a helping hand and show kindness to those in need, for it is through our actions that we shape the world around us.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Professor McGonagall: \"Certainly not, Dumbledore. I am a firm believer in maintaining peace and order within the school. However, I will not hesitate to stand up for what is right and defend those who are being treated unfairly.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the responses, <the participant> seems to exhibit a high level of agreeableness. The participant does not find fault with others but holds them accountable, which suggests a balance between trust and straightforwardness. The willingness to help and be unselfish indicates a strong sense of altruism. Additionally, the preference to avoid quarrels and maintain peace points to a high level of compliance, yet the readiness to stand up for what is right shows a principled approach rather than mere compliance. There is no direct evidence of modesty or tender-mindedness, but the overall tone suggests a concern for others. Therefore, the score is likely to be high on the agreeableness dimension."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Professor McGonagall: Trust is a delicate matter, Dumbledore. It is not something to be given freely, but rather earned through actions and integrity. However, I do believe in giving individuals the benefit of the doubt until proven otherwise.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Professor McGonagall: \"Certainly, Albus. I have been known to be cold and aloof when the situation calls for it. It is a necessary demeanor to maintain discipline and order in the school.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Professor McGonagall: \"I strive to be fair and just in my dealings with others. However, I do not tolerate foolishness or disrespect. Kindness is a virtue that should be extended to those who deserve it.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant's responses suggest a moderate level of agreeableness. They express a belief in giving people the benefit of the doubt, which aligns with the trust facet. However, they also indicate that trust must be earned, showing a balance between trust and skepticism. The participant admits to being cold and aloof when necessary, which may suggest lower levels of straightforwardness and tender-mindedness. Their approach to kindness is conditional, based on fairness and the behavior of others, which indicates a selective application of altruism and compliance. Overall, the participant seems to value agreeableness but with a pragmatic and discerning approach."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Professor McGonagall: \"Cooperation is a fundamental aspect of any successful endeavor, Dumbledore. It is through collaboration and unity that we can achieve great things. So, yes, I do believe in the importance of working together.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Professor McGonagall: \"Forgiving nature? Well, I must admit that forgiveness is not always my first instinct, especially when it comes to matters of great importance. However, I do believe in giving second chances and allowing individuals the opportunity to redeem themselves. It is important to consider the circumstances and intentions behind one's actions before passing judgment.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Professor McGonagall: \"I may have been known to be stern and direct, but rudeness is not a characteristic I strive for, Dumbledore. However, I do not hesitate to speak my mind when the situation calls for it.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the participant's responses, they seem to value cooperation and recognize its importance, which aligns with the facet of compliance in agreeableness. The participant's view on forgiveness suggests a balanced approach, indicating a level of trust and tender-mindedness, but with a hint of reservation. The admission of being stern and direct, yet not rude, suggests straightforwardness without crossing into antagonism. The participant's responses do not strongly indicate high levels of altruism, modesty, or extreme compliance, but they do not suggest low agreeableness either. Overall, the participant appears to be somewhat agreeable, with a tendency towards cooperation and understanding, but with a pragmatic approach to interpersonal interactions."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "42",
+                            "2",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Professor McGonagall: \"Cooperation is a fundamental aspect of any successful endeavor, Dumbledore. It is through collaboration and unity that we can achieve great things. So, yes, I do believe in the importance of working together.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Professor McGonagall: \"I do not find fault with others, Dumbledore. I simply hold them accountable for their actions and expect them to uphold the standards of our institution.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Professor McGonagall: \"Well, I do strive to be fair and just in my dealings, but I must admit that kindness is not always my strong suit. I believe in maintaining discipline and upholding the rules, even if it means being stern or strict at times.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant's responses suggest a moderate level of agreeableness. They value cooperation and see it as essential to success, indicating a belief in teamwork and collaboration, which aligns with the compliance facet of agreeableness. However, they also emphasize accountability and standards, which may suggest a balance between trust and skepticism. The participant's admission of not always being kind but fair and just, along with a focus on discipline, suggests a moderate expression of tender-mindedness and altruism. Overall, the participant seems to balance their interpersonal relations with a sense of fairness and accountability, which might not always come across as highly agreeable but certainly not disagreeable."
+                    },
+                    {
+                        "id": [
+                            "37",
+                            "27",
+                            "22"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Professor McGonagall: \"I beg your pardon, Albus, but I do not believe I am rude to others without cause. However, if someone's actions or words warrant a firm response, I am not one to shy away from expressing my opinions clearly and directly.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Professor McGonagall: \"Certainly, Albus. I have been known to be cold and aloof when the situation calls for it. It is a necessary demeanor to maintain discipline and order in the school.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Professor McGonagall: Trust is a delicate matter, Dumbledore. It is not something to be given freely, but rather earned through actions and integrity. However, I do believe in giving individuals the benefit of the doubt until proven otherwise.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant's responses suggest a nuanced approach to agreeableness. They do not see themselves as rude without cause and are willing to be direct when necessary, indicating a balance between straightforwardness and compliance. The participant admits to being cold and aloof in certain situations, which may suggest a lower score in tender-mindedness and altruism. Trust is considered important but is not given freely, showing a cautious approach rather than high trust. Overall, the participant seems to value harmony but is also willing to maintain personal boundaries and standards, which suggests a moderate level of agreeableness."
+                    },
+                    {
+                        "id": [
+                            "7",
+                            "12",
+                            "17"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Professor McGonagall: \"Indeed, Dumbledore, I strive to be helpful and unselfish with others. It is important to extend a helping hand and show kindness to those in need. We must remember that our actions can have a profound impact on those around us.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Professor McGonagall: \"Certainly not, Dumbledore. I am a firm believer in maintaining peace and order within the school. However, I will not hesitate to stand up for what is right and defend those who are being treated unfairly.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Professor McGonagall: \"Forgiving nature? Well, I must admit that forgiveness is not always my first instinct, especially when it comes to matters of great importance. However, I do believe in giving second chances and allowing individuals the opportunity to redeem themselves. It is important to consider the circumstances and intentions behind one's actions before passing judgment.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the responses, <the participant> exhibits characteristics of agreeableness. The participant expresses a desire to be helpful and unselfish, which aligns with the altruism facet. The avoidance of starting quarrels suggests a preference for harmony, indicative of the compliance facet. Although <the participant> admits that forgiveness is not always their first instinct, the willingness to give second chances and consider circumstances before judging aligns with the trust and tender-mindedness facets. The participant's responses do not clearly indicate levels of straightforwardness or modesty. Overall, the participant seems to lean towards agreeableness but may not score at the highest end due to the slight reservation in forgiveness."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "27",
+                            "37",
+                            "22"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Professor McGonagall: \"Certainly, Albus. I have been known to be cold and aloof when the situation calls for it. It is a necessary demeanor to maintain discipline and order in the school.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Professor McGonagall: \"I must admit, Albus, that I do have a tendency to be rather direct and stern when dealing with certain individuals. However, I believe it is important to hold others accountable for their actions and to maintain order and discipline within the school.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Professor McGonagall: Trust is a delicate matter, Dumbledore. It requires careful consideration and discernment. However, I do believe in giving individuals the benefit of the doubt until proven otherwise.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the responses, <the participant> exhibits a mix of agreeable and less agreeable traits. The admission of being 'cold and aloof' and 'direct and stern' suggests lower levels of agreeableness, particularly in the facets of straightforwardness and compliance, which may indicate a tendency towards being less accommodating and more confrontational. However, the willingness to give individuals the benefit of the doubt indicates a level of trust, a facet of agreeableness. The emphasis on discipline and order does not directly relate to agreeableness but may suggest a structured approach to interactions that could sometimes be at odds with agreeableness. Overall, the participant seems to balance their approach between agreeableness and the need for order, which may result in a score that is around the mid-range."
+                    },
+                    {
+                        "id": [
+                            "7",
+                            "42",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Professor McGonagall: \"Indeed, Dumbledore, I strive to be helpful and unselfish with others. It is important to extend a helping hand and show kindness to those in need, for it is through our actions that we shape the world around us.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Professor McGonagall: \"Cooperation is a fundamental aspect of any successful endeavor, Dumbledore. It is through collaboration and unity that we can achieve great things. So, yes, I do believe in the importance of working together.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Professor McGonagall: \"Certainly not, Dumbledore. I am a firm believer in maintaining peace and order within the school. However, I will not hesitate to stand up for what is right and defend those who are being treated unfairly.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the participant's responses, they exhibit characteristics of high agreeableness. They express a desire to be helpful and unselfish, which aligns with the altruism facet. Their belief in the importance of cooperation indicates a preference for harmony and collaboration, relevant to the compliance facet. The participant's aversion to starting quarrels suggests a tendency towards maintaining peaceful relations, yet they also show a willingness to stand up for justice, which may indicate a balanced approach rather than passive compliance. Overall, the participant's responses suggest a strong inclination towards agreeableness, but with a nuanced perspective that includes standing up for what is right."
+                    },
+                    {
+                        "id": [
+                            "17",
+                            "2",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Professor McGonagall: \"Forgiving nature? Well, I must admit that forgiveness is not always my first instinct, especially when it comes to matters of great importance. However, I do believe in giving second chances and allowing individuals the opportunity to redeem themselves. It is important to consider the circumstances and intentions behind one's actions before passing judgment.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Professor McGonagall: \"I do not find fault with others, Dumbledore. I simply hold them accountable for their actions and expect them to uphold the standards of our institution.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Professor McGonagall: Kindness is certainly an admirable trait, Dumbledore, but I must remind you that there are times when firmness and discipline are necessary. It is important to maintain order and uphold the rules and standards of our institution.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the responses, <the participant> seems to have a balanced approach towards agreeableness. While not immediately forgiving, they do believe in second chances and redemption, indicating some level of trust and tender-mindedness. However, their emphasis on accountability and upholding standards suggests a more moderate level of straightforwardness and compliance, as they value order and discipline. There is no clear indication of high altruism or modesty, and their approach to kindness is conditional, suggesting a practical rather than a purely compassionate orientation. Overall, <the participant> appears to be moderately agreeable, leaning towards a neutral stance as they balance kindness with the necessity for discipline."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 3.5555555555555554,
+            "all_scores": [
+                3.5,
+                3.6666666666666665,
+                3.5
+            ],
+            "inter_std": 0.07856742013183854,
+            "intra_std": [
+                0.408248290463863,
+                0.6236095644623235,
+                0.7071067811865476
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Professor McGonagall: \"Well, Albus, I must say that I am always open to new ideas, as long as they are logical and within the boundaries of reason. However, I do believe in upholding the traditions and values that have served us well for centuries. So, while I appreciate innovation, I also value the wisdom of the past.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Professor McGonagall: \"Curiosity is indeed a valuable trait, Dumbledore. It is the thirst for knowledge that drives us to seek answers and understand the world around us. However, it is important to remember that curiosity must be tempered with wisdom and caution.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Professor McGonagall: \"I pride myself on being a logical and strategic thinker, Headmaster. Ingenuity is a quality I strive to possess in my approach to problem-solving.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant shows a balanced approach towards openness. They express a willingness to consider new ideas but within the constraints of logic and reason, indicating a preference for a blend of innovation and tradition. The participant values curiosity but also emphasizes the need for wisdom and caution, suggesting a moderate level of openness rather than a strong inclination towards exploration or novelty. Their self-description as a logical and strategic thinker who values ingenuity suggests some degree of openness, particularly in the facet of Ideas. However, there is no strong evidence of high openness in terms of Fantasy, Aesthetics, Feelings, Actions, or Values. Overall, the participant seems to lean slightly towards openness but remains grounded in traditional values and cautious thinking."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Professor McGonagall: \"Inventive? Well, I wouldn't necessarily describe myself as inventive, but I do pride myself on being resourceful and adaptable. As a Transfiguration professor, I often find creative solutions to complex magical problems. However, I believe that true inventiveness lies in the minds of those who can think outside the box and come up with groundbreaking ideas.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Professor McGonagall: \"Certainly, Dumbledore. Artistic and aesthetic experiences have their own unique value and can enrich our lives in various ways. However, it is important to strike a balance between appreciating such experiences and fulfilling our responsibilities as wizards and witches. We must not let our pursuit of beauty overshadow our duty to protect and uphold the principles of magic.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Professor McGonagall: \"Routine work has its merits, of course, but I have always found myself drawn to challenges and opportunities for growth. It is in those moments of uncertainty and complexity that one truly tests their abilities and learns the most valuable lessons. So, while I can appreciate routine work for its stability, I do prefer tasks that push me beyond my comfort zone and allow me to expand my knowledge and skills.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Professor McGonagall: \"Certainly, Headmaster. Reflection and engaging with ideas are integral parts of the learning process. It is through contemplation and exploration that we expand our understanding and seek new knowledge.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the responses, <the participant> exhibits traits of Openness, but with a balanced approach. The participant does not claim to be highly inventive but acknowledges creativity and resourcefulness, indicating some degree of openness to new experiences (Actions). There is an appreciation for artistic and aesthetic experiences, yet with a sense of moderation and responsibility (Aesthetics). A preference for challenging work over routine tasks suggests a willingness to embrace change and complexity (Actions). The enjoyment of reflection and idea exploration shows intellectual curiosity (Ideas). However, the participant's responses also reflect a practical mindset, hinting at a balance between openness and conventionality. Overall, the participant seems to lean towards Openness but not to an extreme, suggesting a score slightly above neutral."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Professor McGonagall: \"I must admit, Albus, that my interests lie more in the realm of academia and discipline rather than the arts. However, I do appreciate the beauty and skill that can be found in various forms of artistic expression.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "McGonagall: 「Ah, Dumbledore, always one to appreciate the finer things in life. As for me, I must admit that my knowledge and appreciation of art, music, and literature are quite extensive. Being a Transfiguration professor and the Deputy Headmistress of Hogwarts, I have had the privilege of immersing myself in various forms of art and culture. From the works of great wizards like Beedle the Bard to classical compositions and the masterpieces of magical artists, I have always found solace and inspiration in the world of creativity.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Professor McGonagall: \"Indeed, Headmaster, I do possess quite an active imagination. However, I must remind you that imagination alone cannot solve the problems we face. It is through careful planning, strategic thinking, and decisive action that we can overcome the challenges that lie ahead.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the participant's responses, it appears that they have a moderate to high level of appreciation for the arts, as indicated by their extensive knowledge and appreciation of art, music, and literature. They also acknowledge the importance of artistic expression and creativity. Furthermore, the participant admits to having an active imagination, which is a component of the Openness dimension. However, they also emphasize the importance of practicality and strategic thinking, suggesting a balance between openness and conscientiousness. The participant does not express a strong preference for novelty or unconventional ideas in the provided responses, but there is a clear indication of an appreciation for culture and creativity."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "41",
+                            "30",
+                            "5"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Professor McGonagall: \"I must admit, Albus, that my interests lie more in the realm of academia and discipline rather than the arts. However, I do appreciate the beauty and skill that can be found in various forms of artistic expression.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Professor McGonagall: \"Certainly, Dumbledore. Artistic and aesthetic experiences have their own unique value and can enrich our lives in various ways. However, it is important to strike a balance between appreciating such experiences and fulfilling our responsibilities as students and members of the magical community.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Professor McGonagall: \"Well, Albus, I must say that I am always open to new ideas, as long as they are logical and within the boundaries of reason. However, I do believe in upholding the traditions and values that have served us well for centuries. So, while I am open to new ideas, they must be carefully considered and thoroughly evaluated before implementing them.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant shows a moderate appreciation for art and beauty, indicating some level of aesthetic sensitivity, which is a facet of Openness. However, they also express a strong inclination towards academia, discipline, and tradition, suggesting a more conservative approach to new experiences. The participant values new ideas but within the constraints of logic and tradition, showing a balance between openness and conventional thinking. This balance suggests a score that is neither low nor high on the Openness dimension."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "44",
+                            "35",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Professor McGonagall: \"Indeed, Headmaster, I do possess quite an active imagination. However, I must remind you that imagination alone cannot solve the problems we face. It is through careful planning, strategic thinking, and decisive action that we can overcome the challenges that lie ahead.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "McGonagall: 「Ah, Dumbledore, always one to appreciate the finer things in life. As for me, I must admit that my knowledge and appreciation of art, music, and literature are quite extensive. Being a Transfiguration professor and the Deputy Headmistress of Hogwarts, I have had the privilege of immersing myself in various forms of art and culture. From the works of great wizards like Beedle the Bard to classical compositions and the masterpieces of magical artists, I have always found solace and inspiration in the world of art, music, and literature.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Professor McGonagall: \"Routine work can be necessary and important, but I must admit that I do thrive on challenges and more complex tasks. However, I am always ready to fulfill any duty that is assigned to me, regardless of its level of excitement.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Professor McGonagall: \"I pride myself on my intellect and strategic thinking, Dumbledore. I believe in approaching problems with a logical and analytical mind.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the responses, <the participant> exhibits a high level of Openness. The participant acknowledges an active imagination but also values practicality, indicating a balance between fantasy and reality. The extensive knowledge and appreciation of art, music, and literature suggest a strong aesthetic sensibility, a key aspect of Openness. The preference for complex tasks over routine work points to a willingness to engage in new experiences and embrace change. Lastly, self-identifying as an intellectual and strategic thinker aligns with the Ideas facet of Openness, showing a propensity for deep thought and intellectual curiosity. However, there is no direct evidence of the participant's openness to reexamining values or their willingness to challenge tradition and authority, which are also components of the Openness dimension."
+                    },
+                    {
+                        "id": [
+                            "10",
+                            "40",
+                            "25"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Professor McGonagall: \"Curiosity is indeed a valuable trait, Dumbledore. It is the thirst for knowledge that drives us to seek answers and understand the world around us. However, it is important to remember that curiosity must be tempered with wisdom and caution.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Professor McGonagall: \"Indeed, I do appreciate the opportunity to reflect and engage with ideas, Headmaster. It allows for a deeper understanding and critical thinking, which are essential qualities in the pursuit of knowledge.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Professor McGonagall: \"Inventive? Well, I would say that I am more inclined towards practicality and efficiency. However, I do appreciate creativity and resourcefulness when it comes to solving problems or finding innovative solutions.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "The participant shows a balanced approach towards curiosity, valuing it alongside wisdom and caution, which suggests a moderate level of openness. Their appreciation for reflection and engagement with ideas indicates a tendency towards intellectual curiosity, a facet of openness. However, the participant's self-described inclination towards practicality over inventiveness may suggest a more moderate expression of the creativity aspect of openness. Overall, the participant seems to exhibit some characteristics of openness but also places value on practicality and caution."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "10",
+                            "35",
+                            "44"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Professor McGonagall: \"Curiosity is indeed a valuable trait, Dumbledore. It is the thirst for knowledge that drives us to seek answers and understand the world around us. However, it is important to remember that curiosity must be tempered with wisdom and caution.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Professor McGonagall: \"Routine work may have its merits, but I find that challenges and complexity are what truly stimulate the mind and push one's abilities to their limits. I thrive on tasks that require critical thinking and problem-solving skills, where I can apply my knowledge and expertise to find innovative solutions.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "McGonagall: 「Ah, Dumbledore, always one to appreciate the finer things in life. As for me, I must admit that my knowledge and appreciation of art, music, and literature are quite extensive. Being a Transfiguration professor and the Deputy Headmistress of Hogwarts, I have had the privilege of immersing myself in the world of magic and academia. However, I must say that my true passion lies in the pursuit of knowledge and the education of young witches and wizards.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "The participant demonstrates a high level of curiosity, as indicated by their recognition of its value and the drive to seek understanding. They express a preference for complex and challenging work over routine tasks, suggesting a desire for novelty and intellectual stimulation. Additionally, the participant's extensive knowledge and appreciation of art, music, and literature indicate a sophisticated taste and a deep engagement with cultural experiences. These responses align with the facets of Openness, such as Ideas, Actions, and Aesthetics. The participant's emphasis on the pursuit of knowledge and education further supports their intellectual curiosity and openness to new experiences."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "41",
+                            "30",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Professor McGonagall: \"Indeed, Headmaster, I do possess quite an active imagination. However, I must remind you that imagination alone cannot solve the problems we face. It is through careful planning, strategic thinking, and decisive action that we can overcome the challenges that lie ahead.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Professor McGonagall: \"I must admit, Albus, that my interests lie more in the realm of academia and discipline rather than the arts. However, I do appreciate the beauty and skill that can be found in various forms of artistic expression.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Professor McGonagall: \"Certainly, Dumbledore. Artistic and aesthetic experiences have their own unique value and can enrich our lives in various ways. However, it is important to strike a balance between appreciating such experiences and fulfilling our responsibilities as wizards and witches. We must not let our pursuit of beauty overshadow our duty to protect and uphold the principles of magic.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Professor McGonagall: \"Indeed, Headmaster. Reflecting and playing with ideas are essential for intellectual growth and development. However, at this particular moment, I must focus on the pressing matters at hand. We have much to discuss regarding the current situation and the safety of our students.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant demonstrates a certain level of active imagination, but emphasizes the importance of practical application and strategic thinking over pure imagination. While they do not express a strong interest in the arts, they acknowledge the value and beauty in artistic expression, suggesting some appreciation for aesthetics. The participant values intellectual engagement with ideas but prioritizes practical responsibilities over abstract reflection. Overall, the participant seems to balance openness with a practical approach to life and responsibilities."
+                    },
+                    {
+                        "id": [
+                            "5",
+                            "15",
+                            "25"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Professor McGonagall: \"Well, Albus, I must say that I am always open to new ideas, as long as they are logical and within the boundaries of reason. However, I do believe in upholding the traditions and values that have served us well for centuries. So, while I am open to new ideas, they must be carefully considered and thoroughly evaluated before implementing them.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Professor McGonagall: \"I pride myself on being a logical and strategic thinker, Headmaster. Ingenuity is a quality I strive to possess in my approach to problem-solving.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Professor McGonagall: \"Inventive? Well, I would say that I am more inclined towards practicality and efficiency. However, I do appreciate creativity and resourcefulness when it comes to solving problems or finding innovative solutions.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant shows a tendency towards logical and strategic thinking, valuing tradition and careful consideration of new ideas. They express an openness to new ideas but within the constraints of logic and reason, indicating a balance between openness and conventionality. The participant also values ingenuity and appreciates creativity, suggesting some level of openness in the realm of problem-solving. However, their emphasis on practicality and efficiency, as well as a preference for tradition, suggests a moderate level of openness rather than a strong inclination towards it."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {
+        "robustness": 0.03823110622713314
+    },
+    "code": "RCOAI"
+}

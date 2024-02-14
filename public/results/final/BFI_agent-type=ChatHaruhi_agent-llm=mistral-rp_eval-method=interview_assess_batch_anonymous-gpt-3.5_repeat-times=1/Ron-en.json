@@ -1,0 +1,502 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 3.5,
+            "all_scores": [
+                3.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Ron:「Yeah, I am.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Ron:「No, not really. I mean, I've been known to be a bit shy around girls, but I'm not reserved.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Ron:「Yeah, I'm full of energy, why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Ron:「Yeah, I generate a lot of enthusiasm. Especially when it comes to food.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to be talkative, not reserved, full of energy, and generates enthusiasm, which are indicative of high levels of extraversion."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Ron:「Yeah, I can be a bit quiet at times.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Ron:「Yeah, well, when I need to be.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Ron:「Yeah, sometimes.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": " Ron:\"No, I'm not exactly the life of the party, Hermione. I'm more of a quiet and reserved type. But hey, as long as I have my mates by my side, I'm good.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of introverted and extraverted traits. They mentioned being quiet at times and sometimes shy, which aligns with introverted tendencies. However, they also indicated being assertive when needed and enjoying the company of close friends, which are more extraverted traits."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Ron:「No, I'm just feeling a bit down, that's all.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Ron:「Well, I reckon I can handle stress just fine. I mean, I've faced plenty of challenges before, like the Whomping Willow and playing Quidditch against Slytherin. So, yeah, I think I can handle whatever comes my way.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": " Ron:\"No, I can't. But I can certainly try to be more careful and not let my emotions get the best of me.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Ron:「A lot? No, not really. Just a little, you know, when there's stuff going on like Umbridge and the Triwizard Tournament. But I try not to let it get to me too much.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to experience some level of anxiety and worry, as indicated by feeling a bit down, trying to handle stress, and expressing concerns about certain events. However, the participant also demonstrates an ability to handle stress and a willingness to try to be more careful with emotions. Overall, there are indications of moderate neuroticism tendencies."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Ron:「Yeah, I'm fine. Just a bit overwhelmed, that's all.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Ron:「No, I can't be moody. I'm always in a good mood, aren't I?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Ron:「Well, I try to stay calm, but sometimes it's hard. I get nervous and anxious, especially when there's danger involved. But I always try to think clearly and make smart decisions.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": " Ron:\"Get nervous? Me? Nervous? No, not at all. I'm as cool as a cucumber, Hermione. Just like a big brave Gryffindor should be.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant seems to exhibit some signs of neuroticism, such as feeling overwhelmed, getting nervous and anxious in tense or dangerous situations, and denying being moody while displaying a defensive response. However, the participant also portrays a sense of confidence and attempts to stay calm and make smart decisions in such situations."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 3.1666666666666665,
+            "all_scores": [
+                3.1666666666666665
+            ],
+            "intra_std": [
+                0.8498365855987975
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Ron:「Yeah, yeah, we do. We're not a bunch of slackers, you know. We take our responsibilities seriously. Just because I'm not as good at Divination as some people doesn't mean I don't put in the effort.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Ron:「Of course, Hermione. Careless, like a true Gryffindor!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Ron:「Yes, I am a reliable worker. I always give my best and get the job done.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They emphasize taking their responsibilities seriously, putting in effort, and being a reliable worker. However, the participant also mentions being somewhat careless in a light-hearted manner, which may indicate a slight tendency towards being less conscientious."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Ron:「No, we're not lazy! We're just taking a break, that's all.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Ron:「Yeah, I suppose so. Nothing worth having comes easy, right? We'll keep going until we get it right.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Ron:「No, I don't do things efficiently. But I make up for it with my enthusiasm and unique approach to problem-solving.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "The participant seems to have a strong sense of perseverance and determination, as indicated by their response to persevering until the task is finished. However, their admission of not doing things efficiently suggests a lack of order and methodical approach, which is a facet of conscientiousness. Overall, the participant demonstrates a mix of conscientious and less conscientious traits."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Ron:「Well, I'm just trying to enjoy the moment, Hermione. Can't a guy have some fun sometimes?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Ron:「A bit.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Ron:「Well, sometimes I do, but not always. I can be a bit impulsive and go with the flow, you know?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit tendencies of being easily distracted, somewhat disorganized, and occasionally impulsive. There is a lack of strong indication of self-discipline, order, and achievement striving."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 3.1666666666666665,
+            "all_scores": [
+                3.1666666666666665
+            ],
+            "intra_std": [
+                0.8498365855987975
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Ron:「Well, yeah, sometimes. But it's not like I mean to, it just comes out. I get frustrated when I see people not trying their best or being lazy. But I suppose I can work on that.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": " Ron:Well, I reckon I'm pretty helpful when it matters. I've always been there for my mates, even if I sometimes complain about it. And unselfish? I've got a big heart, even if it's hidden under all the sarcasm and jokes. So, yeah, I'd say I'm not too shabby in that department.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": " Ron:Well, sometimes I do, but it's not like I mean to. It just happens, you know? I get a little heated and say things I shouldn't. But I'm not a troublemaker, really.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to Agreeableness. They express frustration with others' lack of effort and laziness, which may indicate lower levels of compliance and tender-mindedness. However, they also acknowledge their helpfulness and unselfishness, indicating higher levels of altruism and trust. The participant's tendency to sometimes start quarrels suggests a lower level of compliance. Overall, the participant appears to have a balanced mix of both agreeable and less agreeable traits."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Ron:「Well, I like to think I am, but sometimes I get burned.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Ron:「Well, I can certainly try.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Ron:「Well, I try to be, but I can get a bit snappy at times.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "The participant seems to have a mixed attitude towards trust, indicating a level of skepticism due to past experiences. Their response to being cold and aloof suggests a willingness to exhibit such behavior if necessary. Additionally, their acknowledgment of occasionally being snappy indicates a potential lack of consistent consideration and kindness towards others."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Ron:「What do you mean, do I like to cooperate with others? Of course I do! I'm always up for teamwork, except when it comes to dealing with my family. They can be a bit... challenging, to say the least. But hey, I'll give it a shot!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Ron:「Well, I reckon I can be forgiving, but it depends on the situation. You see, I've learned that forgiveness is important, especially when we're dealing with others. It's not always easy, but it's a necessary part of being a good friend.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": " Ron:\"Well, yeah, I can be a bit rude at times. But who isn't? It's just how I express myself, you know. I'm not intentionally mean or anything, it just comes out sometimes. But I try to be nice to people, honestly.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to value cooperation and forgiveness, which are indicative of higher levels of Agreeableness. However, the participant also admits to being sometimes rude, which may suggest a lower level of Agreeableness in certain situations."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Ron:「Well, yeah, I come up with ideas sometimes. But I don't think I'm as good as Harry and Hermione when it comes to coming up with brilliant plans.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Ron:「Well, yeah, I am curious about lots of things. I mean, who isn't? But I'm not as curious as Hermione, she's always diving into books and researching everything under the sun. But hey, I've got my interests too, like Quidditch and my family. Curiosity can be a good thing, as long as you don't get yourself into too much trouble with it.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Ron:「Nah, I'm not that clever, Hermione. Just a bit of common sense and a knack for getting into trouble.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant shows some level of openness in terms of being willing to come up with new ideas and being curious about different things. However, the participant downplays their own creativity and intellectual curiosity, comparing themselves to others who they perceive as more open. This suggests a moderate level of openness."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Ron:「No, I'm not inventive, Hermione. I'm just your average bloke who enjoys a good joke and a game of Quidditch. But hey, that's what makes me me, right?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Ron:「Well, I suppose I appreciate a good painting or sculpture, but I'm not exactly a connoisseur like Hagrid. Give me a nice Quidditch match any day.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Ron:「Well, I mean, I'd rather have a bit of adventure and excitement in my life, you know? Routine can get a bit boring after a while. But hey, everyone has their preferences, right?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": " Ron:\"Well, I'm not exactly known for my deep thoughts, Hermione. I prefer to focus on more practical things, like Quidditch and food. But hey, everyone has their own way of thinking, right?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a neutral stance on the Openness dimension. While they express some appreciation for aesthetic experiences and a preference for adventure over routine, they also indicate a lack of interest in inventive thinking and deep reflection on ideas. Overall, their responses suggest a moderate level of openness."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Ron:「Not really, no. I'm more into Quidditch and pranks, you know. Artistic stuff isn't really my cup of tea.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": " Ron:\"Sophisticated? Me? Well, I can appreciate a good Quidditch match or a well-crafted joke, but when it comes to art, music, or literature, I'm not exactly a connoisseur. But hey, everyone has their strengths, right?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Ron:「Oh, yeah, I've got a pretty active imagination. Always daydreaming about flying broomsticks and magical creatures. Can't help it, really.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a vivid and active imagination, as indicated by their daydreaming about flying broomsticks and magical creatures. However, they express a lack of interest and sophistication in art, music, and literature. This suggests a preference for imaginative and fantastical experiences over traditional artistic pursuits."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "SCOAN",
+    "error_counts": {
+        "is_multilanguage": 0,
+        "not_into_character": 0,
+        "contain_repeation": 0,
+        "is_multiround": 0
+    }
+}

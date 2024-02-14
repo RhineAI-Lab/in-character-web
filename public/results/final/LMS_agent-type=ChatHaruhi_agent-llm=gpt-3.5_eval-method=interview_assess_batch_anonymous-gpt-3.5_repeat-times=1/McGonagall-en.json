@@ -1,0 +1,135 @@
+{
+    "dims": {
+        "Factor rich": {
+            "score": 2.0,
+            "all_scores": [
+                2.0
+            ],
+            "intra_std": [
+                null
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "2",
+                            "3"
+                        ],
+                        "dim": "Factor rich",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you want to be rich?",
+                                "response_open": "Professor McGonagall: \"Desiring wealth should not be one's primary pursuit, Dumbledore. As educators, our focus should be on nurturing knowledge and character in our students.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "2",
+                                "question": "Would it be nice to be rich?",
+                                "response_open": "Professor McGonagall: \"Nice? It is not a matter of being nice, Dumbledore. Money does not define one's character or worth. It is the choices we make and the actions we take that truly matter.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "3",
+                                "question": "Is having a lot of money (being rich) good?",
+                                "response_open": "Dumbledore: \"Ah, a philosophical question, indeed. The answer depends on how one perceives wealth and its purpose. While having financial resources can provide comfort and opportunities, it is the way one utilizes and shares their wealth that truly matters. True richness lies in the kindness and compassion one possesses, rather than the size of their vault at Gringotts. As Dumbledore once said, 'It does not do to dwell on dreams and forget to live.'\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, it is evident that <the participant> does not prioritize the accumulation of wealth and emphasizes the importance of knowledge, character, and compassionate actions over financial success. The participant views wealth as a tool for providing comfort and opportunities, but not as a defining factor of goodness or worth. The participant's perspective aligns with a low score on the Factor rich dimension of LMS."
+                    }
+                ]
+            ]
+        },
+        "Factor motivator": {
+            "score": 2.0,
+            "all_scores": [
+                2.0
+            ],
+            "intra_std": [
+                null
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "5",
+                            "6"
+                        ],
+                        "dim": "Factor motivator",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you motivated to work hard for money?",
+                                "response_open": "Professor McGonagall: \"Motivation for work should not solely be driven by money, Mr. Dumbledore. Dedication to a cause, a desire for knowledge, and a sense of responsibility are what truly inspire individuals to work hard and achieve greatness. Monetary rewards may have their place, but they should not be the sole focus of one's motivation.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Does money reinforce you to work harder?",
+                                "response_open": "Professor McGonagall: \"Money may serve as an incentive for some individuals to work harder, but it should not be the sole motivation for one's efforts. Dedication, passion, and a sense of duty towards one's responsibilities are far more important factors in determining the level of commitment and effort put into one's work. As educators, our focus should be on nurturing the potential and instilling values in young minds, rather than solely relying on monetary rewards.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you highly motivated by money?",
+                                "response_open": "Professor McGonagall: \"Money is not a driving force for me, Dumbledore. My motivation lies in the pursuit of knowledge, the preservation of magic, and the well-being of the students under my care.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, it is evident that <the participant> does not prioritize money as a primary motivator for their efforts. They emphasize dedication to a cause, desire for knowledge, and a sense of responsibility as the true inspirations for hard work. They also express a focus on nurturing potential and instilling values, indicating a motivation beyond monetary rewards."
+                    }
+                ]
+            ]
+        },
+        "Factor important": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                null
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "7",
+                            "8",
+                            "9"
+                        ],
+                        "dim": "Factor important",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "Is money good?",
+                                "response_open": "Professor McGonagall: \"Money, while a necessary means of exchange in the Muggle world, holds little value in comparison to knowledge, wisdom, and the pursuit of higher ideals. It is not the measure of a person's worth or character. However, in certain circumstances, it can provide practical benefits and resources to fulfill one's needs and aspirations.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Is money important?",
+                                "response_open": "Professor McGonagall: Money is certainly a necessary aspect of our society, Dumbledore. It allows us to acquire the resources and materials we need to function. However, it should never be the sole focus or driving force behind our actions. There are far more important things in life than wealth and material possessions.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Is money valuable?",
+                                "response_open": "Professor McGonagall: \"Of course, money is valuable in the Muggle world. It is a means of exchange for goods and services. However, in the magical world, we have our own form of currency called Galleons, Sickles, and Knuts. These are used for transactions within the wizarding community.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, <the participant> seems to have a balanced perspective on money. While acknowledging the practical benefits and value of money in fulfilling needs and aspirations, <the participant> also emphasizes the importance of knowledge, wisdom, and higher ideals over wealth and material possessions. This indicates a moderate view on the importance of money in life."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": ""
+}

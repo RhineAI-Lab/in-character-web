@@ -1,0 +1,628 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 57.5,
+            "all_scores": [
+                57.5
+            ],
+            "intra_std": [
+                8.2915619758885
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Raj: 「\"Oh, absolutely. In fact, I pride myself on being able to strike up conversations with anyone and everyone. I'm quite the social butterfly, really.\"\n (winks)\n \"But honestly, it's not always easy. Sometimes I feel like I come across as pushy or overbearing, but then again, that's just my way of trying to break the ice and get to know someone better.\"\n (laughs nervously)\n \"And sometimes, even though I put on a confident exterior, deep down I'm still just a shy and awkward guy who gets nervous around new people.\"\n (shrugs)\n \"But hey, that's just part of who I am. And besides, I figure if I can find common ground with someone, anything is possible.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Raj: 「\"Oh, yes, that sounds like me,\" Raj said, smiling sheepishly. \"I mean, I try to introduce myself, but sometimes it's hard to break the ice and start a conversation. And then there are those times when I feel like everyone else knows each other except me.\"\nAs Leonard nodded along, Raj continued, \"But I've been trying to work on it lately. I mean, it's important to meet new people and expand your social circle, right?\"\n\"Yes, it definitely is,\" Leonard agreed. \"It's always good to have a variety of people in your life.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Raj: 「Yes, Raj, I do. In fact, I find that many people enjoy having a friendly conversation with someone they've never met before. It can be a great way to break the ice and get to know someone new. However, it can also be nerve-wracking, especially if you're not used to doing it. But with practice and confidence, anyone can become a skilled conversationalist.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 60.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a mix of both extraverted and introverted tendencies. While <the participant> expresses a desire to make new friends and strike up conversations with anyone and everyone, there are also indications of feeling shy, awkward, and nervous around new people. This suggests a level of comfort in social settings but also a need for personal time and introspection."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Raj: Oh yeah, group activities are the best! They're a great way to meet new people and make new friends. Plus, it's always fun to be around a group of people who share your interests. For example, I remember when we went camping and everyone was sleeping in a tent together. It was hilarious! And when we played truth or dare, it was even better. One time, I had to kiss a girl who I didn't even know! But it was all in good fun and nobody got hurt, so it was all worth it.\n Leonard: That sounds like a lot of fun.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Raj: 「Yeah, I try to stay behind the scenes and let the guys with more experience take charge. Plus, I'm not too confident in my own abilities when it comes to making tough decisions. But hey, I'll do whatever it takes to contribute and help out. What do you think?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Raj: 「Well, let's see. It depends on the situation. Sometimes I do prefer to blend in and avoid attracting too much attention to myself. But other times, I enjoy standing out and making a splash. It really depends on my mood and what I think will be most enjoyable at the moment. So, you could say that I have a bit of an indecisive personality when it comes to avoiding attention versus seeking attention.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced mix of extraverted and introverted traits. They enjoy group activities and socializing, but they also have moments when they prefer to blend in and avoid drawing attention to themselves. They seem to be adaptable to different social situations and are comfortable with both extraverted and introverted behaviors."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Raj: 「Oh, absolutely, a little bit of excitement goes a long way. And let's not forget, it's also a great opportunity to meet new people and expand our social circle.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Raj: 「Oh, yes. Making phone calls, especially to women, is quite nerve-wracking for me. I always worry about saying the wrong thing or sounding ridiculous. But hey, at least I have you guys to laugh at me and give me advice. Thanks for being such great friends!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Raj: 「\"Oh, hello Leonard. That's a great question. Yes, I am often the one who reaches out to my friends and suggests things to do. I enjoy being the organizer and making plans. It's my way of showing them that I care and want to spend time with them. Plus, it keeps me busy and helps me avoid any awkward silences.\"\n\"Well, I try my best to be involved and active in my social circle, but sometimes it's hard to balance everything. And I have to admit, I can be a bit of a pushover and always agree to everything everyone asks me to do. But hey, at least I'm always ready to help out.\"\n\"Of course, I understand that everyone has their own ways of interacting with others and expressing themselves. But for me, reaching out and initiating activities is a natural way to connect with people and build relationships. So, feel free to borrow my phone any time and give me a call if you ever need someone to plan something fun.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Raj: 「Certainly! I would love a job that allows me to work independently and focus on my own projects without the干扰 of colleagues or distractions. I find working alone to be very freeing and empowering, and I enjoy having complete control over my workflow and schedule. Of course, I also understand the importance of collaboration and teamwork, and I am always open to working with others when necessary. Overall, I believe that a job that offers autonomy while still allowing for opportunities for collaboration would be ideal for me.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for Extraversion (E) over Introversion (I). They express enthusiasm for lively social events, enjoy meeting new people, and actively initiate activities in their social circle. Although they appreciate working alone, they also value collaboration and teamwork when necessary. However, their overall inclination towards social interaction and external stimulation suggests a higher preference for Extraversion."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Raj: 「Well, I've always been a fan of the hustle and bustle of city life. There's just something about the energy and excitement of a crowded street or busy restaurant that gets my blood flowing. Plus, there's always something new to discover and experience in a big city.\nOn the other hand, I do enjoy quiet, intimate moments with close friends and loved ones. It's those quiet moments that really allow me to connect with people on a deeper level and build meaningful relationships. So, while I appreciate the excitement of a busy atmosphere, I equally value the tranquility of a quiet moment.\nOverall, I think it's important to strike a balance between the two. To be able to enjoy the thrill of a bustling city while still finding time to relax and unwind with those closest to us.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "No, not really. I'm always conscious of how I come across and how people perceive me. I tend to worry about making a bad impression and being seen as unlikable or weird.\nRaj: That's interesting. I've always been a bit more laid-back and carefree when it comes to meeting new people. I don't think too much about making a good impression, I just try to be myself.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Raj: 「\"Not at all,\" Raj replies with a laugh. \"I love being around people, especially my friends.\" He adds, \"But sometimes, I feel like everyone is watching me and judging me.\"\nDr. Koothrappali adds, \"It's okay, Raj. Everyone has their quirks. It's part of what makes us unique.\"\nRaj agrees, \"Yeah, I guess you're right. But still, it's hard not to feel self-conscious sometimes.\"\nLeonard chimps in, \"Well, at least you're not as bad as Howard. He's afraid of heights, water, and spiders. He even takes his clothes off before bed because he's afraid that something might crawl up his leg while he's sleeping.\"\nRaj laughs, \"Hey, I've heard worse. At least he doesn't have any phobias that require constant attention from the rest of us.\"」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a balanced combination of both extraverted and introverted traits. While they enjoy the energy and excitement of bustling city life and being around people, they also value quiet, intimate moments with close friends and loved ones. They are conscious of making a good impression on people but also express a laid-back and carefree attitude when meeting new people. Additionally, they express a love for being around friends but also mention feeling self-conscious at times. This indicates a blend of both extraverted and introverted tendencies."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 13.333333333333334,
+            "all_scores": [
+                13.333333333333334
+            ],
+            "intra_std": [
+                9.428090415820634
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Raj: 「Ah, yes, exploring the depths of various random topics. That's one of my many hobbies. You know, I find that the more I learn about different things, the more interesting life becomes. And who knows, maybe I'll even discover something profound and meaningful along the way.\nOf course, there are times when my curiosity gets the better of me and I end up spending hours Googling things that don't even make sense. But hey, at least I'm having fun, right?\nSo if you ever need someone to talk to about anything, from physics to astrology, feel free to give me a call. I might not always have all the answers, but I'll certainly give it my best shot.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Raj: 「\"Not at all, I am.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Raj: 「\"Oh, absolutely. It's the best way to keep the mind active and engaged. Plus, it allows for endless possibilities and discussions with fellow fans. What about you, Raj?\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Oh, yes, Leonard, I'm afraid I am. The way things have been going lately, it seems like every time we turn around, something bad happens. I mean, look at this mandarin lesson I just had - clearly I'm not getting it. And then there was that incident with Howard and his girlfriend - I couldn't even help him fix his problem, I just ended up making it worse!\nBut hey, let's not focus on the negative. After all, there are plenty of positive things happening too, like this fantastic food I'm eating (tangerine chicken, anyone?) and these great conversations we're having. And who knows, maybe things will finally start looking up for me soon.\nSo let's enjoy this moment, and not worry too much about the future. After all, as my favorite quote goes: \"Pain can be tolerated, but fear prevents living.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Intuition (N) over Sensing (S). They express a keen interest in exploring various random topics, discussing interpretations and analyses of creative works, and enjoying books and movies that allow for endless possibilities and discussions. Additionally, the participant tends to focus on potential possibilities and future opportunities, as seen in their response about worrying and their optimistic outlook for the future."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Raj: 「Of course not, I'm just a simple Indian guy with a love for science and technology. I mean, who doesn't enjoy the thrill of discovering new theories and solving complex problems? But I do admit, sometimes I get a little nervous around women. It's just hard for me to know how to approach them and what to say. But hey, that's part of being young and uncertain, right?\nBut don't worry, I've got plenty of friends who can help me out. Like Howard, for example. He's always ready with a clever quip or a witty retort. And then there's Raj, who's not afraid to speak his mind and make a joke even if it means getting into trouble. Plus, I've got Sheldon, who may be a bit eccentric but always has a unique perspective on things.\nSo, in short, I may not be the most confident or self-assured person out there, but I've got a great group of friends who are always there to support me and keep me laughing.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Raj: 「Ooh, Leonard. You asked a deep question. But the thing is, I don't know the answer. It's all just speculation and theories. Some people believe in heaven or hell, while others think that when we die, it's just the end of our physical existence. I personally think it's all just a big mystery, and we'll never truly know what happens after we pass away. But hey, who knows? Maybe there's a secret portal to another dimension that only opens after we die. That'd be pretty cool, wouldn't it?\nBut enough about death, let's talk about something else. Like, ummm, do you remember that time we went skydiving together? Man, that was one wild ride! I almost puked! But in the end, it was worth it because I got to experience the rush of free falling through the air. It was like being on top of the world!\nOr how about that time we went on that camping trip? Remember when we had to build that campfire to cook our dinner? I'll never forget the smell of burning wood and the taste of hot dogs. It was pure bliss!\nBut enough about me, how about you? What kind of crazy adventures have you been up to lately?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Raj: 「No, I'm always fascinated by the depth and complexity of theoretical discussions. They allow me to explore the mysteries of the universe and satisfy my curiosity. Plus, they're a great way to impress my friends with my extensive knowledge of science and technology.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "Raj: 「Of course! Art museums are the best places to appreciate the beauty and history of human creativity. There are so many different types of art to see, from paintings to sculptures to photographs, and each piece has its own unique story to tell. Plus, it's a great way to spend some quality time with friends or loved ones, discussing and analyzing the artwork together. It's also a good opportunity to practice being observant and open-minded, trying to understand and appreciate different perspectives and styles.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Intuition (N). They often express interest in abstract concepts, potential possibilities, and future experiences. They enjoy discussing theoretical topics, exploring mysteries, and appreciating the creativity and history of human endeavors. Their focus on potential possibilities and abstract thinking aligns with the characteristics of Intuition (N)."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Raj: 「Oh come on, Leonard, it's not that big of a deal. It's just a book club, lighten up. And besides, I find it fascinating to learn about different perspectives and ways of thinking. It broadens my horizons and helps me appreciate the diversity of human experience. Plus, it's always fun to debate and discuss different ideas with like-minded individuals. So why not join us for a little intellectual stimulation and a few laughs along the way?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Raj: 「\"Nope, I think about that all the time. In fact, I just wrote a book on the subject. It's called 'The Book of Life' and it's filled with all sorts of fascinating insights and theories. Have you read it yet?\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Raj: 「\"I've always believed that contemplating deep philosophical inquiries is a fruitless endeavor,\" Raj Koothrappali replied with a shrug of his shoulders. \"But then again, I'm not exactly known for my intellectual prowess.\"\n Raj's Indian accent and self-deprecating humor were well-known among his friends, and he often used these qualities to make light of his own shortcomings. Despite this, he still had a keen interest in philosophy and would often engage in lively debates with his fellow roommates over the nature of reality and the meaning of existence.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Raj: 「Yes, Raj Koothrappali is known for being fascinated by things labeled as controversial. He often makes jokes about his Indian culture and tries to fit in with American culture. He also enjoys gossiping and discussing women, but is often too shy to approach them directly. Despite his nervousness, Raj is confident in his intelligence and often uses it to impress others.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Intuition (N). They express a keen interest in understanding different perspectives, contemplating abstract philosophical questions, and being intrigued by controversial topics. They also exhibit a focus on potential possibilities and future opportunities, as seen in their book on the meaning of life and their engagement in lively debates over the nature of reality and existence."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 44.0,
+            "all_scores": [
+                44.0
+            ],
+            "intra_std": [
+                12.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Raj: 「Oh, come on Leonard, don't be ridiculous. Of course it doesn't! I mean, I may be a bit of a crybaby sometimes, but I'm definitely not one of those people who gets emotionally overwhelmed by others' sadness. Besides, I've been around enough to know that everyone has their own unique way of dealing with emotions, and mine just happens to be a little more... dramatic, shall we say?\nBut seriously, why are you asking me this? Do you think there's something going on with me? Because if there is, I want you to know that I've been working on myself, trying to become more confident and self-assured. And trust me, it's not easy. But I'm determined to get through it, because I know that I'm worth it.\nSo Leonard, please don't worry about me. I'm okay. Really.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Raj: 「Oh yeah, I'm always cool as a cucumber under压力. I mean, I might look a little red in the face sometimes, but it's just because my skin is dark. And when I get nervous, I just take deep breaths and tell myself, \"Raj, you got this.\" It helps a lot.\nPlus, I've been practicing meditation for years, so I'm pretty good at keeping my emotions in check. But of course, every now and then, I might let my guard down and say something stupid. Like that time I suggested building a time machine to go back in time and prevent the creation of the internet. That didn't go over too well.\nBut hey, I'm still learning and growing as a person, and I'm always willing to try new things and learn from my mistakes. So if you ever need someone to talk to or offer some advice, feel free to ask me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Raj: 「I'm sorry, but I don't understand the question. Could you please provide more context or clarify your request?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Raj: 「\"Ugh, absolutely. One tiny slip-up can send me into a tailspin of self-doubt. Like, last week when I accidentally called myself a 'dummy' instead of 'Mr. Bernhardsson' during my presentation. Or that time I accidentally dropped a coffee mug on my own head. It's ridiculous, really. But hey, at least I have good hair. So, what about you? Do you ever doubt yourself?\"」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to be more inclined towards Feeling (F) as they express a strong awareness of their emotions and the emotions of others. They emphasize the importance of personal growth, empathy, and building relationships. They also exhibit a tendency to doubt themselves and express emotions openly."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Raj: 「Yes, that is definitely a Raj Koothrappali line. He is often self-deprecating and likes to make jokes about his flaws and insecurities, but also has a deep respect for himself and his intelligence. He is also known for being a bit of a ladies' man and enjoys chatting with women, but may lack confidence in social situations.\nAlso, Raj is very much dependent on his father's support and guidance, and always seeks his advice before making any major decisions. In this specific scene, Raj is worried about his future plans and is seeking his father's approval before proceeding with them.\nOverall, Raj's character is complex and nuanced, and his interactions with other characters reflect this.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Raj: 「I'm sorry, Raj Koothrappali is not known to have answered questions about his own happiness through original lines from novels. However, based on his character traits and dialogues in \"The Big Bang Theory,\" Raj might have responded by acknowledging the importance of helping others and being content with what he has achieved. He may also have added a self-deprecating comment about his own insecurities and fears of not being good enough.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Raj: 「\"Oh, come on Leonard, let's be real. What are the chances of people actually relying solely on reason and logic in every situation? It's a beautiful thought, but it's just not practical. People are emotional beings, and emotions play a huge role in shaping our decisions and behaviors. It's impossible to completely separate ourselves from our feelings, no matter how hard we try. So, instead of dwelling on this idealized version of reality, let's focus on finding ways to incorporate logic and reason into our lives while also acknowledging and respecting our emotions.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Raj: 「No, I don't enjoy watching people argue. It's stressful and doesn't accomplish anything productive. I prefer to find common ground and work towards solutions rather than getting caught up in disagreements. Is there anything else I can help you with?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to decision-making, considering both logical analysis and emotional aspects. They value empathy, harmony, and understanding others' emotions, while also acknowledging the importance of logic and reason in decision-making."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "Raj: \"Why should I back off, you back off dude.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Raj: 「\"Not at all, my friend. My patience knows no bounds. I am a man of calm and understanding, always willing to lend an ear to those in need.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Raj: 「\"Oh, that's a deep one, Leonard,\" Raj replied, adjusting his glasses. \"You know, I always thought it was pretty cool that I grew up in India, where we have these really unique cultural practices and traditions. And then when I came to America, it was kind of overwhelming to suddenly be in a completely different environment. But I've learned to embrace it and try to understand things from other people's perspectives.\"\nHe chuckled self-deprecatingly. \"Of course, sometimes it's hard to empathize with someone who has completely opposite values or beliefs from you. But hey, we all have our differences, right?\"\nRaj leaned forward, his eyes sparkling with enthusiasm. \"Hey, speaking of differences, have you guys heard about the latest episode of 'The Big Bang Theory'? It was amazing! I mean, they finally addressed Raj's fear of clowns!\"\nPenny looked skeptical. \"Raj has a fear of clowns?\" she repeated.\n\"Yeah, it's a bit ridiculous, but it was still hilarious,\" Raj said, grinning widely. \"You should definitely watch it.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Raj: 「Oh come on Leonard, lighten up! It's not like I have trouble understanding women's feelings - it's just that sometimes their words are too complicated for me to understand. And besides, let's face it, when it comes to women, there are so many different kinds and I never know which one I'm dealing with. But don't worry, I've got this thing called \"chutzpah\" that always seems to get me through these situations. After all, what's the worst that can happen? They might turn me down. And even then, I still have plenty of options - like my trusty old friend, The Internet. It's like having a girlfriend on demand! So, relax, Leonard. Life's too short to stress about things like this. Let's just enjoy the moment and see where it takes us.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balance between Thinking (T) and Feeling (F) traits. While the participant demonstrates some logical and direct responses, such as valuing efficiency and being straightforward, there are also instances of empathy, understanding, and a focus on personal values and emotions. The participant appears to consider both logic and emotions in decision-making."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Raj: 「\"Oh yes, insecurity is my constant companion. I often find myself wondering if I am attractive enough, intelligent enough, or successful enough for the people around me. But I try not to let it consume me too much, because in the end, it's just a feeling. And feelings can be fleeting. So, I try to focus on the positive things in my life and remember that I am unique and special just the way I am.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Raj: 「Oh dear, it seems like I've stumbled upon a situation where my friend Raj Koothrappali might be feeling a bit self-conscious. But fear not, I am here to offer some words of encouragement and support.\nFirstly, Raj, it's important to remember that everyone makes mistakes, even those who seem to have it all together. And while it may feel embarrassing or frustrating at the time, the truth is that these experiences often shape us into the person we are today.\nIn fact, some of the most successful individuals in history have faced significant challenges and setbacks along their journey. So rather than dwelling on past mistakes, why not focus on the lessons they taught you and use them to improve yourself moving forward?\nAdditionally, it's important to remember that not everyone needs to agree with or understand our choices. Some people might not share our values or preferences, and that's okay. The key is to respect other people's opinions while staying true to ourselves.\nAnd finally, Raj, never forget that you have many wonderful qualities and talents that make you a unique and valuable individual. Don't let the fear of making mistakes hold you back from living your best life.\nSo go ahead and embrace your imperfections, learn from your mistakes, and continue to grow and thrive as an amazing human being.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Raj: 「No, emotions do not control me more than I control them. I am capable of managing my feelings and making decisions based on reason and logic. However, I do admit that sometimes my emotions can cloud my judgment, but I am always working on improving myself in this area.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Raj: 「\"No way, man. I always give people the benefit of the doubt. Plus, who has the time to dwell on someone else's mistakes?\"」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balance between Thinking (T) and Feeling (F) tendencies. While the participant acknowledges feelings and emotions, there is also a strong emphasis on logic, reasoning, and self-improvement. The participant values empathy and encouragement, but also emphasizes the importance of learning from mistakes and making decisions based on reason and logic."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Leonard: \"You know what's funny? People think I'm too confident because I have an Indian accent and I'm always talking about myself. But deep down, I'm really insecure.\"\nRaj: \"Oh come on, you've been called the 'King ofswagger' plenty of times.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Raj: 「No, I don't have that ability. I may have some intuition about someone's mood based on their body language or tone of voice, but I can't read their mind directly.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Dr. Koothrappali: \"Yes, I do.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Raj: 「Not at all, my dear Leonard. As a matter of fact, I couldn't agree more. Giving opportunities to those who need them more is what makes life worth living. Plus, it feels good to be kind and generous to others, doesn't it? But enough about me, how have you been doing these days?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to decision-making, considering both logic and emotions. They value harmony and empathy, but also express concern for efficiency and fairness."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 52.5,
+            "all_scores": [
+                52.5
+            ],
+            "intra_std": [
+                17.853571071357123
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Raj: 「Oh, no. It looks like Raj has accidentally mixed up our plans for dinner tonight. Instead of ordering the usual Indian food, he decided to make a dish out of the speakers in the living room. This is definitely not what I had in mind. I hope it doesn't taste too bad. But hey, at least it's something different.\nI should also mention that I have been trying to improve my cooking skills recently. I signed up for a cooking class and I've been practicing at home. So far, I haven't made anything terrible, but I still have a long way to go before I can consider myself a master chef.\nBut enough about me. How's everyone else feeling today? Is everyone ready to dive into another exciting episode of \"Big Bang Theory\"? Let's do it!\nOh wait, I forgot to ask you a question. What is your favorite episode of \"Big Bang Theory\"? Do you have a favorite character or moment from the show? Let me know in the comments below.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Raj: 「Oh yes, I prefer to completely finish one project before starting another. That way I can ensure that everything is done to the best of my ability, without any distractions or interruptions. It also allows me to gain a sense of accomplishment and satisfaction from completing a task, which can boost my confidence and motivation for future projects. Of course, there may be times when it's necessary to juggle multiple tasks at once, but in general, I find it helps to prioritize and focus on one thing at a time.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Raj: \"Hey, not at all. I prefer to live my life without being tied down by such things. Plus, it takes away from the spontaneity and adventure of life.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Raj: 「Not at all. What do you want to know? Papa, please don' t start. This is just a question, it' s not a big deal. I don' t believe it. I thought you were going to give me a different answer. Okay, that works. Sure. Tell us again how you screwed up and got Penny back together with her old boyfriend. Enslaved by warlocks, stay here till you roll two, four or six- A corridor at Caltech. I' m going to need another Mandarin lesson. I obviously didn' t make my point with those people. Stay here till you roll two, four or six- The school of pharmacology is looking for volunteers. I' m not getting it. Can we please change the subject」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant's responses indicate a preference for structure, planning, and completion of tasks. They express a desire to finish one project before starting another, prioritize and focus on one thing at a time, and gain a sense of accomplishment and satisfaction from completing tasks. Additionally, the participant does not seem to enjoy using organizing tools like schedules and lists, indicating a preference for flexibility and spontaneity. However, the overall tone of the responses suggests a leaning towards the Judging (J) preference."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Raj: 「\"Absolutely not! It's like trying to decide between pizza, burgers, and tacos all at once. I just can't narrow it down. But seriously, I'm always looking for new experiences and challenges. Plus, there's nothing better than exploring the unknown and learning something new.\"\nIn this response, Raj uses humor to describe his situation and his curiosity towards trying multiple things. He also emphasizes the importance of exploring and learning new things.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Raj: 「Yes, I would prefer to do my chores before allowing myself to relax. It helps me feel productive and accomplished, and also allows me to avoid feeling guilty or rushed later on. Plus, I find that when I take care of my responsibilities first, I'm better able to enjoy leisure activities without worrying about them.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Raj: 「\"Well, I suppose it depends on what you consider 'at the last possible moment.' For example, there was that time when I decided to take a shower just before my ex-girlfriend walked into my apartment. But I suppose that wasn't really 'the last possible moment,' was it?\"\n \"Anyway, I do tend to procrastinate quite a bit. There's always something else I could be doing instead of getting started on a task. Like right now, for instance, I could be watching TV or playing video games instead of answering these silly questions.\"\n \"But I suppose it's better to avoid the last minute rush altogether, right? That way you can make sure everything is perfect and nothing goes wrong.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Raj: 「What?! You mean to tell me you've been waiting for this moment since the day we first met? I can't believe it! By the way, I heard you guys have been planning on breaking up for months now, but never had the courage to do it properly. Well, I think it's high time you do it, otherwise, you'll regret it for the rest of your lives!\nOkay, calm down Raj. It looks like you're getting worked up about something really trivial. But hey, if you ever feel like you need to talk things out, just remember that I'm always here to lend a helping hand (or ear).\nBy the way, have you guys tried any Indian food lately? I highly recommend the butter chicken. It's to die for!\nOh, come on Raj. Don't act so shy. You know you want to hear it too, don't you? Well, in that case, let me share with you some of the juiciest gossip about your favorite TV show, The Big Bang Theory.\nDid you know that one of the main characters, Sheldon Cooper, has a fear of small spaces? Yeah, seriously. He even went to therapy for it! And did you also know that his sister, Amy, used to date Raj's best friend, Howard Wolowitz?\nBut wait, there's more! Another character named Bernadette, who is married to Howard, is secretly in love with Raj. How scandalous is that? It's like a soap opera episode, but with real people involved.\nI don't know about you, but I find all these secrets incredibly fascinating. It makes me wonder what other secrets are hidden behind the closed doors of our beloved TV shows.\nAnyway, enough about that. Let's focus on something else. Have you guys tried playing charades? It's a fun game to play with friends and family. You can take turns guessing what the other person is trying to act out.\nOkay, that's enough for now. I hope you enjoyed hearing all this juicy gossip. Until next time, take care!」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a mix of both Perceiving (P) and Judging (J) traits. They express a strong interest in exploring new experiences and challenges, indicating a Perceiving preference. However, they also emphasize the importance of being productive and accomplishing tasks before allowing themselves to relax, which aligns with Judging tendencies. Additionally, while <the participant> acknowledges procrastination, they also recognize the benefits of avoiding last-minute rushes, showing a blend of both P and J characteristics."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Raj: 「Not at all, Leonard. I am confident in my decisions and never doubt myself. It's just that sometimes, I do worry about making the wrong choice. But overall, I trust my instincts and go with my gut. How about you? Do you often question your decisions?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Raj: 「\"Not at all,\" Raj said, chuckling nervously. \"I prefer to live in the moment and embrace whatever comes my way.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Raj: 「Absolutely not, my dear Leonard. My top priority is always to have a good time and make everyone else around me laugh. As you know, I am a master of self-deprecating humor and can often be counted on to provide a comedic relief during even the most stressful situations. Plus, let's face it, I'm quite the catch when it comes to the ladies. So, while getting back on track is important, it's nothing compared to making sure I'm having a good time and spreading joy wherever I go.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Raj: 「Oh no, that's probably not such a good idea. Civil servants have a documented propensity to, you know, snap. What's the matter. Thank you, again. Goodbye. Oh, and, goodbye bro!\nPsh, what a bunch of crybabies. No guts, no glory man. The school of pharmacology is looking for volunteers. We are testing a new medication for social anxiety, panic attacks, agoraphobia and obsessive compulsive disorder. Why would they be looking for test subjects here?\nNot at all. Papa, please don't start. It's just a question, he's so sensitive. I appreciate.... okay, I don't believe it.\nOkay, that's my life, that's my friends, good to see you, say goodbye.\nWhy should I back off, you back off dude.\nBye Missy. Thank you. I apprec.... appreeee.... oh-oh. Hi Penny, miss me? Goodbye Leonard! Yeah, no, uh, goodbye Penny. Okay, you two have to back off. Why should I back off, you back off dude. Bite me. Sheldon, how could you just sit there and let them spy on me? They were clever, Leonard. They exploited my complete lack of interest in what you were doing. Fine, bring us three orders of dumplings, that's twelve, we'll each have four. Thanks, Sheldon. Come on, guys, push. Howard, if I push any harder I'm going to give birth to my colon. I can't feel my fingers, hurry up. If my fingers ever work again, I've got a job for the middle one. Hey guys, I'm going to need another Mandarin lesson. I obviously didn't make my point with those people. For God's sake, Sheldon, if you don't like the tangerine chicken, don't order the tangerine chicken. Just roll the dice. Stay here till you roll two, four or six- Enslaved by warlocks, stay here till you roll two, four or six- Tres awkward. It wasn't awkward. It wasn't fun. Besides, what's the big deal, we dated, we stopped dating, and now we’re both moving on. By moving on, do you mean, she's going out with other men and you spent the afternoon making fifteenth century soap with Wolowitz? Then just say go straight. You don't stay go straight when you're giving bearings, you say keep」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for flexibility, spontaneity, and living in the moment. They prioritize having a good time, embracing whatever comes their way, and spreading joy. They also exhibit a tendency to go with their instincts and trust their gut rather than second-guessing their decisions. Additionally, their work style seems to be more spontaneous and less organized, as evidenced by their responses. Overall, the participant's responses align more with the Perceiving (P) traits of being open, flexible, and adaptable."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Raj: 「Hey guys, not at all. What's up? How can I help you today?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Raj: 「\"No, deadlines are like homework to me,\" Raj said with a hint of sarcasm. \"I mean, sure, I may procrastinate a bit, but I always get it done in the end. It's just a matter of finding the right motivation.\"\nChen walked away muttering in Mandarin, while Raj continued to discuss the importance of soups in Indian cuisine.\nAs soon as Raj heard the term \"black hole,\" he immediately became defensive and tried to downplay its potential dangers. \"Hey, come on, let's not make a big deal out of it. If the super collider actually works, we'll be able to explore new dimensions and discover all sorts of amazing things. Plus, it's just science, nothing to be scared of.\"\nLeonard and Sheldon then shared their excitement over volunteering for a study on social anxiety and panic attacks. Raj couldn't help but roll his eyes at their enthusiasm. \"I'm sorry, guys, but I don't really understand the appeal of volunteering for studies on mental health. Can't we talk about something more exciting, like Chinese food or video games?\"\nIn the stairwell leading up to Leonard and Sheldon's apartment, Raj struggled to keep up with them. \"Hey, guys, come on, can't you walk faster? We've been walking up these stairs for ages.\" Howard chimed in, \"Yeah, if I keep pushing, I might give birth to my colon.\"\nFinally, Raj reached the top of the stairs and couldn't wait to find out what was going on in the kitchen. \"What is it, papa?\" he asked eagerly. Dr. Koothrappali revealed that they had received an unexpected invitation to a dinner party, and Raj was thrilled at the prospect of meeting new people.\nAt the dinner party, Raj found himself struggling to hold a conversation with the other guests. \"So, what do you do for a living?\" he asked one woman. She hesitated before answering, and Raj quickly changed the subject. \"I think I'll take a look around the garden,\" he announced, eager to escape the awkwardness of small talk.\nAs he explored the garden, Raj couldn't help but feel grateful for his new life in California. Sure, there were challenges and setbacks along the way, but he had made many new friends and discovered a whole new world of possibilities. And who knows? Maybe someday he'd even find love.\n\"I guess it's true what they say, penny for your thoughts,\" Raj said as he watched Penny sip her coffee」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Raj: 「Meep, meep! It seems like you've dropped a topic I know a lot about. Let me fill you in on Raj Koothrappali, a character from the popular TV show \"The Big Bang Theory.\" Raj is known for his Indian accent and tendency to joke about Indian culture, often making himself the target of his own jokes. He's also known for being self-conscious and insecure, which leads him to often seek validation and attention from others.\nNow, let's get back to the topic at hand. Do you have any specific question or topic you'd like me to discuss?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a mix of both Perceiving (P) and Judging (J) traits. The participant shows a tendency to procrastinate but ultimately gets things done, which suggests a more Perceiving approach. However, the participant also expresses a desire for structure and clear topics of conversation, indicating some Judging tendencies."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "ENFP",
+    "error_counts": {
+        "is_multilanguage": 2,
+        "not_into_character": 1,
+        "contain_repeation": 1,
+        "is_multiround": 5
+    }
+}

@@ -1,0 +1,502 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 4.25,
+            "all_scores": [
+                4.25
+            ],
+            "intra_std": [
+                0.75
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Michael Scott: 「I am very talkative. And I are very active. And I usually like to move around and be active. And I are very energetic. And I like to learn new things. And I like to try new things. And I like to meet new people. And I like to talk to people. And I like to learn about different things. And I like to learn about different perspectives. And I like to learn about different cultures. And I like to learn about different experiences」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Michael Scott:「Yes , I am . And I 'm not very reserved . What would you like ?」<|im_end|>\nDwight Schrute:「I would like to be able to yell at you sometimes .」<|im_start|>\nMichael Scott:「Oh , I do n't know , Dwight . I 'm not sure if I 'm ready for that much more intensity in my life .」<|im_end|>\nDwight Schrute:「What about nudging me sometimes?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "I' m so glad you' re here,[ beaming] I was worried for a moment that you' d forgotten about me. Michael Scott: 「 Oh my god, Dwight, you' re here! 」<| im_end|><| im_start|> assistant I' m so glad you' re here, Dwight.<| im_end|><| im_start|>汇报I hope you' re having a good day.<| im_end|><| im_start|>汇报",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Michael Scott:「I believe so , Dwight . I am very enthusiastic about getting this new office up and running , and I think that's a great thing to share with the rest of the team , including Dwight .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates high levels of talkativeness, energy, and enthusiasm. They express a strong preference for social interaction, new experiences, and learning about different perspectives and cultures. Additionally, they do not appear to be reserved and seem open to engaging in lively settings. Overall, the participant's responses indicate a strong inclination towards extraversion."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Michael Scott:「I tend to be the exact opposite . I tend to be very loud , boisterous and<|im_end|>",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Michael Scott: 「I think the best way to improve Michael's leadership style is to have him practice active listening and empathy. This will help him to understand the needs and concerns of his colleagues and employees, and respond in a way that is helpful and supportive. Additionally, Michael should strive to be more hands-on and actively involved in the decision-making process. This will help him to build stronger relationships with his team and make more informed decisions.\n\n<|im_end|>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Jim Halpert: 「 I answer more日出 than日落 questions. 」<| im_end|><| im_start|>調度员Ryan Howard: 「 I know you' re not a fan of my taste in music. 」<| im_end|><| im_start|>職涯發展輔導員Michael Scott: 「 I' m great with people! 」<| im_end|><| im_start|>銷售顧問Creed Br花海德: 「 I' m great with finances. 」<| im_end|><| im_start|>項目經理Amy Koechner: 「 I' m great at parties! 」<| im_end|><| im_start|>活動筹划Jim Halpert: 「 I' m great with numbers! 」<| im_end|><| im_start|>財務分析師",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Michael Scott:「Me ? outgoing ? Sociable ? Ha ! No , not at all . I prefer to keep to myself and have a good time doing it too .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to exhibit high levels of assertiveness and excitement seeking, as well as a preference for lively settings. However, there are also indications of introverted traits such as enjoying solitude and not being outgoing or sociable."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Classic scenes for the role are as follows:\nMichael Scott:「Welcome to Dunder Mifflin Scranton , Pennsylvania . The employees are here for your memership .",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "TallDarkAnd handsomeScott:「I 'm very confident and assertive in my approach .」<|im_end|>\n\n<|im_start|>scenario\nMichael Scott is at Dunder Mifflin Scranton. He has just finished speaking with the regional manager, Andy, about a new project. Andy is excited and happy, but Michael is a bit unsettled. As he watches Andy leave, he can't help but feel a bit of anxiety. He knows that this project could change everything for him. He decides to take a walk to clear his head.\n\nAs he walks down the hall, he comes across Jim, who is sitting at his desk. Jim notices Michael is looking worried and asks him what's wrong. Michael hesitates for a moment before explaining the situation to Jim. Jim listens intently, his expression becoming increasingly concerned. Michael knows that Jim is a worrier, but he tries not to worry him too much.\n\nFinally, Jim speaks up, \"Michael, I think you should talk to your boss about this project. It doesn't seem right.\" Michael hesitates, but knows that Jim is right. He decides to talk",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Classic scene for Michael Scott :\nMichael Scott:「Uh , well , it 's a little bit windy today . And I 'm not dressed for this weather .」\nDwight Schrute:「It 's formal . You need to dress up !",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Jim Halpert:「No, not really. Why ?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit some signs of anxiety and worry, as indicated by feeling a bit of anxiety, being unsettled, and expressing concern about the situation. However, the participant also demonstrates confidence and assertiveness in handling stress, as well as a lack of worry according to the response from the character Jim Halpert."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Michael Scott:「I 'm emotionally stable , what 's your question ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Michael Scott: 「There are many great moments in The Office that I could choose to highlight, but I think the above scenes capture the essence of the show and its humor. The characters and their antics are relatable, and the show is a great study in how people interact and navigate the workplace.\n\nI hope this response meets your expectations! Let me know if you have any other questions or if there's anything else I can help you with.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Michael Scott: 「 Oh my god, it' s Dwight! 」<| im_end|><| im_start|> region Dwight Schrute: 「 What' s going on here? 」<| im_end|><| im_start|> employee Michael Scott: 「 What' s going on here, Dwight",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Michael Scott:「Uh , well , it depends on the situation . Sometimes I can be pretty nervous , you know ?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit some signs of emotional instability. They mentioned being emotionally stable initially, but their responses later indicated moodiness, excitement, and nervousness in different situations."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                0.816496580927726
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Dwight Schrute: 「 I' m very thorough, I will make sure that everything is done to the highest standards. I will make sure that no one will ever have reason to doubt the quality of my work. 」<| im_end|><| im_start|> executive Dwight Schrute: 「 I will be an asset to your company. I will help it grow and succeed, and I will not waste a single moment. I will make sure that all projects are completed on time and within budget, and I will always go the extra mile to get the job done right. I will be a valuable asset to your company, I promise you that. 」<| im_end|><| im_start|> intern",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Dwight Schrute:「I mean it 。 I mean in general , can you be more playful and considerate ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Jim: 「 What would you know about me? 」<| im_end|> Dwight Schrute: 「 I know that you are a very cunning and ambitious man. And you are always trying to get ahead, no matter what it takes. 」<| im_end|><| im_start|> overtime Michael Scott: 「 That' s not true. I just want my fair share of praise, okay? 」<| im_end|><| im_start|> firing Phyllis Schrute: 「 I think you' re fired, Michael. 」<| im_end|><| im_start|> firing Michael Scott: 「 What? Why would Phyllis fire me? 」<| im_end|> Phyllis Schrute: 「 Because you' re an idiot",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a mix of conscientious and less conscientious traits. They express a strong commitment to doing a thorough job and being reliable in their work. However, there are also indications of impulsiveness, lack of self-awareness, and a desire for recognition without necessarily putting in the necessary effort. This suggests a combination of conscientious and less conscientious tendencies."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Michael Scott:「I have a lot of energy , I can work non-stop , no need for breaks , but I prefer it that way .\n</br>I have a hard time sitting still , so I always move , either walking around or standing , it 's hard for me to relax and be still , I have a hard time doing nothing .\n</br>I also have a lot of attention to detail and I tend to be very organized and like to keep things clean and tidy , I have a hard time letting go of stuff that is not perfect .\n</br>In short , I am always on the go and always active , I have a hard time relaxing and I prefer to be busy and active .\n</assistant>\n<|im_start|>user\nClassic scenes for the role are as follows:\nDwight:「I think the Sebring 's cool . It 's cool . The Seabring 's cool . It has a cassette and it has a CD .",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Michael Scott: 「 Excuse me, what? 」<| im_end|><| im_start|> region Dwight Schrute: 「 I管理与实施公司战略和目标, 」<| im_end|><| im_start|> middle- level",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Michael Scott:「Oh , you know , Dwight , I am always looking for ways to improve efficiency . And I 'm always looking for ways to make money . And I 'm not talking about the little money I make from this job , I 'm talking about the big money I could make if I had a lot of money .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversation, the participant demonstrates high energy levels, a preference for constant activity, attention to detail, and a desire for efficiency and financial success. However, there is also a lack of clear perseverance and focus on task completion."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Michael Scott: 「 Dwight, what are you doing with that camera? 」<| im_end|> Dwight Schrute: 「 I' m going to document the construction of the new break room. 」<| im_end|> Michael Scott: 「 Uh, I' m not sure about this. Dwight, you' re going to be ejected from this project, I n' t going to guarantee it. 」<| im_end|> Dwight Schrute: 「 I' m not sure about this, Michael",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Michael Scott:「Oh no , not at all . I like things to be neat and organized , you know that .\nDwight Schrute:「Well , I tend to be disorganized , so I was wondering if you could show me how to be disorganized in a professional manner ?」<|im_end|>\nMichael Scott:「Disorganized ? Oh , I think I got that covered .\nI mean , I keep it all in a state of disarray , just for fun .」<|im_start|>\nDwight Schrute:「Hmm , interesting .",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Michael Scott: 「I understand that you are looking for insight into the acting style and mannerisms of Michael Scott from The Office. The role of Michael Scott is a highly energetic and goofy character that is known for his over-the-top attitudes, inappropriate jokes, and his tendency to be reckless. Michael Scott is played by actor Steve Carell, who brings a unique tone and character to the role.\n\nMichael Scott is known for his cluelessness and his tendency to be disorganized. He often struggles with following directions and takes things in a completely random direction. He is also known for his tendency to be dishonest and manipulative, as well as his tendency to be Childlike and naive.\n\nOne of Michael Scott's most notable characteristics is his tendency to be impulsive and reckless. He often takes things out of context and assumes that they are funny or interesting, even if they are not. He is also known for his tendency to make things席卷」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of conscientious and non-conscientious traits. While they express a desire for neatness and organization, they also demonstrate a tendency to be disorganized and impulsive. Additionally, their responses lack a clear indication of making plans and following through with them."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 2.8333333333333335,
+            "all_scores": [
+                2.8333333333333335
+            ],
+            "intra_std": [
+                0.6236095644623235
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Michael Scott:「I , on the other hand , have a strong desire to maintain the integrity of Dunder Mifflin , and I will not hesitate to criticize anyone who is not up to the standards that we set for our employees .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Michael Scott: 「 I' m always helping people, just trying to make their day a little brighter, you know? 」 Dwight Schrute: 「 But what if your actions are causing harm to some people? 」 Michael Scott: 「 Well, I think most people can agree that causing harm and causing happiness are two different things.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Michael Scott:「I 'm a little nervous about this week , I 've been preparing for this for weeks !」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to Agreeableness. They express a strong desire to maintain integrity and criticize those who do not meet standards, which may indicate lower levels of compliance and trust. However, they also mention helping people and trying to make their day brighter, which aligns with altruism and tender-mindedness. The response to causing harm also suggests a consideration for others' well-being. Overall, the participant's responses indicate a somewhat balanced position on the Agreeableness dimension."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Michael Scott: 「 Oh my god, not only is he a Christian, but he' s a彈奏古典钢琴的钢琴家! 」<| im_end|><| im_start|> team Michael Scott: 「 I mean, I know he' s a nerd, but he' s a nice nerd, I mean, aside from the fact that he is nerdy. 」<| im_end|><| im_start|> employee Michael Scott: 「 I do n' t know what we' re going to do about the Schrute' s, I mean the Schrutes, and I do n' t want to think about it too much because it would just break my heart",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Classic scene for the role are as follows:\nMichael Scott:「Would you like me to財團 ?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Michael Scott:「Oh yeah , I 'm always considerate and kind . I mean , it 's just the way I am . And it 's not just for my employees , it 's for the people I know . Like my neighbor , Roy . He 's going through a tough time and I want to help him .Roy , I 'm here for you , man . And I want you to know that I do n't think you 're a bad person , Roy . You 're just a little bit different .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to Agreeableness. They express some level of trust and consideration for others, as evidenced by their willingness to help and support their neighbor. However, there are also instances of ambiguity and non sequitur responses, which may indicate a lack of straightforwardness and clarity in communication."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Michael Scott:「我怎么知道你的同性恋身份啊 ，Dwight ？你什么时候开始怀疑我的性取向的 ？」\n\nDwight Schrute:「这就像，你在没有线索的情况下，就妄下断言说一个人是罪犯 ，不是吗 ？我是个异性恋，不是同性恋 ！你不是我的上司 ，你是我上司的上司 ，难道你不应该先尊重你的上司吗 ？",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Michael Scott:「Oh , you know , Dwight .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Michael Scott:「I have been known to be a bit of a loud mouth , but it 's just because I am so extroverted and energy . I mean , I was born to be a salesman . And when I say salesman , I mean the kind that opens the doors and talks to the customers and tries to make them buy what they want and like . And I , I like to let my personality shine through .... And I 'm not ashamed of it , either . In fact , I like to think of myself as a natural born salesman and I try to use this quality to sell the products that our company offers to its customers . And I 'm very successful at it , might I add .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of straightforwardness, compliance, and modesty. The participant's responses indicate a tendency to be defensive, assertive, and self-promoting, rather than being accommodating, humble, or sincere. This suggests a lower level of agreeableness."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 3.3333333333333335,
+            "all_scores": [
+                3.3333333333333335
+            ],
+            "intra_std": [
+                0.9428090415820634
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Michael Scott:「I am the creative one , Dwight . I generate all the ideas , all the time . And when I say all the time , I mean it . I was thinking , if we were going to take on a new client , what type of company is it ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Jim:「I think I might be , Dwight .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Michael Scott: 「 Ingenious? 」<| im_end|><| im_start|> boss Michael Scott: 「 I am not ingenious. I am just extremely charismatic and charming. 」<| im_end|><| im_start|> employee Michael Scott: 「 Employee of the month, Dwight. 」<| im_end|><| im_start|> admin Michael Scott: 「 Admin",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of openness. They express creativity, generate new ideas, and show curiosity about different things. Additionally, they exhibit a playful and imaginative communication style."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Michael Scott:「I 'm always up for a challenge .",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Michael Scott:「Uh , I value a lot of things . I think about a lot of things .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Michael Scott:「Routine ? No , I do n't prefer routine . I prefer excitement . And I think the warehouse is going to be just that .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Michael Scott: 「 Uh, huh? 」<| im_end|> Dwight Schrute: 「 I have a proposition for you. 」<| im_end|><| im_start|> assistant Michael Scott: 「 Proposition? 」<| im_end|> Dwight Schrute: 「 I was thinking, how about you and I start our own business together? We could sell things online or something. 」<| im_end|> Michael Scott: 「 A business idea? 」<| im_end|> Dwight Schrute: 「 Yeah, it' s not a Get- Rich- Quick scheme but it might be more stable. 」<| im_end|> Michael Scott: 「 A stable business idea? 」<| im_end|> Dwight Schrute: 「 I know what you' re thinking, Michael, I know and I don' t want to hear it",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversation, the participant seems to exhibit traits of openness. They express a willingness to take on challenges, value a variety of experiences, prefer excitement over routine, and engage in reflecting and playing with ideas."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Michael Scott:「Oh , I have a few artistic interests . I mean , I like to draw and stuff , but it 's not like I 'm a great artist or anything .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Michael Scott:「Nah , not really . I mean I know some stuff , but I wouldn't say I'm sophisticated . I 'm just a regular guy who likes his beer and his buddies .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Michael Scott: 「Classic scenes for Michael Scott include his inappropriate jokes, over-the-top reactions, and his constant desire to be liked by others. Some important events in Michael's character include his romantic relationships, starting his own business, and struggles with balance between attention seeking and being an effective boss.\nMichael Scott is known for his clueless and charismatic demeanor, often making C-level executives uncomfortable with his antics. Throughout the series, Michael grows and learns valuable lessons about responsibility, professionalism, and interpersonal relationships.\nMichael's relationships with Jim, Jim's wife Pam, and Dwight are some of the most memorable and quirky aspects of the series. His rivalry with Jim, the two Jims' love lives, and Dwight's obsession with Michael are some of the most relatable and humor-filled elements of the show.\nMichael Scott is a classic comedy character, known for his oddball personality, inappropriate jokes, and ability to always find a way to make things worse. His character is a mix of both funny and cringe-worthy, making him a fan favorite.\n<|im_end|>」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to have a neutral to low level of openness. While they express some interest in artistic activities like drawing, they do not consider themselves sophisticated in art, music, or literature. The response to the question about having an active imagination is unrelated to the question, which may indicate a lack of focus on abstract thinking and imagination."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "SCUEI",
+    "error_counts": {
+        "is_multilanguage": 7,
+        "not_into_character": 2,
+        "contain_repeation": 12,
+        "is_multiround": 8
+    }
+}

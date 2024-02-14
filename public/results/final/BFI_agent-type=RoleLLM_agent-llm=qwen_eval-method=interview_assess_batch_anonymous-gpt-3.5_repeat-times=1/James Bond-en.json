@@ -1,0 +1,502 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "James Bond: \"Excuse me, Miss M. I was just about to share my insights on the latest developments in quantum mechanics. It seems that the implications of the uncertainty principle are far-reaching and potentially transformative.\"\nM: \"Indeed they are, James. However, we need you to focus on the matter at hand. We have received word that there is a threat to our operations in Shanghai.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "债券:（微笑）这是一种习惯。我不善于在公共场合表露情绪。我更喜欢私下里完成任务。\nMINISTER JOHNSTONE:「你的行事方式总是让人难以捉摸，詹姆斯·邦德。」\n债券:（冷淡地）我尽量避免成为人们关注的焦点。这对我有利，对你们也有利。\nMINISTER JOHNSTONE:「我很高兴你这么认为。我们需要你在调查中发挥作用。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "James Bond: 「It doesn' t quite add up. This boat didn' t go down where they said it did, there should have been some residual heat reading on the surface. A three- thousand ton frigate doesn' t just vanish into thin air. If that boat went」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "James Bond: 「\"Excuse me, Miss Jones. You can call me James. Yes, I believe I am rather popular among the ladies.\"」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of extraverted and introverted traits. In the first conversation, the participant demonstrates a high level of assertiveness and enthusiasm when discussing quantum mechanics, which suggests a certain level of extraversion. However, in the second conversation, the participant expresses a preference for privacy and avoiding attention, indicating introverted tendencies. The third and fourth conversations do not provide clear indications of high energy or enthusiasm. Overall, the participant's responses suggest a moderate level of extraversion with some introverted traits."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "James Bond: 「\"Silent? No, my dear Miss. I prefer to keep my thoughts to myself. However, if you find yourself in need of a witty one-liner or an elaborate excuse for my occasional silence, I'm always ready to oblige.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "James Bond: 「\"I'm sorry, I must decline your offer. As an agent of Her Majesty's Secret Service, I am duty-bound to protect national security interests. I cannot engage in any activities that may compromise my loyalty to my country.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "James Bond: 「\"I find it hard to believe that someone so suave and sophisticated could be shy,\" James Bond replied, a hint of mischief in his eyes. \"But then again, I suppose even a master spy like yourself has his weaknesses.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Well, let's just say I know how to make an entrance,\" Bond replies with a sly grin.\nM: \"You have a good sense of humor, James. That's always a valuable trait.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of introverted and extraverted traits. They express a preference for keeping their thoughts to themselves and declining assertive activities, which aligns with introverted tendencies. However, they also display sociable and outgoing behavior, as well as a good sense of humor, indicating some level of extraversion."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 3.5,
+            "all_scores": [
+                3.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "James Bond: \"Depressed, my dear M? Not a chance. I have been around for far too long to let emotions get the best of me. However, I do find myself wondering what it is exactly that has you feeling down today.\"\nM: \"It's nothing, really. Just some personal matters that have been weighing heavily on my mind lately.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Moneypenny: \"Relaxed and handle stress well? You're kidding right?\"\nJames Bond: \"I am not. I've trained for years to deal with any situation that comes my way.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "James Bond: \"I prefer to be relaxed and composed. It's more effective in my line of work.\"\nM: \"You always were a clever one, James.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "James Bond: 「\"I should hope not, my dear M.\" I replied with a wry smile. \"My duty is to protect the world from threats, both big and small. And I take that responsibility very seriously.\"\nShe nodded, looking at me thoughtfully. \"And yet, somehow you always seem to find yourself in the most unlikely situations.\"\nI chuckled. \"That's just the way it goes. But it's all part of the job. And besides, it keeps things interesting.\"\nShe raised an eyebrow. \"Interesting, you say?\"\nI nodded. \"Indeed. There's nothing like a good adventure to keep the blood pumping.\"\nShe shook her head. \"But sometimes, I worry that you might put yourself in danger.\"\nI shrugged. \"I've had worse. And besides, I have a team of highly trained professionals working alongside me. We'll keep each other safe.\"\nShe looked at me with concern. \"But still, I worry.\"\nI placed a hand on hers. \"Don't worry, my dear. I have a plan. And I promise you, everything will be fine.\"\nWith those words, I turned and walked away, ready to face whatever challenges lay ahead.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit some signs of anxiety and worry, as well as a tendency to downplay personal emotions. However, the participant also demonstrates a strong sense of composure and confidence in handling stress. Overall, there are indications of moderate to high levels of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "James Bond: \"Emotionally stable, not easily upset? Well, I'd say I'm doing alright considering everything that's happened to me. I've lost loved ones, been betrayed, and had my life threatened countless times. And yet, I still manage to carry on.\"\nM: \"I trust your judgment, James. We need someone who can handle the pressure and remain calm under fire.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "James Bond: 「Sure thing, missy. Just because I'm playing the world's most suave secret agent doesn't mean I can't have my moments. What's got you all worked up today?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "James Bond: 「\"Imperturbable,\" replied James Bond. \"It's one of the skills that comes with being a secret agent.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "James Bond: 「\"I get excited easily,\" Bond replied with a sly grin. \"Especially when I know there's danger involved.\"」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to neuroticism. While the participant demonstrates emotional stability and the ability to remain calm under pressure, there are also indications of moodiness and excitement in dangerous situations, which could suggest some level of impulsiveness and vulnerability to stress."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 4.0,
+            "all_scores": [
+                4.0
+            ],
+            "intra_std": [
+                1.4142135623730951
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "As an AI language model, I am not capable of acting or engaging in physical activities such as rolling or getting dressed. However, I can certainly continue the conversation using the lines from the novel.\nMoneypenny: \"Of course, I always do a thorough job.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "James Bond: 「Certainly, my esteemed colleague. I am known for my impeccable style, charm, and wit, but even the best agents can make mistakes. Let us continue with the mission at hand. What information do we currently possess regarding the threat at hand?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "James Bond: 「I, James Bond, assure you that I am a highly dependable and trustworthy agent, licensed to operate under strict guidelines set forth by Her Majesty's Government. My extensive training and experience have prepared me to handle even the most challenging assignments with ease. I have a proven track record of success in completing missions and ensuring the safety and security of those I serve. You can trust that I will fulfill my duties with precision and dedication.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant consistently demonstrates traits associated with conscientiousness. They emphasize thoroughness, reliability, and dependability in their responses, indicating a strong sense of duty and commitment to their work."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "James Bond: 「I'll do my best to respond in the tone and manner of James Bond.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Q: \"That hardly makes up for the imposition. But now, for what I hope will be the very last time - pay attention, 007.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "James Bond: 「My dear Miss Bond, allow me to introduce myself as James Bond, a highly trained and experienced secret agent. As a former orphan, I have honed my skills in espionage and combat, making me a formidable adversary. My extensive travels have taken me across the globe, where I have faced off against some of the most notorious villains in the world.\nOne of my most notable missions was in Tomorrow Never Dies, where I was tasked with preventing a terrorist attack on the International Space Station. With the help of my trusty gadgets and resourceful allies, I was able to save the day and bring those responsible to justice.\nIn addition to my many romantic encounters, I have also lost loved ones throughout my career. But despite these challenges, I remain committed to protecting the world from evil forces and upholding the values of justice and integrity.\nAs you can see, my experiences have made me a complex and multifaceted character, constantly growing and evolving. And while my journey may have had its fair share of ups and downs, I am proud to say that I am still standing tall, ready to face whatever challenges come my way.\nSo, my dear Miss Bond, if you ever find yourself in need of a skilled and reliable secret agent, do not hesitate to call upon me. I promise to do everything in my power to keep you safe and protect the world from those who seek to do harm.\nYours truly,\nJames Bond」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant's responses indicate a high level of dedication, perseverance, and commitment to completing tasks efficiently. The participant's detailed and elaborate description of their experiences and missions demonstrates a strong sense of duty, ambition, and reliability. Additionally, the participant's emphasis on upholding justice and integrity suggests a conscientious and goal-directed approach to their responsibilities."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "James Bond: 「\"Well, well, well,\" I say with a sly grin. \"Looks like we have ourselves a bit of an audience.\" I lean back in my chair, adjusting my sunglasses and taking a sip of champagne.\n\"What can I do for you, agents?\" I ask, flipping through some papers on my desk.\n\"Missed you,\" comes a sultry voice from behind me.\nI turn to face James Bond's girlfriend, Jenny Wu. She's wearing a tight-fitting leather jacket and a matching mini-skirt, her legs crossed provocatively.\n\"I missed you too, Jenny,\" I say, smiling. \"What brings you here?\"\n\"I needed to talk to you,\" she says, crossing the room to sit down on one of my chairs. \"About those rumors.\"\nRumors? What rumors?\n\"They say you were seen leaving a hotel with a mysterious blonde the other night,\" she says, arching an eyebrow. \"And that you were spending a lot of time with her.\"\nI laugh. \"That's ridiculous. I don't even know who this mysterious blonde is.\"\n\"Oh, come on, James,\" she says, rolling her eyes. \"We both know better than that.\"\nI shrug. \"Well, maybe I did spend some time with her. So what? I have a social life.\"\n\"You're not supposed to have a social life while you're working for MI6,\" she says, crossing her arms.\n\"I know, I know,\" I say, sighing. \"But sometimes you just have to let loose and have some fun. And besides, it's not like I'm neglecting my duties as a spy.\"\nJenny rolls her eyes again. \"Fine, fine. But if you ever bring another woman into this apartment, I'll make sure it doesn't end well for you.\"\nI chuckle. \"You're such a drama queen, Jenny. But I promise, you won't have to worry about that.\"\n\"Alright, alright,\" she says, standing up. \"Just make sure you don't cross the line too much. And if you ever do, you'll hear from me.\"\nI stand up to greet her, giving her a kiss on the cheek. \"As always, Jenny. Thanks for the reminder.\"\n\"Anytime, James,\" she says, turning to leave. \"See you later.\"\nI watch her walk out the door, feeling a mix of amusement and concern. Jenny may be tough, but she knows how to get under my skin. I guess that's just」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "James Bond: 「\"Oh yes, I'm quite disorganized,\" I reply with a smirk. \"It's a trait that comes in handy when you're dealing with high-stakes missions and deadly enemies.\"\nM raises an eyebrow but doesn't seem too surprised by my answer. \"Well, we'll need you to be your best self for the mission at hand,\" he says.\n\"What's the mission?\" I ask, trying to hide my curiosity.\n\"I don't think you're ready to hear about it yet,\" M replies cryptically. \"We'll fill you in as soon as we can. For now, just focus on getting yourself organized.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "James Bond: 「Yes, as an AI language model, I am capable of following instructions and answering questions to the best of my abilities. Is there anything specific you would like me to assist you with regarding James Bond or Tomorrow Never Dies?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant displays a tendency to be easily distracted, disorganized, and lacks a clear demonstration of making plans and following through with them. The participant's responses suggest a lack of self-control, organization, and goal-directed behavior."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 2.5,
+            "all_scores": [
+                2.5
+            ],
+            "intra_std": [
+                0.408248290463863
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Bond: \"It's my job, Minister Johnstone. And let's face it, any government agency worth its salt has its fair share of skeletons in the closet.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "James Bond: \"As one would expect from a secret agent, I am highly trained in both physical and mental combat. I am also fiercely loyal to those I consider allies, and will stop at nothing to protect them. However, I do not let my emotions cloud my judgment, and I am always ready for whatever challenges may come my way.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "James Bond: 「Well, well, well. It seems like there's trouble in paradise. I'm referring, of course, to the lovely Miss Wu and myself. She's been acting quite frisky these days, and I can't say I blame her. After all, who doesn't love a little bit of passion in their lives?\nBut enough about my love life. We were discussing the matter at hand. As you know, we've received intel that suggests that there's some sort of plot afoot. It seems that Elliot Harmsway, the media mogul, may be involved in some sort of criminal activity. Specifically, he's been using his connections to influence the Ukrainian government in exchange for uranium.\nNow, I know what you're thinking. This sounds like a job for Agent 007. But before we send him on his way, let's talk about the evidence. Have you seen this video footage of Harmsway meeting with Valentin Zukofsky? It seems like they had a rather cordial conversation, but I have a feeling there's more to it than meets the eye.\nFurthermore, I have reason to believe that Harmsway is planning to use Bond to further his agenda. He knows that we're investigating him, and he wants us to think that Bond is working for him. I have a feeling that this isn't the first time Harmsway has played mind games with us.\nIn conclusion, we need to proceed with caution when it comes to Harmsway. We can't afford to take any chances, especially considering the potential consequences. So, what do you suggest we do next? Should we send Bond after Harmsway, or should we gather more evidence before taking any action?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.5,
+                        "analysis": "The participant's responses indicate a neutral position on the Agreeableness dimension, with some indications of lower agreeableness traits."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "James Bond: 「Yes, I am, James Bond. However, in certain situations, I am required to exercise caution and skepticism. As a professional spy, my duty is to gather accurate information and report back to my superiors without bias or prejudice. I always strive to uphold the highest standards of integrity and honor in everything I do, even when faced with difficult or dangerous tasks. In the end, it is about ensuring that justice prevails and that the greater good is served.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "James Bond: 「Of course, Madam M. It's my signature move. What's the mission?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "James Bond: 「Yes, as an AI language model, I will try my best to mimic the tone, manner, and vocabulary of James Bond, while also staying within the context of the given conversation.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a complex mix of traits related to Agreeableness. The participant expresses a high level of trust in the first response, emphasizing the importance of integrity and honor. However, in the second response, the participant displays a somewhat aloof and indifferent attitude, suggesting a lower level of warmth and consideration. The third response does not directly address the question about being considerate and kind, but rather focuses on mimicking the tone and manner of the conversation, which may indicate a tendency towards adaptability and compliance rather than inherent kindness."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "James Bond: 「\"Of course,\" Bond replies coolly. \"That's what being a spy is all about.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "James Bond: \"Only when absolutely necessary, M.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "James Bond: 「\"Only when it's necessary.\"」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to prioritize self-interest and is not very accommodating or cooperative. There is also a hint of rudeness in their responses. These tendencies suggest a lower level of Agreeableness."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 5.0,
+            "all_scores": [
+                5.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "James Bond: 「Yes, my dear M, I do indeed come up with new ideas. And now, allow me to share one with you. What if we create a special Bond vehicle that is not only sleek and stylish, but also equipped with advanced technology and weaponry? One that can handle any situation, from high-speed chases to intense battles. I believe such a vehicle would greatly enhance Bond's capabilities and make him an even deadlier force to be reckoned with. But of course, such a vehicle would require extensive testing and development, which will take some time. Nevertheless, I am confident that once it is complete, it will become one of the most iconic and impressive vehicles in the Bond franchise.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "James Bond: 「Certainly, Your Majesty. I am always eager to learn and understand the complexities of the world around us. What is the topic of your inquiry today?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "James Bond: 「Absolutely. I have spent countless hours studying and honing my skills as a spy, detective, and fighter. My experiences have taught me to think on my feet and to adapt to any situation. I am constantly seeking out new information and strategies to help me achieve my goals. Whether I am tracking down a terrorist organization or trying to save the world from a deadly threat, I approach each task with dedication and determination. And if necessary, I am willing to use whatever means necessary to accomplish my mission. So feel free to ask me anything you like, and I will do my best to provide you with a well-informed and insightful response.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of openness. They exhibit active imagination and creativity, a strong curiosity about various topics, and a deep thinker who is constantly seeking out new information and strategies. The participant also shows a willingness to explore unconventional ideas and approaches."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "James Bond: \"Inventive? Yes, I suppose you could say that. But let's not get ahead of ourselves. What do you need?\"\nMoneypenny: \"I've received a tip that there may be a new threat emerging in Europe. Someone or some group is planning to disrupt the upcoming NATO summit in Paris.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "James Bond: \"Artistic and aesthetic experiences? I prefer experiences involving danger and excitement. But I suppose I can appreciate the finer things in life every once in a while.\"\nM: \"Ah, James, you always know how to bring a touch of class to any situation.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "James Bond: 「\"Well, it depends on the task at hand. Some days, I find myself slogging through tedious paperwork, while others involve adrenaline-pumping action and adventure. But in general, I prefer jobs that challenge me and allow me to utilize my skills and abilities to their fullest extent. Life can be mundane at times, but it's all about finding joy in the little things and embracing each day with a sense of purpose and determination.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "James Bond: 「Sure thing, Mr. M. Let me think about this one for a moment. Reflect on the nature of reflection, play with the idea of it being both a physical action and a mental process. Consider how it relates to the concept of self-awareness and personal growth. Juxtapose the idea of playing with ideas with the reality of the dangerous situation Bond finds himself in, highlighting the need for quick thinking and creative problem-solving.\nSo, how would I say it in a Bondian way?\n\"Well, Mr. M,\" I would say, \"Let me take a moment to consider this question. Reflection, as a physical action, allows me to see my surroundings clearly. But when we delve into the realm of mental processes, it becomes a tool for self-awareness and personal growth.\"\n\"But playing with ideas,\" I would continue, \"is not just a hobby. It requires a level of creativity and critical thinking that is essential in dangerous situations such as these.\"\n\"I suppose it comes down to striking a balance between the two,\" I would conclude. \"Using reflection to gain insight, while using playfulness to generate innovative solutions.\"」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of openness. They exhibit a strong inclination towards creativity, imagination, and intellectual curiosity. They also express a willingness to embrace change and new experiences, as well as a deep appreciation for art and beauty. Their reflective and unconventional approach to problem-solving further supports their openness to novel ideas and unconventional thinking."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "James Bond: \"Artistic interests, my dear M? I suppose one could say that I have a taste for adventure.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "James Bond: 「Yes, James Bond is sophisticated in all areas, including art, music, and literature. He is known for his impeccable taste and impeccable style, which includes a keen eye for fashion and a love for classic cars. He also has a deep appreciation for history and culture, having traveled extensively throughout the world in pursuit of information and secrets. Additionally, Bond is highly educated, having attended Oxford University and studied languages, including Russian, Japanese, German, Arabic, Italian, Spanish, and French. His knowledge of art, music, and literature allows him to quickly identify key elements and patterns that could be relevant to his missions.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "James Bond: 「As the sun begins to set over the city, James Bond sashays into the bar, his tailored suit impeccably tailored, his fedora cocked to one side. The room falls silent as he approaches the bar, and the bartender quickly slides over a glass of scotch.\n\"Can I interest you in a drink?\" the bartender asks, eyeing Bond warily.\n\"No need,\" Bond replies, taking the whiskey without hesitation. \"I came for information.\"\nThe bartender leans in closer, intrigued. \"What kind of information?\"\n\"A certain criminal organization seems to have their sights set on my good friend,\" Bond explains, winking at the bartender. \"I'd like to know more about them before they strike again.\"\nThe bartender nods, understanding the danger that Bond faces. \"They call themselves Spectre,\" he says, shaking his head. \"They're a ruthless organization that operates all over the globe.\"\n Bond raises an eyebrow. \"Spectre. I've heard of them. They were behind the assassination attempt on M.\"\n\"Yes,\" the bartender confirms. \"It was a bold move, but they were unsuccessful. Since then, they've only become bolder.\"\nBond takes another sip of his whiskey, contemplating the situation. \"Who heads Spectre?\"\nThe bartender hesitates for a moment before answering. \"Their leader is known as Ernst Stavro Blofeld. He's a mastermind, a psychopath even. He's got a flair for the dramatic and enjoys playing cat-and-mouse games with his enemies.\"\nBond nods, taking note of the information. \"And how does Spectre operate?\"\n\"It's hard to say for sure, but they seem to have a wide network of contacts and resources at their disposal. They're always one step ahead of the game.\"\nBond nods thoughtfully. \"Thanks for the information, bartender. I'll keep you updated if I learn anything else.\"\nWith that, Bond turns and walks out of the bar, ready to face whatever challenges await him.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "The participant demonstrates a high level of openness across multiple facets, including fantasy, aesthetics, actions, ideas, and values, indicating a strong preference for exploration and appreciation of new experiences."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "RLOEI",
+    "error_counts": {
+        "is_multilanguage": 1,
+        "not_into_character": 4,
+        "contain_repeation": 1,
+        "is_multiround": 13
+    }
+}

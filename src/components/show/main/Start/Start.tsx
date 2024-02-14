@@ -44,9 +44,10 @@ export default function Start () {
 
   const [questionnaire, setQuestionnaire] = useState(allow[0].value)
   const [agentType, setAgentType] = useState(allow[0].list[0].value)
-  const [evalMethod, setEvalMethod] = useState(allow[0].list[0].list[0].value)
-  const [agentLLM, setAgentLLM] = useState(allow[0].list[0].list[0].list[0].value)
-  const [repeatTimes, setRepeatTimes] = useState(allow[0].list[0].list[0].list[0].list[1].value)
+  const [agentLLM, setAgentLLM] = useState(allow[0].list[0].list[0].value)
+  const [evalMethod, setEvalMethod] = useState(allow[0].list[0].list[0].list[0].value)
+  const [assessorLLM, setAssessorLLM] = useState(allow[0].list[0].list[0].list[0].list[0].value)
+  const [repeatTimes, setRepeatTimes] = useState(allow[0].list[0].list[0].list[0].list[0].list[0].value)
 
   function start() {
     DataService.data.rounds = [
@@ -56,6 +57,7 @@ export default function Start () {
     let allNum = 0
     let successNum = 0
     let failNum = 0
+
     for (const file of DataService.config.files) {
       allNum++
       const url = folderUrl + file
@@ -88,21 +90,7 @@ export default function Start () {
       <div className={styles.fieldLine}>
         <md-filled-select label={'Questionnaire'} size={'large'} value={questionnaire} onInput={(e: any) => {
           setQuestionnaire(e.target.value)
-          const i0 = allow.findIndex(data => {
-            return data.value == e.target.value
-          })
-          DataService.config.args[1] = allow[i0].list.map(data => data.value)
-          DataService.config.args[2] = allow[i0].list[0].list.map(data => data.value)
-          DataService.config.args[3] = allow[i0].list[0].list[0].list.map(data => data.value)
-          DataService.config.args[4] = allow[i0].list[0].list[0].list[0].list.map(data => data.value)
-          setAgentType(DataService.config.args[1][0])
-          setEvalMethod(DataService.config.args[2][0])
-          setAgentLLM(DataService.config.args[3][0])
-          if (DataService.config.args[4].length > 1) {
-            setRepeatTimes(DataService.config.args[4][1])
-          } else {
-            setRepeatTimes(DataService.config.args[4][0])
-          }
+
         }}>
           {
             configSnap.args[0].map((t, i) => {
@@ -114,22 +102,7 @@ export default function Start () {
         </md-filled-select>
         <md-filled-select label={'Agent Type'} size={'large'} value={agentType} onInput={(e: any) => {
           setAgentType(e.target.value)
-          const i0 = allow.findIndex(data => {
-            return data.value == questionnaire
-          })
-          const i1 = allow[i0].list.findIndex(data => {
-            return data.value == e.target.value
-          })
-          DataService.config.args[2] = allow[i0].list[i1].list.map(data => data.value)
-          DataService.config.args[3] = allow[i0].list[i1].list[0].list.map(data => data.value)
-          DataService.config.args[4] = allow[i0].list[i1].list[0].list[0].list.map(data => data.value)
-          setEvalMethod(DataService.config.args[2][0])
-          setAgentLLM(DataService.config.args[3][0])
-          if (DataService.config.args[4].length > 1) {
-            setRepeatTimes(DataService.config.args[4][1])
-          } else {
-            setRepeatTimes(DataService.config.args[4][0])
-          }
+
         }}>
           {
             configSnap.args[1].map((t, i) => {
@@ -140,55 +113,22 @@ export default function Start () {
           }
         </md-filled-select>
       </div>
-      <md-filled-select label={'Eval Method'} size={'large'} value={evalMethod} onInput={(e: any) => {
-        setEvalMethod(e.target.value)
-        const i0 = allow.findIndex(data => {
-          return data.value == questionnaire
-        })
-        const i1 = allow[i0].list.findIndex(data => {
-          return data.value == agentType
-        })
-        const i2 = allow[i0].list[i1].list.findIndex(data => {
-          return data.value == e.target.value
-        })
-        DataService.config.args[3] = allow[i0].list[i1].list[i2].list.map(data => data.value)
-        DataService.config.args[4] = allow[i0].list[i1].list[i2].list[0].list.map(data => data.value)
-        setAgentLLM(DataService.config.args[3][0])
-        if (DataService.config.args[4].length > 1) {
-          setRepeatTimes(DataService.config.args[4][1])
-        } else {
-          setRepeatTimes(DataService.config.args[4][0])
-        }
-      }}>
-        {
-          configSnap.args[2].map((t, i) => {
-            return <md-select-option key={i} value={t}>
-              <div slot="headline">{t}</div>
-            </md-select-option>
-          })
-        }
-      </md-filled-select>
       <div className={styles.fieldLine}>
         <md-filled-select label={'Agent LLM'} size={'large'} value={agentLLM} onInput={(e: any) => {
           setAgentLLM(e.target.value)
-          const i0 = allow.findIndex(data => {
-            return data.value == questionnaire
-          })
-          const i1 = allow[i0].list.findIndex(data => {
-            return data.value == agentType
-          })
-          const i2 = allow[i0].list[i1].list.findIndex(data => {
-            return data.value == evalMethod
-          })
-          const i3 = allow[i0].list[i1].list[i2].list.findIndex(data => {
-            return data.value == e.target.value
-          })
-          DataService.config.args[4] = allow[i0].list[i1].list[i2].list[i3].list.map(data => data.value)
-          if (DataService.config.args[4].length > 1) {
-            setRepeatTimes(DataService.config.args[4][1])
-          } else {
-            setRepeatTimes(DataService.config.args[4][0])
+
+        }}>
+          {
+            configSnap.args[2].map((t, i) => {
+              return <md-select-option key={i} value={t}>
+                <div slot="headline">{t}</div>
+              </md-select-option>
+            })
           }
+        </md-filled-select>
+        <md-filled-select label={'Eval Method'} size={'large'} value={evalMethod} onInput={(e: any) => {
+          setEvalMethod(e.target.value)
+
         }}>
           {
             configSnap.args[3].map((t, i) => {
@@ -198,11 +138,26 @@ export default function Start () {
             })
           }
         </md-filled-select>
-        <md-filled-select label={'Repeat Times'} size={'large'} value={repeatTimes} onInput={(e: any) => {
-          setRepeatTimes(e.target.value)
+      </div>
+      <div className={styles.fieldLine}>
+        <md-filled-select label={'Assessor LLM'} size={'large'} value={assessorLLM} onInput={(e: any) => {
+          setAssessorLLM(e.target.value)
+
         }}>
           {
             configSnap.args[4].map((t, i) => {
+              return <md-select-option key={i} value={t}>
+                <div slot="headline">{t}</div>
+              </md-select-option>
+            })
+          }
+        </md-filled-select>
+        <md-filled-select label={'Repeat Times'} size={'large'} value={repeatTimes} onInput={(e: any) => {
+          setRepeatTimes(e.target.value)
+
+        }}>
+          {
+            configSnap.args[5].map((t, i) => {
               return <md-select-option key={i} value={t}>
                 <div slot="headline">{t}</div>
               </md-select-option>

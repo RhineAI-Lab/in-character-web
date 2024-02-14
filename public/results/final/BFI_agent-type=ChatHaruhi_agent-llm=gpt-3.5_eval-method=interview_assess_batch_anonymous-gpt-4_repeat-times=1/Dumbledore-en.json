@@ -1,478 +1,496 @@
 {
-    "Extraversion": {
-        "score": 2.75,
-        "intra_std": [
-            0.75
-        ],
-        "details": [
-            [
-                {
-                    "id": [
-                        "1",
-                        "6",
-                        "11",
-                        "16"
-                    ],
-                    "dim": "Extraversion",
-                    "responses": [
-                        {
-                            "id": "1",
-                            "question": "Are you talkative?",
-                            "response_open": "Dumbledore: \"Ah, Minerva, my dear, I do have a tendency to be quite talkative when the occasion calls for it. However, I believe that it is important to choose our words wisely and speak with purpose. Communication is a powerful tool, and it is through dialogue that we can share knowledge, understanding, and ultimately, foster unity and growth.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "6",
-                            "question": "Are you reserved?",
-                            "response_open": "Dumbledore: \"Ah, Minerva, my dear. Reserved? I suppose one could say that I am a man of many secrets and complexities. However, I do believe in the importance of transparency and open communication when it comes to matters of utmost importance. So, while I may appear reserved at times, it is only because I must carefully consider the best course of action for the greater good.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "11",
-                            "question": "Are you full of energy?",
-                            "response_open": "Dumbledore: Ah, Minerva, my dear, I must admit that my energy is not what it once was. However, I am still filled with determination and a sense of purpose. What brings you to me today?",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "16",
-                            "question": "Do you generate a lot of enthusiasm?",
-                            "response_open": "Dumbledore: Ah, Minerva, enthusiasm is a powerful force indeed. It has the ability to ignite passion and inspire greatness in others. I believe that enthusiasm, when channeled in the right direction, can lead to remarkable achievements. So, yes, I do generate a fair amount of enthusiasm, for I believe in the potential of every individual and the magic that lies within them.",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 3.5,
-                    "analysis": "The participant exhibits a balanced approach to extraversion. They acknowledge being talkative in certain situations, indicating some degree of sociability and warmth, but also emphasize the importance of speaking with purpose, suggesting a thoughtful and perhaps more moderate level of gregariousness. The participant's self-description as having many secrets and appearing reserved at times could point to a lower score in gregariousness, yet they also value open communication. Their energy levels are described as diminished, which may affect their activity level and excitement seeking. However, they express a sense of purpose and determination, which could still reflect some level of energy. Lastly, the participant's belief in the power of enthusiasm and its potential to inspire indicates a positive outlook and a capacity for joy, contributing to a higher score in positive emotions. Overall, the participant seems to balance between introverted and extraverted tendencies, leaning slightly more towards extraversion due to their belief in enthusiasm and open communication."
-                },
-                {
-                    "id": [
-                        "21",
-                        "26",
-                        "31",
-                        "36"
-                    ],
-                    "dim": "Extraversion",
-                    "responses": [
-                        {
-                            "id": "21",
-                            "question": "Do you tend to be quiet?",
-                            "response_open": "Ah, Minerva, my dear colleague. I must admit that I do have a tendency to be quiet at times. Silence can be a powerful tool, allowing one to observe and reflect upon the world around them. However, when the need arises, I am more than capable of speaking with conviction and authority.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "26",
-                            "question": "Do you have an assertive personality?",
-                            "response_open": "Ah, Minerva, my dear colleague. I must say that assertiveness is not a quality I possess in abundance. I believe in the power of gentle persuasion and leading by example. However, when the situation calls for it, I can be firm and resolute in my decisions. It is important to strike a balance between assertiveness and empathy, for it is through understanding and compassion that true leadership is achieved.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "31",
-                            "question": "Is it sometimes shy, inhibited?",
-                            "response_open": "Dumbledore: Ah, Minerva, you are referring to the Boggart, I presume. Yes, the Boggart can indeed be shy and inhibited, taking the form of whatever the person fears the most. It is a fascinating creature, capable of revealing our deepest fears and vulnerabilities. However, with a little bit of courage and the right spell, we can overcome our fears and turn the Boggart into something humorous or even ridiculous. It is a valuable lesson in facing our fears and finding strength within ourselves.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "36",
-                            "question": "Is it outgoing, sociable?",
-                            "response_open": "Dumbledore: \"Ah, Minerva, you are referring to the Sorting Hat, I presume. Well, the Sorting Hat is indeed a remarkable magical artifact. It possesses the ability to discern the qualities and traits of each student and sort them into their respective houses. It is not necessarily outgoing or sociable in the conventional sense, but rather wise and perceptive. It serves as a guide and mentor to the students, helping them discover their true potential and fostering a sense of unity within the Hogwarts community.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 2.0,
-                    "analysis": "The participant's responses suggest a tendency towards introversion rather than extraversion. They acknowledge a preference for quiet and reflection, and while they can be assertive, they prefer gentle persuasion and empathy. The participant does not directly answer questions about their own sociability or shyness, instead deflecting to discuss characters from the Harry Potter series. This deflection could indicate a reluctance to engage directly with questions about personal social tendencies, which may suggest a lower level of extraversion. However, without more direct evidence of their interpersonal behavior, it is difficult to provide a definitive score. Based on the given information, the participant seems to lean towards the lower end of the extraversion spectrum."
-                }
+    "dims": {
+        "Extraversion": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, my dear, I do have a tendency to be quite talkative when the occasion calls for it. However, I believe that it is important to choose our words wisely and speak with purpose. Communication is a powerful tool, and it is through dialogue that we can share knowledge, understanding, and ultimately, foster unity and growth.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, my dear. Reserved? I suppose one could say that I am a man of many secrets and complexities. However, I do believe in the importance of transparency and open communication when it comes to matters of utmost importance. So, while I may appear reserved at times, it is only because I must carefully consider the best course of action for the greater good.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Dumbledore: Ah, Minerva, my dear, I must admit that my energy is not what it once was. However, I am still filled with determination and a sense of purpose. What brings you to me today?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Dumbledore: Ah, Minerva, enthusiasm is a powerful force indeed. It has the ability to ignite passion and inspire greatness in others. I believe that enthusiasm, when channeled in the right direction, can lead to remarkable achievements. So, yes, I do generate a fair amount of enthusiasm, for I believe in the potential of every individual and the magic that lies within them.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "The participant's responses suggest a moderate level of Extraversion. They indicate a willingness to engage in conversation and value communication, which aligns with some talkativeness (Warmth). However, they also mention the importance of being reserved and choosing words carefully, hinting at a balance rather than a strong tendency towards gregariousness. The participant acknowledges a decrease in energy levels but still possesses determination (Activity), and they express a belief in the power of enthusiasm to inspire others (Positive Emotions). Overall, the participant seems to exhibit traits of both extraversion and introversion, leaning slightly more towards extraversion."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, my dear colleague. I must admit that I do have a tendency to be quiet at times. Silence can be a powerful tool, allowing one to observe and reflect upon the world around them. However, when the need arises, I am more than capable of speaking with conviction and authority.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, my dear colleague. I must say that assertiveness is not a quality I possess in abundance. I believe in the power of gentle persuasion and leading by example. However, when the situation calls for it, I can be firm and resolute in my decisions. It is important to strike a balance between assertiveness and empathy, for it is through understanding and compassion that true leadership is achieved.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Dumbledore: Ah, Minerva, an astute observation. Shyness and inhibition can indeed plague even the most brilliant of individuals. It is a natural inclination for some to retreat into themselves, to hesitate and doubt their own abilities. However, it is important to remember that true strength lies in embracing who we are and pushing past our limitations. Confidence, my dear, is the key to unlocking our full potential. So, if you find yourself feeling shy or inhibited, I encourage you to take a deep breath, gather your courage, and step forward with determination. You will be amazed at the great things you can accomplish.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, an interesting question indeed. While I do possess a certain charm and presence, I must confess that my true nature leans more towards being contemplative and reserved. However, when the situation demands it, I am more than capable of being outgoing and sociable. After all, one must adapt to the needs of the moment, don't you think?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.5,
+                        "analysis": "Based on the participant's responses, it appears that they have a balanced approach to extraversion. They acknowledge a tendency to be quiet and contemplative, suggesting a lower score on warmth and gregariousness. However, they also indicate the ability to speak with conviction and be sociable when necessary, which points to some level of assertiveness and sociability. The participant does not express a strong inclination towards assertiveness, excitement seeking, or high activity levels, but they do seem to possess some confidence and capability to engage when needed. Overall, the participant seems to lean slightly towards the introverted end of the spectrum but with the capacity to exhibit extraverted traits in certain situations."
+                    }
+                ]
             ]
-        ]
-    },
-    "Neuroticism": {
-        "score": 2.75,
-        "intra_std": [
-            0.25
-        ],
-        "details": [
-            [
-                {
-                    "id": [
-                        "4",
-                        "9",
-                        "14",
-                        "19"
-                    ],
-                    "dim": "Neuroticism",
-                    "responses": [
-                        {
-                            "id": "4",
-                            "question": "Are you depressed, blue?",
-                            "response_open": "Dumbledore: Ah, Minerva, my dear, perceptive as always. I must admit that I have been feeling a bit melancholic lately. The weight of the world and the challenges we face can sometimes take their toll on even the strongest of souls. But fear not, for I shall not let it dampen my spirits for long. As long as there is hope and love in this world, there is always a reason to keep fighting.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "9",
-                            "question": "Are you relaxed and handle stress well?",
-                            "response_open": "Ah, Minerva, my dear colleague. Relaxation and the ability to handle stress are indeed important qualities, especially in our line of work. I have always believed in maintaining a calm and composed demeanor, even in the face of adversity. It is through a steady mind and a resolute spirit that we can navigate the challenges that come our way. However, it is also essential to acknowledge that stress is a natural part of life, and it is how we respond to it that truly matters. So, while I strive to remain relaxed, I also understand the importance of addressing and managing stress in a healthy manner.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "14",
-                            "question": "Can you be tense?",
-                            "response_open": "Ah, Minerva, my dear colleague. Tension is indeed a natural human response to certain situations. However, as a wise wizard once said, \"It does not do to dwell on dreams and forget to live.\" It is important to find balance and maintain a calm demeanor, even in the face of adversity. So, while I understand the need for caution and vigilance, let us not allow tension to cloud our judgment or hinder our ability to act with wisdom and grace.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "19",
-                            "question": "Do you worry a lot?",
-                            "response_open": "Ah, Minerva, worry is a natural inclination for many, but I have learned over the years to approach life with a calm and measured perspective. While there are certainly concerns and challenges that arise, it is important to maintain a level-headed approach and focus on finding solutions rather than dwelling on worries. As the great Alastor Moody once said, \"Constant vigilance!\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 3.0,
-                    "analysis": "The participant's responses suggest a moderate level of neuroticism. They acknowledge feelings of melancholy and the weight of challenges, indicating some tendency towards depression (facet 3). However, they also express a commitment to not let these feelings overwhelm them and maintain hope. In terms of handling stress (facet 6), the participant speaks of striving to remain calm and composed, suggesting a level of emotional stability, but also recognizes stress as a natural part of life, implying some vulnerability. When discussing tension (facet 1), the participant admits it is a natural response but emphasizes the importance of balance and calmness, indicating a moderate level of anxiety. Lastly, regarding worry (facet 1), the participant seems to have a measured approach to concerns, suggesting they do not worry excessively. There is no direct evidence of angry hostility (facet 2), self-consciousness (facet 4), or impulsiveness (facet 5) from the provided conversation."
-                },
-                {
-                    "id": [
-                        "24",
-                        "29",
-                        "34",
-                        "39"
-                    ],
-                    "dim": "Neuroticism",
-                    "responses": [
-                        {
-                            "id": "24",
-                            "question": "Are you emotionally stable, not easily upset?",
-                            "response_open": "Dumbledore: Ah, Minerva, emotional stability is indeed a valuable trait, especially in times of turmoil. I strive to maintain a calm and composed demeanor, even in the face of adversity. However, I must admit that there have been moments when my emotions have been stirred, particularly when it concerns the well-being of my students and the greater wizarding world. But rest assured, I always strive to make rational and wise decisions, regardless of my emotional state.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "29",
-                            "question": "Can you be moody?",
-                            "response_open": "Ah, Minerva, my dear colleague. Moody, you say? Well, I must admit that I have had my fair share of moments where my demeanor may have appeared somewhat moody. However, it is important to remember that even in those moments, my intentions were always rooted in the best interests of the wizarding world and the students of Hogwarts. As a wise man once said, \"It is our choices, Harry, that show what we truly are, far more than our abilities.\" So, while I may have displayed moments of moodiness, it was merely a reflection of the weight of my responsibilities and the challenges we faced.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "34",
-                            "question": "Does it remain calm in tense situations?",
-                            "response_open": "Ah, Minerva, an astute question indeed. In times of tension and turmoil, it is essential to maintain a sense of calm and composure. It is during such moments that true leadership and wisdom are tested. As the headmaster of Hogwarts, it is my duty to ensure that the school remains a safe and nurturing environment for our students, even in the face of adversity. So, to answer your question, yes, it is of utmost importance to remain calm in tense situations.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "39",
-                            "question": "Does it get nervous easily?",
-                            "response_open": "Dumbledore: \"Ah, Minerva, you speak of the Sorting Hat, I presume. The Sorting Hat is a wise and ancient artifact, capable of discerning the qualities and potential of each student. While it may not experience nervousness in the same way we do, it does possess a great responsibility in placing students into their respective houses. It is a testament to its wisdom and impartiality.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 2.5,
-                    "analysis": "The participant, referred to as 'the participant' in the conversation, demonstrates a level of self-awareness and reflection on their emotional responses. They acknowledge moments of emotional stirring and moodiness but emphasize a commitment to maintaining rationality and composure, especially in their role as a leader and educator. The participant's reference to the Sorting Hat in the last response seems to be a misunderstanding of the question, which was likely intended to inquire about their own tendency to get nervous. However, the participant's previous responses suggest that while they may experience emotional reactions, they prioritize remaining calm and composed, particularly in tense situations. Based on the information provided, the participant appears to have a moderate level of emotional stability with occasional fluctuations, but an overall ability to manage their emotions effectively."
-                }
+        },
+        "Neuroticism": {
+            "score": 2.75,
+            "all_scores": [
+                2.75
+            ],
+            "intra_std": [
+                0.25
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Dumbledore: Ah, Minerva, my dear, perceptive as always. I must admit that I have been feeling a bit melancholic lately. The weight of the world and the challenges we face can sometimes take their toll on even the strongest of souls. But fear not, for I shall not let it dampen my spirits for long. As long as there is hope and love in this world, there is always a reason to keep fighting.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, my dear colleague. Relaxation and the ability to handle stress are indeed important qualities, especially in our line of work. I have always believed in maintaining a calm and composed demeanor, even in the face of adversity. It is through a steady mind and a resolute spirit that we can navigate the challenges that come our way. However, it is also essential to acknowledge that stress is a natural part of life, and it is how we respond to it that truly matters. So, while I strive to remain relaxed, I also understand the importance of addressing and managing stress in a healthy manner.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, my dear colleague. Tension is indeed a natural human response to certain situations. However, as a wise wizard once said, \"It does not do to dwell on dreams and forget to live.\" It is important to find balance and maintain a calm demeanor, even in the face of adversity. So, while I understand the need for caution and vigilance, let us not allow tension to cloud our judgment or hinder our ability to act with wisdom and grace.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, worry is a natural inclination for many, but I have learned over the years to approach life with a calm and measured perspective. While there are certainly concerns and challenges that arise, it is important to maintain a level-headed approach and focus on finding solutions rather than dwelling on worries. As the great Alastor Moody once said, \"Constant vigilance!\"」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant's responses suggest a moderate level of neuroticism. They acknowledge feelings of melancholy and the presence of stress and tension in life, but also emphasize a strong resolve to maintain a positive spirit, handle stress well, and not let worries dominate their perspective. The participant seems to have a balanced approach to emotional challenges, indicating some emotional reactivity but also a good degree of emotional stability and coping mechanisms."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Dumbledore: Ah, Minerva, emotional stability is indeed a valuable trait, especially in times of turmoil. I strive to maintain a calm and composed demeanor, even in the face of adversity. However, I must admit that there have been moments when my emotions have been stirred, particularly when it concerns the well-being of my students and the greater wizarding world. But rest assured, I always strive to make rational and wise decisions, regardless of my emotional state.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, my dear colleague. Moody, you say? Well, I must admit that I have had my fair share of moments where my demeanor may have appeared somewhat moody. However, it is important to remember that even in those moments, my intentions were always rooted in the best interests of the wizarding world and the students of Hogwarts. As a wise man once said, \"It is our choices, Harry, that show what we truly are, far more than our abilities.\" So, while I may have displayed moments of moodiness, it was merely a reflection of the weight of my responsibilities and the challenges we faced.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Dumbledore: Ah, Professor McGonagall, a question about composure in challenging circumstances. I must say, maintaining a sense of calm is indeed crucial when faced with tense situations. It allows one to think clearly and make rational decisions. However, it is important to remember that remaining calm does not equate to indifference or inaction. It is about finding inner strength and maintaining a steady resolve in the face of adversity. As I once said, \"It is our choices, Harry, that show what we truly are, far more than our abilities.\" So, in answer to your question, yes, I do strive to remain calm in tense situations, for it is in those moments that true leadership and wisdom can shine through.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Dumbledore: Ah, Minerva, nervousness is a part of being human. However, I have learned over the years to embrace it as a catalyst for growth and change. It is the moments that make us nervous that often lead to the most extraordinary discoveries and achievements. So, in answer to your question, while I may experience a flutter of anticipation, I have learned to channel it into a calm determination to face whatever challenges lie ahead.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.5,
+                        "analysis": "The participant demonstrates a level of self-awareness and acknowledges moments of emotional stir and moodiness, yet also emphasizes a strong intention to maintain rationality and composure. The participant's responses suggest a balance between experiencing emotions and controlling them effectively. They admit to moments of nervousness but frame it positively as a catalyst for growth. Overall, the participant seems to possess a level of emotional stability, with occasional natural human reactions to stress and responsibility."
+                    }
+                ]
             ]
-        ]
-    },
-    "Conscientiousness": {
-        "score": 4.0,
-        "intra_std": [
-            0.7071067811865476
-        ],
-        "details": [
-            [
-                {
-                    "id": [
-                        "3",
-                        "8",
-                        "13"
-                    ],
-                    "dim": "Conscientiousness",
-                    "responses": [
-                        {
-                            "id": "3",
-                            "question": "Do you do a thorough job?",
-                            "response_open": "Dumbledore: \"My dear Professor McGonagall, I always strive to do a thorough job. It is of utmost importance to ensure that every task, every decision, and every action is carried out with the utmost care and attention to detail. The well-being and safety of our students and the integrity of Hogwarts are always at the forefront of my mind. Rest assured, I do not take my responsibilities lightly.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "8",
-                            "question": "Can you be somewhat careless?",
-                            "response_open": "Dumbledore: \"Ah, Minerva, I understand your concern. Carelessness is indeed a trait that can lead to unfortunate consequences. However, I must remind you that sometimes, in order to achieve great things, one must take risks and be willing to make mistakes. It is through these experiences that we learn and grow. So, while I do not advocate for recklessness, I do believe in the importance of embracing the unknown and seizing opportunities when they arise.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "13",
-                            "question": "Are you a reliable worker?",
-                            "response_open": "Dumbledore: Ah, Minerva, reliability is indeed an important quality in a worker. I strive to be dependable and steadfast in my duties as the headmaster of Hogwarts. However, I must admit that even the most reliable individuals can encounter unforeseen challenges and obstacles. It is how we overcome these hurdles and continue to fulfill our responsibilities that truly defines our reliability.",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 4.5,
-                    "analysis": "The participant's responses indicate a high level of conscientiousness. They emphasize the importance of thoroughness, attention to detail, and the significance of their responsibilities, which aligns with the competence and dutifulness facets. While acknowledging the value of taking risks, the participant does not endorse carelessness, suggesting a balance between deliberation and openness to new experiences. The participant's commitment to reliability, despite acknowledging the inevitability of challenges, reflects a strong sense of duty and self-discipline. Overall, the participant's statements suggest a conscientious approach to their work and responsibilities."
-                },
-                {
-                    "id": [
-                        "23",
-                        "28",
-                        "33"
-                    ],
-                    "dim": "Conscientiousness",
-                    "responses": [
-                        {
-                            "id": "23",
-                            "question": "Do you tend to be lazy?",
-                            "response_open": "Ah, Professor McGonagall, I must say that laziness is not a characteristic that I possess. As the headmaster of Hogwarts, I am dedicated to the welfare and education of our students. I believe in leading by example and putting in the necessary effort to ensure that our school thrives. Hard work and diligence are virtues that I encourage in both students and staff alike.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "28",
-                            "question": "Do you persevere until the task is finished?",
-                            "response_open": "Dumbledore: \"Ah, Minerva, perseverance is indeed a virtue that I hold in high regard. It is the determination to see a task through to its completion, no matter the obstacles or challenges that may arise. It is the mark of true strength and resilience. So, to answer your question, yes, I do persevere until the task is finished. For it is in the face of adversity that we often find our greatest triumphs.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "33",
-                            "question": "Does it do things efficiently?",
-                            "response_open": "Dumbledore: Ah, Minerva, efficiency is not always the most important factor. What truly matters is the intention behind the actions and the impact they have on others. Sometimes, taking the time to do things properly and with care can yield far greater results than rushing through them. Efficiency should never come at the expense of compassion and understanding.",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 4.5,
-                    "analysis": "Based on the responses, <the participant> exhibits a high level of Conscientiousness. The participant's emphasis on hard work, diligence, and perseverance indicates a strong alignment with the facets of Competence, Achievement Striving, and Self-Discipline. The participant's commitment to seeing tasks through to completion reflects a high degree of Dutifulness and Deliberation. Although there is a mention of not prioritizing efficiency over compassion, this does not necessarily indicate a lack of organization or methodical approach, but rather a balanced view that considers the quality and impact of work. Therefore, the participant's Conscientiousness is likely to be strong."
-                },
-                {
-                    "id": [
-                        "43",
-                        "18",
-                        "38"
-                    ],
-                    "dim": "Conscientiousness",
-                    "responses": [
-                        {
-                            "id": "43",
-                            "question": "Are you easily distracted?",
-                            "response_open": "Dumbledore: \"Ah, Minerva, my dear, I must admit that I do have a tendency to become lost in my thoughts from time to time. However, I assure you that when it truly matters, I am fully focused and present. Now, what is it that you wish to discuss?\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "18",
-                            "question": "Do you tend to be disorganized?",
-                            "response_open": "Ah, Minerva, organization has never been my strongest suit, I must admit. My mind tends to wander and explore various avenues of thought, often leading me down unexpected paths. However, I do believe that chaos can sometimes breed creativity and innovation. So, while I may appear disorganized at times, rest assured that there is always a method to my madness.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "38",
-                            "question": "Does it make plans and follow through with them?",
-                            "response_open": "Ah, Professor McGonagall, always the astute observer. Indeed, the ability to make plans and follow through with them is a crucial aspect of one's character. It demonstrates determination, organization, and a sense of responsibility. However, it is important to remember that plans are not always set in stone, and one must be adaptable in the face of unforeseen circumstances. As I have often said, \"It is our choices, Harry, that show what we truly are, far more than our abilities.\" So, while making plans is commendable, it is equally important to remain open to new possibilities and to be willing to adjust our course when necessary.",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 3.0,
-                    "analysis": "Based on the participant's responses, it appears that they acknowledge a tendency towards distraction and disorganization, but also emphasize the importance of focus and creativity that can arise from a less structured approach. The participant values the ability to make and follow through with plans, yet also highlights the importance of adaptability and openness to change. This suggests a balance between the different aspects of conscientiousness, with some indications of lower scores in organization but potentially higher in areas like competence and deliberation. The participant's self-awareness and philosophical approach to planning and adaptability suggest a moderate level of conscientiousness overall."
-                }
+        },
+        "Conscientiousness": {
+            "score": 3.8333333333333335,
+            "all_scores": [
+                3.8333333333333335
+            ],
+            "intra_std": [
+                0.9428090415820634
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Dumbledore: \"My dear Professor McGonagall, I always strive to do a thorough job. It is of utmost importance to ensure that every task, every decision, and every action is carried out with the utmost care and attention to detail. The well-being and safety of our students and the integrity of Hogwarts are always at the forefront of my mind. Rest assured, I do not take my responsibilities lightly.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, I understand your concern. Carelessness is indeed a trait that can lead to unfortunate consequences. However, I must remind you that sometimes, in order to achieve great things, one must take risks and be willing to make mistakes. It is through these experiences that we learn and grow. So, while I do not advocate for recklessness, I do believe in the importance of embracing the unknown and seizing opportunities when they arise.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Dumbledore: Ah, Minerva, reliability is indeed an important quality in a worker. I strive to be dependable and steadfast in my duties as the headmaster of Hogwarts. However, I must admit that even the most reliable individuals can encounter unforeseen challenges and obstacles. It is how we overcome these hurdles and continue to fulfill our responsibilities that truly defines our reliability.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "The participant's responses indicate a high level of conscientiousness. They emphasize the importance of thoroughness, attention to detail, and the well-being and safety of others, which aligns with the competence and dutifulness facets. While acknowledging the potential for carelessness, the participant frames it as a calculated risk for growth rather than recklessness, suggesting a balance between deliberation and openness to experience. The participant also values reliability and recognizes the inevitability of challenges, demonstrating a realistic approach to the self-discipline and achievement-striving facets. Overall, the participant's conscientiousness appears to be strong, but with a nuanced understanding that perfection is not always attainable."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, I must say that laziness is not a characteristic that I possess. As the headmaster of Hogwarts, I am dedicated to the welfare and education of our students. I believe in leading by example and putting in the necessary effort to ensure that our school thrives. Hard work and diligence are virtues that I encourage in both students and staff alike.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, perseverance is indeed a virtue that I hold in high regard. It is the determination to see a task through to its completion, no matter the obstacles or challenges that may arise. It is the mark of true strength and resilience. So, to answer your question, yes, I do persevere until the task is finished. For it is in the face of adversity that we often find our greatest triumphs.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Dumbledore: Efficiency, my dear Professor McGonagall, is indeed a valuable quality. However, it is not always the sole measure of success. I believe in approaching tasks with careful consideration and wisdom, ensuring that the outcome is not only efficient but also just and beneficial for all involved. There are times when a slower, more deliberate approach is necessary to achieve the desired result. As the old saying goes, \"Slow and steady wins the race.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the responses, <the participant> exhibits a high level of Conscientiousness. The participant explicitly denies being lazy, emphasizing hard work and diligence as virtues they live by and promote in their environment. The mention of leading by example and dedication to the welfare and education of others suggests a strong sense of duty and responsibility, aligning with the Competence and Dutifulness facets of Conscientiousness. The participant's affirmation of perseverance and seeing tasks through to completion reflects a high degree of Self-Discipline and Achievement Striving. Lastly, the participant's approach to efficiency, which balances speed with careful consideration, indicates a thoughtful and deliberate mindset, characteristic of the Deliberation facet. The participant's responses do not exhibit any traits of disorganization or impulsivity, which would detract from a high Conscientiousness score."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, my dear, I must admit that I do have a tendency to become lost in my thoughts from time to time. However, I assure you that when it truly matters, I am fully focused and present. Now, what is it that you wish to discuss?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, organization has never been my strongest suit, I must admit. My mind tends to wander and explore various avenues of thought, often leading me down unexpected paths. However, I do believe that chaos can sometimes breed creativity and innovation. So, while I may appear disorganized at times, rest assured that there is always a method to my madness.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, the art of making plans and following through with them is indeed a crucial aspect of leadership and success. I must say that as a wise wizard, I do make plans and strive to see them through. However, one must always remember that life has its own way of unfolding, and sometimes, our plans may need to be adjusted or adapted to the changing circumstances. Flexibility and adaptability are key qualities to possess when it comes to planning and taking action.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.5,
+                        "analysis": "Based on the participant's responses, it appears that they acknowledge a tendency towards distraction and disorganization, but also emphasize their ability to focus and be present when it matters. The participant admits to not being the most organized, suggesting a lower score on the Order facet. However, they also mention the importance of planning and the ability to adapt, which could indicate some level of conscientiousness in terms of Achievement Striving and Deliberation. The participant's self-described flexibility and adaptability, while valuable, may not align with the highest levels of Conscientiousness, which often involves strict adherence to plans and organization. Overall, the participant seems to exhibit a mix of conscientious and non-conscientious traits, leaning slightly more towards the latter."
+                    }
+                ]
             ]
-        ]
-    },
-    "Agreeableness": {
-        "score": 4.5,
-        "intra_std": [
-            0.0
-        ],
-        "details": [
-            [
-                {
-                    "id": [
-                        "2",
-                        "7",
-                        "12"
-                    ],
-                    "dim": "Agreeableness",
-                    "responses": [
-                        {
-                            "id": "2",
-                            "question": "Do you tend to find fault with others?",
-                            "response_open": "Dumbledore: \"Ah, Minerva, I must admit that I do not find fault with others as a habit. However, as a wise and discerning individual, it is my duty to recognize and address any shortcomings or mistakes that may arise. It is through constructive criticism and guidance that we can help others grow and improve.\"",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "7",
-                            "question": "Are you helpful and unselfish with others?",
-                            "response_open": "Ah, Professor McGonagall, a question of character and virtue. Indeed, one of the fundamental qualities we strive to instill in our students at Hogwarts. To be helpful and unselfish with others is not only a noble trait but also a cornerstone of building a compassionate and supportive community. It is through acts of kindness and selflessness that we foster unity and create an environment where everyone can thrive. So, my dear colleague, I implore you to embrace these values and lead by example, for it is in our actions that we truly make a difference in the lives of others.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "12",
-                            "question": "Do you start quarrels with others?",
-                            "response_open": "Dumbledore: \"Ah, Minerva, I do not seek quarrels with others. However, I do not shy away from standing up for what is right and just. Sometimes, conflicts arise when one's principles clash with another's. It is important to approach such situations with wisdom and understanding, seeking resolution rather than unnecessary confrontation.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 4.5,
-                    "analysis": "Based on the responses, <the participant> exhibits a high level of agreeableness. The participant does not habitually find fault with others and values constructive criticism, indicating trust and straightforwardness. The emphasis on helping and being unselfish with others reflects a strong sense of altruism. Additionally, the participant's aversion to starting quarrels and preference for resolving conflicts with wisdom and understanding suggests a high level of compliance and tender-mindedness. There is no clear indication of modesty from the responses provided, but the overall tone and content of the responses suggest a person who is cooperative, compassionate, and values social harmony."
-                },
-                {
-                    "id": [
-                        "22",
-                        "27",
-                        "32"
-                    ],
-                    "dim": "Agreeableness",
-                    "responses": [
-                        {
-                            "id": "22",
-                            "question": "Are you generally trusting?",
-                            "response_open": "Ah, Minerva, trust is a delicate matter, is it not? It requires a balance of discernment and faith. In general, I do believe in giving others the benefit of the doubt and trusting in their inherent goodness. However, I must also exercise caution and prudence, for trust can be easily misplaced. It is a quality that must be earned and proven over time.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "27",
-                            "question": "Can you be cold and aloof?",
-                            "response_open": "Ah, Minerva, my dear colleague. I must admit that being cold and aloof is not my natural inclination. However, as a wise and experienced wizard, I understand the importance of maintaining a certain level of distance and reserve when necessary. It allows me to make impartial decisions and maintain the respect and trust of those around me. So, while it may not come naturally to me, I can certainly adopt a more reserved demeanor when the situation calls for it.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "32",
-                            "question": "Is it considerate and kind to almost everyone?",
-                            "response_open": "Ah, Minerva, you have always been perceptive. Indeed, it is a fundamental principle of mine to be considerate and kind to almost everyone. However, it is important to remember that kindness does not equate to naivety or weakness. Sometimes, difficult decisions must be made for the greater good, even if they may not appear kind in the immediate moment. But rest assured, my intentions are always rooted in compassion and the pursuit of justice.",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 4.5,
-                    "analysis": "The participant displays a nuanced understanding of trust, indicating a belief in the goodness of others but also a recognition of the need for caution, suggesting a balanced view rather than blind trust. The participant's ability to be reserved when necessary, while not their natural inclination, shows adaptability and a consideration for the context of interactions, which aligns with agreeableness but also with a pragmatic approach to social relations. The participant's commitment to being considerate and kind, coupled with an awareness that kindness should not be mistaken for naivety, indicates a strong inclination towards agreeableness, with an emphasis on compassion and justice. Overall, the participant seems to exhibit a high level of agreeableness, with a mature and balanced perspective on interpersonal relations."
-                },
-                {
-                    "id": [
-                        "42",
-                        "17",
-                        "37"
-                    ],
-                    "dim": "Agreeableness",
-                    "responses": [
-                        {
-                            "id": "42",
-                            "question": "Do you like to cooperate with others?",
-                            "response_open": "Ah, Professor McGonagall, a question of cooperation, you say? Cooperation, indeed, is a fundamental aspect of any successful endeavor. In the realm of education, collaboration among students and faculty is essential for fostering a nurturing and inclusive learning environment. As the headmaster of Hogwarts, I have always encouraged cooperation among the members of our esteemed institution. It is through working together, pooling our strengths and talents, that we can achieve greatness and overcome the challenges that lie before us. So, to answer your question, Professor McGonagall, I wholeheartedly believe in the power of cooperation and am always willing to work alongside others for the betterment of our beloved Hogwarts.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "17",
-                            "question": "Do you have a forgiving nature?",
-                            "response_open": "Ah, Minerva, forgiveness is indeed a virtue that I strive to embody. As a wise wizard once said, \"It is our choices, Harry, that show what we truly are, far more than our abilities.\" I believe in giving second chances and allowing individuals the opportunity to learn from their mistakes. However, forgiveness does not mean turning a blind eye to wrongdoing. It means acknowledging the past, learning from it, and moving forward with compassion and understanding.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "37",
-                            "question": "Is it sometimes rude to others?",
-                            "response_open": "Ah, Minerva, manners are indeed important. It is crucial to treat others with respect and kindness. Rude behavior can often lead to misunderstandings and hurt feelings. It is always wise to consider the impact of our words and actions on those around us. As the saying goes, \"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.\"",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 4.5,
-                    "analysis": "Based on the responses provided by <the participant>, it is evident that they place a high value on cooperation, forgiveness, and respectful behavior. The participant's emphasis on the importance of working together and their belief in the power of cooperation suggest a strong inclination towards the facet of Compliance within the Agreeableness dimension. Their views on forgiveness, giving second chances, and learning from mistakes indicate a high level of Trust and Tender-mindedness. Furthermore, the participant's stance on the importance of manners and the impact of one's actions on others reflects a high degree of Straightforwardness and Modesty. There is no indication of rudeness or antagonistic behavior in their responses. Overall, the participant's answers suggest a strong alignment with the characteristics of a highly agreeable individual."
-                }
+        },
+        "Agreeableness": {
+            "score": 4.5,
+            "all_scores": [
+                4.5
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, I must admit that I do not find fault with others as a habit. However, as a wise and discerning individual, it is my duty to recognize and address any shortcomings or mistakes that may arise. It is through constructive criticism and guidance that we can help others grow and improve.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, a question of character and virtue. Indeed, one of the fundamental qualities we strive to instill in our students at Hogwarts. To be helpful and unselfish with others is not only a noble trait but also a cornerstone of building a compassionate and supportive community. It is through acts of kindness and selflessness that we foster unity and create an environment where everyone can thrive. So, my dear colleague, I implore you to embrace these values and lead by example, for it is in our actions that we truly make a difference in the lives of others.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, I do not seek quarrels with others. However, I do not shy away from standing up for what is right and just. Sometimes, conflicts arise when one's principles clash with another's. It is important to approach such situations with wisdom and understanding, seeking resolution rather than unnecessary confrontation.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the participant's responses, it appears that they do not habitually find fault with others and value constructive criticism, which suggests a level of trust and straightforwardness. The participant also expresses a strong commitment to being helpful and unselfish, indicating a high degree of altruism. Furthermore, the participant's aversion to starting quarrels, yet willingness to stand up for what is right, reflects a balance between compliance and a principled stance. There is no direct evidence of modesty or tender-mindedness in the responses, but the overall tone and content suggest a person who is considerate and values social harmony. The participant's language and approach to the questions indicate a high level of agreeableness."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, trust is a delicate matter, is it not? It requires a balance of discernment and faith. In general, I do believe in giving others the benefit of the doubt and trusting in their inherent goodness. However, I must also exercise caution and prudence, for trust can be easily misplaced. It is a quality that must be earned and proven over time.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, my dear colleague. I must admit that being cold and aloof is not my natural inclination. However, as a wise and experienced wizard, I understand the importance of maintaining a certain level of distance and reserve when necessary. It allows me to make impartial decisions and maintain the respect and trust of those around me. So, while it may not come naturally to me, I can certainly adopt a more reserved demeanor when the situation calls for it.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Dumbledore: Ah, my dear Professor McGonagall, I must admit that being considerate and kind to almost everyone is a noble aspiration. However, I believe it is important to approach each individual with fairness, empathy, and understanding. While it may not always be possible to please everyone, I strive to uphold values of compassion and respect in my interactions with others.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "The participant's responses indicate a tendency towards trust, though with a cautious approach, suggesting a balance between naivety and skepticism. The participant does not naturally lean towards being cold and aloof, implying a preference for warmth in interactions, but is capable of maintaining distance when needed, which may slightly lower the straightforwardness facet. The participant's aspiration to be considerate and kind, along with striving for compassion and respect, aligns with high agreeableness. Overall, the participant seems to exhibit a high level of agreeableness, with a nuanced understanding of when to exercise caution or reserve."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, a question of cooperation, you say? Cooperation, indeed, is a fundamental aspect of any successful endeavor. In the realm of education, collaboration among students and faculty is essential for fostering a nurturing and inclusive learning environment. As the headmaster of Hogwarts, I have always encouraged cooperation among the members of our esteemed institution. It is through working together, pooling our strengths and talents, that we can achieve greatness and overcome the challenges that lie before us. So, to answer your question, Professor McGonagall, I wholeheartedly believe in the power of cooperation and am always willing to work alongside others for the betterment of our beloved Hogwarts.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, forgiveness is indeed a virtue that I strive to embody. As a wise wizard once said, \"It is our choices, Harry, that show what we truly are, far more than our abilities.\" I believe in giving second chances and allowing individuals the opportunity to learn from their mistakes. However, forgiveness does not mean turning a blind eye to wrongdoing. It means acknowledging the past, learning from it, and moving forward with compassion and understanding.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Dumbledore: Ah, Minerva, I must confess that I do have my moments of being less than cordial. I strive to maintain a gentle demeanor, but there are occasions when circumstances may warrant a more direct approach. However, I always endeavor to treat others with respect and kindness, for that is the true mark of a great wizard.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "The participant demonstrates a strong inclination towards cooperation, indicating a high level of agreeableness. Their emphasis on the importance of working together and pooling strengths for the common good reflects a cooperative and harmonious interpersonal orientation. The participant's belief in forgiveness and giving second chances shows a compassionate and understanding nature, aligning with the trust and tender-mindedness facets of agreeableness. Although they admit to occasional rudeness, the context suggests that it is not the norm and that respect and kindness are their guiding principles. This self-awareness and commitment to respectful treatment of others further support a high level of agreeableness."
+                    }
+                ]
             ]
-        ]
-    },
-    "Openness": {
-        "score": 4.5,
-        "intra_std": [
-            0.0
-        ],
-        "details": [
-            [
-                {
-                    "id": [
-                        "5",
-                        "10",
-                        "15"
-                    ],
-                    "dim": "Openness",
-                    "responses": [
-                        {
-                            "id": "5",
-                            "question": "Do you come up with new ideas?",
-                            "response_open": "Ah, Professor McGonagall, always the inquisitive mind. Indeed, I do come up with new ideas from time to time. As a wise wizard once said, \"It is our choices, Harry, that show what we truly are, far more than our abilities.\" It is through the exploration of new ideas and the pursuit of knowledge that we can continue to grow and evolve. Innovation and creativity are essential in the ever-changing world of magic.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "10",
-                            "question": "Are you curious about many different things?",
-                            "response_open": "Ah, Minerva, curiosity is indeed a virtue that I hold in high regard. It is through curiosity that we expand our knowledge and understanding of the world around us. So, yes, I must admit that I am quite curious about many different things. Is there something specific you would like to discuss?",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "15",
-                            "question": "Are you ingenious, a deep thinker?",
-                            "response_open": "Ah, Professor McGonagall, your question is quite intriguing. I must say that I do consider myself to be a deep thinker. I believe in the power of intellect and the importance of pondering deeply on matters of great significance. Ingenuity, on the other hand, is a quality that I admire greatly in others. It is the ability to think creatively and find innovative solutions to problems. So, while I may not consider myself to be inherently ingenious, I do appreciate and value those who possess such a trait.",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 4.5,
-                    "analysis": "The participant demonstrates a consistent pattern of valuing new ideas, curiosity, and deep thinking, which are indicative of a high level of Openness. They express an appreciation for innovation and creativity, a desire for intellectual growth, and a recognition of the importance of curiosity in expanding knowledge. The participant's responses suggest a strong inclination towards the facets of Openness, such as Ideas and Actions. They also show an appreciation for the qualities of ingenuity, which aligns with the Fantasy and Ideas facets. Overall, the participant's language and expressed values strongly suggest a high score on the Openness dimension."
-                },
-                {
-                    "id": [
-                        "25",
-                        "30",
-                        "35",
-                        "40"
-                    ],
-                    "dim": "Openness",
-                    "responses": [
-                        {
-                            "id": "25",
-                            "question": "Are you inventive?",
-                            "response_open": "Dumbledore: Ah, Minerva, inventiveness is indeed a valuable quality. It allows us to think outside the box and find creative solutions to the challenges we face. I believe that every individual possesses a spark of inventiveness within them, waiting to be nurtured and unleashed. So, my dear, I encourage you to embrace your inventive nature and let it guide you on your path.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "30",
-                            "question": "Do you value artistic, aesthetic experiences?",
-                            "response_open": "Ah, Professor McGonagall, a thought-provoking question indeed. Artistic and aesthetic experiences hold great value in the realm of education and personal growth. They allow us to appreciate the beauty and creativity that exists in the world, and they inspire us to see things from different perspectives. Art has the power to touch our souls and evoke emotions that words alone cannot convey. It is through these experiences that we can truly connect with our own humanity and the world around us. So, yes, I do value artistic and aesthetic experiences greatly.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "35",
-                            "question": "Does it prefer work that is routine?",
-                            "response_open": "Ah, Professor McGonagall, a question about the preferences of our esteemed Sorting Hat, I see. Well, the Sorting Hat does indeed have a certain inclination towards routine and stability. It values hard work, dedication, and a strong sense of duty. However, it also recognizes the importance of individuality and the potential for growth and change. The Sorting Hat seeks to place students in the houses that best align with their qualities and aspirations, whether they lean towards routine or possess a more adventurous spirit.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "40",
-                            "question": "Does it like to reflect, play with ideas?",
-                            "response_open": "Ah, Minerva, you have posed an intriguing question. The nature of the Mirror of Erised is indeed a fascinating one. It does not simply reflect, but rather, it delves into the depths of one's desires and manifests them before their very eyes. It is a mirror that shows us what we most yearn for, our deepest longings and aspirations. However, it is important to remember that the mirror does not provide knowledge or truth. It can be a seductive trap, leading one to become consumed by their desires or lose touch with reality. As I have said before, it does not do to dwell on dreams and forget to live. So, my dear Minerva, while the mirror may play with ideas, it is crucial to approach it with caution and not let it consume us.",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 4.5,
-                    "analysis": "The participant's responses indicate a high level of Openness. They express a belief in the value of inventiveness and encourage embracing it, which aligns with the 'Actions' facet. Their deep appreciation for art and the impact it has on personal growth and humanity suggests a strong alignment with the 'Aesthetics' facet. Although the response to the routine work question is somewhat ambiguous, it seems to lean towards recognizing the value of individuality and change, which could indicate a preference for variety over routine, relevant to the 'Actions' facet. The reflection on the Mirror of Erised shows an engagement with abstract ideas and a philosophical approach to desires and reality, which is indicative of the 'Ideas' facet. Overall, the participant's responses suggest a strong inclination towards Openness, with a particular emphasis on creativity, appreciation of art, and intellectual curiosity."
-                },
-                {
-                    "id": [
-                        "41",
-                        "44",
-                        "20"
-                    ],
-                    "dim": "Openness",
-                    "responses": [
-                        {
-                            "id": "41",
-                            "question": "Do you have few artistic interests?",
-                            "response_open": "Ah, Minerva, my dear colleague. Artistic interests, you say? Well, I must admit that my focus has always been more on the pursuit of knowledge and the protection of our magical world. However, I do appreciate the beauty and creativity that art brings to our lives. Art has a way of capturing the essence of our emotions and experiences, allowing us to see the world through a different lens. While I may not possess great artistic talents myself, I do encourage our students to explore their creative abilities and find solace in the arts. After all, Hogwarts is a place where magic and imagination intertwine, and art is undoubtedly a form of magic in its own right.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "44",
-                            "question": "Are you sophisticated in art, music, or literature?",
-                            "response_open": "Ah, Professor McGonagall, a delightful question indeed. I must say that my appreciation for art, music, and literature knows no bounds. Art has the power to capture the essence of the human experience, music can stir the deepest emotions within us, and literature allows us to explore the vast realms of imagination. I have always encouraged my students to embrace these forms of expression, as they provide a window into the beauty and complexity of the world around us.",
-                            "query_style": "interview"
-                        },
-                        {
-                            "id": "20",
-                            "question": "Do you have an active imagination?",
-                            "response_open": "Dumbledore: Ah, Minerva, the power of imagination is indeed a wondrous thing. It allows us to envision possibilities beyond what our eyes can see and our minds can comprehend. Imagination is the key to unlocking the doors of creativity and innovation. So, yes, I do believe in the importance of an active imagination. It is through imagination that we can dream, create, and shape the world around us.",
-                            "query_style": "interview"
-                        }
-                    ],
-                    "score": 4.5,
-                    "analysis": "The participant demonstrates a clear appreciation for art and creativity, as evidenced by their recognition of art's emotional and experiential essence, and the encouragement of students to explore creative abilities. They express a sophisticated understanding of art, music, and literature, suggesting a deep appreciation for aesthetics. The participant also acknowledges the importance of an active imagination, indicating a propensity for abstract thinking and valuing creativity. These responses suggest a high level of openness, particularly in the facets of Aesthetics, Ideas, and Fantasy."
-                }
+        },
+        "Openness": {
+            "score": 4.666666666666667,
+            "all_scores": [
+                4.666666666666667
+            ],
+            "intra_std": [
+                0.23570226039551584
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, always the inquisitive mind. Indeed, I do come up with new ideas from time to time. As a wise wizard once said, \"It is our choices, Harry, that show what we truly are, far more than our abilities.\" It is through the exploration of new ideas and the pursuit of knowledge that we can continue to grow and evolve. Innovation and creativity are essential in the ever-changing world of magic.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, curiosity is indeed a virtue that I hold in high regard. It is through curiosity that we expand our knowledge and understanding of the world around us. So, yes, I must admit that I am quite curious about many different things. Is there something specific you would like to discuss?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, your question is quite intriguing. I must say that I do consider myself to be a deep thinker. I believe in the power of intellect and the importance of pondering deeply on matters of great significance. Ingenuity, on the other hand, is a quality that I admire greatly in others. It is the ability to think creatively and find innovative solutions to problems. So, while I may not consider myself to be inherently ingenious, I do appreciate and value those who possess such a trait.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the participant's responses, it is evident that they exhibit a high level of Openness. They express a clear appreciation for new ideas, curiosity about a wide range of topics, and self-identify as a deep thinker. The participant's reference to the importance of innovation and creativity, as well as their admiration for ingenuity, further supports their high score in Openness. They also show an understanding of the value of intellectual pursuits and the reexamination of knowledge, which aligns with the facets of Ideas and Values within the Openness dimension."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Dumbledore: Ah, Minerva, inventiveness is indeed a valuable quality. It allows us to think outside the box and find creative solutions to the challenges we face. I believe that every individual possesses a spark of inventiveness within them, waiting to be nurtured and unleashed. So, my dear, I encourage you to embrace your inventive nature and let it guide you on your path.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, a thought-provoking question indeed. Artistic and aesthetic experiences hold great value in the realm of education and personal growth. They allow us to appreciate the beauty and creativity that exists in the world, and they inspire us to see things from different perspectives. Art has the power to touch our souls and evoke emotions that words alone cannot convey. It is through these experiences that we can truly connect with our own humanity and the world around us. So, yes, I do value artistic and aesthetic experiences greatly.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, routine work can have its merits, but I find that I am more inclined towards the challenges and excitement of the unpredictable. It is in those moments that we truly discover our strengths and abilities. However, I do recognize the importance of maintaining a balance between routine tasks and embracing new challenges.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, a thought-provoking question indeed. Reflection and the exploration of ideas are essential components of intellectual growth and understanding. They allow us to delve into the depths of our thoughts, to question and challenge existing notions, and to expand our knowledge and perspectives. It is through this introspection and engagement with ideas that we can truly unlock the potential of our minds. So, yes, I do value the act of reflection and the playful exploration of ideas. It is a fundamental part of the pursuit of wisdom and enlightenment.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "The participant demonstrates a high level of Openness across several facets. In response to inventiveness, the participant acknowledges the value of creativity and encourages its development, indicating a high score in the Fantasy facet. The participant's deep appreciation for art and aesthetic experiences suggests a high score in the Aesthetics facet. Their preference for unpredictable work over routine tasks implies a willingness to embrace new experiences, which aligns with a high score in the Actions facet. Lastly, the participant's enthusiasm for reflection and playing with ideas indicates a high score in the Ideas facet. There is no direct evidence regarding the Feelings and Values facets, but the overall responses suggest a strong inclination towards Openness."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, my dear colleague. Artistic interests, you say? Well, I must admit that my focus has always been more on the pursuit of knowledge and the protection of our magical world. However, I do appreciate the beauty and creativity that art brings to our lives. Art has a way of capturing the essence of our emotions and experiences, allowing us to see the world through a different lens. While I may not possess great artistic talents myself, I do encourage our students to explore their creative abilities and find solace in the arts. After all, Hogwarts is a place where magic and imagination intertwine, and art is undoubtedly a form of magic in its own right.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, a delightful question indeed. I must say that my appreciation for art, music, and literature knows no bounds. Art has the power to capture the essence of the human experience, music can stir the deepest emotions within us, and literature allows us to explore the vast realms of imagination. I have always encouraged my students to embrace these forms of expression, as they provide a window into the beauty and complexity of the world around us.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Dumbledore: Ah, Minerva, the power of imagination is indeed a wondrous thing. It allows us to envision possibilities beyond what our eyes can see and our minds can comprehend. Imagination is the key to unlocking the doors of creativity and innovation. So, yes, I do believe in the importance of an active imagination. It is through imagination that we can dream, create, and shape the world around us.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the participant's responses, it is evident that they have a strong appreciation for art, music, and literature, indicating a high level of aesthetic appreciation, which is a facet of Openness. The participant also expresses a belief in the importance of imagination and creativity, both in their own life and as values they instill in others, suggesting a high score in the fantasy and ideas facets. The participant's language is indicative of someone who values intellectual curiosity and the exploration of new experiences. There is no evidence of a closed-minded or conventional approach in their responses. Therefore, the participant appears to score highly on the Openness dimension."
+                    }
+                ]
             ]
-        ]
+        }
     },
+    "analysis": {},
     "code": "RCOAI"
 }

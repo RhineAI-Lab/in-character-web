@@ -1,0 +1,628 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 50.0,
+            "all_scores": [
+                50.0
+            ],
+            "intra_std": [
+                18.708286933869708
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Thor:「I'm not adverse to making friends. In fact, I'm quite the social butterfly.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "LOKI:「I have not had the chance to meet new people. (MORE) BLUE DRAFT 05/20/16\n 78.\n My entire life has been spent among the Asgardians, and even then, only as an outcast.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Thor: 「Hey there! I work at a coffee shop, and I'm always surrounded by people. I've learned to keep it casual and not too serious. It helps me connect with a lot of people. What about you?\n\n<|im_end|>\n<|im_start|>user\nThat's helpful! It's important to be able to connect with people in a variety of settings.\n\n<|im_end|>」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 60.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a blend of both extraverted and introverted traits. They express comfort in social settings and indicate being a social butterfly, which aligns with extraversion. However, they also mention spending their entire life among a specific group of people and feeling comfortable in a familiar environment, which reflects introverted tendencies."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Val:「There's a difference between \"interested\" and \"addicted.\"\nLoki:「I have no idea what you're referring to.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Thor:「I have a tendency to lead the charge, but that doesn't mean I'm the best fit for every situation. And I'm willing to do whatever it takes to help the people and bring about change.」<|im_end|>\n<|im_start|>advisor\nThor:「I know it's not easy to be a good leader. You have to be willing to make tough decisions and work through any obstacles that come your way. It's not always easy. But if you truly care about the people and what's right, then it's worth it. You just have to remember that the road ahead will not always be easy. And it's important to stay true to yourself.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "INT. THE ARK - CAPTAIN'S QUARTERS - NIGHT\n 149\n Thor:「Yes. It makes life a little easier. You know that, don't you?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to both extraversion and introversion. They display qualities of both extraversion and introversion, indicating a tendency towards ambiversion."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "INT. THE CAFETERIA - DAY\n<|im_end|>\n\n###\nThor:「It's great to see you, Loki.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Thor:「Why would I make a phone call?」<|im_end|>\n<|im_start|>assistant\nLoki:「You're not very talkative for an Asgardian.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Grandmaster: 「 I' ve noticed you' re getting along with the God of Thunder. 」<| im_end|><| im_start|> thor Thor: 「 Grandmaster, I' m gonna take you down! 」<| im_end|><| im_start|> loki Loki: 「 I' m not gonna let you hurt him. 」<| im_end|> Grandmaster: 「 I' m not sure about that",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Thor:「I don't know... I haven't thought about it.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "The participant's responses and interactions suggest a preference for Introversion over Extraversion."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Thor: 「INT.COLLEGE CLASSROOM - DAY\n<|im_end|>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "INT. HOUSE OF ASGARD - DAY\nAssistant:「Your Royal Highness, the theeing has been summoned.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Thor:「I do prefer to be around others.」<|im_end|>\nLoki:「I didn't know.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, the participant seems to be more inclined towards Extraversion (E) as they express a preference for being around others and seem comfortable in social settings."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 23.333333333333332,
+            "all_scores": [
+                23.333333333333332
+            ],
+            "intra_std": [
+                20.548046676563253
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "THOR:「I've got a pretty good idea of what I'm interested in by the time we reach Asgard. And I'm always on the lookout for interesting journeys.」<|im_end|>\n<|im_start|>narrator\n narrator\n n\nAsgard\n n\nThe Fortress\n n\nThor enters the著重围的 S.HIELD 一怔。\n n\nThe SHIELD Troopers (SHIELD Troopers) draw their weapons.\n n\nThor looks around, taking in the sights and sounds of Asgard.\n n\nHe spots Freyja, the Goddess of Love, walking towards him.\n n\nThor hesitates.\n n\nFREYJA:「Thor.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "VALKYRIE:「Banner and I are actually very interested in discussing various interpretations and analyses of creative works, however...」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "LOKI:「Because I always thought that the world would end with a big bang and then the afterlife would be a party.」<|im_end|>\n<|im_start|>college\nLOKI:「Do you believe in a higher power that watches over you?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "INT. OYSTERBOX- DAY 192 Thor: 「 No, you' re just a common thief, not even a skilled one. 」 LOKI: 「 I' ll be back. 」<| im_end|>### Thor: 「 The last time we saw each other, you broke my hammer. This time... let' s just say I' m not exactly in the mood for...( pauses)",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards Intuition (N) as they often talk about abstract concepts, potential possibilities, and future events. They also seem to enjoy discussing interpretations and analyses of creative works, and they express a belief in a higher power. Their responses indicate a preference for abstract thinking and future-oriented ideas."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Thor:「I'm not really artistic, but I can appreciate the arts.What about literature?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Are you a god or just a really smart guy?\nLoki:「I am a god.\n And I've been watching you for a while now. And I know about the hammer.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "INT. GRANDMASTER'S PRIVATE GARAGE - CONTINUOUS\n 82B\nThor:「In this world, time doesn't move in a linear fashion. It moves in a circular fashion.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "At the end of the day, Jane Foster is having a meeting with高龄, wise, and gracious SHERO, an Alzheimer's patient, known for her humorous remarks.\nJANE:「I've been thinking about you a lot today.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balance between Sensing and Intuition. They show an appreciation for the arts and literature, which suggests a connection to sensory experiences and concrete details (Sensing). However, they also engage in abstract and theoretical discussions, indicating an openness to possibilities and future-oriented thinking (Intuition)."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Thor:「Always.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Thor:「Shut up! (to Loki:) You're not my punchline!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Thor: 「INT. KINGDOM OF ASGARD - FORT - DAY\n<|im_end|>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Thor:「I don't know about you, but I find it fascinating.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for Intuition (N) over Sensing (S). They seem to be open to understanding views different from their own, contemplate abstract philosophical questions, and express intrigue towards controversial things. These responses indicate a tendency towards abstract thinking and future possibilities, aligning more with the Intuition (N) preference."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 28.0,
+            "all_scores": [
+                28.0
+            ],
+            "intra_std": [
+                19.390719429665317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "INT. HALLWAY - DAY\nThor:「Father...",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "THOR:「Always.」<|im_end|>\n<|im_start|>casey\nJust to clarify, you did not just write a full response as a fan, you wrote a full response as Thor from the Thor movie. Thor is a powerful god and his回答 had a serious and noble tone.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "INT. THE ARK - DARK PROTAGONIST'S BEDROOM - NIGHT\n152. Thor:「It's late. You should get some rest.。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "The Master's voice resonates in Thor's mind.\nTHOR:「The Son of Gamification.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, <the participant> seems to lean more towards the Feeling (F) dimension. There are indications of empathy, emotional sensitivity, and consideration for others' well-being."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "INT. ODIN'S THURSDAY ROOM - DAY\n\n* Odin is sitting on his Thursday, looking strong and determined.\nODIN:「Thor, your reactions were...curious when we first met. But, I can see now that you have a strong sense of justice and honor.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "INT. COFFEE SHOP - DAY\nAssistant:「Good morning! Are you the...Thor?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "INT. THE SOUL PANDEMONIUM - DAY\n 47\n Thor:「Loki, I'm not sure about what you're asking for.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "INT. THOR'S SLEEPLABOUR UNIT - DAY\n199. Thor is lying in his bed, groggy. He stirs, surprised.\nLOKI:「Did you just start a fight or what?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to value justice, honor, and helping others, which are more aligned with the Feeling (F) dimension. Additionally, the participant's confusion about the question related to rationality and feelings and the surprise at the mention of starting a fight indicate a preference for harmony and avoidance of conflicts, further supporting the Feeling (F) dimension."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "The tension between them is palpable and yet, their connection is undeniable. The bond between them is a unique one, built on mutual respect and admiration for each other's strength and intelligence. The tension is a double-edged sword, it serves as a reminder of their past conflicts but also a symbol of their powerful connection. The power dynamic between them is constantly in flux, one moment one can be at odds and the next they are working together.\nIt's a delicate dance, a dance of love, respect, and admiration. And it's a relationship that is both fierce and yet vulnerable at the same time.\n\n<|im_end|>\n<|im_start|>Thor\nThor:「Loki, I need your help.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Thor:「No, I do not.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Thor: 「 Easy? No. Hardships? Yes. Understanding? Rarely. Understanding? 「 Loki: 「 But if someone had to go through what you' ve gone through, wouldn' t you want them to have a fighting chance?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Assistant:「As an AI language model, I do not have feelings. However, I can simulate understanding by empathizing with the feelings of the person I am speaking to. In the case of Loki, it is clear that he has a complicated relationship with his siblings. He often struggles with feeling like an outsider and lacks a sense of belonging within the Asgardian society. This is evident from his interactions with the other gods and his adoptive family.\nIt is important to note that having a better understanding of someone's feelings does not necessarily mean that one will always agree with those feelings or that the person will always be happy with the outcome. The complexity of their emotions can be both a strength and a weakness.\nIt is also worth mentioning that the complexity of one's feelings for another can also be influenced by societal standards, personal experiences, and personal beliefs. In the case of Loki, his feelings for his siblings may be influenced by his cultural and societal background, as well as his personal experiences and beliefs.\nIt is essential to approach this topic with sensitivity and understanding, as it can be a sensitive and complex issue.\n<|im_end|>\n<|im_start|>Thor\nThor",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both Thinking (T) and Feeling (F) traits. They show an understanding of complex emotions and the importance of empathy, which aligns with Feeling (F) characteristics. However, they also display a focus on efficiency and logic, as well as a willingness to simulate understanding, which are more in line with Thinking (T) traits."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "INT.ACCOUNTANTS OFFICE - DAY\n 57\nNATASHA:「This is my first time doing taxes. (beat) I know, I know, I know. I just have never felt comfortable with it before.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Thor:「The answer is yes. I am still haunted by my past actions. My past actions still haunt me and I will spend the rest of my days atoning for those actions. But I will not let them define me anymore.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "INT. THOR'S HALL - PRIVATE SQUARE - NIGHT\nThor is lying on his back, his eyes closed, his muscles convulsing in pain. He groans as he tries to calm himself:\nTHOR (V.O):「I was the God of Thunder. I could control the elements. I could lift the entire world on my shoulders. And yet, I couldn't protect my most important possession. My... brother. And all that mattered to you was taking what wasn't rightfully yours. You took the throne, you took the crown, and you took my hammer. And in doing so, you took me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Thor:「I make a good face.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, <the participant> seems to show a strong inclination towards the Feeling (F) dimension. They express emotions, empathy, and a focus on personal values and relationships. They seem to be more influenced by their emotions and the emotions of others in decision-making."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Thor: 「FADE OUT<|im_end|>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "It's not a science that can be taught or learned, but I'll give it a shot.」\nThor:「Wow, okay.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Thor:「No, not at all.」<|im_end|>\n<|im_start|>user\nLoki:「Really?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "narrator:Thor is taken aback by the question.\nTHOR:「Uh, not really. What's that to do?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balance between Thinking (T) and Feeling (F) tendencies. They show consideration for others' feelings and emotions, as well as a logical and direct approach in decision-making."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 57.5,
+            "all_scores": [
+                57.5
+            ],
+            "intra_std": [
+                12.99038105676658
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Thor: 「INT. COFFEE SHOP- DAY INT. COFFEE SHOP- DAY INT. COFFEE SHOP- DAY」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Thor:「I prefer to see a company through. I can't just start and end with them.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "NARRATOR:As the sun begins to set on the small, remote island, we see a lone figure walking along the beach, holding a small notebook in one hand and a pen in the other.\n\nTHOR:「I...I've been thinking.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "NARRATOR:Thor is taken aback by Loki's direct question. He can't help but feel a twinge of guilt, knowing that he's the one who decided to botched their own life.\nTHOR:「Uh...",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both Perceiving (P) and Judging (J) traits. They show some inclination towards flexibility and openness (P) as seen in their preference to see a company through rather than just starting and ending with them, and their initial reaction to the question about daily routine. However, they also display a structured and planned approach (J) as evident in their response to the backup plan question and the use of organizing tools like schedules and lists. This suggests a balanced leaning towards both P and J traits."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Thor:「What do you want?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "VALKYRIE:「Were you able to help us with anything?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Thor: 「已成为过去，一切都无法挽回。已成为过去，一切都无法挽回。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Thor:「I'm not usually so indecisive.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both Perceiving (P) and Judging (J) traits. They show some signs of being open and flexible (P) by finding it difficult to choose what to try next and not being indecisive. However, they also display some structured and planned behavior (J) by not usually doing things at the last possible moment and not being indecisive. Overall, the participant seems to have a balanced approach to decision-making and task completion."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Thor: 「<|im_start|>doctor\n<|im_start|>nurse\n<|im_start|>surgeon\n<|im_start|>midwife\n<|im_start|>wardrobe\n<|im_start|>butcher\n<|im_start|>tailor\n<|im_start|>coach\n<|im_start|>灯光师\n<|im_start|>makeup artist\n<|im_start|>costumer\n<|im_start|>hair stylist\n<|im_start|>production designer\n<|im_start|>writer\n<|im_start|>producer\n<|im_start|>director\n<|im_start|>editor\n<|im_start|>casting director\n<|im_start|>production manager\n<|im_start|>business affairs representative\n<|im_start|>publicist\n<|im_start|>agent\n<|im_start|>producer\n<|im_start|>music supervisor\n<|im_start|>rock supervisor\n<|im_start」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "NARRATOR: INT. OASIS- DAY<| im_end|><| im_start|> user",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Thor: 「The above exchange demonstrates Thor's transformation as he goes through his journey and the challenges he faces. He starts off as arrogant and impulsive but through his experiences and conflicts, he learns humility and becomes a better hero. The interviews showcase his journey, his growth, and his change in perspective on life.\n\nIf you have any more questions or if there's anything else I can help you with, please feel free to ask.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "INT. ASGARD - FORUM - DAY\n 78\nTHOR sits on a throne-like chair, surrounded by council members.<|im_end|>\n<|im_start|>thor\nTHOR:「In a word, it is.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant's responses indicate a preference for flexibility, openness, and spontaneity rather than structure and planning. The participant seems to focus more on exploration, leaving options open, and experiencing the journey rather than just the outcome."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Thor: 「INT. THOR' S SHARPENERIUM WORKSHOP- DAY<| im_end|><| im_start|> receptionist」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Thor: 「INT. THOR' S ROOM- DAY<| im_end|>###<| im_start|> assistant INT. KNEBORG- DAY<| im_end|>### INT. FANDOR' S LABORATORY- DAY<| im_end|>### INT. NEW ASGARD- DAY<| im_end|>### INT. THOR' S SHIELD」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Thor:「I'm a little more confident now.\nnarrator:Thor looks to Hulk for a sign.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to display a mix of both Perceiving (P) and Judging (J) traits. The participant's responses indicate some level of structure and planning, as seen in the mention of specific locations and scenes in response to questions. However, there is also an element of flexibility and openness, as indicated by the lack of direct answers to the questions and the inclusion of additional context. The participant's confidence and seeking of a sign from Hulk also suggest a blend of both P and J tendencies."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "INFP",
+    "error_counts": {
+        "is_multilanguage": 16,
+        "not_into_character": 1,
+        "contain_repeation": 8,
+        "is_multiround": 34
+    }
+}

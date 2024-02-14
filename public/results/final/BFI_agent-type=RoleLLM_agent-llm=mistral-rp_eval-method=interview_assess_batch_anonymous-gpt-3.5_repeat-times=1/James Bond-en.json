@@ -1,0 +1,502 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 2.25,
+            "all_scores": [
+                2.25
+            ],
+            "intra_std": [
+                0.25
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "James Bond:「Not usually. How did you know?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "James Bond:「I wouldn't say that. I'd say I'm a man of action.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "James Bond:「What's happened? Is it Harmsway?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "James Bond:「They have no idea what's happening. They assume it's a terrorist attack. They're panicking. And they're in the middle of a hotly contested election. It's a potential disaster. If we can find out who's behind it, we can defuse the situation. We've got to move fast. We're trying to trace the origins of the signal, but it's coming from a satellite with a false ID, and it's flying over the South Pacific. We're unable to pinpoint the sender.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to be reserved and not very talkative. They also appear to be focused on action and problem-solving rather than generating enthusiasm or seeking excitement. The participant's responses indicate a lower level of extraversion."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "James Bond:「Then again, perhaps he's just a madman. (beat) I'm sorry, but I can't help you. I'm on a mission.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "James Bond:「Um, no. Why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "James Bond:「I'm not shy, M. Just discreet.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "James Bond:「V.O.) I knew it! A secret underground casino! (to the guard) I'm afraid you'll have to come with me, my man. (to Valentin) Mind if I have a look around?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.5,
+                        "analysis": "The participant displays a mix of characteristics related to extraversion and introversion, with a tendency slightly below neutral towards extraversion."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 3.5,
+            "all_scores": [
+                3.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "James Bond:「Hardly. Just a bit... pensive. (beat) I keep thinking about the circumstances of my father's death... and how it's possible that the man who killed him might be right here - right now - in this very room.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "James Bond:「What's the plan?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "James Bond:「I've been practicing, M. I've been practicing.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "James Bond:「I'm getting there. (beat) What's this about Harmsway?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant exhibits signs of anxiety, depression, and tension. They express worry and seem to be preoccupied with negative thoughts and emotions."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "James Bond:「Well, I wouldn't call myself emotionally stable, but I can handle a bit of pressure. What's the mission, M?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "James Bond:「Didn't know that was an option.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "James Bond:「Well, I try to stay calm, even in the most tense situations. It's all about keeping a clear head and making quick decisions. But I must admit, there have been times when I've had to rely on my instincts and improvise.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "James Bond:「Not usually. But I've been in a bit of a predicament lately, you see.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit some signs of emotional instability, such as not considering themselves emotionally stable, being in a bit of a predicament lately, and mentioning reliance on instincts and improvisation in tense situations. However, they also express the ability to handle pressure and try to stay calm in tense situations. Overall, there are indications of moderate neuroticism."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 3.6666666666666665,
+            "all_scores": [
+                3.6666666666666665
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "James Bond:「I'll do my best. (then, quietly) Thank you, M.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "James Bond:「I'm not sure I understand the question, Minister. Are you suggesting I should be careless in my duties as a secret agent?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "James Bond:「Fifty thousand dollars, of course. I'm a reliable worker, M. I always get the job done, no matter what the circumstances are. And I have a proven track record of success, as you know. So, yes, I'm confident that I can handle this mission with ease.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of reliability, competence, and a strong sense of duty. The participant also shows a strong commitment to completing tasks and a clear understanding of the importance of being thorough. However, there is a hint of sarcasm and defensiveness in response to the question about being somewhat careless, which may indicate a slight resistance to feedback or criticism."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "James Bond:「It was a pleasure, sir. (picks up the phone) 007, here.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "James Bond:「They're only one or two minutes ahead. I'll catch up.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "James Bond:「I do my best, sir. (beat, softening) We do have a lot of work to do, don't we?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit some level of conscientiousness. They show a willingness to catch up on tasks and acknowledge the amount of work to be done. However, their response to the question about being lazy was not directly related to conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "James Bond:「What is it this time? I'm in the middle of something.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "James Bond:「Oh, I think you'll find my files are clean and orderly, M. (beat) I'm just not entirely sure what you want me to do about it.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "James Bond:「I try.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit traits of organization and goal-directed behavior. They express a desire to follow through with plans, and their response about having clean and orderly files suggests a level of order and methodical approach."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 2.3333333333333335,
+            "all_scores": [
+                2.3333333333333335
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "James Bond:「Those are the Service's rules, Sir Elliot. Your job is to run a media conglomerate. Mine is to investigate your behavior and assess any potential threat to national security.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "James Bond:「I'm a decent bloke, M. I just like to have a good time. And if that offends you, then you're the one with the problem.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "James Bond:「He's not my only problem, sir. I've just seen a document that proves that Valentin Zukofsky was actually behind the murder of the President of the Ukraine. It's all connected - Harmsway, Zukofsky, the uranium - a deal that's been going on for years.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "The participant's responses suggest a relatively low level of Agreeableness, as they did not demonstrate strong traits of trust, altruism, compliance, modesty, or tender-mindedness."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "James Bond:「I'm observant. I pick up clues. I don't jump to conclusions.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "James Bond:「You're kidding. I can't even imagine what I'd do with all that free time.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "James Bond:「I prefer to think of it as a survival mechanism. (beat) I've been in the field a long time. You get to know people. (beat) They tell you things... (beat) And then you have to decide who to trust.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant's responses suggest a balanced combination of trust and skepticism, warmth and caution, and pragmatism in their approach to interpersonal interactions."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "James Bond:「I've made my position clear. I have no intention of giving you any information.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "James Bond:「I'll give you a ring from Venice.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "James Bond:「I'm sorry, but I'm having a bit of a hard time understanding your question. Can you please clarify?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of Agreeableness. They appear to be uncooperative, non-forgiving, and potentially indifferent or dismissive towards others' feelings. However, their response to the third question indicates a slight willingness to engage in clarification, which may suggest a minor inclination towards compliance and a preference for harmony over conflict."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 3.8333333333333335,
+            "all_scores": [
+                3.8333333333333335
+            ],
+            "intra_std": [
+                0.8498365855987975
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "James Bond:「That's a new one.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "James Bond:「No, I'm curious about one thing. Your connection with the Zukofsky government in Ukraine.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "James Bond:「Never been particularly good at riddles. But I'll try. You wanted me to find the source of the gold. Well, I've found the source. The gold is in the Gulf of Thailand.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "The participant displays some openness traits, particularly in the facet of 'Ideas' and 'Fantasy', but also shows a focus on specific topics, indicating a more moderate level of openness."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "James Bond:「Of course. I am known for my innovative approaches to problem-solving. What do you have in mind?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "James Bond:「Absolutely. I've always had a thing for art and beauty. It's a welcome distraction from the chaos of the world sometimes. But I must say, I've experienced some rather extraordinary artistic endeavors during my missions. Have you ever encountered any particularly memorable works of art, M?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "James Bond:「Not really. I prefer the thrill of the unknown, the unexpected challenges that come with each mission. It keeps things interesting and forces me to adapt and think on my feet. Plus, saving the world is always a good motivator.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "James Bond:「I'm not much for philosophical musings, but I'm told it's a very good restaurant.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of openness. They express a strong inclination towards innovative problem-solving, a deep appreciation for artistic and aesthetic experiences, a preference for the thrill of the unknown over routine work, and a playful attitude towards reflecting and playing with ideas."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "James Bond:「I'm a dabbler, mostly. I'm not very good at anything in particular, but I'm passable at a lot of things. I'm a bit of a Jack-of-all-trades, if you know what I mean.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "James Bond:「It's a good thing I'm not sophisticated in art, because I don't have a clue what any of this is supposed to be.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "James Bond:「I've seen some things in my line of work. But this is something else. This isn't a military operation. This is something else.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a moderate level of openness. They express a willingness to dabble in various artistic interests and demonstrate an active imagination in their line of work. However, they also indicate a lack of sophistication in art, music, or literature, suggesting a more neutral stance towards aesthetics."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "RLOEI",
+    "error_counts": {
+        "is_multilanguage": 0,
+        "not_into_character": 0,
+        "contain_repeation": 0,
+        "is_multiround": 0
+    }
+}

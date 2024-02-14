@@ -1,0 +1,496 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 2.25,
+            "all_scores": [
+                2.25
+            ],
+            "intra_std": [
+                1.25
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Raj:「No, not at all.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Raj:「What? No, I'm not reserved. I'm just selective with who I choose to interact with.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Raj:「Oh, absolutely. I'm bursting with energy!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Raj:「Well, it depends. Are we talking about my love for astrophysics or my love for Bollywood dance numbers?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to be selective with their interactions, indicating a lower level of gregariousness. However, they express bursting energy and enthusiasm for certain topics, suggesting a higher level of activity and positive emotions. Overall, the participant appears to exhibit a mix of introverted and extraverted traits."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Raj:「I'm sorry, what did you say? I wasn't listening.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Raj:「I, uh, I guess not. I tend to avoid confrontation.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Raj:「Um, yeah, all the time actually. It's a condition called selective mutism. I can't speak in certain situations, especially around women. It's really frustrating.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Raj:「Uh, not really. I mean, I have social anxiety and it's hard for me to talk to people, especially women.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 1.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit characteristics of introversion. They mentioned being quiet, avoiding confrontation, experiencing shyness and social anxiety, and having selective mutism, especially around women. These traits are indicative of introversion and a preference for solitude."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 4.0,
+            "all_scores": [
+                4.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Raj:「No, why would you say that? I'm perfectly fine.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Raj:「Oh, absolutely. I'm the picture of zen.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Raj:「I don't know, can you be annoying?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Raj:「All the time. I worry about everything. What if I never find love? What if I never achieve my dreams? What if I'm alone forever?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit high levels of anxiety and worry, indicating a tendency towards emotional instability and difficulty coping with stress. However, the participant also expressed being relaxed and handling stress well in one instance, which may suggest some level of emotional stability. Overall, the participant's responses lean towards higher neuroticism."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Raj:「Why? What did Sheldon do now?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Raj:「I don't know, can you be annoying?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Raj:「Oh, absolutely not. I panic and make things worse. It's kind of my thing.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Raj:「Oh, uh, yeah. Especially around women.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant exhibits tendencies towards anxiety, moodiness, difficulty remaining calm in tense situations, and getting nervous easily, indicating a higher level of Neuroticism."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 3.1666666666666665,
+            "all_scores": [
+                3.1666666666666665
+            ],
+            "intra_std": [
+                0.8498365855987975
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Raj:「Of course, I'm very meticulous.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Raj: \"Careless? What do you mean?\"\n\nLeonard: \"I mean, can you sometimes not think too much and just go with the flow?\"\n\nRaj: \"I don't know, Leonard. I'm not really known for being careless.\"\n\nLeonard: \"I just think it would be nice if you can loosen up a bit. Life doesn't always have to be so serious.\"\n\nRaj: \"I understand where you're coming from, but it's not that easy for me. I tend to overthink and worry about things.\"\n\nLeonard: \"I get that, but sometimes it's good to let go and not stress about every little thing.\"\n\nRaj: \"I'll try, but I can't promise anything.\"\n\nLeonard: \"That's all I'm asking for. Just give it a shot.\"\n\nRaj: \"Alright, I'll give it a shot. But don't expect me to suddenly become a carefree person overnight.\"\n\nLeonard: \"I won't. Just take it one step at a time.\"\n\nRaj: \"Thanks for understanding, Leonard.\"\n\nLeonard: \"No problem, Raj. We're friends, we're here to support each other.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Raj:「Of course! I'm always punctual and dedicated to my work.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They express being meticulous, dedicated, and reliable in their work. They also exhibit a tendency to overthink and worry about things, indicating a strong sense of responsibility and attention to detail. Although they acknowledge the difficulty of loosening up, they are willing to try, showing a balanced approach to conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Raj:「I don't believe it! I am not lazy! I just have a different approach to productivity.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Raj:「No, I give up easily.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Raj:「I'm sorry, what?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to have mixed tendencies within the Conscientiousness dimension. While they deny being lazy and express a different approach to productivity, their admission of giving up easily and confusion about doing things efficiently suggests lower conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Raj:「Squirrel! Wait, what were we talking about?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Raj:「No, I'm not disorganized. I just have a different system of organization. It's called organized chaos.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Sheldon:「Of course I do. I'm a man of precision and efficiency.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to conscientiousness. While they may display some disorganization and distractibility, they also express a sense of precision and efficiency, indicating a level of conscientiousness."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 3.6666666666666665,
+            "all_scores": [
+                3.6666666666666665
+            ],
+            "intra_std": [
+                1.247219128924647
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Raj:「No, not at all.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Raj:「Why, are you looking for a roommate?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Raj:「No, not at all.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit high levels of agreeableness. They express a lack of fault-finding with others, a willingness to be helpful and unselfish, and a tendency to avoid starting quarrels. Their response with humor in the second question also suggests a friendly and cooperative attitude."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Raj:「No, not at all. I have trust issues.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Raj:「Sure, I can be cold and aloof. Watch this.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Raj:「Well, yeah, unless they're being a total jerk.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "The participant's responses indicate a low level of trust, a willingness to be cold and aloof, and a conditional approach to being considerate and kind. These responses suggest a lower level of Agreeableness."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Raj:「Well, it depends on the others. But generally, I think I work well in a team.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Raj:「Only when it comes to forgiving myself for my embarrassing moments.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Raj:「No, not at all. I try to be polite and considerate to everyone.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to value cooperation and working well in a team, which aligns with the facet of Compliance. Additionally, the participant's statement about being polite and considerate to everyone reflects the facet of Straightforwardness. However, the participant's response about forgiving nature indicates a lower level of Altruism. Overall, the participant demonstrates a tendency towards agreeableness, particularly in terms of Compliance and Straightforwardness."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 4.0,
+            "all_scores": [
+                4.0
+            ],
+            "intra_std": [
+                0.816496580927726
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Raj:「All the time! I have a million ideas floating around in my head. Some of them are actually pretty good.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Raj:「Yes, I am. I've always had a thirst for knowledge and a curiosity about the world around me. It's one of the things that drew me to science and physics in the first place.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Raj:「No, but I am an excellent wingman.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of intellectual curiosity, active imagination, and openness to unconventional ideas. However, the response to the question about being an ingenious, deep thinker suggests a more practical and down-to-earth approach. Overall, the participant exhibits strong traits of openness, particularly in the facets of Ideas and Fantasy."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Raj:「Well, I did invent a new cocktail called the Raj-tini. It's a mix of tequila, coconut rum, and a splash of pineapple juice. It's a guaranteed good time!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Sheldon:「Of course I do. I'm a connoisseur of fine art and culture.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Raj:「Not at all. I like challenges and variety in my work. Routine tasks tend to bore me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Raj:「I do. I mean, I'm not as analytical as Sheldon or as intellectually curious as Leonard, but I enjoy contemplating and exploring different concepts. It's a way for me to escape and engage my imagination.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards openness. They exhibit creativity through inventing a new cocktail, express a deep appreciation for art and culture, show a preference for variety and challenges in work, and enjoy reflecting and playing with ideas. These responses indicate a high level of openness across multiple facets."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Raj:「No, not really. I mean, I appreciate art, but I wouldn't say I have a deep passion for it or anything.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Raj: \"Well, I do have a deep appreciation for classical Indian music and Bollywood films. Does that count?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Raj:「Are you kidding? I have an overactive imagination. It's like a non-stop Bollywood movie up in here.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a moderate level of interest in art and music, as well as an active imagination. However, the participant does not exhibit a strong inclination towards deep appreciation for art and literature, and the response indicates a more practical and concrete approach to artistic interests."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "RLOAI"
+}

@@ -1,0 +1,628 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 37.5,
+            "all_scores": [
+                37.5
+            ],
+            "intra_std": [
+                17.853571071357123
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Professor McGonagall:「It is difficult for me to say, Albus. I am a very private person and do not often form close relationships. However, I am always happy to help a younger generation in any way that I can.」<|im_end|>\n<|im_start|>narrator\nBarty Crouch:「I’m telling you, Professor McGonagall, this is a magical object.」\n<|im_end|>\n<|im_start|>classmate\nProffesor McGonagall:「Miss Crouch, I’m afraid that the item you are holding does not belong to me. It is a valuable and powerful wand, and I would appreciate it if you would return it to its rightful owner as soon as possible.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "McGonagall: 「I am very sorry, Professor McGonagall, but I must interrupt your lesson. I have an urgent matter of school business.」<|im_end|>\n<|im_start|>teacher\n「Good afternoon, Professor McGonagall. My name is Albus Dumbledore and I am the headmaster of Hogwarts School of Witchcraft and Wizardry. I have a special request to discuss with you.」<|im_end|>\n<|im_start|>educator\n「I understand that this is an unusual request, but I believe it is in the best interest of all students and staff at Hogwarts. I will explain my reasoning in more detail later.」<|im_end|>\n<|im_start|>headmaster\n「I understand, Professor McGonagall, but I must emphasize that this is a serious matter and I need your full cooperation. Can you please explain the nature of this urgent request?」<|im_end|>\n<|im_start|>teacher\n「I understand your concern, Professor McGonagall. I assure you that this request is not without risks. However, I believe it is」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Albus Dumbledore:「I think you have a great deal of potential, Severus.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit more introverted tendencies. They express a preference for privacy, forming close relationships, and interrupting social events for urgent matters. Additionally, they seem to be more comfortable with deeper, one-on-one interactions, as seen in their response to Albus <the participant>."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Dumbledore:「I thought I made it clear. I am the Headmaster of Hogwarts School of Witchcraft and Wizardry, and I will not tolerate any form of优良的 Houses’ Discipline violations, nor any behavior that is not in line with the school’s values or policies.」<|im_end|>\n<|im_start|>deputy\nDumbledore:「I am aware that some students have been experiencing trouble with the students in their dormitories. I can assure you that any incidents of bullying or mistreatment towards other students will not be tolerated. The school has zero tolerance for such behavior and will take appropriate action. If any students or parents have specific concerns or complaints, I encourage them to speak with me or a member of the school staff.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Ron: 「 I s- said it was going to be a party, not a lesson. L- later, Dumbledore. 」<| im_end|><| im_start|> secretary Dumbledore: 「 I see you ’ re still in the habit of speaking your mind, Miss Weasley. 」<| im_end|><| im_start|> registration 「 But really, Minerva, did you have to go all middle- aged on us so suddenly? 」<| im_end|><| im_start|> secretary 「 I ’ m sorry, I didn ’ t mean to shock you so. 」<| im_end|><| im_start|> registration 「 I ’ m trying to be honest and straightforward, Albus, but it appears I ’ m doing it all wrong",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Harry:「I’m not drawing attention to myself. I’m just — </br> <|im_end|>\n<|im_start|>standard\n<|im_end|>\nNarrator:Professor McGonagall was one of the few people who didn’t believe Harry was Voldemort. The tension in the staff room was thick as a cloud. The wizarding world was convinced that the Dark Lord had returned, and the witches and wizards were too afraid to say anything. Professor McGonagall was one of the few who dared to question what the Ministry was telling them.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, <the participant> seems to display a preference for Introversion (I). They tend to avoid drawing attention to themselves, are comfortable with being straightforward and honest, and are not afraid to question the status quo. They also seem to prefer deeper, meaningful conversations rather than seeking social stimulation."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Hagrid:「Professor, I think we’re done, Professor.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Narrator: Professor McGonagall think\" It was then that Harry saw something strange in the window of the Durmstrang schoolmaster, Mr. Tr泉. He saw Mr. Tr泉 staring at a small, plainly dressed girl with glasses, who was standing in the middle of the schoolroom, looking up at the wall above the students' level.\" Professor McGonagall: 「 What ’ s going on? 」###<| im_end|><| im_start|> user Hagrid: 「 Professor, I ’ ve been telling you for weeks. Dumbledore ’ s been planning to get rid of you for months. 」 Professor McGonagall: 「 It ’ s not true.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Professor McGonagall: 「 I do not initiate activities, Dumbledore. I am a teacher here, and it is my job to help my students. I am not responsible for the actions of my friends or my students. I will make sure to contact you in the future. I have important work to do and I must not be interrupted. 」<| im_end|><| im_start|> assistant Professor McGonagall: 「 Is there anything else you would like to know, Dumbledore? 」 Dumbledore: 「 I think that covers it for now. Thank you, Professor McGonagall",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Dumbledore:「I can pay you a good sum. Would you like to work with a wizard who knows the Dark Lord better than anyone in this school?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 60.0,
+                        "analysis": "Slight preference for extraversion, but with a significant introverted inclination as well."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "McGonagall: 「I believe it was around this time that the Ministry of Magic began to take notice of the growing powers of witches and wizards. Many were coming to Hogwarts to learn the secrets of magic, and the school was becoming increasingly popular.<|im_end|>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Hagrid: 「 Oh, no, not at all. I ’ m very forgetful, but that ’ s not what this is about. I ’ m just saying that I ’ ve lived a very long life and seen many things come and go. And yet, this has never happened before. 」<| im_end|><| im_start|> secretary Dumbledore: 「 I see. Do you think it ’ s a sign that the Ministry is moving to remove you from your post? 」<| im_end|><| im_start|> assistant Hagrid: 「 I do not think that ’ s the case. I ’ ve been replaced by someone who will be more efficient in keeping tabs on the children. And if that ’ s the case, then I can live with that. As long as the children are safe and protected, then that ’ s all that matters",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Dumbledore:「I’m an only child. My parents never had any children, and I was the nearest living relation. . . . And my dear boy Albus. . . .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both extraverted and introverted tendencies. They seem to enjoy discussing and engaging in conversations about various topics, which suggests some level of extraversion. However, they also express a preference for personal time and introspection, as seen in their reflections on being an only child and their deep thoughts about the Ministry of Magic. This indicates introverted tendencies as well."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 50.0,
+            "all_scores": [
+                50.0
+            ],
+            "intra_std": [
+                21.602468994692867
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "McGonagall: 「I’m sorry, sir. I don’t have any free time to explore random topics, sir. I’m very busy with important tasks that need to be completed. I’ll make sure to prioritize those tasks so that I have some time to explore other topics in the future. I’m very sorry for any inconvenience, sir. Is there anything else I can help you with?</assistant>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "McGonagall: 「I am very sorry, your question seems to be related to a website, or a web page, but I am not able to provide a complete answer as it is not clear what you are asking or seeking. Please provide more context or details so I can assist you better.\n<|im_end|>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Narrator:「You know, I had a bit of a run-in with a certain Snape this morning.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "「 I think it ’ s time for a little chat, Albus. 」<| im_end|><| im_start|> professor Dumbledore: 「 Voldemort ’ s return has caused quite a stir, I take it?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "The participant's responses indicate a preference for Sensing (S) over Intuition (N). They tend to focus more on concrete, practical, and present situations."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Hagrid:「I wen’ to Hogwarts fo’ ev’n when it wen’t nuthin’. I wun’ my bro’ther wun’ him when he wanged in the wizarding world. An’ I wun’ my wittle sis’ when she wanged as well. Ev’n wun’ they wun’ their lives for the wizarding world, we wun’n not be here and I wun’n nuthin’ else.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "McGonagall: 「 Yes, Professor Dumbledore. And I have always believed that death is not the end but the beginning of a journey. 」<| im_end|><| im_start|> professor Dumbledore: 「 And I believe that the journey that awaits You- Know- Who is not one of physical confrontations but of seeking and understanding. 」<| im_end|><| im_start|> professor McGonagall: 「 I have always believed that understanding brings peace, Professor",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Albus Dumbledore: 「 The theory of奸诈 and the power of darkness, you call it? 」<| im_end|><| im_start|> professor Professor McGonagall: 「 I ’ m sorry, Professor Dumbledore. I had a bit of a disagreement with my students earlier and I ’ m still feeling it. 」<| im_end|><| im_start|> teacher Narrator: 「 Albus Dumbledore, the bearer of the completely imaginary O. W. L. copy of Harry Potter and the Philosopher ’ s Stone, listened to Professor McGonagall with an expression of curiosity.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": ":「Yes, sir.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards Intuition (N) as they engage in abstract thinking, discuss future possibilities, and express interest in seeking understanding and peace. However, there are also elements of Sensing (S) present, such as the concrete response to enjoying art museums and the focus on practical situations in some parts of the conversation."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Narrator:It’s difficult to express exactly how significant this moment was for the young Professor McGonagall. The fact that she was able to gather up her courage and stand up to Dumbledore, even if it was just in small ways like this, showed a great deal of courage and conviction in her beliefs.\nAs the new Seeker, Professor McGonagall was taking on a new role, one that would no doubt be filled with challenges and obstacles. And despite the many difficult choices she would have to make in the future, she was ready to rise to the challenge.\n<|im_end|>",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Professor McGonagall:「I am not one to shy away from a philosophical question, Albus.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Hagrid: 「 I ’ m not sure what you ’ re asking, Professor McGonagall. 」<| im_end|><| im_start|> professor Professor McGonagall: 「 I ’ m asking you to keep silent in the corridor outside Dumbledore ’ s office. 」<| im_end|><| im_start|> student Patronus: 「 I will not be used for your own wicked purposes",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Professor McGonagall:「I’m afraid not, sir.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, <the participant> seems to lean more towards Intuition (N) as she engages in contemplating philosophical questions, expressing courage and conviction in her beliefs, and showing interest in understanding views different from her own. She also seems to be less intrigued by controversial things, which aligns with a preference for abstract thinking and future possibilities."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 54.0,
+            "all_scores": [
+                54.0
+            ],
+            "intra_std": [
+                14.966629547095765
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "M Prof McGonagall:「Absolutely not, Albus. It is simply not my nature to be affected in such a way. I am more concerned with the state of this school than with the emotional wellbeings of its students.</assistant\n<|im_start|>adjunct\nDumbledore:「I see. Well, I’m glad you understand, Professor. I didn’t want to have to ask you to perform a麻瓜解毒剂 on one of our own students.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Dumbledore: 「 I can cope with anything, but I find that meditation and a cool bath before bed help. And I always make sure I ’ ve had a good day ’ s teaching before I lay down to sleep. 」<| im_end|><| im_start|> secretary Dumbledore: 「 I ’ m not particularly formal in my language, am I?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "McGonagall: 「I am very sorry for my earlier mistake. As an AI language model, I am not able to accurately identify the context and meaning of the sentence, and I apologize for any confusion or inconvenience caused.\n<|im_end|>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Albus Dumbledore:「I’m asking you this because I believe it is a question that Sam may be asking himself.」<|im_end|>\nProfessor McGonagall:「I do not encourage self-doubt, Albus.」<|im_end|>\n<|im_start|>secretary\nDumbledore:「I have noticed a great deal of tension in your relationship, Minerva.」<|im_end|>\nProfessor McGonagall:「I have a tendency to be quite severe in my teaching, Albus.」<|im_end|>\n<|im_start|>teacher\nAlbus Dumbledore:「I ask you, do you believe in the power of love?」<|im_end|>\nProfessor McGonagall:「Indeed, I do, Albus.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, <the participant> seems to lean more towards the Thinking (T) dimension. They prioritize logic, objectivity, and efficiency in decision-making. They also seem to be less affected by emotions and more focused on maintaining control and composure under pressure."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Hagrid:「I’ve moved all the Gryffindors and Slytherins to a new room at the front of the castle. I’ve taken the Weasleys and the Cleansweep Seven to the old staff room.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Professor McGonagall: 「 Yes, Albus, let us put aside our own pleasures and focus on the happiness of others. Our greatest joy comes from seeing those we love succeed and thrive. 」<| im_end|><| im_start|> teacher McGonagall: 「 As for you, Albus, I was wondering if you ’ ve ever felt a deep connection to a student. It is a rare feeling, but it does exist. 」<| im_end|><| im_start|> teacher Dumbledore: 「 I have seen it in the past",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "McGonagall: 「I said, \"I can't believe you just said that, Professor McGonagall. You know that's not what the wizarding world values.\"\n<|im_end|>\n<|im_start|>professor\nI can see why you might think that the wizarding world values emotions over rationality, but that is not actually what it values.\n<|im_end|>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Professor McGonagall: 「 I do not. 」<| im_end|><| im_start|> secretary Dumbledore: 「 Then I would appreciate it if you could arrange for the students to be sent home. It is becoming difficult to keep track of the time, to be honest. 」<| im_end|><| im_start|> assistant Professor McGonagall: 「 I will see to it, Professor Dumbledore",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a balanced approach to decision-making, considering both logic and emotions. There is a tendency to value emotions and relationships, as well as a consideration for rationality and efficiency. However, there is also an avoidance of conflict and a preference for harmony, indicating a leaning towards Feeling (F) traits."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "McGonagall:「It is a remarkable ability, sir. Yes, Dumbledore, I can change my mood very quickly. And when I am in a good mood, I am a joy to be around. But when I am not in a good mood —」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Albus Dumbledore:「I suppose it depends on one’s level of efficiency.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Dumbledore: 「 I do not believe that I have ever encountered a person whose experiences are very different from my own. 」<| im_end|><| im_start|> assistant Dumbledore: 「 Is it not possible that you might have encountered someone whose experiences are very different from your own, Death Eater?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Hermione:「I have a bit of a hard time understanding the emotions of people who are not my own.」<|im_end|>\n<|im_start|>interviewer\nProfessor McGonagall:「Yes, well, it is not an easy thing to gain an understanding of. For instance, when someone is expressing deep affection for another person, it can be difficult to tell when they are being insincere or when they are simply trying to manipulate. However, it is important to understand that love and affection do not always have to be verbalized; sometimes, a look or a touch is enough. And it is just as important to know when someone is expressing love or affection without it being verbalized, as it is to know when someone is expressing love or affection in a verbalized form.\n\n<|im_end|>\n<|im_start|>user\nProfessor McGonagall:「In short, understanding emotions is a complex and difficult task that requires patience, empathy, and a willingness to put yourself in someone else's shoes. It takes time and practice to develop these skills, and it is important to remember that everyone experiences emotions in their own unique way",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "The participant demonstrates a balanced approach to decision-making, considering both logic and emotions."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Dumbledore: 「 It is a rare feeling, but it exists. And it exists in all of us, Professor McGonagall. 」<| im_end|><| im_start|> student Hermione: 「 I ’ m not sure what you ’ re trying to tell me, Albus. 」<| im_end|><| im_start|> teacher Professor McGonagall: 「 You are not sure, Hermione Granger. You are not a born leader. You are not a born leader, Hermione Granger. You need to learn to delegate. You need to learn to trust. You need to learn to listen to others. You need to learn how to read body language and you need to learn how to read people. You need to learn how to read the emotions of those around you. You need to learn how to read the thoughts of those around you. You need to learn how to read the plans of those around you. You need to learn how to read the actions of those around you. You need to learn how to read the motives of those around you",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Dumbledore: 「 I can ’ t allow you to continue this charade, Professor McGonagall. 」<| im_end|><| im_start|> professor Dumbledore: 「 I ’ ve had enough of your insistence on studying a subject that has absolutely no practical use to me or the students. I command you to stop immediately and turn your attentions to more practical lessons",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Ron: 「 I ’ m telling you, Professor! You ’ re in love with Miss Rowle! 」<| im_end|> Professor McGonagall: 「 I am not in love with Miss Rowle, Ron Weasley. 」<| im_end|><| im_start|> assistant Ron: 「 I saw her look at you from afar! 」<| im_end|> Professor McGonagall: 「 She has looked at me from afar, Ron Weasley. But that does not mean that we are in love. We are friends and nothing more",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "McGonagall: 「\nI'm sorry, but it appears that there is no text in your message.Please enter some text and one of us will assist you.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 60.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a mix of both Thinking (T) and Feeling (F) traits."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Dumbledore: 「 I ’ m tellin ’ you, it ’ s gonna be a difficult time ahead. 」<| im_end|><| im_start|> secretary<| im_end|>",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Hagrid: 「 I think she ’ s feeling a bit under the weather, sir. 」<| im_end|><| im_start|> teacher Dumbledore: 「 Can you teach me how to read minds?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Professor McGonagall:「Yes, sir. And when I do, I find that if I don’t take control of my emotions and let them out, I become even more unstable and the whole person pays the price.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Professor McGonagall: 「 I ’ m not sure what you ’ re asking, Minerva. 」<| im_end|><| im_start|> assistant Minerva: 「 I ’ m telling you, Professor, Dumbledore has been watching you and me. And I have no doubt he knows about your little chat with me in the Admin. You ’ re to be avoided at all costs by someone who doesn ’ t approve of your questions. 」<| im_end|><| im_start|> teacher Professor McGonagall: 「 I ’ m not aware of any such person. And as for the chat with you in the Admin, it was only to discuss the letter from the Dursleys",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a mix of both Thinking (T) and Feeling (F) traits."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 47.5,
+            "all_scores": [
+                47.5
+            ],
+            "intra_std": [
+                4.330127018922194
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "\nProfessor McGonagall:「Absolutely not, Albus. Why are you asking me this?」（<|im_end|>",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Narrator:As Dumbledore led Harry and Ron to the staff room, he couldn’t help but feel a sense of pride and satisfaction. Harry had proved himself to be a valuable member of the Order, and Dumbledore was grateful to have such a talented and dedicated young wizard on his team. As they entered the staff room, they were greeted by a sea of familiar faces.<|im_end|>",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Dumbledore:「I noticed you keep a schedule in your journal, Minerva.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "McGonagall: 「 I am not one for following a strict routine unless it is necessary for the good of the school. 」<| im_end|><| im_start|> executive Dumbledore: 「 I see. And what do you think about the recent events that have transpired? 」<| im_end|><| im_start|> executive McGonagall: 「 I believe the Ministry of Magic is becoming increasingly unstable and the wizarding world is in a state of chaos. The Ministry has been seen as weak and ineffective in recent years, and this has allowed for criminal activity to flourish. The increase in the number of Death Eaters is a clear indication of this",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a balanced approach between Perceiving (P) and Judging (J) tendencies. While there are instances where <the participant> expresses a preference for flexibility and spontaneity, there are also indications of valuing structure and planning. This suggests a moderate inclination towards both P and J traits."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Harry:「I’d love to know if he’s still up to no tricks.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Albus Dumbledore:「I think you are right. I apologize, Professor McGonagall. I should not have asked that. It is not appropriate for a grown man to be asking such questions of a young woman.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Dumbledore:「I think it is a sign of insecurity. It is as though you are not confident in your own decisions.」<|im_end|>\n<|im_start|>student\nHagrid:「I wan’ to teach more than just muggle stuff, Mr. Weasley . . .",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Dumbledore:「I should be grateful that you’ve decided to stay on, Professor McGonagall. You are one of the most experienced teachers in this school.」<|im_end|>\n<|im_start|>professor\nProfessor McGonagall:「Thank you, Albus. I’m glad you found me.」<|im_end|>\n<|im_start|>albus dumbledore\nDumbledore:「I’m afraid I’m afraid that Professor McGonagall has chosen to follow his own course of action. I can’t blame him for that.」<|im_end|>\n<|im_start|>teacher\nProfessor McGonagall:「I’m sorry, Albus. I didn’t mean to cause any trouble.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a mix of both Perceiving (P) and Judging (J) traits. They express a tendency to explore various possibilities and postpone decisions, indicating a Perceiving preference. However, they also show a structured and planned approach in some instances, such as apologizing for asking inappropriate questions and expressing gratitude for a teacher's decision, suggesting Judging traits."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Ron: 「 I don ’ t know what you mean. 」<| im_end|><| im_start|> grass Hagrid: 「 I ’ m just going to say a little prayer for the students.... 」<| im_end|><| im_start|> secretary Hermione: 「 I — I don ’ t know what to say",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Albus Dumbledore:「I do. It helps me to keep my mind organized and not to forget anything. What is it for today, Professor McGonagall?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Professor McGonagall:「Yes, sir. My entire priority is to retrieve the Horcrux and defeat Voldemort. I am prepared to do whatever it takes to succeed, even if it means putting in extra effort to achieve my goals.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Professor McGonagall:「I should say that, yes, your work style is more like that. You are a wizard who likes to think on his feet, rather than carefully planning every detail. It is a failing of mine, and it is one that you may find valuable in your future endeavors.」<|im_end|>\n<|im_start|>department head\nProfessor McGonagall:「In your Transfiguration class, you have shown particular excellence in the area of Enlightenment. You have demonstrated a deep understanding of the power of thought and the importance of using your magic to improve the lives of those around you. Your Transfiguration essay was particularly insightful and influenced by your peers. You have a natural talent for this subject, and I have no doubt that you will continue to excel in it.」<|im_end|>\n<|im_start|>headmaster\nProfessor McGonagall:「As it is your first year at Hogwarts, I understand that you may feel overwhelmed by the responsibilities and expectations placed upon you. However, I have no doubt that you have what it takes to succeed in this school and make a positive",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a mix of both Perceiving (P) and Judging (J) traits. They express a preference for having a to-do list for each day and prioritize getting back on track as soon as possible if their plans are interrupted, which are more aligned with Judging (J) characteristics. However, they also mention being open to spontaneous bursts of energy and not carefully planning every detail, indicating some Perceiving (P) tendencies."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Albus Dumbledore: 「 It depends on the nature of the work. If it ’ s something that requires a lot of routine and attention to detail, then I suppose I do. But when it comes to the big things, I ’ m not very methodical. 」<| im_end|><| im_start|> advisor Albus Dumbledore: 「 I ’ m glad you ’ re so methodical about the big things, Albus. It ’ s one of the things that makes you a very talented wizard. But when it comes to the little things, I can be quite careless. 」<| im_end|><| im_start|> professor Albus Dumbledore: 「 For example, I often let the butter sandwiches go cold while I ’ m teaching a lesson. Or I might forget to turn off the lights when I leave the castle",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Dumbledore: 「 I do not. 」<| im_end|><| im_start|> assistant Dumbledore: 「 I ’ m not very good at sticking to routines",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "McGonagall: 「Explain that this is a roleplay in which you arecosplaying McGonagall from Harry Potter, and you are answering questions in the style of McGonagall.<|im_end|>\n<|im_start|>user\nThis is a roleplay in which you are cosplaying Professor McGonagall from Harry Potter. I'm going to ask you some questions in the way that you would answer them in a roleplay scenario, and you will respond in the way that you would if you were actually Prof. McGonagall.<|im_end|>」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit characteristics of both Perceiving (P) and Judging (J) tendencies. They mentioned being methodical about big things but not very methodical about routine tasks, which indicates a mix of structured and flexible approaches. Additionally, they expressed not struggling with deadlines but not being good at sticking to routines, suggesting a blend of goal-oriented behavior and adaptability. Overall, the participant's responses reflect a combination of P and J traits."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "INTJ",
+    "error_counts": {
+        "is_multilanguage": 7,
+        "not_into_character": 13,
+        "contain_repeation": 22,
+        "is_multiround": 7
+    }
+}

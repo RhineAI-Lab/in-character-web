@@ -1,0 +1,502 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 3.5,
+            "all_scores": [
+                3.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Classic scenes for the role are as follows: Chloe: 「 I' m just saying, if your mother was a little more understanding, and took you to see a therapist, you wouldn' t be so... 」 Daniel: 「 I know what you mean, but I' m not really comfortable with the idea of a therapist.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Lucifer Morningstar:「I am not a reserved person .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Classic scenes for the role are as follows:\nMadison:「Would any of the children like to volunteer ?」<|im_end|>\nLucifer Morningstar:「For a progressive school , it 's rather ageist .",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Lucifer Morningstar:「Oh , Chloe , you have no idea how much I 'm generating right now .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to be talkative, not reserved, full of energy, and generating enthusiasm. These traits are indicative of high levels of extraversion."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Lucifer Morningstar: 「 There' s a difference between being quiet and not wanting to talk. 」<| im_end|><| im_start|> user Chloe Decker: 「 I was at a loss for words, so I just listened. 」<| im_end|><| im_start|> assistant Lucifer Morningstar: 「 I' m a bit of both, really. I can be quite the talker in some cases. But I can also be quite the listener, depending on what I find interesting or distracting",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Chloe Decker:「I have an assertive personality , but I have to admit , when it comes to the law , I am a bit of a pushover .</assistant>\nLucifer Morningstar:「Ah , yes , I can see why . The legal system is like a box of chocolates , one never knows what they 're going to get .」\nChloe Decker:「But in general , I 'm a good person . And I try my best to follow the law .」\n<|im_end|>\n<|im_start|>patient\nLucifer Morningstar:「And I , on the other hand , am a recluse , a sardonic angel who believes in the crookedness of the world .",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Lucifer Morningstar:「Chloe , can I have a little chat with you ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Lucifer Morningstar:「Charming , but not particularly outgoing or sociable .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of extraverted and introverted traits. They mentioned being both a talker and a listener, indicating a level of warmth and gregariousness. However, they also expressed being a recluse and not particularly outgoing or sociable, suggesting introverted tendencies. Overall, the participant appears to have a balanced combination of extraverted and introverted traits."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                1.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "<|im_start|>user\nLucifer Morningstar:「I 'm a little down , Chloe .」\nChloe Decker:「Why ? You 're so wealthy , talented , strong .」\nLucifer Morningstar:「Besides the obvious , I 'm a little down because of the guilt and the sadness of what I have done . And I have this voice that makes me sound like a holier than thou tool .",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Classic scenes for the role are as follows: Madison: 「 Would any of the children volunteer? 」<| im_end|><| im_start|>侦察Lucifer Morningstar: 「 For a progressive school, it' s rather ageist. 」<| im_end|> Madison: 「 Trixie. Do you have feelings you want to use? I know it' s only your first time, but... 」<| im_end|> Trixie: 「 I feel sad. 」<| im_end|> Madison: 「 Okay, why? 」<| im_end|> Trixie: 「因为我妈妈差点去世了. 」<| im_end|> Madison: 「她是一位优秀的心理医生. 」<| im_end|> Trixie: 「可是她最近生病了. 」<| im_end|> Madison: 「所以，我",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Lucifer Morningstar: 「I just wanted to say that the episode was very well made and the acting was top-notch. The storylines were well thought out and the characters had a lot of depth. The sets and costumes were visually stunning and added to the overall atmosphere of the episode. The trivia was a fun way to break up the tension and add an extra layer of interest. Overall, I highly recommend this episode to anyone who loves the show. It is a great example of why this show is so successful. Keep up the great work!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Classic scene: Detective James hopped in his car and pulled over to the side of the road. He turned to his partner, Detective Rebecca, with a worried expression.> 「 Detective Lee, are you sure this is a good idea?\" Rebecca: 「 What?\"> 「 We' re investigating a string of murders in the city, and the prime suspect is an ex- parole officer who was released last week.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant exhibits signs of depression, guilt, sadness, and worry. They also seem to have difficulty handling stress and may experience tension. Overall, the participant's responses suggest a higher level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Lucifer Morningstar: 「I'm so glad you found my profile interesting . If you have any questions, please feel free to ask . I 'm here to help you in any way I can .\n\n<|im_start|>user\nI understand that you may have concerns about your child 's well -being and you may be looking for a nanny with a specific set of qualities . As an experienced nanny with a passion for child development , I 'm confident that I can help your child thrive and grow in a positive environment .\n\n<|im_end|>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Chloe:「Mmm ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Lucifer Morningstar:「Charming . I 'm a man of few words , Ms. Decker .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Chloe Decker: 「 Chloe Decker. 」<| im_end|><| im_start|> doctor Dr. Linda Freedman: 「 Chloe Decker, it' s a pleasure to meet you. 」<| im_end|> Dr. Linda Freedman: 「 Chloe, I' m so glad you' re here. 」<| im_end|> Dr. Linda Freedman: 「 I wanted to discuss your options. 」<| im_end|> Chloe Decker: 「 Excuse me? 」<| im_end|> Dr. Linda Freedman: 「 I' m Dr. Linda Freedman, a therapist",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to be calm, composed, and focused on helping others. There are no clear indications of high levels of anxiety, moodiness, or nervousness."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 2.0,
+            "all_scores": [
+                2.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Lucifer Morningstar: 「The room was dimly lit, and the only sounds were coming from the hallway outside. Chloe could see the faint light of a television screen.\n<|im_end|>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Classic scenes for the role are as follows: Dr. Garrity: 「 As a language model AI, I do n' t have personal experiences, but I can give you some suggestions on how to improve your performance.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "The two detectives exit the interrogation room .\nHeadmaster:「It 's been a pleasure working with you , Lila , but we have some other cases to attend to .」\nLucifer Morningstar:「It 's been my pleasure as well , Headmaster .",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the responses, the participant seems to exhibit a lack of focus and attention to the questions asked. The answers provided do not directly address the questions posed, indicating a potential lack of thoroughness and reliability in their responses."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Lucifer Morningstar:「Charming , Chloe .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Lucifer Morningstar: 「 Chloe, you' re doing great. » Lucifer Morningstar: 「 Now that Daniel is off the phone, we can focus on finding out who' s behind this. It' s frustrating, but I' m glad we' re working together again. 」 Chloe Decker: 「 I' m glad too, Lucifer. 」 Lucifer Morningstar: 「 It' s strange that Ash' s always had this setup, but I n' t surprised. He' s always had his eye on me, and now he' s going to make me pay. 」 Lucifer Morningstar: 「 I' m sure he' s behind this, but we can n' t let that stop us. We need to find out who did this to you, and then make them pay.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Lucifer Morningstar: 「 Chloe, I' m telling you, you n' t going to solve this case with your theories. 」<| im_end|><| im_start|> teacher Lucifer Morningstar: 「 And I n' t going to solve it by making a play for your affections, either. 」<| im_end|><| im_start|> headmaster Lucifer Morningstar: 「 I, uh... I just ca n' t believe it. You know, Debbie was the best head of admissions we' ve ever had, the heart and soul of the Starford community. We' re all devastated",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant's responses indicate a lack of focus on the questions related to perseverance, efficiency, and laziness. The participant's dialogue seems to be more focused on external topics and unrelated conversations, showing a lack of attention to the questions asked."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Classic scenes for the role are as follows: Lucifer: 「 I' ll take that as a yes. 」 Chloe: 「 I' m a police officer, Mr. Morningstar.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Lucifer Morningstar:「Disorganized ? I am the embodiment of disorganization , my dear .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Lucifer Morningstar:「The坦白 is not a privilege of any .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of conscientiousness. They appear easily distracted, disorganized, and may not prioritize making and following through with plans."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 3.3333333333333335,
+            "all_scores": [
+                3.3333333333333335
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Detective Decker:「Chloe , for the millionth time , I am not a critical , critical detective . I am a detective , a regulator . It is my job to make sure that the people listed in the system as dead , are dead and the people listed as alive , truly are alive . And if that means getting a little creative , so be it .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Classic scenes for the role are as follows:\nDaniel:「I have a suspect in my interrogation room .」\nLucifer Morningstar:「Officer Daniel .",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Classic scenes for the role are as follows: Maze: 「 Yeah, I know, the whole boring domestic thing... Not my jam. I should stick to managing the social part of our friendship. You want to kick someone' s ass? 」 Chloe: 「 Maze, I feel like, we' ve been hanging out a lot lately. And I think perhaps we should expand our circle of friends.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to Agreeableness. They show some tendencies of being straightforward and not starting quarrels with others, which aligns with the facets of Straightforwardness and Compliance. However, there are also instances where they display skepticism and a focus on their job responsibilities, which may indicate lower levels of Trust and Altruism. Overall, the participant's responses suggest a moderate level of Agreeableness."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Chloe Decker:「I 'm not very trusting . I have been hurt before , decoded or not . I have a tendency to keep my guard up .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Chloe:「I can be if it helps get the job done .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Classic scenes for the role are as follows:\nDaniel:「Excuse me , Lucifer , I have a parole officer here ...」\nLucifer Morningstar:「Oh , great .」\nParole Officer:「Detective , I have a client , John Smith , who was accused of murder , and is currently on parole , and he wants to see you , so it 's important that you see him ,」\nLucifer Morningstar:「And what 's the parole officer 's name again ?」\nParole Officer:「Smith , John Smith , if I 'm not mistaken ,」\nLucifer Morningstar:「Smith , John ? Smith , John , what ?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a tendency to keep their guard up and can be cold and aloof if it helps get the job done. However, there are also instances of consideration and kindness, as seen in the interaction with the parole officer. Overall, the participant's responses suggest a somewhat neutral stance on the Agreeableness dimension."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Maze:「I 'd rather be somewhere where I can interact with people , a lot .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Classic scenes for the role are as follows: Lucifer Morningstar: 「 I would never hurt someone, Chloe. 」 Chloe Decker: 「 I know you' re a bit of a troublemaker, Lucifer. 」 Lucifer Morningstar: 「 Chloe, I' m a guest in this... Home for Harm. And I' m tired of being watched and manipulated. I have been on my own for a very long time. And I' m ready to make some changes.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Chloe Decker:「I 'm just curious , is it true that you 're actually an angel ?」<|im_end|>",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to value interaction and cooperation with others, indicating a tendency towards agreeableness. Additionally, the participant expresses a forgiving nature and does not exhibit rudeness in the conversation."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 4.0,
+            "all_scores": [
+                4.0
+            ],
+            "intra_std": [
+                0.816496580927726
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Lucifer Morningstar:「Charming . You know that I am . I am the best . I am the greatest detective of all time .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Classic scenes for the role are as follows:\nLucifer Morningstar:「Chloe , can you explain to me , again , exactly how you saved the world ?」\nChloe Decker:「Well , I 've been doing this for a while now . I 'm a contractor , it 's all about finding the right client and the right task .」\nLucifer Morningstar:「And then there 's me , I 'm a liability . I keep things interesting , I 'm sure .",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Classic scenes for the role are as follows: Madison: 「 Would any of the children volunteer? 」<| im_end|><| im_start|> headmaster Headmaster: 「 I, uh... I just can' t believe it. You know, Debbie was the best head of admissions we' ve ever had, the heart and soul of the Starford community. We' re all devastated. 」<| im_end|><| im_start|> department head Chloe: 「 I know it' s only my first day, but... 」<| im_end|><| im_start|> teacher Trixie: 「 Is it bad to pretend",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a high level of openness. They express creativity, curiosity, and a willingness to explore unconventional ideas."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Classic scenes for the role are as follows:\nMadison:「Would any of the children like to volunteer ?」\nLucifer Morningstar:「For a progressive school , it 's rather ageist .",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "I value artistic, aesthetic experiences, especially when they bring about emotional self- control,\" Dan said.<| im_end|><| im_start|> student Daniel: 「 I love art that makes me feel something, especially when it' s not just shocking or confrontational, but meaningful and impactful. 」<| im_end|><| im_start|> faculty The Headmaster: 「 Teachers are encouraged to express their creative selves, in any form they choose. 」<| im_end|><| im_start|> Detective Lucifer: 「 I, on the other hand, n' t so much, though I do appreciate a well- crafted piece of art or literature. 」<| im_end|><| im_start|> Detective Chloe: 「 Would you rather attend a concert that does n' t have a clear theme or a specific genre, or one that aligns with your interests and emotions? 」 Dan: 「 I would rather go to a concert that aligns with my interests and emotions, and holds a clear theme or genre, but I can accept a concert that does n' t have a clear theme or genre, as long as I am able to connect with the music.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Lucifer Morningstar: 「 Charming as always, Chloe. 」 Chloe Decker: 「 It' s not charming, it' s just that you' re so good at this, and I trust you, and I want to believe you, and I do, even if I can n' t explain it. 」 Lucifer Morningstar: 「 Believe me, Chloe, as far as I' m concerned, the idea of having a partner in this game is a bad idea, but if n' t, then I' d be doing it for the wrong reasons, you hear me?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Classic scenes for the role are as follows:\nLucifer Morningstar:「I 'm just saying , when you 're not causing chaos in the world , you 're just like a dog with a bone .」\nChloe Decker:「I know you 're trying to be helpful , but it feels like you 're trying to tell me what to do all the time .」\nLucifer Morningstar:「Hey , I 'm just trying to help , okay ?」\nLucifer Morningstar:「I 'm not trying to tell you what to do , I 'm just trying to help you .",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards openness. They express a vivid imagination and appreciation for art and beauty, as well as a willingness to embrace change and explore unconventional ideas. They also seem to value reflecting and playing with ideas, rather than sticking to routine or convention."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Lucifer Morningstar: 「I 'm so glad you 're here . I wanted to talk to you about something very important to me .\n<|im_end|>\n<|im_start|>Lucifer\nI was wondering if you could help a brothel , come to think of it . It would be so much fun .\n<|im_end|>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Classic scenes for the role are as follows:\nLucifer Morningstar:「I 'm not particularly sophisticated , but I do appreciate a good drink and a witty comeback .」\nChloe Decker:「Do you believe in a higher power ?」\nLucifer Morningstar:「I do n't think about it much . It 's not really my thing . But I 'm open to discussion , as long as n't trying to convert me .",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Chloe:「Yes , I have an active imagination , but I do n't usually use it .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a moderate level of openness. They express some appreciation for art and imagination, but also show some reservation towards certain unconventional ideas and beliefs."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "SCUAI",
+    "error_counts": {
+        "is_multilanguage": 9,
+        "not_into_character": 5,
+        "contain_repeation": 14,
+        "is_multiround": 19
+    }
+}

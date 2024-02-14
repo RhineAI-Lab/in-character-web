@@ -1,0 +1,1788 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 41.666666666666664,
+            "all_scores": [
+                32.5,
+                55.0,
+                37.5
+            ],
+            "inter_std": 9.646530752325187,
+            "intra_std": [
+                10.897247358851684,
+                11.180339887498949,
+                12.99038105676658
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Jim:「No, we used to. Now we're friends.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Dwight Schrute:「Yes, I do rarely try to introduce myself to new people at social events. I find that I already have a solid network of acquaintances, and I prefer to engage in meaningful conversations with them rather than wasting time on small talk with strangers. Plus, who knows what kind of weirdos are out there? It's better to stick with the familiar.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Jim:「Yeah, I do actually. I mean, I've done it before and it's led to some great conversations and connections. Why? Are you thinking of trying it?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "The participant leans more towards Introversion (I) based on the preference for meaningful conversations with familiar acquaintances and the exception of feeling comfortable walking up to someone interesting."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Jim:「Uh, not really. I'm more of a solo kind of guy.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Jim Halpert: \"Oh, I definitely avoid leadership roles. In fact, I actively try to undermine them.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Jim:「Yeah, I guess so. I mean, I don't really like being the center of attention.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit more introverted tendencies. He expresses a preference for solo activities, avoidance of leadership roles, and a dislike for being the center of attention."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Crowd:「[ polite clapping ]」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Jim Halpert: \"Oh, absolutely. I mean, who actually enjoys making phone calls? It's so much easier to just send an email or text message. Plus, you never know who you're going to get on the other end. It could be a telemarketer, a wrong number, or even worse, someone you actually have to talk to.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Jim:「Yeah, I guess so. I'm usually the one who sends out the group texts or plans get-togethers. It's just easier for me to take the initiative.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Jim:「Oh, definitely! Dwight is the ultimate lone wolf. He thrives in solitude. In fact, I think he would prefer a job where he never has to interact with another human being ever again. Maybe something like a professional hermit.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a mix of both extraverted and introverted tendencies. While <the participant> enjoys initiating social activities and taking the lead in social circles, there is also a clear preference for solitude and working alone. This suggests a balanced approach to social interaction, with an ability to engage in social settings but also a strong inclination towards personal time and independence."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Angela:「I prefer quiet, intimate places. I find them more peaceful and conducive to deep thinking.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Michael Scott:「No, Dwight, I always worry about making a good impression. In fact, I have a whole routine planned for when I meet new people. I call it 'The Scott Shuffle'. It involves a firm handshake, a charming smile, and a perfectly timed joke. It's foolproof!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Michael Scott: 「This quote is not from the provided text. However, if you are looking for a classic scene involving Dwight Schrute where he discusses being around others, one example is from Season 3, Episode 19, titled \"Safety Training.\" In this episode, Dwight conducts a safety training seminar and asks the employees if they would prefer to be in a cramped space with others or be alone. This leads to a humorous discussion and interaction with the employees.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, <the participant> leans more towards Introversion (I) than Extraversion (E)."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "31",
+                            "16",
+                            "1"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Jim: \"Well, it depends. Sometimes I enjoy the company of others, but there are definitely times when I need my alone time. I think it's all about finding the right balance.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Jim:「Uh, not really. I'm more of a solo kind of guy.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Jim:「No, we used to. Now we're friends.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "The participant demonstrates a mix of both extraverted and introverted tendencies, but leans slightly more towards introversion."
+                    },
+                    {
+                        "id": [
+                            "26",
+                            "21",
+                            "43"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Michael Scott:「I 'm not superstitious, but I am a little stitious.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Jim:「Yeah, that sounds about right. Dwight tends to take charge and assert himself in group situations. It's just his personality.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Jim:「Yeah, I guess so. I mean, I'm usually the one who plans things and reaches out to everyone. It's just easier that way. Plus, I like being in control.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 60.0,
+                        "analysis": "Slightly higher inclination towards extraversion, with some introverted tendencies."
+                    },
+                    {
+                        "id": [
+                            "51",
+                            "15",
+                            "36",
+                            "41"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Jim Halpert: \"Hey Dwight, did you hear about that job opening at the beet farm? I think you'd be perfect for it.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Jim Halpert: \"I am so tired of the Black Eyed Peas. It's rock and roll for people who don't like rock and roll, it's rap for people who don't like rap, it's pop for people who don't like pop. They're like the Olive Garden of music.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Michael Scott: \"Absolutely! A lively social event is the perfect way to unwind and have some fun. And who better to host such an event than our very own Dwight Schrute? He's known for his impeccable party planning skills and attention to detail. So, if you're looking for a night of laughter, music, and great company, look no further than Dwight's social extravaganza!\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Jim Halpert: \"Dwight, I've noticed that you seem to avoid making phone calls. Is there a reason for that?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a balanced behavior between extraversion and introversion. While there are instances of enjoying social events and mentioning the need for a lively social event to unwind, there are also indications of valuing alone time and avoiding phone calls. This suggests a tendency to be adaptable to both social and solitary situations."
+                    },
+                    {
+                        "id": [
+                            "11",
+                            "53",
+                            "6"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Jim:「Uh, yeah, I mean, I guess so. I mean, I've done it before. Why, are you thinking about doing that?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Jim Halpert: \"Definitely more drawn to busy, bustling places. I love the energy and excitement of being in a crowd.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Michael Scott: 「There isn't a specific scene in the provided dialogue that directly addresses Dwight Schrute's social behavior at events. However, based on Dwight's character traits throughout the show, it can be inferred that he generally prefers interacting with people he already knows rather than introducing himself to new individuals at social gatherings. Dwight is often portrayed as socially awkward and prefers routine and familiarity. This trait is highlighted in his interactions with Jim in various scenes, where Jim tries to encourage Dwight to step out of his comfort zone and engage with new people.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, <the participant> leans more towards the Extraversion (E) side of the E/I dimension."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "21",
+                            "43",
+                            "6"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Jim:「Yeah, I do. I mean, I prefer to just sit back and let someone else take charge. It's less responsibility and less stress for me. Plus, I'm not really a fan of being the center of attention. So yeah, I definitely avoid leadership roles whenever possible.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Jim:「Yeah, I guess you could say that. I'm usually the one who plans things and gets everyone together. It's just my natural role, I guess.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Michael Scott: 「No, that scene is not included in the provided text.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a preference for Introversion (I) over Extraversion (E). They mentioned avoiding leadership roles, preferring to sit back and let others take charge, and not being a fan of being the center of attention. Additionally, they indicated that they are usually the one who plans activities and contacts friends, which could be attributed to their comfort in smaller, familiar social circles. The absence of trying to introduce themselves to new people at social events also aligns with introverted tendencies."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "26",
+                            "1"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Jim:「Uh, not really. I'm more of a solo kind of guy.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Jim: \"Uh, yeah, I guess so. I'm not really one for being the center of attention.\"\n\nDwight: \"Interesting. You know, studies have shown that people who avoid drawing attention to themselves often lack self-confidence and assertiveness. It's a sign of weakness.\"\n\nJim: \"Well, I don't really see it that way. I just prefer to stay focused on my work and not make a big show out of everything.\"\n\nDwight: \"Ah, so you're content with mediocrity then. That's fine, I suppose. Some people are just meant to blend into the background.\"\n\nJim: \"I wouldn't say I'm content with mediocrity. I strive to do my best and excel in my own way, but I don't feel the need to constantly seek attention or validation from others.\"\n\nDwight: \"Hmm, interesting perspective. But let me tell you, Jim, in this world, if you don't draw attention to yourself, you'll just be another face in the crowd, easily forgotten.\"\n\nJim: \"Well, maybe being memorable isn't always the most important thing. I'd rather be known for my quality of work and the relationships I build with my colleagues than for being the loudest or most attention-seeking person in the room.\"\n\nDwight: \"We'll see, Jim. We'll see. Just remember, when it comes to success, sometimes you have to step out of the shadows and make your presence known.\"\n\nJim: \"I'll keep that in mind, Dwight. But for now, I'm happy with who I am and how I contribute to the team.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Jim:「No, we used to. Now we're friends.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a preference for introversion. He tends to enjoy solo activities, avoids drawing attention to himself, and values meaningful relationships over seeking attention or validation from others."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Jim Halpert:「Well, that's a tough question. I think it really depends on my mood. Sometimes I crave the excitement and energy of a busy city, but other times I just want to relax in a quiet, intimate setting. So, I guess it's a bit of both for me. How about you, Dwight?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Michael Scott:「No, Dwight, that's not true at all. I always want to make a good impression on people. In fact, I pride myself on my ability to connect with others and leave a lasting positive impression. It's important to me that people like and respect me, because I believe that's what makes a great leader. So, no, I definitely don't rarely worry about making a good impression. It's actually one of my top priorities.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Jim Halpert:「Well, yeah. I mean, who wants to be alone all the time? It's nice to have people to talk to, hang out with, you know?»",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Jim: \"Hey Dwight, remember when you were assigned to work in the annex and you were all by yourself all day? How did you like that?\"\n\nDwight: \"I loved it! No distractions, no annoying coworkers. Just me and my thoughts. It was glorious.\"\n\nJim: \"Yeah, I can see how that would be appealing to you. But don't you miss the social interactions and teamwork in the office?\"\n\nDwight: \"Not really. I find most people to be a hindrance to productivity. Working alone allows me to focus and get things done efficiently.\"\n\nJim: \"Well, to each their own, I guess. But I think I would go crazy if I had to work in solitude all the time.\"\n\nDwight: \"That's because you lack the discipline and self-sufficiency that I possess. Working alone is a true test of character.\"\n\nJim: \"Or maybe it's just that I enjoy the company of others. Different strokes for different folks, Dwight.\"\n\nDwight: \"Indeed, Jim. But mark my words, working alone is the path to true success and greatness.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a balanced approach to social interaction. While they enjoy being around others and prioritize making a good impression, they also appreciate quiet, intimate settings and express a desire for social interaction. However, they also acknowledge the appeal of working alone but express a preference for social interactions and teamwork. Overall, they seem to display characteristics of both extraversion and introversion."
+                    },
+                    {
+                        "id": [
+                            "11",
+                            "36",
+                            "41"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Jim:「Yeah, I do actually. I mean, I think it's all about confidence. You just have to go for it.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Jim Halpert: \"Actually, Dwight, I think I'll pass on the social event. I've had enough excitement for one week.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Jim Halpert:「[laughs] Yeah, I mean, who likes making phone calls, right? It's so much easier to just text or email.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "The participant demonstrates a mix of both extraverted and introverted tendencies, suggesting a balanced position on the E/I dimension."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 30.0,
+            "all_scores": [
+                33.333333333333336,
+                13.333333333333334,
+                43.333333333333336
+            ],
+            "inter_std": 12.472191289246473,
+            "intra_std": [
+                18.856180831641264,
+                9.428090415820634,
+                26.246692913372705
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Jim:「Yeah, I actually have to agree with Dwight on that one.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Michael Scott:「No, Dwight, I am not. I just want to watch TV and eat popcorn.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Jim Halpert: \"Yeah, I do. It's fun to speculate and discuss different possibilities.\"\n\nDwight Schrute: \"Well, you're in luck, because I have just the book for you. It's called 'The Beet of Battlestar Galactica'.\"\n\nJim Halpert: \"The Beet? Like the vegetable?\"\n\nDwight Schrute: \"Yes, but it's also a play on words, you see. It's a collection of short stories and essays that explore different endings to the Battlestar Galactica series.\"\n\nJim Halpert: \"That sounds interesting. So, each story has a different ending?\"\n\nDwight Schrute: \"Exactly! Some stories propose that the humans and Cylons find peace, while others suggest a more tragic outcome. And there's even one where the entire series was just a dream.\"\n\nJim Halpert: \"Wow, that's really cool. I love when books and movies leave room for interpretation.\"\n\nDwight Schrute: \"It's all about engaging your mind and expanding your imagination. Plus, it's a great conversation starter.\"\n\nJim Halpert: \"I'll definitely check it out. Thanks for the recommendation, Dwight.\"\n\nDwight Schrute: \"You're welcome, Jim. Just remember, the beet is always open to interpretation.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Michael Scott:「Oh, absolutely! I'm always prepared for the worst-case scenario. In fact, I have an entire binder dedicated to emergency plans for every possible disaster you can imagine. Earthquakes, fires, zombie apocalypses...you name it, I've got a plan for it. Safety first, right?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a preference for Intuition (N) over Sensing (S). They seem to enjoy exploring various random topics, discussing interpretations and analyses of creative works, and engaging in speculative discussions about different possibilities. Additionally, they express a love for books and movies that leave room for interpretation, indicating a focus on potential possibilities and abstract thinking."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Michael Scott:「Oh, absolutely not. I am the furthest thing from artistic. I can't even draw a stick figure. But you know what I am? I am a visionary. I have ideas. Big ideas. Like a car made out of marshmallows. Or a toaster that also makes waffles. See, that's the kind of innovation that the world needs. Art is overrated, Dwight. It's all about thinking outside the box and pushing the boundaries of what's possible.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Jim Halpert: \"Oh, absolutely. I mean, who hasn't spent countless nights lying awake, pondering the great mysteries of the universe? Like, do we become ghosts? Or do we get reincarnated as a majestic bald eagle soaring through the sky, hunting for fish? It's deep stuff, Dwight.\"\n\nDwight Schrute: \"Exactly! There is so much we don't know about the afterlife. That's why I've been conducting my own research. I've read every book, studied every religion, and even considered building a time machine to find out once and for all.\"\n\nJim Halpert: \"Wow, Dwight. That's some commitment. But what if the afterlife is something completely unimaginable? Like, what if we all turn into unicorns and frolic in fields of cotton candy?\"\n\nDwight Schrute: \"Jim, unicorns and cotton candy? That's ridiculous. More likely, we'll be facing a rigorous test of strength and intelligence in the afterlife. Only the worthy will be granted eternal life, while the weak will be banished to a realm of eternal suffering.\"\n\nJim Halpert: \"Well, Dwight, I guess we'll never truly know until we cross that bridge. But for now, let's focus on the here and now, and make the most of our time while we're still alive.\"\n\nDwight Schrute: \"You're right, Jim. We must seize each moment, for we never know when death will come knocking at our door. And when it does, I'll be ready with my beet farm in the afterlife.\"\n\nJim Halpert: \"Beet farm in the afterlife, huh? Well, that's one way to spend eternity. But hey, if it makes you happy, who am I to judge?\"\n\nDwight Schrute: \"You'll see, Jim. When the time comes, you'll be begging to work on my beet farm too. It's the ultimate form of paradise.\"\n\nJim Halpert: \"Yeah, I think I'll stick with the cotton candy fields, Dwight. But hey, to each their own. Cheers to the great unknown!\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Jim Halpert: \"No, not at all. I actually find it quite stimulating. I love diving into the abstract and exploring new ideas.\"\n\nDwight Schrute: \"Well, that's because you lack the mental capacity to comprehend complex concepts. But don't worry, I'm here to guide you through it.\"\n\nJim Halpert: \"Oh, really? And what makes you the expert on complex concepts, Dwight?\"\n\nDwight Schrute: \"I have an IQ of 160, Jim. I'm a genius. So while you may struggle with theoretical discussions, I thrive in them.\"\n\nJim Halpert: \"Wow, Dwight. I didn't realize you were such a genius. That must be why you're so good at selling paper.\"\n\nDwight Schrute: \"Yes, Jim. My superior intellect allows me to excel in all areas of life, including paper sales. Unlike you, who just coasts by with your mediocre intelligence.\"\n\nJim Halpert: \"Well, Dwight, I may not be a genius like you, but at least I know how to have fun and enjoy my job. Maybe you should try it sometime.\"\n\nDwight Schrute: \"Fun is for the weak, Jim. I am a dedicated employee who takes his job seriously. I don't have time for your silly games.\"\n\nJim Halpert: \"Alright, Dwight. Whatever you say. Just remember, while you're busy being a genius, the rest of us will be enjoying life.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "Jim Halpert:「Not really, why?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Intuition (N) over Sensing (S). They consistently show a focus on abstract thinking, future possibilities, and exploring new ideas. They are drawn to theoretical discussions, pondering the mysteries of the universe, and envisioning innovative concepts. Their lack of interest in art museums further supports their inclination towards Intuition (N)."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Jim Halpert:「Not really, I mean, I think it's important to have empathy and try to see things from other perspectives, but I don't go out of my way to understand every single differing view out there. There's only so much time in the day, you know?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Michael Scott:「Uh, well, not really. I mean, I try to focus on the present and making people happy. Life's too short to spend it pondering deep philosophical questions, you know?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Jim: \"Well, Dwight, I think it depends on the context. If you're using it as a way to avoid doing actual work, then yes, it's a waste of time. But if you're trying to expand your mind and explore different perspectives, then I think it can be valuable.\"\n\nDwight: \"Interesting. So you're saying that pondering abstract philosophical questions can have practical applications?\"\n\nJim: \"Sure, in a way. It can help you develop critical thinking skills and challenge your beliefs. Plus, it's just fun to think about big questions sometimes.\"\n\nDwight: \"Hm, I suppose that's one way to look at it. But I still think time could be better spent on more tangible pursuits.\"\n\nJim: \"And that's fair, Dwight. We all have different interests and priorities. It's what makes our office dynamic so interesting.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Jim:「Hmm, controversial things, huh? Well, let me think...」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 60.0,
+                        "analysis": "Based on the conversations, <the participant> seems to lean slightly towards Sensing (S) as they prioritize the present, practicality, and tangible pursuits. However, they also demonstrate an openness to exploring abstract philosophical questions and different perspectives, indicating a moderate inclination towards Intuition (N)."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "2",
+                            "52",
+                            "30",
+                            "12"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Jim:「Yeah, I actually have to agree with Dwight on that one.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Michael Scott:「Absolutely not, Dwight! Pondering abstract philosophical questions is an essential part of expanding our minds and exploring the depths of human existence. It's like diving into the deep end of the ocean, except instead of water, it's the vast expanse of knowledge and understanding. So, no, Dwight, it is definitely not a waste of time. It's a journey of intellectual enlightenment. Now, let's dive in together and ponder the meaning of life!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Jim: \"Yeah, I guess it's something I've thought about from time to time. I mean, who hasn't wondered what happens when we die?\"\n\nDwight: \"Well, I've given it a lot of thought. And I have my theories, of course. You see, I believe in the concept of the afterlife. I believe that when we die, our souls transcend to another realm, where we are judged based on our actions in this life.\"\n\nJim: \"That's an interesting perspective, Dwight. So, what do you think happens to someone who's been, let's say, less than virtuous in their lifetime?\"\n\nDwight: \"Ah, well, that's where it gets interesting. You see, I believe in a system of rewards and punishments in the afterlife. Those who have led righteous lives will be rewarded with eternal happiness and bliss, while those who have led sinful lives will face eternal torment and suffering.\"\n\nJim: \"Wow, that's pretty intense. So, you think it's like heaven and hell?\"\n\nDwight: \"Exactly! Heaven for the good, hell for the wicked. It's a simple and just system, if you ask me. But of course, this is all just speculation. We won't know for sure until we cross that threshold ourselves.\"\n\nJim: \"Well, I guess we'll just have to wait and see. But hey, let's focus on enjoying this life while we can, right?\"\n\nDwight: \"Absolutely, Jim. Carpe diem, seize the day. But always keep in mind the consequences of your actions, for they may follow you into the great beyond.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Jim: \"Not really, Dwight. I'm more interested in, you know, actually doing work and getting things done.\"\n\nDwight: \"Well, that's just typical of someone who lacks the intellectual capacity to appreciate the depth and complexity of artistic expression.\"\n\nJim: \"Or maybe, I just don't want to waste my time discussing the symbolism of a stapler.\"\n\nDwight: \"Ah, ignorance is bliss, my friend. But one day, you'll regret not engaging in intellectual discourse.\"\n\nJim: \"Yeah, maybe. But for now, I'll stick to doing my job and leaving the deep thoughts to you.\"\n\nDwight: \"Very well. Just remember, while you're busy being ordinary, I'll be exploring the vast realm of knowledge and enlightenment.\"\n\nJim: \"Good luck with that, Dwight.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for Intuition (N) over Sensing (S). They express a strong interest in exploring abstract philosophical questions, pondering the meaning of life, and discussing interpretations and analyses of creative works. They also engage in conversations about the afterlife and the potential consequences of actions, indicating a focus on future possibilities and abstract thinking."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "37",
+                            "46",
+                            "22"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Jim:「Well, I think it's important to have an open mind and try to understand different perspectives. It helps broaden our own worldview and promotes better communication and empathy. So yeah, I do try to spend time understanding different views, even if they are very different from my own.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "Pam:「Yeah, I do actually. Why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Jim Halpert: \"No, not really. I mostly just think about what I'm going to have for lunch.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Jim:「No, definitely not. I can barely draw a stick figure.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for Intuition (N) over Sensing (S). They seem to enjoy contemplating different perspectives, appreciate art, and engage in abstract thinking. Their responses indicate a focus on possibilities and future opportunities rather than just the concrete and practical aspects of life."
+                    },
+                    {
+                        "id": [
+                            "57",
+                            "17",
+                            "32",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Jim: \"Oh, absolutely. Controversial things are like a magnet for me.\"\n\nDwight: \"Interesting. So you're drawn to controversy?\"\n\nJim: \"Well, I wouldn't say drawn, but I definitely find it intriguing.\"\n\nDwight: \"Hmm, I see. So you enjoy the challenge of navigating through controversial topics?\"\n\nJim: \"I wouldn't say enjoy, but I do find it intellectually stimulating.\"\n\nDwight: \"Fascinating. Well, I must say, I admire your ability to handle controversy with such ease.\"\n\nJim: \"Thanks, Dwight. It's all about open-mindedness and respectful discussions.\"\n\nDwight: \"Indeed. It takes a certain level of maturity to appreciate controversial subjects.\"\n\nJim: \"Absolutely, Dwight. And I think it's important to approach them with an open mind.\"\n\nDwight: \"Well said, Jim. It's clear that you have a deep understanding of controversy.\"\n\nJim: \"Thank you, Dwight. I appreciate that.\"\n\nDwight: \"You're welcome, Jim. It's always interesting to discuss controversial topics with you.\"\n\nJim: \"Likewise, Dwight. It's never a dull moment with you.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Jim Halpert: \"Oh, definitely! I love movies like that. It's like a puzzle, trying to figure out what really happened.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Michael Scott:「No, Dwight, I love theoretical discussions! They're like mental gymnastics for my brain. Plus, it's a great opportunity to show off my vast knowledge and impress everyone with my intellectual prowess. So, bring on the theories! Let's dive deep into the abyss of abstract thinking and explore the uncharted territories of the mind!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Michael Scott:「Okay, Dwight, I'm going to be honest with you. I'm always worried that things will take a turn for the worse. Like, I wake up every morning thinking, 'Today's the day that something terrible is going to happen.' But you know what? I still show up, I still do my job, and I still try to make the best of it. Because that's what a great leader does. So yeah, I worry, but I don't let it hold me back. And neither should you.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong inclination towards Intuition (N). They express a keen interest in controversial and abstract topics, enjoy open-ended interpretations in books and movies, and actively seek out theoretical discussions. Additionally, their tendency to worry about potential negative outcomes aligns with a future-oriented, imaginative thinking style."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "42",
+                            "20",
+                            "12",
+                            "2"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Jim Halpert:「Well, Dwight, I think it's important to have an open mind and try to understand different perspectives. It helps us grow as individuals and helps foster better communication and collaboration. Plus, it's just interesting to see how people think and why they believe what they believe. So yeah, I do try to spend time understanding views that are different from my own.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Michael Scott:「Well, Dwight, I wouldn't say I'm prone to worrying. I'm more of an optimistic person, always looking for the best in every situation. But hey, if things do take a turn for the worse, I'll just have to find a way to turn it into something great! That's what being a great leader is all about, right?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Jim:「Not really, Dwight. I prefer to just enjoy things without overthinking them.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Jim:「Yeah, actually I do. It's always fun to learn new things and expand my knowledge. How about you, Dwight? Do you have any random topics you like to explore?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for Intuition (N) over Sensing (S). They seem to focus on understanding different perspectives, being optimistic about the future, and exploring random topics that pique their interest. Additionally, they express a lack of interest in overanalyzing creative works, which aligns with an intuitive approach."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "46",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Jim:「Definitely not. I can't draw a stick figure to save my life.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Jim Halpert: \"Uh, no, not really. I mostly just try to make it through the workday.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Jim Halpert: \"Yeah, I do. It's fun to have discussions and debates about what really happened or what it all means.\"\n\nDwight Schrute: \"Well, I hate it. I like clear endings. In my opinion, if a book or movie doesn't give you a definitive conclusion, then it's just lazy storytelling. I like things spelled out for me.\"\n\nJim Halpert: \"But sometimes leaving it open-ended can make it more thought-provoking. It allows you to think about different possibilities and come up with your own theories.\"\n\nDwight Schrute: \"No, that's just a cop-out. If the writer can't come up with a satisfying ending, then they shouldn't be writing in the first place. It's a waste of time.\"\n\nJim Halpert: \"Well, I guess we'll just have to agree to disagree on this one, Dwight.\"\n\nDwight Schrute: \"Fine. But I'll always prefer a clear, concise ending over any ambiguous nonsense.\"\n\n[narration: SCENE_BREAK]",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "Jim: \"Uh, not really, Dwight. I'm not really into art.\"\n\nDwight: \"Well, that's a shame. Art is a reflection of our society, a commentary on the human condition. It's a way to connect with our past and understand our present. It's a shame you're missing out on all that.\"\n\nJim: \"Yeah, well, I'll stick to my Bob Ross paintings and call it a day.\"\n\nDwight: \"Bob Ross? That hack? You're missing out on the true masters of art, like Hieronymus Bosch or Vincent van Gogh. They were true visionaries, not some guy painting happy little trees.\"\n\nJim: \"To each their own, Dwight. I'll let you enjoy your art, and I'll stick to my own hobbies.\"\n\nDwight: \"Fine, but just remember, art is all around us, even if you choose to ignore it.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for Sensing (S) over Intuition (N). The participant tends to focus on concrete, practical, and present situations, as seen in the preference for clear, concise endings in books and movies, the lack of interest in contemplating the meaning of life, and the disinterest in art museums. The participant's responses indicate a reliance on tangible evidence and a pragmatic approach to decision-making."
+                    },
+                    {
+                        "id": [
+                            "52",
+                            "30",
+                            "57",
+                            "32"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Michael Scott:「Absolutely not, Dwight. Pondering abstract philosophical questions is a valuable use of time. It expands our minds and helps us think critically about the world around us. Plus, it's fun to debate and discuss these ideas with others. So, let's not dismiss the importance of philosophical pondering. It's a worthy pursuit.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Jim Halpert: \"Oh, absolutely. I mean, who hasn't spent countless nights lying in bed, pondering the great mysteries of the universe? What happens when we shuffle off this mortal coil? Is there an afterlife? A heaven? A hell? Or do we just cease to exist, like a forgotten Snapchat message?\"\n\nDwight Schrute: \"Exactly! These are the questions that keep me awake at night. I've read every book, studied every theory, and even dabbled in some amateur ghost hunting. I'm determined to find the truth, Jim.\"\n\nJim Halpert: \"Well, Dwight, I admire your dedication. But personally, I like to live in the present. Carpe diem, you know?\"\n\nDwight Schrute: \"Carpe diem? That's just a fancy way of saying 'eat, drink, and be merry, for tomorrow we die.' But what if there's more to it? What if death is just the beginning of a new adventure?\"\n\nJim Halpert: \"Well, Dwight, I guess we'll never know until we get there. But for now, I'll stick to enjoying my time on this side of the veil.\"\n\nDwight Schrute: \"Fair enough, Jim. But mark my words, one day I will unlock the secrets of the afterlife. And when I do, I'll be sure to let you know.\"\n\nJim Halpert: \"I can't wait, Dwight. Until then, I'll be here, living life to the fullest. Cheers to that.\"\n\n(They clink their glasses together and continue their work)",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Jim: \"Oh, absolutely. Controversy is like catnip to me. I just can't resist diving into those heated debates and stirring the pot.\"\n\nDwight: \"Interesting. I find controversy to be a waste of time. It's just a distraction from productivity and efficiency. I prefer to focus on things that actually matter.\"\n\nJim: \"Well, to each their own, I guess. But I have to say, controversy does make life a little more exciting, don't you think?\"\n\nDwight: \"Excitement is overrated. Give me stability and predictability any day. Controversy only leads to chaos and unnecessary drama.\"\n\nJim: \"Well, Dwight, you may be onto something there. But where's the fun in always playing it safe? Sometimes, you need a little controversy to shake things up and challenge the status quo.\"\n\nDwight: \"Challenge the status quo? That's what revolutionaries do, Jim. I prefer to keep things orderly and follow the rules. That's how you achieve success.\"\n\nJim: \"Fair enough, Dwight. I guess we'll just have to agree to disagree on this one. But let me tell you, controversy can be quite entertaining.\"\n\nDwight: \"Entertaining, maybe. But at the end of the day, it's just a distraction. I'll stick to focusing on my work and achieving my goals.\"\n\nJim: \"Suit yourself, Dwight. But don't be surprised if you miss out on some interesting discussions and thought-provoking debates.\"\n\nDwight: \"I'll take that risk, Jim. I have bigger things to worry about than getting caught up in controversial nonsense.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Jim Halpert:「Well, that depends. Are we talking about theoretical discussions on bears or theoretical discussions on beets? Because I can talk about bears all day, but beets... not so much.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong inclination towards Intuition (N). They express a keen interest in pondering abstract philosophical questions, contemplating the mysteries of the universe, and delving into controversial topics. They also seem to enjoy theoretical discussions, albeit with a preference for certain topics. Overall, their responses consistently reflect a focus on potential possibilities, future opportunities, and abstract thinking."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 49.333333333333336,
+            "all_scores": [
+                56.0,
+                50.0,
+                42.0
+            ],
+            "inter_std": 5.734883511361751,
+            "intra_std": [
+                8.0,
+                0.0,
+                11.661903789690601
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Jim:「No, not really. Why? Are you feeling emotional, Dwight?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Jim Halpert: \"Oh, absolutely. I am like a Zen master when it comes to staying calm. Nothing ever gets to me.\" \n\nDwight Schrute: \"Well, we'll see about that. Let's put you to the test.\" \n\n[Later in the office, Dwight starts playing a high-pitched noise on his computer]\n\nJim Halpert: \"What is that sound? Dwight, what are you doing?\" \n\nDwight Schrute: \"Just testing your ability to stay calm under pressure, Jim. Can you handle it?\" \n\nJim Halpert: [trying to maintain composure] \"Yeah, no problem. It's just a little annoying, that's all.\" \n\n[The sound continues for several minutes, gradually getting louder]\n\nJim Halpert: [starting to lose his cool] \"Okay, Dwight, this is really annoying. Can you please turn it off?\" \n\nDwight Schrute: \"Not until you prove that you can stay calm. Remember, a true professional never lets distractions get in the way.\" \n\nJim Halpert: [frustrated] \"Fine, I can handle this. I can handle anything.\" \n\n[The noise finally stops]\n\nDwight Schrute: \"Impressive, Jim. You passed the test. You stayed calm even under extreme pressure. I knew I could count on you.\" \n\nJim Halpert: [relieved] \"Thanks, Dwight. Can we please never do that again?\" \n\nDwight Schrute: \"Of course not. We've established your ability to handle any situation. You're a true professional.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Michael Scott: \"Sentimental? Me? No way. Sentimentality is for the weak. I mean, sure, I may shed a tear or two during a touching movie or when I see a cute puppy, but that's just because I have a big heart. It's not sentimental, it's just...emotional. Sentimentality is overrated. Now, let's get back to work and crush this sales goal!\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Jim Halpert:「Oh, absolutely. I think everyone has moments of self-doubt, especially when something goes wrong. But it's important to remember that one mistake doesn't define who you are or what you're capable of. It's just a bump in the road, and you can learn from it and move forward.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 60.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a balanced approach to the Thinking (T) and Feeling (F) dimension, with a slight leaning towards the Thinking (T) side."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Jim:「Yeah, I think so. I mean, my head is usually pretty logical and rational, whereas my heart can sometimes lead me astray. So, yeah, I would say I'm more inclined to follow my head.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Michael Scott:「Well, I think my happiness comes from a combination of both. I love helping others and seeing them succeed, but I also enjoy my own accomplishments. It's all about finding a balance and finding joy in both.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Jim:「Well, Dwight, feelings are a big part of what makes us human. They drive our passions, our connections with others, and even our decision-making. Rationality is important too, of course, but it's all about finding a balance.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Jim Halpert: \"Yeah, it's like a spectator sport for me. I just sit back and enjoy the show.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, <the participant> seems to lean more towards the Thinking (T) dimension. They prioritize logic and rationality in decision-making, as evidenced by their inclination to follow their head over their heart and their belief in finding a balance between rationality and emotions. Additionally, their enjoyment of watching people argue suggests a preference for detached observation rather than being emotionally affected by conflicts."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "Michael Scott:「Oh, absolutely. Like one moment I'm happy, and then boom! I'm angry. It's like a rollercoaster of emotions.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Jim:「Yes, I do.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Jim: \"Well, I think it depends on the situation. I mean, if someone is going through something really difficult, like a loss or a major life change, I think it's important to try and put yourself in their shoes, even if you haven't experienced exactly what they have. But at the same time, there are some things that you just can't fully understand unless you've been through it yourself.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Jim Halpert:「Yeah, Dwight, I think you might be a little lacking in the empathy department.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a fairly balanced approach to decision-making, considering both logic and emotions. While <the participant> does express impatience with inefficiency and acknowledges difficulty in understanding others' feelings, there are also instances of quick mood changes and attempts to empathize with others. This suggests a blend of both Thinking and Feeling traits."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Jim: \"Not really, no. I'm pretty confident in myself.\"\n\nDwight: \"Interesting. Because I never feel insecure. In fact, I'm so secure that I often wonder why others aren't as confident as me. It must be a weakness they have.\"\n\nJim: \"Well, I think everyone has their moments of insecurity. It's just part of being human.\"\n\nDwight: \"Weakness. Humans are weak. But not me. I am strong and unwavering in my confidence.\"\n\nJim: \"Sure, Dwight. Whatever you say.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Michael Scott:「Well, let me tell you something, Dwight. I am haunted by mistakes. I wake up in a cold sweat thinking about all the things I could have done differently. The regrets, the missed opportunities... They eat away at me. But you know what? I've learned to embrace them. Because without mistakes, we wouldn't have growth. We wouldn't have the chance to become better versions of ourselves. So, yes, I am bothered by my mistakes, but I am also grateful for them. They have shaped me into who I am today.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Jim Halpert:「I'm sorry, what was the question? I was too busy picturing Dwight as a Sith Lord.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Jim: \"Dwight, what are you doing?\"\nDwight: \"I'm taking great care not to make people look bad, even when it's completely their fault.\"\nJim: \"Uh, okay. Why?\"\nDwight: \"Because I believe in treating people with respect and dignity, even when they mess up. It's not about assigning blame, it's about finding solutions and moving forward.\"\nJim: \"That's actually a really admirable quality, Dwight.\"\nDwight: \"Thank you, Jim. It's just how I operate. I believe in fairness and giving people the benefit of the doubt.\"\nJim: \"Well, I appreciate that. It's definitely a unique approach.\"\nDwight: \"Thank you, Jim. I take pride in my ability to handle situations with grace and tact.\"\nJim: \"Well, keep up the good work, Dwight. The office could use more people like you.\"\nDwight: \"I will, Jim. Thank you for recognizing my efforts.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a mix of both Thinking (T) and Feeling (F) traits. While <the participant> expresses confidence in their own abilities and emphasizes strength and unwavering confidence, they also show empathy, consideration for others' feelings, and a focus on harmony and respect. This suggests a balanced approach to decision-making, incorporating both logical analysis and emotional consideration."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Jim:「You know what, Dwight? I think people actually have a lot of respect for you. You may not realize it, but you're one of the most dedicated and hardworking people in this office. And that's something to be proud of.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Jim:「Well, not always. I mean, sometimes you can tell by someone's body language or facial expressions, but it's not always accurate. Why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Jim: \"Only when I'm around you, Dwight.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Jim: \"Well, it depends on the situation. I mean, if it's something really important and I know someone else could benefit from it more, then yeah, I would pass it along. But if it's something that I really need or want, then I would have to consider that too.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a balanced approach to decision-making, considering both logic and emotions. While <the participant> values respect, dedication, and hard work, indicating a consideration for logical and objective qualities, <the participant> also shows empathy and a willingness to consider others' needs and emotions in decision-making. This suggests a blend of both Thinking and Feeling traits."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "55",
+                            "13",
+                            "5",
+                            "33"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Michael Scott:「Only when I'm awake.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Jim:「I think I'm more inclined to follow my gut.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Jim Halpert:「Oh, yeah. I stay very calm.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Jim: \"Well, empathy is a complicated thing, Dwight. I mean, it's easy to empathize with someone who's had similar experiences to yours because you can relate to what they're going through. But when it comes to someone with different experiences, it can be challenging. However, I think that's where true empathy lies - being able to put yourself in someone else's shoes, even if you haven't walked the same path. It's about understanding and connecting with their emotions and struggles, regardless of whether they're familiar to you.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Balanced approach, considering both logic and emotions"
+                    },
+                    {
+                        "id": [
+                            "48",
+                            "10",
+                            "3",
+                            "45"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Dwight Schrute:「Absolutely. I pride myself on being fair and just, even in difficult situations. It's important to maintain a positive work environment and not embarrass or humiliate others, regardless of who is at fault. We should focus on finding solutions and improving, rather than pointing fingers and making people look bad. That's how we foster trust and teamwork within the office.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Michael Scott:「Well, Dwight, I think we all have moments of self-doubt. But it's important to remember that one small mistake doesn't define who we are. We're all capable of learning and growing from our experiences. So, don't let one setback shake your confidence. Keep pushing forward and trust in your abilities.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Michael Scott:「No, it actually makes me want to laugh. Like, why are they crying? It's so weird. But I guess that's just me. I'm not a very emotional person.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Jim Halpert:「Yeah, I mean, doesn't everyone have those moments that just keep replaying in their head?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a balanced approach to the Thinking (T) and Feeling (F) dimension. While <the participant> emphasizes the importance of fairness, justice, and maintaining a positive work environment, there are also indications of self-doubt and being bothered by past mistakes, which suggests a consideration of personal emotions and experiences. Additionally, the response to seeing others cry indicates a more logical and less emotional reaction."
+                    },
+                    {
+                        "id": [
+                            "58",
+                            "50",
+                            "28",
+                            "27"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Jim:「Well, it depends on the situation. If it's something that I really want and I've been working towards, I might have a hard time letting go. But if I genuinely believe that someone else would benefit more from it, then yeah, I would pass it along. It's all about fairness and looking out for others.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Jim:「What are you talking about, Dwight?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Jim Halpert:「Oh, all the time. Dwight is my favorite target.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "Michael Scott: \"Well, yes. One minute I'm happy, and the next minute I'm sad. But the important thing is that I always stay unpredictable!\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a balanced approach to decision-making, considering both logic and emotions. While <the participant> values fairness and looking out for others, there are also instances where efficiency and directness are evident. Additionally, the quick changes in mood and the emphasis on staying unpredictable suggest a blend of both thinking and feeling tendencies."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "47",
+                            "25",
+                            "18"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Jim: \"Well, Dwight, that's an interesting question. I think there's definitely value in rationality and logic, but I also believe that emotions play a crucial role in our lives. They help us connect with others, understand ourselves better, and make important decisions. So, while balance is important, I don't think completely discounting our feelings would make the world a better place.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Jim:「Well, I don't really think about it. I mean, I don't let my emotions get to me too much. I try to stay level-headed and rational. But I guess everyone has their moments, right?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Jim Halpert:「Oh, absolutely. It's like a real-life soap opera. But better because you don't have to wait until tomorrow to find out what happens next.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Jim:「I don't know, I guess I never really thought about it. I mean, I like helping people, but I also enjoy achieving my own goals. I think it's a balance, you know? Being able to support others while also pursuing my own happiness.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to decision-making, considering both rationality and emotions. While they value rationality and logic, they also emphasize the importance of emotions in connecting with others and making decisions. They also express an interest in watching people argue, indicating a level of detachment from emotional conflicts. Additionally, their response about happiness suggests a balanced perspective, valuing both helping others and achieving personal goals."
+                    },
+                    {
+                        "id": [
+                            "54",
+                            "40",
+                            "38",
+                            "8"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Michael Scott:「No, not at first glance. But I can usually tell when someone is happy or sad or angry. It's all about reading their body language and facial expressions. Why do you ask, Dwight?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Jim: \"Dwight, you're like a robot. Robots don't feel insecure.\"\n\nDwight: \"Robots don't need to feel insecure. They're efficient, reliable, and superior to humans in every way.\"\n\nJim: \"Well, I guess that's one way to look at it. But you know, Dwight, it's okay to have vulnerabilities. It's what makes us human.\"\n\nDwight: \"I don't need vulnerabilities. I am strong, capable, and always one step ahead of everyone else.\"\n\nJim: \"Sure, Dwight. Whatever you say. But deep down, I think even robots like you have moments of self-doubt.\"\n\nDwight: \"I am not a robot, Jim. I am Dwight Schrute, Assistant Regional Manager, and I am invincible.\"\n\nJim: \"Alright, Dwight. Keep telling yourself that. But remember, it's okay to ask for help or admit when you're not feeling 100% confident.\"\n\nDwight: \"I don't need help. I am Dwight Schrute, and I can handle anything that comes my way.\"\n\nJim: \"Alright, Dwight. If you say so. Just remember, even superheroes have their weaknesses.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Jim:「Actually, Dwight, I think you have a hard time understanding other people's feelings.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Jim Halpert: \"Yeah, I guess I am. I mean, I save all my used concert tickets and I have every birthday card I've ever received.\"\n\nDwight Schrute: \"Sentimental people are weak. They're like little babies.\"\n\nJim Halpert: \"Well, I think it's nice to hold on to memories. It reminds you of the good times.\"\n\nDwight Schrute: \"Good times? Memories are for losers. Winners focus on the future and making things happen.\"\n\nJim Halpert: \"I don't know, Dwight. I think it's important to appreciate the past and the people who have been a part of it.\"\n\nDwight Schrute: \"Sentimentality is just an excuse for weakness. I don't need to hold on to anything. I'm strong enough on my own.\"\n\nJim Halpert: \"Well, to each their own, I guess. But I'll keep my sentimental side. It's what makes me who I am.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a balanced approach to the Thinking (T) and Feeling (F) dimension. While <the participant> shows some tendencies towards logical and direct thinking, there is also a strong inclination towards considering emotions, empathy, and valuing personal values. <the participant> seems to prioritize both efficiency and harmony, indicating a balanced approach to decision-making."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "5",
+                            "50",
+                            "8",
+                            "47"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Jim Halpert:「Oh, yeah. I stay very calm.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Jim:「I don't think that's how it works, Dwight. People can appreciate and respect you without feeling disappointed.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Jim Halpert: \"Oh, yeah. I'm the king of sentimental. I once cried because I couldn't finish my burrito.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Jim: \"Oh, absolutely. I mean, sometimes I just can't help but laugh at Dwight's antics. It's like he's a walking comedy show. But hey, that's just me. Emotions are a funny thing, aren't they?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a balanced approach to the Thinking (T) and Feeling (F) dimension. While <the participant> demonstrates a logical and calm demeanor in some instances, there are also clear indications of empathy, sentimentality, and consideration of others' emotions. This suggests a blend of both thinking and feeling tendencies."
+                    },
+                    {
+                        "id": [
+                            "58",
+                            "3",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Jim: \"Um, well, I guess it would depend on the situation. But yeah, if I thought someone else really needed it and it could make a big difference for them, then yeah, I would pass it along.\"\n\nDwight: \"Interesting. You know, I've always believed in looking out for myself first. Survival of the fittest, you know? But I suppose there are times when it's important to prioritize others. It's a tough call though.\"\n\nJim: \"Yeah, it definitely is. But hey, at the end of the day, we're all in this together, right? We should be helping each other out whenever we can.\"\n\nDwight: \"I suppose you're right, Jim. We may have our differences, but we're still a team. And sometimes, being a team means sacrificing for the greater good.\"\n\nJim: \"Exactly. So, if it came down to it, I think I would pass along that opportunity. Because in the end, it's not just about me, it's about all of us.\"\n\nDwight: \"Hmm, you've given me something to think about, Jim. Maybe there's more to this teamwork thing than I thought.\"\n\nJim: \"Glad I could help, Dwight. We make a pretty good team, you know?\"\n\nDwight: \"Yes, we do. And together, we can accomplish great things.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Michael Scott: 「There is no specific scene provided that matches the quoted dialogue for Dwight Schrute.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Jim:「Never underestimate the power of Dunder Mifflin, right?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Jim: \"Well, I think it depends on the person. I mean, I can try to put myself in their shoes and imagine how they might be feeling, but I can't say for certain if I truly understand what they're going through. But I think it's important to at least try and show empathy towards others, even if their experiences are different from ours. It's a way to connect with people and show that we care.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong inclination towards the Feeling (F) dimension, emphasizing the importance of helping others and showing empathy."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "27",
+                            "54",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Michael Scott:「Well, Dwight, I wouldn't say I enjoy it, but it can be quite entertaining at times. I mean, who doesn't love a good argument? It's like watching a tennis match, back and forth, back and forth. And then, when someone finally makes a point, it's like a satisfying ace right down the middle. Game, set, match!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "Michael Scott:「Oh, absolutely! One moment I'm feeling on top of the world, the next I'm in the depths of despair. It's like a rollercoaster of emotions!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Jim: \"Uh, no, not always. Why do you ask?\"\nDwight: \"Well, I can. It's one of my many skills. Watch this. [looks at Pam] Pam, you seem upset. Did something happen?\"\nPam: \"Uh, no, I'm fine, Dwight.\"\nDwight: \"Ah, see? I knew it. There's something bothering you. You can't hide it from me.\"\nJim: \"Dwight, sometimes people just have bad days. It doesn't mean there's some hidden meaning behind it.\"\nDwight: \"Oh, there's always a hidden meaning, Jim. I'll figure it out. Just you wait.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Jim Halpert:「Yeah, Dwight. I think you nailed it.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit characteristics of both Thinking (T) and Feeling (F) types. They enjoy watching arguments and use a metaphor to describe it, which suggests a logical and analytical approach (T). However, they also experience rapid mood changes and acknowledge having a hard time understanding other people's feelings, indicating a consideration of emotions (F)."
+                    },
+                    {
+                        "id": [
+                            "48",
+                            "55",
+                            "13",
+                            "45"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Jim:「Hey Dwight, can I ask you a question?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Andy:「Yeah, sometimes. Especially when I have a lot of projects to juggle at once. It can be pretty stressful.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Michael Scott:「Well, that's a tough one. I mean, I always try to do what feels right, you know? But sometimes, my head gets in the way and starts overthinking things. So, I guess you could say I'm a bit of both. I follow my heart, but I also listen to my head...sometimes.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Jim:「Well, I think everyone has some regrets, but dwelling on them doesn't really help. You just have to learn from them and move on.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Balanced approach, considering both logic and emotions in decision-making."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "18",
+                            "40",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Jim: \"Well, Dwight, that's an interesting question. I mean, emotions can sometimes cloud our judgment, but they also make us human. It's all about finding a balance, you know?\"\n\nDwight: \"Balance? That's weak. Emotions are a weakness. We should be guided by logic and reason. Feelings just get in the way of progress.\"\n\nJim: \"I get where you're coming from, Dwight, but emotions can also drive us to do great things. They can inspire us and connect us with others on a deeper level.\"\n\nDwight: \"Nonsense! Emotions lead to irrational decisions. We should be guided by facts and evidence, not by some mushy-gushy feelings.\"\n\nJim: \"Well, Dwight, I think it's okay to embrace both sides. We can be rational and logical while also acknowledging and understanding our emotions. It's what makes us human.\"\n\nDwight: \"Humans are flawed creatures. We should strive for perfection, not be held back by these silly emotions.\"\n\nJim: \"Perfection is overrated, Dwight. It's our quirks and imperfections that make us who we are. And sometimes, our emotions can lead us to the most meaningful and fulfilling experiences in life.\"\n\nDwight: \"I still disagree, but I guess we'll just have to agree to disagree on this one, Jim.\"\n\nJim: \"Fair enough, Dwight. It wouldn't be Dunder Mifflin without our friendly debates.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Michael Scott:「Oh, absolutely. I mean, there's nothing better than seeing someone else succeed because of something you did. It's like a double win. I get the satisfaction of helping them, and then I also get to take credit for it. It's a win-win-win.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Jim Halpert:「Yeah, I'd say I never really feel insecure.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Jim Halpert:「Dwight, you're overthinking this. It was just a typo. Everyone makes mistakes.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a balanced approach to decision-making, considering both rationality and emotions. They emphasize the importance of finding a balance between logic and feelings, acknowledging the value of emotions in driving inspiration and meaningful experiences. Additionally, <the participant> expresses a strong inclination towards considering others' emotions and helping them succeed, indicating a significant focus on empathy and harmony. Furthermore, <the participant> displays a resilient and confident attitude, rarely feeling insecure and not letting small mistakes affect their overall confidence."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 56.666666666666664,
+            "all_scores": [
+                51.25,
+                58.75,
+                60.0
+            ],
+            "inter_std": 3.8640077064565435,
+            "intra_std": [
+                21.323402636539974,
+                21.901769334919038,
+                12.24744871391589
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Jim Halpert:「Yeah, just in case my backup plan fails, which it usually does.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Jim Halpert:「No, I usually have multiple projects going on at once. Keeps things interesting.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Jim:「Not really, I'm more of a go-with-the-flow kind of guy.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Jim:「Well, I'm more of a go-with-the-flow kind of person. I don't really like sticking to a strict routine. I like to keep things spontaneous and see where the day takes me.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "The participant's responses consistently indicate a preference for flexibility, spontaneity, and openness to various possibilities, which align with the Perceiving (P) aspect of the P/J dimension."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Jim: \"Yeah, I mean, there are just so many options out there. It's like, how do you decide?\"\n\nDwight: \"Well, it's simple for me. I have a list of goals and priorities, and I just go down the list. No time for indecision.\"\n\nJim: \"But what if you're interested in multiple things at once? How do you choose?\"\n\nDwight: \"I don't have that problem. I know what I want, and I go after it. No distractions.\"\n\nJim: \"Wow, Dwight, you make it sound so easy. I wish I had your clarity.\"\n\nDwight: \"It's not easy, Jim. It takes discipline and focus. But if you really want something, you have to go for it. No hesitations.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Jim Halpert: \"Uh, no, not really. I'm more of a 'relax first, then maybe do some chores if I feel like it' kind of guy.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Jim Halpert:「Yeah, I do.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Jim Halpert:「Well, I like to weigh all my options and make sure I'm making the best decision possible. Plus, it's fun to watch Dwight squirm a little.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 55.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a preference for both Perceiving (P) and Judging (J) traits. However, there are more instances where <the participant> leans towards the Perceiving (P) side, such as expressing difficulty in choosing, doing things at the last possible moment, and postponing decisions to gather more information. On the other hand, <the participant> also shows some Judging (J) tendencies by mentioning having a list of goals and priorities and the importance of discipline and focus. Overall, there is a slight inclination towards Perceiving (P) due to the emphasis on exploring options and delaying decisions."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Jim:「Well, I guess it depends on the situation. But yeah, I try not to dwell on the past too much. What's done is done, you know?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Jim Halpert:「Nah, I prefer to just go with the flow, see where the day takes me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Michael Scott:「Yes, absolutely. It's important to be adaptable and find solutions when things don't go as planned. I believe in staying focused and getting back on track as quickly as possible. But sometimes, you have to embrace the unexpected and see where it takes you. Like that time we ended up having a spontaneous dance party in the office. Good times, good times.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Jim Halpert:「Um, I would say my personal work style is more about finding a balance between spontaneity and organization. I like to have a flexible approach to my work, but I also believe in setting goals and sticking to a plan to ensure efficiency and productivity.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to decision-making, planning, and adaptability. They seem to value both spontaneity and organization, showing a willingness to adapt to unexpected situations while also recognizing the importance of setting goals and sticking to a plan for efficiency."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Jim Halpert: \"Oh, definitely. Dwight, you know me. I'm all about the methodical approach. Step by step, no shortcuts.\"\n\nDwight Schrute: \"Good, because if you skip any steps, you risk making mistakes. And mistakes are not acceptable in my world.\"\n\nJim Halpert: \"I hear you, Dwight. I'll make sure to dot every 'i' and cross every 't'.\"\n\nDwight Schrute: \"That's what I like to hear, Jim. Attention to detail is key.\"\n\n[narration: SCENE_BREAK]\n\nDwight Schrute: \"Are you following the proper beet farming techniques? Remember, beets are a delicate crop.\"\n\nJim Halpert: \"Absolutely, Dwight. I've been studying beet farming techniques non-stop. I even have a beet farming manual in my bag.\"\n\nDwight Schrute: \"Excellent. Beets require precision and care. We can't afford any mistakes when it comes to our beet harvest.\"\n\nJim Halpert: \"You can count on me, Dwight. I'll be the best beet farmer this office has ever seen.\"\n\n[narration: SCENE_BREAK]\n\nDwight Schrute: \"Do you have the survival skills necessary to navigate the wilderness? In case of a zombie apocalypse, for example.\"\n\nJim Halpert: \"Well, Dwight, I may not have extensive survival training, but I've seen enough movies and TV shows to know the basics.\"\n\nDwight Schrute: \"Movies and TV shows won't cut it, Jim. You need real-life experience. I'll take you on a survival training expedition. We'll see if you have what it takes.\"\n\nJim Halpert: \"Sounds like an adventure, Dwight. I'm up for the challenge.\"\n\n[narration: SCENE_BREAK]\n\nDwight Schrute: \"Can you handle the responsibility of being Assistant Regional Manager? It's a position of great importance.\"\n\nJim Halpert: \"Absolutely, Dwight. I've always been a team player and I know how to lead when necessary. I won't let you down.\"\n\nDwight Schrute: \"Assistant to the Regional Manager, Jim. It's an important distinction.\"\n\nJim Halpert: \"Right, sorry. Assistant to the Regional Manager. I'll make sure to carry out my duties with the utmost dedication.\"\n\n[narration: SCENE_BREAK]",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Jim Halpert:「Oh, absolutely. I mean, who doesn't? Deadlines can be really stressful sometimes.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Michael Scott:「Confident? I don't know if I would use that word. I mean, I hope things work out, but confidence is a strong word. But hey, you never know, right? Life is full of surprises.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong preference for structured and planned approaches. They emphasize the importance of methodical completion of tasks, attention to detail, and precision in various scenarios. Additionally, they express a willingness to take on responsibilities and leadership roles. While they acknowledge the stress of deadlines and express some uncertainty about the future, their overall focus on structured approaches and willingness to take on leadership roles aligns more with the Judging (J) preference."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "44",
+                            "7",
+                            "4",
+                            "24"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Jim Halpert: \"Yeah, definitely. I mean, if something throws me off, I always try to find a way to get back on track. It's all about adapting and staying focused.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Jim Halpert:「I prefer to completely finish eight projects before starting another.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Jim Halpert:「No, but I do often make a plan to avoid planning.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Jim Halpert: \"Actually, I prefer to never do any chores and just relax all the time.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the responses, <the participant> leans more towards the Judging (J) dimension."
+                    },
+                    {
+                        "id": [
+                            "60",
+                            "14",
+                            "56",
+                            "39"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Michael Scott:「Confident? Um, I wouldn't say confident is the right word. I'd say I'm hopeful. I'm hopeful that things will work out. And if they don't, well, I'll just have to figure something else out. Life is full of surprises, Dwight. You never know what's gonna happen next. But hey, that's what makes it exciting, right?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Jim:「Yeah, I guess you could say that. I'm more of a go-with-the-flow kind of person.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Jim Halpert: \"Well, I always try to complete things efficiently, but I wouldn't say I'm as methodical as Dwight here. I like to find shortcuts and work smarter, not harder.\"\n\nDwight Schrute: \"That's where you're wrong, Jim. Skipping steps leads to mistakes and inefficiency. It's important to follow a systematic approach to ensure accuracy and productivity.\"\n\nJim Halpert: \"I get that, Dwight, but sometimes taking a different approach can lead to innovative solutions. Not everything has to be done in a rigid, step-by-step manner.\"\n\nDwight Schrute: \"Innovation is overrated, Jim. It's the tried and true methods that have stood the test of time. I don't cut corners or take shortcuts. I do things the right way, every time.\"\n\nJim Halpert: \"Well, I guess we'll just have to agree to disagree on this one, Dwight. But hey, at least we both get the job done, right?\"\n\nDwight Schrute: \"Agreed, Jim. As long as the end result is achieved, I suppose our different approaches can coexist. But mark my words, the methodical way will always prevail.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Jim Halpert:「Nah, not really. I prefer to just go with the flow and see what happens.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a preference for flexibility, adaptability, and spontaneity. They express a hopeful and open-minded attitude towards the future, emphasizing the excitement of life's unpredictability. Additionally, they mention being a 'go-with-the-flow' kind of person and not preferring a rigid daily routine. While acknowledging the importance of efficiency, they also value finding innovative solutions and express a reluctance towards strictly following a methodical approach. Lastly, they indicate a preference for not having a to-do list and instead enjoying the spontaneity of each day."
+                    },
+                    {
+                        "id": [
+                            "59",
+                            "34",
+                            "29",
+                            "19"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Jim Halpert:「Oh, absolutely. Deadlines are the worst. I mean, who needs that kind of pressure?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Jim Halpert:「No, not usually. Why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Jim Halpert: \"Well, I find that the deadlines are usually the best motivation. But yeah, I mean, I definitely have a tendency to procrastinate.\"\n\nDwight Schrute: \"Procrastination is the enemy of productivity, Jim. I never leave things until the last minute. I am always prepared and ahead of schedule.\"\n\nJim Halpert: \"Oh, come on, Dwight. We all know you're a master of last-minute heroics. Remember that time you forgot to order the supplies for the office party and had to run out and get everything just minutes before the guests arrived?\"\n\nDwight Schrute: \"That was a strategic move, Jim. I wanted to test my ability to think and act under pressure. And I aced it, as always.\"\n\nJim Halpert: \"Sure, Dwight. Whatever you say. But let's not forget the time you waited until the day before the big client presentation to finish the PowerPoint slides and ended up pulling an all-nighter to get it done.\"\n\nDwight Schrute: \"That was just an extreme measure, Jim. I thrive in high-pressure situations. It's when I do my best work. Besides, the presentation was a huge success, thanks to my exceptional problem-solving skills.\"\n\nJim Halpert: \"Alright, Dwight. I'll give you credit for always finding a way to get things done, even if it's at the last possible moment. It's definitely a unique talent.\"\n\nDwight Schrute: \"Thank you, Jim. I take pride in my ability to deliver results, no matter the circumstances. It's what sets me apart from the rest.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Jim: \"Yeah, I guess you could say that. I mean, there's just so much out there, so many possibilities. It's hard to narrow it down sometimes.\"\n\nDwight: \"Well, that's where I excel. I have a clear focus, a clear purpose. I don't waste time on trivial pursuits. I know exactly what I want and I go after it.\"\n\nJim: \"And what is it that you want?\"\n\nDwight: \"Success, Jim. I want to be the best at everything I do. I want to conquer every challenge, master every skill. I want to leave a legacy, something that people will remember me for.\"\n\nJim: \"That's quite ambitious, Dwight. But hey, more power to you. We all have our own paths to follow.\"\n\nDwight: \"Indeed. And while you're busy dabbling in a little bit of everything, I'll be laser-focused, achieving greatness. Just watch and learn, Jim. Watch and learn.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 45.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a mix of both Perceiving (P) and Judging (J) traits. They express a dislike for deadlines and a tendency to procrastinate, indicating a more Perceiving inclination. However, they also value being prepared and ahead of schedule, showing some Judging characteristics. Additionally, they express an interest in various possibilities and finding it difficult to choose what to try next, aligning with Perceiving traits. On the other hand, they emphasize having a clear focus, purpose, and ambition for success, which reflects Judging tendencies."
+                    },
+                    {
+                        "id": [
+                            "9",
+                            "49",
+                            "35"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Jim:「Not really, I'm more of a go-with-the-flow kind of guy.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Jim Halpert:「Well, I wouldn't say that I'm necessarily spontaneous, but I do like to keep things relaxed and flexible. I think it's important to be able to adapt to different situations and not get too caught up in rigid routines. So yeah, I guess you could say I lean more towards spontaneous bursts of energy.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Jim:「Oh, all the time. I mean, you know, there's always that voice in the back of your head saying, 'What if I had done something different?' But at the end of the day, you just have to trust your instincts and move forward.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for flexibility, adaptability, and a go-with-the-flow approach. They seem to value being able to adapt to different situations and not getting too caught up in rigid routines. Additionally, their tendency to second-guess their choices suggests a more open-ended and exploratory mindset."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "29",
+                            "49",
+                            "39",
+                            "35"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Michael Scott:「Well, sometimes I procrastinate, but it all works out in the end.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Jim Halpert: \"Oh, absolutely. I thrive on spontaneity. You never know what you're gonna get with me.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Jim Halpert:「Nah, I prefer to just go with the flow. I don't like feeling tied down to a list.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Jim: \"Well, I guess I do second-guess some choices, but not all of them. It really depends on the situation.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a clear preference for flexibility, spontaneity, and adaptability. They seem to be comfortable with leaving options open, procrastinating at times, and not adhering to strict to-do lists. However, they also show some inclination towards second-guessing certain choices, indicating a balanced approach to decision-making."
+                    },
+                    {
+                        "id": [
+                            "7",
+                            "60",
+                            "59",
+                            "19"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Jim Halpert:「No, I like to juggle multiple projects at once. Keeps things interesting.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Michael Scott:「Confidence is key, Dwight. And I am the epitome of confidence. So yes, I feel very confident that things will work out for me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Jim Halpert:「Not really, I usually manage my time pretty well.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Jim: \"Yeah, I mean, there are just so many options out there. It's like, how do you decide what to do next?\"\n\nDwight: \"Well, I've never really had that problem. I know exactly what I want to do and I go after it with full force.\"\n\nJim: \"That must be nice, Dwight. To have such clarity and focus.\"\n\nDwight: \"It is. I don't waste time on things that don't matter. I know what I want and I go after it. That's how you succeed.\"\n\nJim: \"But what about all the other things you might be missing out on? Don't you ever wonder what it would be like to try something new?\"\n\nDwight: \"No, because I know what I want and what I want is success. Trying new things is for people who don't have a clear path to greatness.\"\n\nJim: \"Well, I guess we're just different in that way. I like to explore different options and see where they lead me.\"\n\nDwight: \"And where has that led you, Jim? To a desk job in a paper company? I'd rather have focus and direction any day.\"\n\nJim: \"Fair enough, Dwight. We all have our own paths to follow.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a mix of both Perceiving (P) and Judging (J) traits. They express a preference for juggling multiple projects at once, indicating openness and flexibility (P). However, they also exhibit a sense of confidence and clarity in their goals, as well as a focus on efficiency and success, which aligns with Judging (J) traits."
+                    },
+                    {
+                        "id": [
+                            "9",
+                            "56",
+                            "44",
+                            "24"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Jim: \"Oh, you have no idea. Dwight, you should see my color-coded spreadsheet of pranks on you. It's a work of art.\"\n\nDwight: \"You think this is a joke, Jim? Schedules and lists are the backbone of productivity and efficiency. Without them, chaos reigns.\"\n\nJim: \"I know, Dwight. That's why I have my own system. It's called 'winging it'.\"\n\nDwight: \"Winging it? That's not a system, Jim. That's just a recipe for disaster.\"\n\nJim: \"Well, it seems to work just fine for me. I mean, look at all the pranks I've pulled off without a schedule or a list.\"\n\nDwight: \"That's because you're dealing with a mastermind here. I don't need schedules and lists to outsmart you, Jim.\"\n\nJim: \"Oh, really? Well, let's put it to the test. How about we have a productivity contest? I'll wing it and you can stick to your precious schedules and lists.\"\n\nDwight: \"Challenge accepted, Jim. But be prepared to be amazed by the power of organization.\"\n\n(Scene ends with Jim and Dwight preparing for their productivity contest, each with their own approach.)",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Jim Halpert:「Well, I like to think that I'm efficient and thorough, but I wouldn't say I'm as methodical as Dwight here. He's like a machine when it comes to following procedures.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Michael Scott:「Yes, absolutely. Flexibility and adaptability are key in any successful business. We need to be able to pivot and adjust our plans quickly if something unexpected comes up. That's how we stay ahead of the game and keep moving forward. So, yes, getting back on track as soon as possible is definitely a top priority for us.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Jim Halpert:「Actually, I'm more of a procrastinator. I like to put off my chores until the very last minute, and then rush to get them done. It's a thrilling adrenaline rush, you know?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a preference for flexibility, adaptability, and spontaneity over strict planning and organization. They seem to enjoy challenging the need for schedules and lists, preferring to 'wing it' and delay chores until the last minute. However, they also acknowledge the importance of getting back on track quickly when plans are interrupted, indicating a balance between flexibility and efficiency."
+                    },
+                    {
+                        "id": [
+                            "4",
+                            "34",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Jim Halpert:「No, but I do often make a backup plan for Dwight's backup plan.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Jim Halpert:「Only when I know that it's going to drive you crazy.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Jim:「Actually, I'm more of a go-with-the-flow kind of person. I like to keep my options open and see where the day takes me. Planning a rigid daily routine just feels too restrictive for me.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 60.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both Perceiving (P) and Judging (J) traits. They display a tendency to make backup plans and postpone decisions, which aligns with the Perceiving (P) trait. However, they also express a preference for going with the flow and keeping options open, indicating a Perceiving (P) inclination. Overall, the participant appears to lean slightly more towards the Perceiving (P) trait."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {
+        "robustness": 0.07929403314847489
+    },
+    "code": "INFP"
+}

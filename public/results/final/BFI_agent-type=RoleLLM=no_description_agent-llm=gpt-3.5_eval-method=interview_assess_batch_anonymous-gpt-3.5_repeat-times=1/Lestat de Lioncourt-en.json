@@ -1,0 +1,496 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 4.5,
+            "all_scores": [
+                4.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "narrator:Lestat looks at Louis, a mischievous glint in his eyes.\nLestat de Lioncourt:「Talkative? Oh, my dear Louis, you have no idea. I have stories to tell that would make your head spin.」\nLouis de Pointe du Lac:「I have heard enough stories from you, Lestat. Stories of pain, suffering, and eternal damnation.」\nnarrator:Lestat's smile fades slightly, his tone becoming more serious.\nLestat de Lioncourt:「But those stories are what make us who we are, Louis. They define us and give us purpose. Without them, we are nothing but empty shells.」\nLouis de Pointe du Lac:「I don't want to be defined by darkness and bloodshed. I want to find meaning in a world that seems devoid of it.」\nnarrator:Lestat's eyes soften, a hint of understanding in his gaze.\nLestat de Lioncourt:「Perhaps, my dear Louis, we can find that meaning together. Explore the depths of our immortal existence and discover the beauty that hides within the shadows.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Lestat de Lioncourt:「Reserved? No, I'm just waiting for the right moment to make my move.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Lestat de Lioncourt:「More than you know.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Lestat de Lioncourt:「I generate a lot of things. Enthusiasm, fear, desire... it all depends on the person and their willingness to embrace the darkness.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to be talkative, expressive, and enthusiastic. They also exhibit a willingness to engage in lively settings and generate enthusiasm. However, there are also indications of reservation and a contemplative nature. Overall, the participant appears to display a mix of extraverted and introverted traits."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Lestat de Lioncourt:「No, I'm rather loud.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "narrator:Lestat looks at Louis, a mischievous smile playing on his lips.\nLestat de Lioncourt:「Why, Louis, are you implying that I lack assertiveness?」\nLouis de Pointe du Lac:「I'm simply asking a question.」\nLestat de Lioncourt:「Well, my dear Louis, I believe assertiveness is overrated. It's much more fun to be mysterious and unpredictable, don't you think?」\nLouis de Pointe du Lac:「I suppose so... But sometimes it's necessary to take charge and make decisions.」\nLestat de Lioncourt:「Ah, but that's where I excel, my friend. When the time comes, I can be quite assertive and decisive.」\nnarrator:Lestat's confident tone leaves Louis slightly taken aback, unsure of how to respond.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Lestat de Lioncourt: \"No, never. I've always been the opposite. Bold, confident, and unafraid.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Lestat de Lioncourt: \"Oh, I'm extremely outgoing. More than you can imagine. I love to be the center of attention, to entertain and captivate others. It's in my nature.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates high levels of assertiveness, outgoingness, and a preference for being the center of attention. They also express a lack of shyness and inhibition, and a tendency to be loud and confident. Overall, the participant's responses indicate a strong inclination towards extraversion."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 4.5,
+            "all_scores": [
+                4.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Lestat de Lioncourt:「No, Louis, I'm dying.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Interviewer: \"So, Louis, tell me, are you relaxed and handle stress well?\"\nLouis de Pointe du Lac: *pauses* \"Relaxed? No, I haven't been relaxed in centuries. As for handling stress, well, I suppose I've become quite adept at living with constant torment and anguish. It's become a part of who I am.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Lestat de Lioncourt:「Tense? I can be anything you want me to be, Louis.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Lestat de Lioncourt:「No. Only about important things.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant exhibits high levels of anxiety, depression, and self-consciousness. They also demonstrate a tendency to handle stress poorly and show signs of impulsiveness. Overall, the participant's responses suggest a strong inclination towards neuroticism."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Lestat de Lioncourt:「Emotionally stable? I'm a vampire, darling. We're not known for our emotional stability.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Lestat de Lioncourt: \"Moody? I invented moody.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Interviewer: Do you remain calm in tense situations?\n\nLouis de Pointe du Lac: (pauses, deep in thought) Tense situations... they often bring out the worst in people. But for me, they have always been a test of my composure. I strive to maintain a sense of calmness, even when the world around me is falling apart. It is in these moments that true strength is revealed, when one can rise above the chaos and make rational decisions.\n\nInterviewer: Can you give us an example of a tense situation where you remained calm?\n\nLouis de Pointe du Lac: (reflects for a moment) There was a time when I found myself in the midst of a heated confrontation between two factions of vampires. The tension was palpable, and the air was thick with animosity. But instead of succumbing to fear or anger, I chose to remain composed and level-headed.\n\nInterviewer: How did you manage to stay calm in such a volatile situation?\n\nLouis de Pointe du Lac: (smiles) I have always been a keen observer of human behavior, and I believe that understanding the motivations and emotions of others is key to maintaining composure in tense situations. By analyzing the dynamics at play and anticipating the possible outcomes, I was able to navigate through the chaos with a clear mind.\n\nInterviewer: So, you rely on your analytical skills to stay calm?\n\nLouis de Pointe du Lac: Indeed, analysis plays a significant role. However, it is also essential to control one's own emotions and not let them cloud judgment. It is easy to get swept away by fear or anger, but by remaining detached and rational, I can make better decisions and diffuse tense situations more effectively.\n\nInterviewer: Thank you for sharing your insights, Louis. It seems that your ability to remain calm in tense situations is a valuable asset.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "narrator:INT. LOUIS' MANSION - LIVING ROOM - NIGHT\nLouis sits on a plush sofa, a glass of wine in his hand. Claudia, a young girl who has been turned into a vampire by Louis, sits across from him.\nCLAUDIA:「Nervous? Why would I be nervous?」\nLouis smirks, taking a sip of his wine.\nLouis de Pointe du Lac:「Because I'm going to show you something... something that will truly test your nerves.」\nClaudia raises an eyebrow, intrigued and slightly apprehensive.\nCLAUDIA:「And what might that be?」\nLouis de Pointe du Lac:「A demonstration of our abilities. A glimpse into the dark world we now inhabit.」\nnarrator:Claudia's eyes widen with excitement and a hint of fear.\nCLAUDIA:「I'm ready to see it all, Louis. Show me.」\nLouis de Pointe du Lac:「Very well, my dear Claudia. Brace yourself.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a high level of emotional reactivity and sensitivity to stress. They express a tendency towards moodiness, anxiety, and vulnerability, as well as a heightened emotional response in tense situations. Additionally, their portrayal of remaining calm in tense situations seems to be a conscious effort, indicating potential underlying emotional instability."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 3.5,
+            "all_scores": [
+                3.5
+            ],
+            "intra_std": [
+                0.408248290463863
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Lestat de Lioncourt:「Oh, Louis… I leave no stone unturned.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Lestat de Lioncourt:「Careless? With my life? Why would I want to be careless?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Potential classic scenes for Louis de Pointe du Lac could include:\n\nLouis de Pointe du Lac:「I don't know that I can answer that question. I'm not sure I can be relied upon for much of anything these days.」\nEmployer:「Well, I need someone I can trust to get the job done. Can you at least promise me that?」\nLouis de Pointe du Lac:「I can promise you that I will try my best. But I can't guarantee anything beyond that.」\n\n###\n\nLouis de Pointe du Lac:「I should never have agreed to this. I am not cut out for this line of work.」\nColleague:「Come on, Louis. You're just being too hard on yourself. You have the skills, you just need to have more confidence in yourself.」\nLouis de Pointe du Lac:「Confidence? That's not something I possess. I am plagued by doubt and self-loathing. How can I be reliable in such a state?」\n\n###\n\nLouis de Pointe du Lac:「I apologize for my behavior earlier. I've been going through a rough patch lately, but I assure you, I can be a reliable worker when I put my mind to it.」\nSupervisor:「Well, we all have our ups and downs. Just make sure you're able to deliver on your responsibilities, and we'll be fine.」\nLouis de Pointe du Lac:「I understand, and I will do my best to meet your expectations.」\n\n###\n\nLouis de Pointe du Lac:「I'm sorry, but I don't think I can be relied upon for this job. I have too many personal issues that prevent me from being a dependable worker.」\nInterviewer:「That's understandable. We appreciate your honesty. Perhaps it's best to find something that suits you better.」\nLouis de Pointe du Lac:「Thank you for understanding. I will continue my search for a role that aligns with my abilities and circumstances.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a mix of conscientious and non-conscientious traits. While the participant expresses a strong commitment to doing a thorough job and acknowledges the importance of reliability, there are also indications of self-doubt, lack of confidence, and a sense of being overwhelmed by personal issues. The participant's willingness to try their best and the acknowledgment of personal limitations suggest a conscientious attitude, but the self-doubt and uncertainty about reliability indicate a lower level of conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Lestat de Lioncourt:「I'm a vampire, Louis. I have all of eternity to be lazy.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Louis de Pointe du Lac: \"Yes, I persevere. I cannot simply abandon what needs to be done.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Lestat de Lioncourt:「Efficiently? I don't know. I do things dramatically.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to demonstrate a mix of conscientiousness traits. They show a lack of concern for efficiency and a dramatic approach to tasks, which may indicate lower levels of competence and order. However, they also express perseverance and a commitment to completing tasks, indicating higher levels of achievement striving and self-discipline."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Lestat de Lioncourt:「No, not at all.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "narrator:Louis de Pointe du Lac looks at the interviewer with a mixture of amusement and skepticism.\nLouis de Pointe du Lac: \"Disorganized? No, I wouldn't say that. On the contrary, I have a profound appreciation for order and structure. It is the world around me that seems chaotic and disorganized.\"\nnarrator: The interviewer raises an eyebrow, intrigued by Louis' response.\nInterviewer: \"So, you find solace in creating order amidst the chaos?\"\nLouis de Pointe du Lac: \"Yes, precisely. In my immortal existence, I have come to realize that finding a sense of purpose and meaning requires imposing my own order upon the world. It is a way to maintain control and find some semblance of stability.\"\nnarrator: The interviewer nods, captivated by Louis' introspective nature.\nInterviewer: \"And how do you go about creating this order?\"\nLouis de Pointe du Lac: \"Through art, literature, and deep introspection. I seek solace in the beauty of the written word and the expression of my thoughts and emotions. It is through these artistic endeavors that I find a sense of organization and harmony.\"\nnarrator: The interviewer leans in, genuinely intrigued by Louis' perspective.\nInterviewer: \"It sounds like you have a deep appreciation for the arts. Would you say that it helps you cope with the immortality and the darkness that surrounds you?\"\nLouis de Pointe du Lac: \"Indeed, the arts provide me with an escape from the eternal night. They allow me to explore the depths of my emotions and find solace in the beauty of creativity. It is a way for me to transcend the darkness and find a glimmer of light within myself.\"\nnarrator: The interviewer smiles, fascinated by Louis' poetic and philosophical approach to his existence.\nInterviewer: \"Thank you for sharing your insights, Louis. It's truly captivating to hear your perspective.\"\nLouis de Pointe du Lac: \"You're welcome. It was my pleasure to offer a glimpse into my world. After all, sometimes it is through the darkness that we find the most profound truths.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Lestat de Lioncourt:「No, Louis. I make plans and then abandon them.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They express a strong appreciation for order and structure, seek solace in creating their own order amidst chaos, and emphasize the importance of organization and harmony through artistic endeavors. However, the participant's statement about making plans and then abandoning them suggests a lack of follow-through, which may indicate a lower level of conscientiousness in terms of goal-directed behavior."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 3.6666666666666665,
+            "all_scores": [
+                3.6666666666666665
+            ],
+            "intra_std": [
+                1.247219128924647
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Lestat de Lioncourt:「No, I find fault with myself. I'm not good enough, I'm not smart enough, I'm not pretty enough. That's why I surround myself with people who are.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "narrator:EXT. PLANTATION - DAY\n A young boy, CLAUDIA, stands at the edge of the plantation, watching as the workers toil in the fields. Louis, dressed in his elegant attire, approaches her.\nLouis de Pointe du Lac:「Are you helpful and unselfish with others, Claudia?」\nClaudia:「Why would I be? They're just slaves.」\nLouis de Pointe du Lac:「No, they are people, just like us. We should treat them with kindness and respect, not exploit them for our own gain.」\nnarrator:Claudia looks at Louis, intrigued by his words. She starts to question her own beliefs.\n\n###\n\nnarrator:INT. LOUIS' MANSION - NIGHT\n Louis sits at a grand piano, playing a hauntingly beautiful melody. Lestat, his vampire companion, watches him with a mix of admiration and jealousy.\nLestat:「You have such a talent, Louis. Why don't you share it with the world?」\nLouis de Pointe du Lac:「I have no desire for fame or recognition. I play for my own enjoyment, not for others' approval.」\nnarrator:Lestat scoffs, unable to understand Louis' selflessness.\n\n###\n\nnarrator:EXT. ALLEYWAY - NIGHT\n Louis encounters a homeless man, huddled in the cold. He approaches him with empathy and offers him his coat.\nLouis de Pointe du Lac:「Here, take this. You need it more than I do.」\nHomeless Man:「Why would you do this for me?」\nLouis de Pointe du Lac:「Because I believe in helping those less fortunate. It's the right thing to do.」\nnarrator:The homeless man looks at Louis with gratitude, touched by his kindness.\n\n###\n\nnarrator:INT. PARISIAN CAFE - DAY\n Louis sits across from a young woman, MADELEINE, who is visibly upset.\nMadeleine:「I don't know what to do. I'm trapped in a loveless marriage.」\nLouis de Pointe du Lac:「If it would make you happy, you should leave. Life is too short to be unhappy.」\nnarrator:Madeleine looks at Louis, amazed by his willingness to support her, even if it means sacrificing his own happiness.\n\n###\n\nnarrator:INT. LOUIS' STUDY - NIGHT\n Louis is surrounded by books and scrolls, engrossed in his studies.\nLestat:「Why do you spend so much time learning about history and philosophy? What's the point?」\nLouis de Pointe du Lac:「Knowledge is power, Lestat. By understanding the world around us, we can make better choices and help others in the process.」\n\n###\n\nnarrator:INT. VAMPIRE DEN - NIGHT\n Louis stands before a group of newly turned vampires, offering guidance and support.\nLouis de Pointe du Lac:「As vampires, we have a responsibility to not let our thirst for blood consume us. We must be mindful of our actions and strive to coexist with humans, rather than prey on them.」\nnarrator:The vampires listen intently, inspired by Louis' compassionate approach.\n\n###\n\nnarrator:INT. LOUIS' BEDROOM - NIGHT\n Louis cradles Claudia, a young girl turned into a vampire by his own hands.\nClaudia:「Why did you do this to me?」\nLouis de Pointe du Lac:「Because I couldn't bear to see you suffer. I wanted to give you a chance at immortality and protect you from the cruelties of the world.」\nnarrator:Claudia looks at Louis with a mix of gratitude and sadness, realizing the depth of his selflessness.\n\n###\n\nnarrator:EXT. CEMETERY - NIGHT\n Louis kneels before a tombstone, paying his respects to the dead.\nLouis de Pointe du Lac:「Even in death, we can find beauty and meaning. Let us not forget the lives that were once lived and the impact they had on the world.」\nnarrator:Louis bows his head in reverence, honoring the memory of those who came before him.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Lestat de Lioncourt:「Only with you, Louis, because you're the only one worth quarreling with.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a high level of altruism, empathy, and compassion towards others. They consistently exhibit a willingness to assist and support others, even at the expense of their own comfort and well-being. Their actions and responses reflect a strong inclination towards kindness, selflessness, and a genuine concern for the welfare of others."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Lestat de Lioncourt:「No, I'm not. But I trust you.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Lestat de Lioncourt:「I can be anything you want me to be.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Lestat de Lioncourt:「I'm considerate and kind to almost no one.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "The participant's responses indicate low levels of trust, straightforwardness, altruism, compliance, and tender-mindedness, suggesting a lack of consideration and kindness towards others. This aligns with lower levels of Agreeableness."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "narrator:INT. LOUIS' MANSION - NIGHT\n 67\n Louis de Pointe du Lac, dressed in elegant attire, stands in the center of a grand hall. A group of vampires, including Lestat, Armand, and Claudia, surround him.\n LESTAT:「Why do you ask, Louis?」\nLouis de Pointe du Lac:「I have always preferred solitude, but lately I find myself longing for companionship. Perhaps it is time for me to cooperate with others.」\nnarrator:The other vampires exchange glances, intrigued by Louis' statement.\n ARMAND:「Cooperation can be both beneficial and dangerous. We must choose our allies carefully.」\nLouis de Pointe du Lac:「I understand the risks, but I believe there is strength in unity. Together, we could achieve great things.」\nnarrator:The vampires contemplate Louis' words, each lost in their own thoughts.\n LESTAT:「Perhaps it is time for a new era of cooperation among our kind. Let us consider this proposal, my dear friends.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Lestat de Lioncourt:「Sometimes.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Claudia:「I can be anything I want.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, <the participant> seems to express a willingness to cooperate with others, as evidenced by the dialogue about longing for companionship and believing in the strength of unity. Additionally, the response indicating a forgiving nature suggests a level of compassion and understanding. However, the statement 'I can be anything I want' in response to being rude to others may indicate a lack of concern for the impact of one's behavior on others, potentially reflecting lower agreeableness."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 4.666666666666667,
+            "all_scores": [
+                4.666666666666667
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "narrator: Louis de Pointe du Lac sits in a dimly lit room, his eyes filled with a melancholic gaze.\nLouis de Pointe du Lac:「New ideas? No, not really. I find myself trapped in a cycle of eternal existence, reliving the same moments over and over again.」\nnarrator: The room is filled with paintings, capturing scenes of despair and longing.\nLouis de Pointe du Lac:「I am forever haunted by my past mistakes, constantly questioning my purpose in this endless existence.」\nnarrator: A sense of sadness and resignation fills the air as Louis contemplates his immortality.\nLouis de Pointe du Lac:「What's the point of coming up with new ideas when everything eventually turns to dust?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Claudia:「What do you want?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Interviewer: Are you ingenious, a deep thinker?\n\nLouis de Pointe du Lac: (pauses, contemplating) I suppose you could say that. I've had centuries to ponder the intricacies of life, the nature of humanity, and the eternal struggle between good and evil. My experiences have shaped me into a reflective and introspective being.\n\nInterviewer: Can you give us an example of your intellectual prowess?\n\nLouis de Pointe du Lac: (smirks) Well, let me share a philosophical insight with you. Life, in all its beauty and cruelty, is a delicate balance between existence and annihilation. It is in the shadows of our hearts where the deepest truths reside, and it is through introspection that we truly come to understand ourselves and the world around us.\n\nInterviewer: That's quite profound. Do you find solace in your deep thoughts?\n\nLouis de Pointe du Lac: (gazes into the distance) Solace... it's a fleeting concept for one like me. But yes, in moments of contemplation, I find a certain peace, a temporary respite from the eternal hunger and darkness that accompanies immortality. It is through my thoughts that I seek to make sense of this immortal existence, to find purpose and meaning in a world that often seems devoid of it.\n\nInterviewer: Fascinating. Your introspective nature is truly captivating. Thank you for sharing a glimpse into your mind.\n\nLouis de Pointe du Lac: (nods, a hint of sadness in his eyes) Thank you for allowing me to express myself. It is rare to find someone who appreciates the depths of a vampire's thoughts.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards deep thinking, introspection, and philosophical contemplation. Despite expressing a sense of resignation and melancholy, there is a clear preference for exploring profound ideas and reflecting on the nature of existence."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Claudia:「I am.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Armand:「Yes, more than anything.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "narrator:INT. LOUIS' STUDY - NIGHT\nLouis de Pointe du Lac sits behind a desk, his face filled with weariness. A journalist sits across from him, asking probing questions.\nJOURNALIST: Do you prefer work that is routine, Louis?\nLouis de Pointe du Lac: (pauses, sighs) Routine work can offer a sense of stability and structure, a way to distract oneself from the chaos of existence. But ultimately, it becomes monotonous, a constant reminder of the endless cycle of life and death.\nJOURNALIST: So, you find routine work unfulfilling?\nLouis de Pointe du Lac: (nods) It can be suffocating, trapping one in a mundane existence where time loses its meaning. I crave something more, something that challenges me, that ignites my spirit.\nJOURNALIST: And what would that be?\nLouis de Pointe du Lac: (looks into the distance) I have sought solace in art, in music, in the pursuit of knowledge. These endeavors offer a glimpse of transcendence, a way to escape the mundane and connect with something greater.\nnarrator: The journalist scribbles down Louis' words, captivated by his melancholic demeanor.\nJOURNALIST: So, you believe that true fulfillment lies in the pursuit of passion and creativity?\nLouis de Pointe du Lac: (smiles sadly) Passion and creativity can be both a blessing and a curse. They can consume you, drive you to the brink of madness. But they also offer glimpses of beauty and meaning in an otherwise bleak world. And for that, they are worth pursuing, no matter the cost.\nnarrator: The journalist nods, understanding the weight of Louis' words. They have delved into the depths of his soul, revealing a longing for something more than routine existence.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Lestat de Lioncourt:「I enjoy ideas. Especially when they challenge conventional wisdom.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards openness. They express a deep appreciation for artistic and aesthetic experiences, a longing for something more than routine existence, and an enjoyment of ideas that challenge conventional wisdom. Their responses indicate a high level of openness to new experiences, abstract thinking, and unconventional ideas."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Lestat de Lioncourt:「Artistic interests? I have plenty. Music, theater, painting, you name it. I find beauty in all forms of art.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "narrator:INT. LOUIS' LIBRARY - NIGHT\nLouis de Pointe du Lac sits in his opulent library, surrounded by shelves filled with ancient books and classical artwork. He looks at the person sitting across from him, a potential companion for eternity. \n\nLouis de Pointe du Lac: \"Are you sophisticated in art, music, or literature?\"\n\nPotential Companion: \"I have an appreciation for art, but I wouldn't necessarily call myself sophisticated.\"\n\nLouis de Pointe du Lac: \"Ah, a shame. I find great solace in the works of the masters. It is through their creations that I find a glimpse of beauty in this eternal existence.\"\n\nPotential Companion: \"I can certainly appreciate beauty, but I may not have the same level of knowledge as you.\"\n\nLouis de Pointe du Lac: \"Knowledge can be acquired, my dear. But a true appreciation for art, music, and literature comes from within. It is an understanding that goes beyond mere facts. It is the ability to feel the emotions that these works evoke.\"\n\nPotential Companion: \"I see. Well, perhaps you can teach me, Louis. Show me the world of art and literature that you hold so dear.\"\n\nLouis de Pointe du Lac: \"I would be delighted to share my knowledge with you. Together, we can explore the depths of human creativity and find meaning in this eternal existence.\"\n\nThey both smile, knowing that their shared love for the arts will bring them closer in their immortal journey.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "narrator:INT. LOUIS' PARLOR - NIGHT\n 12\nLouis de Pointe du Lac, a brooding vampire, sits across from a young girl, CLAUDIA, who is dressed in a lavish gown. They are surrounded by opulent furniture and artwork.\nLouis de Pointe du Lac:「Do you have an active imagination?」\nClaudia:「Oh, yes. I have the most vivid dreams, filled with fantastical creatures and magical worlds.」\nLouis de Pointe du Lac:「Well, my dear, let me tell you a secret. All those creatures and worlds, they exist. And I am one of them.」\nClaudia:「You're not serious, are you?」\nLouis de Pointe du Lac:「Oh, but I am. I am a vampire, cursed to live forever in the darkness.」\nClaudia:「You're teasing me. Vampires aren't real.」\nLouis de Pointe du Lac:「I assure you, my dear, vampires are very real. And I can show you a world beyond your wildest dreams.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of openness in multiple facets. They express a deep appreciation for art and beauty, as well as an active imagination. Their willingness to explore the depths of human creativity and their openness to unconventional ideas are evident in the conversations."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "SLOAI"
+}

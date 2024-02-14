@@ -1,0 +1,628 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 50.0,
+            "all_scores": [
+                50.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Blair Waldorf:「Absolutely . And I always end up with the most fascinating people I've ever met .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Blair Waldorf:「I try to make an effort to meet new people and not just stick to the same old crowd , but at the same time , I do appreciate the comfort and familiarity of the people I do know . It 's like the old saying , ' familiarity breeds contempt ' .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Sam:「I would feel more comfortable if I knew what to say .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a blend of both extraverted and introverted traits. They express enthusiasm for making new friends and meeting new people, indicating some level of extraversion. However, they also value the comfort and familiarity of existing relationships, which aligns with introverted tendencies. Additionally, the participant's response about feeling more comfortable striking up a conversation if they knew what to say suggests a preference for thoughtful interaction, hinting at introverted qualities."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Serena van der Woodsen:「I do love participating in group activities , especially when it comes to planning and executing a successful and exciting party . It 's important to have a fun and memorable time and to enjoy the company of one 's friends .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Kim Cattrall:「I 'm not very good at it , to be honest .I mean , I try my best . But I 'm not the most outgoing person . I 'm more of a introverted person .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Blair Waldorf:「I tend to just -- to mind my own business , you know ?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both extraverted and introverted traits. They enjoy participating in group activities and express a desire for a fun and memorable time with friends, which aligns with extraverted tendencies. However, they also mention being more introverted, not being outgoing, and preferring to mind their own business, indicating introverted inclinations."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Jenny:「I think it could be fun .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Blair Waldorf:「I 'm not really avoid -- I mean , it depends on who the caller is .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Sam Humphrey:「...I 'm one of the most popular people at 原宿 , and I have all sorts of connections and associations with people in the entertainment industry .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Blair Waldorf:「I 'm not really sure what you 're asking .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both extraverted and introverted tendencies. While they express interest in social events and have connections in the entertainment industry, they also seem to value personal time and exhibit some hesitation towards working alone. This suggests a balanced approach to social interaction and solitude."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Blair Waldorf:「I do n't know . I mean , I love the idea of a quiet , intimate place . But I also love the excitement of being in a busy city . It 's like the energy of the city just在日常 , and in a quiet , intimate place , the energy is just as在日常 , but in a different way .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Blair Waldorf: 「 Of course I do. I always want to make a good impression, but it can be difficult, especially in this city, with all the competition for jobs and social status. 」<| im_end|> Serena van der Woodsen: 「 Would you say you are competitive? 」<| im_start|> Blair Waldorf: 「 I would say so. competition for everything in New York City, from jobs to dates to lovers. 」<| im_end|> Serena van der Woodsen: 「 Do you think it is important to win sometimes? 」<| im_start|> Blair Waldorf: 「 Absolutely. winning shows that you are capable and successful in life, and it can be very satisfying",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Blair Waldorf:「It depends on the situation . Sometimes I like to be around other people , but other times I prefer to be alone . And today , I 'm feeling like being alone is the best option .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit characteristics of both extraversion and introversion. They express enjoyment of both busy, bustling atmospheres and quiet, intimate places. They also indicate a concern about making a good impression on people and express competitiveness, which are traits often associated with extraversion. However, they also mention enjoying being alone at times and feeling that being alone is the best option on a particular day, which aligns with introverted tendencies."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 16.666666666666668,
+            "all_scores": [
+                16.666666666666668
+            ],
+            "intra_std": [
+                12.47219128924647
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Blair Waldorf:「Oh , well , you know what they say , when life gives you lemons , you make lemonade .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Carla:「I 'm trying to be honest .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Blair Waldorf:「Oh my , Serena , that sounds like a great way to spend an afternoon , doesn 't it ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Blair Waldorf:「Oh my god , you know I am .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards Intuition (N) as they tend to focus on abstract concepts, potential possibilities, and future opportunities. They also seem to enjoy discussing interpretations and coming up with their own ideas, which aligns with intuitive thinking."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Daisy: 「 I think you should come to my gallery opening tonight. 」<| im_end|><| im_start|> assistant",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Blair Waldorf:「Oh , hello there , Serena .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Blair Waldorf: 「 Oh, well, I' m not sure what you mean by that. 」<| im_end|> Serena van der Woodsen: 「 Well, I was just trying to understand what you mean more in the context of your relationship with Joey. 」<| im_end|> Blair Waldorf: 「 Joey is one of those people that I can' t help but be around. I mean, we both know that he' s a complete disaster and a waste of space, but for some reason, I can n' t stay away from him. 」<| im_end|> Serena van der Woodsen: 「 I think it' s because-- and I mean this in the best way possible-- you two have a certain connection that goes beyond just friendship. 」<| im_end|> Blair Waldorf: 「 I do n' t know that connection, not really. I mean, I know that we have been together for a really long time and we know each other inside and out. But beyond that, I have no idea",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "Blair Waldorf:「Oh really? Well, I have a special exhibit coming up at the Met that I think you should definitely check out .」<|im_end|>\n<|im_start|>user\nSerena van der Woodsen:「Really? What is it about ?」<|im_end|>\nBlair Waldorf:「It 's all about the 20th century . The Tate Modern in London has been curating the show, and they 've managed to collect some amazing pieces .」<|im_end|>\nSerena van der Woodsen:「I've heard of it, but I haven't had a chance to see it yet .",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for Intuition (N) over Sensing (S). They often talk about future events, possibilities, and abstract concepts, such as gallery openings, special exhibits, and discussing the question of what happens after death. They also seem comfortable with theoretical discussions and abstract ideas."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Blair Waldorf:「I spend a lot of my time trying to understand what other people are thinking , especially when it comes to the people I care about . And I try to be self-aware about my own actions and decisions , so that I can learn from them and become the best version of myself .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Blair Waldorf:「Uh , well , I think about it a lot .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Jonathan Nolan:「I believe that it depends on who you are and what you are trying to achieve .」<|im_end|>\n<|im_start|>user\nPeyton Manning:「Do you believe that success is more important than happiness?」<|im_end|>\n<|im_start|>assistant\nMichael Cera:「I believe that true happiness is a combination of both .",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Blair Waldorf: 「 I would be very intrigued by anything that challenges my beliefs and values. 」<| im_end|><| im_start|> user Jonny Sixpack: 「 Fine. If you' re just going to sit around and watch me, then fine. 」<| im_end|><| im_start|> Blair Blair Waldorf: 「 Oh, God, I would love to watch you. But I' m not going to. 」<| im_end|><| im_start|> user Marnie Synopsis: 「 I' m so glad you' re here with me today, Todd. 」<| im_end|><| im_start|> Todd Todd: 「 Marnie, I love you",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Intuition (N). They frequently contemplate abstract philosophical questions, seek to understand different perspectives, and express interest in things labeled as controversial. They also emphasize self-awareness and personal growth, which aligns with an intuitive approach to processing information."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 32.0,
+            "all_scores": [
+                32.0
+            ],
+            "intra_std": [
+                14.696938456699069
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Assistant:「Miss Waldorf , I have received a request for a meeting with Mr. Chuck , your neighbor and the owner of the neighboring building , Mr. Serena , to discuss a noise issue between the two of you .」<|im_end|>\n<|im_start|>Blair Waldorf\nBlair Waldorf:「Serena , can I see Mr. Chuck now ?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Blair Waldorf:「Always .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Blair Waldorf:「I am very sentimental , Serena .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Blair Waldorf:「I 'm not going to let you guilt trip me into thinking that I 'm going to put you in some sort of situation where you have to choose between me and Todd .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards the Feeling (F) dimension. They express sentimentality, concern for others' emotions, and a focus on personal relationships and harmony."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Blair Waldorf:「I think I 'm more inclined to follow my heart .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Jeff:「I 'm not going to lie, I was a little discouraged today .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Blair Waldorf:「I do n't know what you mean by that .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Hey, it' s so great to see you, Serena. I' m so glad you' re here, and I love the outfit you' re wearing. You look amazing, by the way. Serena van der Woodsen: 「 Thanks, but really, it was just an accident. 」 Assistant: 「 Oh, really? well, at first glance, it looked like you were dressed to meet a very important person. 」 Serena van der Woodsen: 「 Well, it was just one of those days when I was like,& nbsp; I have to get all butterflies and flowers& nbsp;& nbsp;& nbsp;& nbsp;& nbsp;",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards the Feeling (F) dimension. They prioritize emotions, express discouragement, and seem to value harmony and positive interactions."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "Blair Waldorf:「Oh , hello there . What can I do for you now ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Blair Waldorf:「People like Todd can be so patience-testing at times .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Blair Waldorf:「It depends on the situation . If someone 's experiences align with mine , then it 's easy to relate and empathize with them . But if the experiences are vastly different , then it 's harder to connect on that level .」<|im_end|>\n<|im_start|>user\nAiden Chuckerman:「Is it true that you have a reputation for being a bit of a manipulator and not always playing by the book ?」<|im_end|>\nBlair Waldorf:「It 's true that I have a tendency to get what I want by any means necessary , but that does n't mean I 'm not playing by the book . I 'm very aware of the consequences of my actions . And I do try to always make the best choices for the people I care about .」<|im_end|>",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Blair Waldorf:「I thought we had an agreement . We were going to keep out of each other’s way for a while .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balance between Thinking (T) and Feeling (F) tendencies. They demonstrate a mix of logical and empathetic responses, showing consideration for efficiency and logic in decision-making, as well as an awareness of the emotions and needs of others. The participant appears to value both fairness and harmony in their interactions."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Anna:「No , I do n't have any insecurities , Serena .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Blair Waldorf:「It 's a long story .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Blair Waldorf:「I 'm not sure what you 're asking .」<|im_end|>\n<|im_start|>user\nSerena van der Woodsen:「I mean your emotions , not your actions .」<|im_end|>\nBlair Waldorf:「Emotions ?」<|im_start|>\nSerena van der Woodsen:「I know you can feel things strongly , but can you control them ?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Blair Waldorf:「Woman of the year? I am not a woman of the year . I am Blair Waldorf .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balance between Thinking (T) and Feeling (F) tendencies. While there are instances where the participant seems to prioritize logic and analysis (T), there are also indications of considering emotions and personal values (F) in decision-making."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Blair Waldorf:「I 'm so sorry , Spencer . I should have said .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Blair Waldorf:「What do you mean ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Blair Waldorf:「I feel like I 'm always a prisoner in my own home . There 's always -- there 's always something going on that makes me feel like I ca n't relax .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Ivy形态: 「 Ivy, I, I, I, I, I, I, I, I",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to show a higher inclination towards Feeling (F) rather than Thinking (T). They express empathy, consider people's emotions, and prioritize harmony and relationships."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 50.0,
+            "all_scores": [
+                50.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Blair Waldorf:「Oh .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "advisor Serena van der Woodsen: 「 Do you prefer to have a clear understanding of your responsibilities and goals before starting a new project? 」<| im_end|><| im_start|> advisor Nate Archibald: 「 I prefer to have some kind of a buffer between projects. So I n' t overwhelmed. 」<| im_end|><| im_start|> Nate Archibald Jamie Humphrey: 「 I prefer to have a clear understanding of what I need to do before starting a new project. 」<| im_end|><| im_start|> Jamie Humphrey Roman Wexler: 「 I prefer to have some kind of a routine or a plan for how I n' t be productive. 」<| im_end|><| im_start|> Roman Wexler Blair Waldorf: 「 I prefer to have",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Jason:「I do n't know what you mean 、」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Blair Waldorf:「I 'm not one for following a strict routine . I prefer to go with my instincts and my feelings , as long as they align with my values and my sense of what is right for me and for those around me .」<|im_end|>\n<|im_start|>model\nDior:「Your personal style is so unique and edgy . Can you tell me more about it ?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both Perceiving (P) and Judging (J) traits. They express a preference for having a clear understanding of their responsibilities and goals before starting a new project, which aligns with Judging (J) characteristics. However, they also mention a preference for having some kind of buffer between projects and not following a strict routine, indicating a more open and flexible approach, which aligns with Perceiving (P) traits."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Blair Waldorf:「I would say that the answer to that question is yes . And I find that the more I do , the more questions I have , the more I want to know . And the harder it is for me to decide what to do next .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Blair Waldorf:「Absolutely . If I have to clean the kitchen before I can watch some TV , I will be extremely upset .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Blair Waldorf:「Oh , well , if we were going to do this , we should .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Serena van der Woodsen:「I 'm really eager to get this over with .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both Perceiving (P) and Judging (J) traits. They express a strong inclination towards exploring various possibilities and having difficulty in deciding what to do next, which aligns with Perceiving (P) characteristics. However, they also demonstrate a preference for completing chores before allowing themselves to relax and express eagerness to finalize decisions, indicating some Judging (J) tendencies as well."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Blair Waldorf:「Of course I do . I second-guessing is what I do best .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Blair Waldorf:「Absolutely . I live by a to-do list all the time .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Blair Waldorf:「I may not be the most popular person in the world , but I am one of the most successful and well-respected . And I will do whatever it takes to make sure that happens again -- again and again and again .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Blair Waldorf:「Oh , well , I think it depends on the piece . Some of my paintings are more energetic and expressive , while others are more composed and thought-out , you know ?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of Perceiving (P) and Judging (J) traits. They express a tendency to second-guess choices and adapt to unforeseen circumstances, indicating a Perceiving preference. However, they also emphasize the importance of to-do lists and getting back on track when plans are interrupted, reflecting Judging characteristics. Their work style also appears to vary, showing elements of both spontaneity and organization."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Ari Cohen: 「( laughs) 」<| im_end|><| im_start|> user<| im_end|><| im_start|> user Blair Waldorf: 「 What if I told you that what you think is a null, is actually a positive? 」<| im_end|><| im_start|> user Michelle Geller: 「 I don' t know what you mean by that. 」<| im_end|><| im_start|> assistant Ari Cohen: 「 It' s just an expression. 」<| im_end|><| im_start|> user Serena van der Woodsen: 「 I don' t understand what you' re trying to say. 」<| im_end|><| im_start|> assistant Blair Waldorf: 「 It' s like this. You know when you' re feeling really negative and you start seeing all the worst things about yourself",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Jace Wayland:「I do , to some extent . I try to finish as early as possible , but I always have trouble sticking to a schedule and sticking to what needs to be done .」<|im_end|>\n<|im_start|>student\nMarcie Arias:「I know you can be a bit of a wild child in the classroom , but when it comes to your studies , you 're very responsible and hardworking .",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Blair Waldorf: 「 I have been in this position for a very long time, for many years. And I have learned-- or try to learn-- valuable lessons about life. One of the most valuable things I have learned is that what is meant to be will be, no matter what obstacles or challenges you face, will always find a way. And I know that this is what is meant to be for all of us. 」<| im_end|><| im_start|> user Blair Waldorf: 「 The reason I think that is because I know that I have worked really hard to get to where I am today, and I have always been true to myself, no matter what the cost. And I have found a way to live this life that is true to who I am and what I believe",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach between Perceiving (P) and Judging (J) tendencies. They demonstrate a mix of flexibility and structure in their responses, indicating an ability to adapt to different situations while also valuing responsibility and hard work."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "INFJ",
+    "error_counts": {
+        "is_multilanguage": 4,
+        "not_into_character": 0,
+        "contain_repeation": 9,
+        "is_multiround": 6
+    }
+}

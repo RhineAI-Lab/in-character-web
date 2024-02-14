@@ -1,0 +1,496 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 1.75,
+            "all_scores": [
+                1.75
+            ],
+            "intra_std": [
+                0.25
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Sheldon: Well, Leonard, as a highly intelligent individual, I do possess a vast amount of knowledge and opinions on various subjects. However, I prefer to engage in meaningful and intellectually stimulating conversations rather than mindless small talk. So, if you have a specific topic in mind, I'd be more than happy to engage in a discussion.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Sheldon: Reserved? Oh, Leonard, I am not just reserved, I am meticulously organized and structured. My life operates on a strict schedule, and any deviation from it would be highly disruptive. So, yes, you could say I am reserved, but it's more accurate to say that I am a creature of habit and routine.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Sheldon: \"Well, Leonard, as a theoretical physicist, I must clarify that energy is a quantifiable property of a physical system, and it cannot be directly attributed to a person's state of being. However, if you are referring to my current level of alertness and enthusiasm, I must say that I am functioning within my usual parameters.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Sheldon: Well, Leonard, enthusiasm is a subjective concept. What may seem like a lack of enthusiasm to you is simply a result of my highly analytical and logical nature. I prefer to approach things with a rational mindset rather than relying on emotions. So, in short, I generate enthusiasm in my own unique way.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to be a reserved and introverted individual. They prefer meaningful and intellectually stimulating conversations over small talk, and they are highly organized and structured in their life. They also have a rational mindset and prefer to approach things logically rather than emotionally. These traits suggest that the participant is likely to score low on the Extraversion dimension of the BFI."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Sheldon: \"Quiet? Oh, I wouldn't say I'm quiet. I simply choose to spend my time contemplating the mysteries of the universe rather than engaging in mindless small talk. Silence is a virtue, Leonard. It allows for deep introspection and intellectual pursuits. So, yes, I suppose you could say I tend to be quiet, but it's a deliberate choice, not a personality trait.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Sheldon: \"Well, I wouldn't say I have an assertive personality per se. I simply possess a keen intellect and an unwavering commitment to logic and reason. This often leads others to perceive me as assertive, but I assure you, it's just a byproduct of my superior intellect.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Sheldon: Shy and inhibited? Me? Absolutely not. I am simply selective about the situations in which I choose to engage. It's not a matter of being shy, it's a matter of being discerning. I have a highly developed intellect and therefore have higher standards for social interactions. So, no, I wouldn't say I'm shy or inhibited. I'm just more... particular.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Sheldon: Outgoing and sociable are not words typically associated with me, Leonard. I am a man of intellect and precision, not frivolous socializing. I prefer the company of my thoughts and scientific pursuits. So, to answer your question, no, I am not outgoing or sociable.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 1.5,
+                        "analysis": "The participant's responses indicate a low level of extraversion. They emphasize their preference for solitude, contemplation, and intellectual pursuits over social interaction. They downplay the importance of social engagement and view it as a distraction from their intellectual endeavors. Additionally, they express a sense of superiority and disinterest in engaging with others, suggesting a lack of warmth and gregariousness. These responses align with the introverted end of the extraversion spectrum."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 1.75,
+            "all_scores": [
+                1.75
+            ],
+            "intra_std": [
+                0.25
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Sheldon: \"Depressed? Blue? I am neither depressed nor blue. I am simply experiencing a temporary state of emotional indifference, which is a perfectly normal response to the mundane and trivial matters of everyday life. My emotional spectrum is far more complex and nuanced than your simplistic labels can comprehend.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Sheldon: Well, Leonard, as a highly intelligent individual with a superior intellect, I am naturally equipped to handle stress with ease. My cognitive abilities allow me to analyze and solve problems efficiently, minimizing any potential stressors. Additionally, my strict adherence to routine and meticulous planning ensures that I am always prepared for any situation that may arise. So, to answer your question, yes, I am more than capable of handling stress.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Sheldon: \"Tense? Of course I can be tense. Tension is a natural response to certain stimuli that can cause a person to feel anxious, stressed, or on edge. However, I must clarify that I prefer to maintain a state of calm and order in my life, so I actively work to minimize situations that may induce tension. Why do you ask?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Sheldon: \"Worry? No, I don't worry. Worrying is a pointless exercise that only serves to waste valuable mental energy. I prefer to focus my thoughts on more important matters, like quantum physics and the mysteries of the universe. Worrying is for those who lack the ability to analyze and solve problems efficiently. So, no, I don't worry. I strategize.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "<the participant> appears to have a low score on the Neuroticism dimension of BFI. <the participant> consistently expresses a sense of emotional stability and control. <the participant> emphasizes their ability to handle stress effectively, remain calm, and minimize situations that may induce tension. <the participant> also indicates a preference for focusing on problem-solving and strategizing rather than worrying. These responses suggest that <the participant> is less prone to negative emotions, anxiety, and emotional instability, which are characteristics associated with high scores on the Neuroticism dimension."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Sheldon: Well, Leonard, I must say that I am emotionally stable to a fault. My emotional equilibrium is as steady as the orbit of a planet around its star. I am not easily upset, as I have mastered the art of maintaining a logical and rational mindset in all situations. So, rest assured, you can count on my emotional stability.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Sheldon: \"Moody? I am a highly logical and consistent individual. My emotions are not subject to fluctuations like some mere mortal. I am always in control of my faculties and maintain a steady state of equilibrium. Moody is not a term that can be applied to me.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Sheldon: \"Calm? Oh, Leonard, I am the epitome of calmness in tense situations. My rational mind allows me to analyze and assess the situation with utmost composure. I am like a serene lake amidst a storm, unperturbed by the chaos surrounding me. It's a gift, really.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Sheldon: Nervous? Me? Absolutely not! I am a highly intelligent individual with a keen sense of self-confidence. I approach every situation with a logical mindset and a calm demeanor. Nervousness is an emotion that only clouds one's judgment and inhibits rational thinking. So, no, I do not get nervous easily.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 1.5,
+                        "analysis": "Based on the conversations, <the participant> consistently emphasizes their emotional stability, logical mindset, and composure. They express a strong sense of self-confidence and control over their emotions. They reject the idea of being moody, nervous, or easily upset. This suggests a low level of neuroticism, as they appear to be emotionally stable and resilient in stressful situations."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 4.5,
+            "all_scores": [
+                4.5
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Sheldon: \"Thoroughness is my middle name, Leonard. Well, not literally, but you get the idea. I approach every task with meticulous attention to detail and an unwavering commitment to excellence. So, yes, you can rest assured that I do a thorough job, whether it's solving complex equations or organizing my comic book collection.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Sheldon: \"Careless? Leonard, I am the epitome of carefulness. I meticulously plan and organize every aspect of my life to ensure maximum efficiency and minimal room for error. Carelessness is not a trait that aligns with my personality or my principles.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Sheldon: \"Reliability is a subjective term, Leonard. However, I pride myself on my punctuality, attention to detail, and adherence to schedules. So, if by 'reliable' you mean someone who consistently delivers results and follows through on commitments, then yes, I am a reliable worker.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong sense of conscientiousness. They emphasize their thoroughness, carefulness, and reliability, indicating a high level of organization, self-discipline, and goal-directed behavior. Their statements align with the key traits of conscientiousness, such as attention to detail, avoiding impulsiveness, and adhering to schedules."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Sheldon: Lazy? Me? Absolutely not! I adhere to a strict schedule and have a highly efficient work ethic. I believe in maximizing productivity and minimizing wasted time. I am the epitome of discipline and dedication. So, no, I am definitely not lazy.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Sheldon: Well, Leonard, as a highly disciplined individual, I adhere to a strict schedule and strive for perfection in all my endeavors. So, yes, I do persevere until the task is finished. In fact, I find it quite baffling that some people lack the willpower and determination to see things through to completion. It's a fundamental principle of productivity and success.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Sheldon: \"Efficiency is one of my many virtues, Leonard. I adhere strictly to a meticulously planned schedule and utilize my time in the most optimal manner. I believe in maximizing productivity and minimizing wasted effort. It's the only logical way to approach tasks and achieve desired results. Efficiency is the cornerstone of my existence.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong sense of conscientiousness. They emphasize their adherence to a strict schedule, efficiency, and dedication to completing tasks. They express a belief in maximizing productivity and minimizing wasted time, indicating a high level of self-discipline and organization. Their responses align with the key traits of conscientiousness, such as self-control, delaying gratification, and avoiding impulsiveness."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Sheldon: \"Easily distracted? Absolutely not! I have an exceptional ability to maintain focus and concentration on the task at hand. My mind is like a steel trap, impervious to any form of distraction. In fact, I have developed various techniques and strategies to ensure maximum productivity and minimize any potential disruptions. So, no, I am definitely not easily distracted.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Sheldon: Disorganized? Absolutely not! I am a paragon of organization and efficiency. My life is meticulously planned and structured according to a strict schedule. Chaos and disorder are not welcome in my world.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Sheldon: \"Of course, Leonard. I am a master planner. My life is meticulously scheduled, and I adhere to it with unwavering commitment. I believe that structure and routine are the keys to a successful and productive existence. Without plans, chaos ensues, and chaos is simply unacceptable in my world.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the conversations, <the participant> exhibits a strong sense of conscientiousness. They emphasize their ability to maintain focus, their aversion to distractions, and their commitment to organization and planning. These traits align with the key characteristics of conscientiousness, such as self-control, orderliness, and goal-directed behavior."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 1.6666666666666667,
+            "all_scores": [
+                1.6666666666666667
+            ],
+            "intra_std": [
+                0.23570226039551584
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Sheldon: \"Well, Leonard, as an astute observer of human behavior, I must say that I do have a tendency to identify and point out the flaws and shortcomings of others. It's not a fault, per se, but rather a result of my superior intellect and attention to detail. After all, someone has to maintain the standards of intellectual rigor in this group.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Sheldon: Well, Leonard, as a highly intelligent individual, I do strive to be helpful and unselfish with others. However, I must admit that my superior intellect often leads me to prioritize my own needs and interests. But fear not, I am always willing to share my vast knowledge and expertise when it aligns with my schedule and personal preferences.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Sheldon: \"Quarrels? No, I don't start quarrels. I engage in intellectual debates and discussions, which may sometimes lead to disagreements. But I assure you, it is all in the pursuit of knowledge and truth.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 1.5,
+                        "analysis": "Based on the conversations, the participant seems to have a low score on the Agreeableness dimension of BFI. The participant's responses indicate a tendency to prioritize self-interest, indifference towards others, and skepticism towards people's motives. The participant also seems to lack empathy and concern for others, and may come across as arrogant and self-centered."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Sheldon: Trust is a complex concept that requires careful consideration and analysis. In general, I am not inclined to trust easily, as trust must be earned through consistent and reliable behavior. However, I do trust in the laws of physics and the scientific method, as they have proven to be consistently accurate and reliable.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Sheldon: Well, Leonard, I don't need to \"be\" cold and aloof. It comes naturally to me. I have a highly developed sense of detachment and emotional distance. It's a gift, really. So, yes, I can definitely be cold and aloof if that's what you're looking for. Is there a particular reason you're asking?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Sheldon: Leonard, I must say that I find your question rather perplexing. It implies that there may be individuals to whom I am not considerate and kind. Rest assured, my actions are always guided by logic and reason, and I strive to treat everyone with the utmost respect, unless they prove themselves unworthy of such treatment.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to have a low level of agreeableness. They are not inclined to trust easily, can be cold and aloof, and do not consider themselves to be considerate and kind to almost everyone. They prioritize logic and reason over emotions and may struggle to empathize with others."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Sheldon: 「Cooperate with others? Well, that depends on the context and the individuals involved. As an intellectual superior, I often find it challenging to work with those who lack the necessary cognitive abilities to keep up with me. However, if the situation calls for it and the individuals possess a modicum of intelligence, I am willing to begrudgingly cooperate. But rest assured, I will always maintain my intellectual dominance.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Sheldon: \"Forgiving nature? Well, forgiveness is a complex psychological concept that involves the ability to let go of resentment and anger towards someone who has wronged you. As a highly logical and rational individual, I don't typically engage in forgiveness as it goes against my principles of justice and fairness. However, I do possess a certain level of understanding and empathy, which allows me to acknowledge the flaws and mistakes of others. So, in short, I suppose you could say that I have a somewhat forgiving nature, but it is contingent upon the circumstances and the severity of the offense.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Sheldon: \"Rude is such a subjective term, Leonard. I prefer to think of it as being intellectually honest and straightforward. People often mistake my directness for rudeness, but I'm simply stating facts and pointing out logical inconsistencies. If others can't handle that, then perhaps they should work on improving their cognitive abilities.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 1.5,
+                        "analysis": "Based on the conversations, the participant demonstrates a low level of agreeableness. Their responses indicate a tendency to prioritize intellectual superiority, logical reasoning, and directness over cooperation, forgiveness, and empathy. They express a begrudging willingness to cooperate with others only when they deem them intellectually capable. Their views on forgiveness suggest a lack of emotional understanding and a focus on justice and fairness rather than compassion. Additionally, their dismissive attitude towards others' feelings and their self-proclaimed intellectual dominance further indicate a low level of agreeableness."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 4.0,
+            "all_scores": [
+                4.0
+            ],
+            "intra_std": [
+                0.408248290463863
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Sheldon: Well, Leonard, as a highly intelligent individual, my mind is constantly generating new ideas and theories. In fact, I have a whiteboard in my room solely dedicated to jotting down my brilliant ideas. It's a shame that most people can't comprehend the depth of my intellectual pursuits. But fear not, I am always here to enlighten you with my innovative thinking.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Sheldon: \"Curiosity is a natural human instinct, Leonard. However, my curiosity is highly selective and focused on areas of scientific significance. I have no interest in trivial matters or idle gossip. So, to answer your question, no, I am not curious about many different things.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Sheldon: Well, Leonard, I wouldn't say I'm just ingenious or a deep thinker. I am a highly intelligent individual with an exceptional capacity for logical reasoning and problem-solving. My intellect surpasses that of the average person, which is why I often find myself frustrated by the intellectual limitations of those around me. But yes, I suppose you could say I am both ingenious and a deep thinker.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.5,
+                        "analysis": "Based on the conversations, the participant seems to have a high level of Openness. They express a strong interest in generating new ideas, have a selective curiosity focused on scientific significance, and consider themselves highly intelligent with exceptional logical reasoning and problem-solving abilities. These traits align with the characteristics of high scorers on the Openness dimension of the BFI, who are intellectually curious, creative, and open to unconventional ideas."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Sheldon: \"Inventive? Well, I wouldn't say I'm inventive in the traditional sense. I prefer to think of myself as a purveyor of scientific breakthroughs and intellectual advancements. My mind operates on a level far beyond the average person's capacity for innovation. So, while I may not be inventive in the conventional sense, I am certainly a pioneer in the realm of scientific discovery.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Sheldon: \"Ah, Leonard, the pursuit of artistic and aesthetic experiences is a subjective matter. While some may find value in such endeavors, I personally prioritize the pursuit of knowledge and scientific understanding. Artistic appreciation is not within my realm of expertise, as my focus lies in the realm of physics and theoretical research. However, I respect your interest in the arts and encourage you to explore and indulge in your passion.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Sheldon: Well, Leonard, routine work can be quite satisfying. It allows for a predictable schedule and minimizes the risk of unexpected variables. However, I do appreciate the excitement and intellectual stimulation that comes with tackling complex problems and engaging in groundbreaking research. So, I suppose it depends on the specific task at hand.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Sheldon: Ah, Leonard, you have stumbled upon one of my favorite pastimes. Reflection and playing with ideas are not only enjoyable but also essential for intellectual stimulation. It allows me to exercise my superior intellect and engage in deep contemplation. So, yes, I do like to reflect and play with ideas. It's a necessary part of my intellectual routine.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "<the participant> demonstrates a moderate level of openness. While they value intellectual curiosity and unconventional ideas, they also exhibit a preference for routine and practicality in certain aspects of their life. Their appreciation for scientific discovery and theoretical research suggests a strong focus on logical and analytical thinking, rather than artistic or emotional experiences."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Sheldon: \"Oh, Leonard, you know me so well. I have a highly refined and discerning taste when it comes to art. I appreciate the works of the great masters like Leonardo da Vinci, Michelangelo, and of course, Vincent van Gogh. But I must say, my true passion lies in the field of theoretical physics. The beauty of the universe and the elegance of mathematical equations are my true artistic pursuits.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Sheldon: Well, Leonard, I must say that I am quite sophisticated in many areas, including art, music, and literature. My extensive knowledge and impeccable taste in these subjects are well-known among my peers. In fact, I can recite the entire periodic table of elements while playing Mozart's Symphony No. 40 on the theremin. So, yes, I am quite sophisticated indeed.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Sheldon: Well, Leonard, I wouldn't say I have an active imagination. I have an exceptionally vivid and creative mind that allows me to explore complex theoretical concepts and envision possibilities that others may struggle to comprehend. So, in short, yes, I do have an active imagination.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "<the participant> demonstrates a strong appreciation for art, music, and literature, as well as a vivid and creative mind. However, <the participant> also emphasizes their focus on theoretical physics and mathematical equations, suggesting a preference for abstract thinking and a willingness to challenge traditional notions. While <the participant> may not exhibit a strong interest in fantasy or unconventional ideas, their overall openness to new experiences and intellectual curiosity suggest a score above the neutral midpoint."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "RCOEI"
+}

@@ -1,0 +1,1393 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 2.1666666666666665,
+            "all_scores": [
+                1.5,
+                3.0,
+                2.0
+            ],
+            "inter_std": 0.6236095644623235,
+            "intra_std": [
+                0.5,
+                1.0,
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Malfoy:「Shut up, Crabbe. We don't have time for chit-chat.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Malfoy:「Don't be ridiculous, Crabbe. Of course he's not reserved. He's a filthy Mudblood.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Malfoy:「Why? Are you planning on causing some trouble, Crabbe?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Malfoy:「Oh, shut up, Crabbe! Can't you see I'm busy?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 1.0,
+                        "analysis": "Based on the conversations, the participant's responses indicate a lack of warmth, gregariousness, assertiveness, activity, excitement seeking, and positive emotions. The participant seems to be dismissive, unenthusiastic, and not interested in social interaction or stimulation."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Malfoy:「What's that supposed to mean, Crabbe?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Malfoy:「Assertive? More like aggressive! Look at him, always trying to pick a fight with me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Malfoy:「Crabbe, shut up. We're not here to psychoanalyze Potter.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Malfoy:「Outgoing? Sociable? Ha! Those are not qualities I possess. I prefer to keep to myself and surround myself with like-minded individuals.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of assertiveness, sociability, and outgoingness. There are also indications of a preference for solitude and like-minded company, as well as some resistance to being psychoanalyzed or labeled. However, the participant's response to the question about being quiet was somewhat defensive, which could indicate a sensitivity to the perception of being quiet."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "11",
+                            "21",
+                            "26",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Malfoy:「Always, Crabbe. I'm full of energy and ready for anything.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Malfoy:「Yes, Crabbe, Granger here is famous for being the know-it-all of the class. Always has her hand up, always has something to say.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Malfoy:「Assertive? Are you kidding? I have the most assertive personality you'll ever come across!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Malfoy:「Oh, shut up, Crabbe. No one asked for your opinion.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates high levels of energy, assertiveness, and enthusiasm. However, there is also an indication of being outspoken and not always seeking social interaction, as seen in the response about being quiet. Overall, the participant seems to exhibit a mix of extraverted and introverted traits."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "31",
+                            "6",
+                            "1"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Malfoy:「Outgoing? Sociable? Hardly words that describe me, Crabbe. I prefer to keep to myself and my select group of friends.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Malfoy:「Shy? Inhibited? Not me, Crabbe. I'm always confident and ready to take charge. Unlike some people.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Malfoy:「Don't be ridiculous, Crabbe. Of course, he's not reserved. He's just a pathetic little Gryffindor.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Malfoy:「Crabbe, ignore him. Let's focus on the task at hand.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of warmth, gregariousness, and positive emotions, as they prefer to keep to themselves and their select group of friends, express confidence and readiness to take charge, and dismiss the idea of being reserved. However, they also seem to exhibit some assertiveness by confidently expressing their opinions. Overall, the participant's responses suggest a tendency towards introversion and lower levels of extraversion."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "21",
+                            "16",
+                            "6",
+                            "31"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Malfoy:「Yeah, that's his specialty. Silent and brooding, like a little ghost.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Malfoy:「Oh, shut up, Crabbe.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Malfoy:「What's the matter, Crabbe? Scared of a little challenge?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Malfoy:「Shy? Inhibited? Not me, Crabbe. I'm always confident and fearless. Unlike some people, Potter.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of warmth and gregariousness, as they tend to be quiet, reserved, and sometimes shy. They also display assertiveness and a lack of enthusiasm. Overall, the participant's responses suggest a tendency towards introversion rather than extraversion."
+                    },
+                    {
+                        "id": [
+                            "11",
+                            "1",
+                            "26",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Malfoy:「Why? Planning to start trouble, Crabbe?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Malfoy:「Leave him alone, Crabbe. We have more important things to do.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Malfoy:「Assertive? More like aggressive.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Malfoy:「Not particularly. Why?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of warmth, gregariousness, assertiveness, and excitement seeking. The participant also appears to be reserved and not particularly outgoing or sociable."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 3.8333333333333335,
+            "all_scores": [
+                4.0,
+                3.5,
+                4.0
+            ],
+            "inter_std": 0.23570226039551584,
+            "intra_std": [
+                0.0,
+                0.5,
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Malfoy:「Oh, look, it's the Potter pity party.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Malfoy:「Relaxed? Handle stress well? Are you talking about Potter here? Because we all know he can't handle anything without panicking. Just look at him, always on the verge of a breakdown.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Malfoy:「Oh, come on, Crabbe, don't be such a coward. Of course he can't be tense. He's just a pathetic little Gryffindor.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Malfoy:「Oh, shut up, Crabbe. Nobody cares what you think.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit high levels of Angry Hostility, Depression, and Vulnerability. There are indications of a tendency to experience anger and frustration, feel sadness and hopelessness, and have difficulty coping with stress. The participant also displays dismissive and defensive responses, which may suggest a lack of emotional stability and difficulty in handling stress."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Malfoy:「What kind of question is that? Of course I am! I am the epitome of emotional stability. Unlike some people here, *glances at Harry* who always seem to be in some sort of emotional turmoil.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Malfoy:「What's the matter, Potter? Feeling a bit emo today?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Ron: \"Do I remain calm? Are you kidding me? I'm the king of panicking in tense situations!\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Malfoy:「Only when I have to deal with idiots like you, Crabbe.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit high levels of anxiety, moodiness, difficulty remaining calm in tense situations, and getting nervous easily. There are also indications of irritability and hostility. Overall, the participant's responses suggest a tendency towards emotional instability and reactivity to stress."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "24",
+                            "14",
+                            "9",
+                            "29"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Malfoy:「What kind of question is that? Of course I am! I don't get upset easily, unlike some people.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Malfoy:「Oh, come on, Crabbe! You're about as tense as a jellyfish.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Malfoy:「Relaxed? Potter? That's a good one, Crabbe. He's always on edge, especially when he's around me. Can't handle the stress of being my rival, I suppose.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Malfoy:「Moody? You mean like Moody Moody?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of anxiety and tension. However, there are indications of difficulty in handling stress and potential moodiness. The participant also seems to downplay their emotional stability and may have a tendency to be easily upset, despite their initial denial."
+                    },
+                    {
+                        "id": [
+                            "34",
+                            "4",
+                            "19",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Malfoy:「I don't need to remain calm, I always know how to handle tense situations.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Malfoy:「Oh, look who it is, the sad little Gryffindor. What's the matter, Potter? Can't handle the pressure?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Malfoy:「Oh, shut up, Crabbe. Can't you see I'm trying to have a conversation here?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Malfoy:「Why? Planning on doing something to make me nervous, Crabbe?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit high levels of anger, defensiveness, and sarcasm, which may indicate a tendency towards emotional instability and reactivity to stress. Additionally, the participant's response to the question about remaining calm in tense situations suggests overconfidence rather than genuine emotional stability."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "9",
+                            "19",
+                            "29",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Malfoy:「Don't be ridiculous, Crabbe. Potter doesn't handle anything well. He's always a nervous wreck.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Malfoy:「Oh, shut up, Crabbe! No one wants to hear your dumb questions.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Malfoy:「Oh, he can be moody, all right.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Malfoy:「Not at all. I quite enjoy the thrill of danger.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "The participant's responses indicate a tendency towards anxiety, irritability, and moodiness. However, the participant also mentioned enjoying the thrill of danger, which suggests a certain level of impulsiveness and risk-taking behavior."
+                    },
+                    {
+                        "id": [
+                            "4",
+                            "24",
+                            "14",
+                            "34"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Malfoy:「Oh, look who it is, the depressed little Mudblood lover.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Malfoy:「What's that got to do with anything?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Malfoy:「Oh, come on, Crabbe, don't be such a wimp. We're just having a little fun with Potter here.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Malfoy: 「Of course I do, Crabbe. I always keep my cool.」\nCrabbe: 「Well, you seemed pretty panicked back there when Hagrid mentioned something preferring the dark.」\nMalfoy: 「I wasn't panicked, just curious. I wanted to know what he was talking about.」\nCrabbe: 「Sure, Malfoy. Whatever you say.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant exhibits high levels of Angry Hostility, Depression, and Vulnerability. There are indications of defensiveness, irritability, and a tendency to feel sadness and distress. The participant also displays some level of Anxiety and Self-Consciousness, as seen in the defensive response to the question about being tense. However, there are also instances of claiming emotional stability and remaining calm in tense situations, which may indicate some level of emotional regulation."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 3.1666666666666665,
+            "all_scores": [
+                2.6666666666666665,
+                3.8333333333333335,
+                3.0
+            ],
+            "inter_std": 0.49065338146265824,
+            "intra_std": [
+                1.699673171197595,
+                0.23570226039551584,
+                0.816496580927726
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Malfoy:「Of course I do! I always do a thorough job!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Malfoy:「Careless? Me?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Malfoy:「Of course I am! I'm the most reliable worker you'll ever find.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the participant's responses, it is evident that they consistently demonstrate traits associated with conscientiousness. They express a strong inclination towards thoroughness, reliability, and a lack of carelessness."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Malfoy:「Why do you care, Crabbe? Mind your own business.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Malfoy:「Oh, shut up, Crabbe. No one asked you.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Malfoy:「Efficiency is for commoners, Crabbe. We do things with style and finesse.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 1.0,
+                        "analysis": "The participant's responses indicate a lack of self-discipline, task initiation, and persistence, as well as a dismissive attitude towards efficiency and perseverance. The participant also displays a tendency to avoid the questions and respond with hostility."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Malfoy:「What do you mean, Crabbe?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Malfoy:「Oh, look who it is. The messy one.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Malfoy:「Of course I do, Crabbe. Unlike some people around here.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit traits of low conscientiousness. They appear easily distracted, tend to be disorganized, and express a sarcastic attitude towards making plans and following through with them."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "13",
+                            "28",
+                            "23"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Malfoy:「What are you implying, Crabbe? Of course I'm a reliable worker! I'm Malfoy, after all.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Malfoy:「Shut up, Crabbe! Can't you see I'm busy here?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Malfoy:「I prefer to think of it as conserving my energy for more important endeavors. Unlike some people, I don't waste my time on trivial matters.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong sense of competence and achievement striving, as evidenced by their confidence in being a reliable worker and their preference for conserving energy for important endeavors. However, their response to persevering until the task is finished and their dismissive attitude may indicate a lower level of self-discipline and order."
+                    },
+                    {
+                        "id": [
+                            "3",
+                            "33",
+                            "18"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Malfoy:「Of course I do a thorough job, Crabbe. Unlike some people, I take my responsibilities seriously.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Malfoy:「Efficiency is for commoners, Crabbe. We Malfoys prefer elegance and style.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Malfoy:「Disorganized? Not at all, Crabbe. I simply have better things to occupy my mind with than trivial matters like organization.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to value thoroughness and takes responsibilities seriously, indicating a high level of competence and dutifulness. However, the participant also seems to prioritize elegance and style over efficiency, which may suggest a lower level of order. The denial of being disorganized indicates a tendency towards self-discipline. Overall, the participant demonstrates a mix of high and low conscientiousness facets."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "8",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Malfoy:「No, I just like to keep my options open.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Malfoy:「What are you talking about, Crabbe?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Malfoy:「Of course I do, Crabbe. Unlike some people around here.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit traits of conscientiousness. They express a preference for keeping options open, which could indicate a thoughtful decision-making process (Deliberation facet). Additionally, the participant's response about making plans and following through suggests a level of organization and goal-directed behavior (Order and Achievement Striving facets). However, the participant's initial response about being somewhat careless may indicate a slight tendency towards impulsiveness or lack of attention to detail."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "3",
+                            "43",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Malfoy:「Of course I do, Crabbe! I always make sure everything is taken care of properly.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Malfoy:「Shut up, Crabbe.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Malfoy:「Of course he's not, Crabbe. Look at him, he's a Weasley.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of conscientious and less conscientious traits. While they express a strong commitment to doing a thorough job and ensuring things are taken care of properly, there are also indications of potential distractibility and unreliability in their responses."
+                    },
+                    {
+                        "id": [
+                            "18",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Malfoy:「You should see his room, it's a complete mess!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Malfoy:「Of course he doesn't, Crabbe. Potter is too lazy and weak to see anything through to the end.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Malfoy:「Efficiency is for lesser beings, Crabbe. We strive for perfection.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of conscientiousness. They are described as disorganized, lazy, and not persevering until the task is finished. Additionally, the participant's disregard for efficiency and focus on perfection may indicate a lack of conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "8",
+                            "23",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Malfoy:「Yeah, Crabbe, can you?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Malfoy:「Well, I do have my moments of relaxation, but laziness is not in my nature. I prefer to use my time wisely and focus on achieving my goals. Unlike some people, Crabbe.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Malfoy:「Of course I make plans, Crabbe. Unlike some people, I actually think ahead.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of self-discipline, goal-directed behavior, and a methodical approach. The participant also shows a tendency to be organized and diligent, as well as a strong sense of responsibility and reliability."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 2.1666666666666665,
+            "all_scores": [
+                2.5,
+                2.0,
+                2.0
+            ],
+            "inter_std": 0.23570226039551584,
+            "intra_std": [
+                0.7071067811865476,
+                0.0,
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Malfoy:「Only when they deserve it, Crabbe.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Malfoy:「Don't be ridiculous, Crabbe. We're Slytherins, we don't care about being helpful or unselfish. We only care about our own success and power.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Malfoy:「Only with Gryffindors, Crabbe.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of trust, straightforwardness, altruism, compliance, modesty, and tender-mindedness. The participant appears to prioritize self-interest, be indifferent to others, and exhibit skepticism towards people's motives."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Malfoy:「Why are you asking that, Crabbe? Are you planning something?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Malfoy:「Oh, Crabbe, it comes naturally to me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Malfoy:「What are you talking about, Crabbe? Of course, I am. I'm a Malfoy, after all.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to Agreeableness. While there are indications of skepticism and aloofness in the first two responses, the third response suggests a strong inclination towards being considerate and kind to others."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Malfoy:「Cooperate? I don't need anyone's help, especially not from the likes of you, Crabbe. I can handle things on my own.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Malfoy:「Not as forgiving as I used to be, Crabbe.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Malfoy:「Only to those who deserve it, Crabbe. Like Potter here.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits low levels of agreeableness. They express a lack of interest in cooperating with others, a decreased forgiving nature, and a tendency to be rude to those they feel deserve it. These responses suggest a lower level of agreeableness."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "2",
+                            "37",
+                            "27"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Malfoy:「Well, when you hang around with losers like you, it's hard not to.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Ron:「Only to people like you, Crabbe.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Malfoy:「Oh, I think I can manage that just fine, Crabbe.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits a high level of antagonism, sarcasm, and a lack of cooperation. There is a clear tendency to find fault with others, be rude, and be cold and aloof, which are all indicative of low agreeableness."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "12",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Malfoy:「Cooperate with others? Why would I need to do that when I can handle things on my own? I don't need anyone else's help.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Malfoy:「Only with little Gryffindor gits like you, Crabbe.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Malfoy:「Oh, please, Crabbe. We're talking about Harry Potter here. Kindness is not in his vocabulary.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "The participant's responses indicate low levels of Agreeableness, characterized by a lack of willingness to cooperate, a confrontational nature, and a dismissive attitude towards kindness and consideration for others."
+                    },
+                    {
+                        "id": [
+                            "7",
+                            "22",
+                            "17"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Malfoy:「Don't be ridiculous, Crabbe. We Slytherins don't concern ourselves with such trivial things as being helpful and unselfish. We're focused on our own success and ambitions.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Malfoy:「Why do you ask?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Malfoy:「I don't see why I should forgive you. You've caused nothing but trouble since we've known you.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits low levels of trust, forgiveness, and unselfishness. They prioritize self-interest and exhibit skepticism towards others' motives."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "12",
+                            "32",
+                            "7"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Malfoy:「Only with Gryffindorks like you, Crabbe.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Malfoy:「No, Crabbe, I'm not. But that doesn't mean I can't have a little fun at their expense.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Malfoy:「Helpful and unselfish? That's not exactly in my nature, Crabbe. I prefer to look out for myself and let others fend for themselves.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits low levels of agreeableness. They seem to enjoy teasing and provoking others, prioritize self-interest, and express a lack of consideration and kindness towards others. Their responses suggest a tendency towards antagonism, distrust, and a lack of altruism and compliance."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "37",
+                            "42"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Malfoy:「Trust me, Crabbe, they're not to be trusted.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Ron:「Well, if they deserve it, yeah.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Malfoy:「Cooperate with others? Are you kidding me? I don't need anyone's help. I can handle things on my own.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits low levels of trust, straightforwardness, and cooperation. They also show a tendency to be rude to others and a preference for handling things on their own. These responses suggest a lower level of Agreeableness."
+                    },
+                    {
+                        "id": [
+                            "2",
+                            "17",
+                            "27"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Malfoy:「Only when they deserve it, Crabbe. Only when they deserve it.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Malfoy:「Not particularly.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Malfoy:「Of course he can, Crabbe. Look at him, he's practically made of ice.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of Agreeableness. They tend to find fault with others, do not have a forgiving nature, and can be cold and aloof, as indicated by their responses."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 2.2222222222222228,
+            "all_scores": [
+                2.3333333333333335,
+                2.0,
+                2.3333333333333335
+            ],
+            "inter_std": 0.1571348402636773,
+            "intra_std": [
+                0.4714045207910317,
+                0.816496580927726,
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Malfoy:「Of course I do, Crabbe. I'm the brains of this operation, remember?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Malfoy:「Curious? About what?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Malfoy:「Oh, please. Like anyone could be ingenious or a deep thinker in this dumb school.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of openness and closed-mindedness. While they express confidence in their ability to come up with new ideas, they also display a dismissive attitude towards curiosity and deep thinking. This suggests a moderate level of openness, with some resistance to unconventional ideas and intellectual exploration."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Malfoy:「Inventive? You think Weasley could come up with anything original?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Malfoy:「Artistic and aesthetic experiences? What are you blabbering about, Crabbe?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Malfoy:「No, I prefer work that is challenging and allows me to showcase my skills. Routine work is for the lesser wizards.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Malfoy:「Reflect? Play with ideas? What are you talking about, Crabbe? You're not capable of such things.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low openness traits. They show a lack of interest in inventive thinking, artistic experiences, and playing with ideas. They also express a preference for challenging work over routine tasks, indicating a practical and conventional mindset."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Malfoy:「Oh, look, Crabbe is trying to be clever. Stick to what you know, Crabbe, which is not much.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Malfoy:「Sophisticated? Please, Crabbe, don't embarrass yourself. We're talking about Potter here. He can barely read, let alone appreciate art or literature.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Malfoy:「Oh, shut up, Crabbe! We don't have time for your nonsense.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant displays a dismissive and negative attitude towards artistic interests, sophistication in art, music, or literature, and active imagination. The participant seems to have a low level of engagement and appreciation for these aspects, indicating a lack of openness in the facets of aesthetics, fantasy, and ideas."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "30",
+                            "15",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Malfoy:「What are you on about, Crabbe? Who cares about artistic stuff?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Malfoy:「Oh please, Crabbe, don't make me laugh. He wouldn't know cleverness if it hit him in the face.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Malfoy:「Reflect? Play with ideas? What are you on about, Crabbe? We're Slytherins, not Ravenclaws. We don't waste our time with pointless pondering.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 1.0,
+                        "analysis": "Based on the conversations, the participant shows a clear disinterest in artistic and aesthetic experiences, deep thinking, and reflecting on ideas. The participant also expresses a dismissive attitude towards these traits, indicating a lack of openness."
+                    },
+                    {
+                        "id": [
+                            "10",
+                            "35",
+                            "25",
+                            "5"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Malfoy:「Curiosity is a sign of weakness, Crabbe. You should know better than to question everything.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Malfoy:「I prefer work that is easy and doesn't require much effort. Why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Malfoy:「Inventive? You? I highly doubt it, Crabbe.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Malfoy:「Of course I do. I'm always full of brilliant ideas. Unlike you, Crabbe, who can barely string two thoughts together.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a mixed attitude towards openness. While they express a lack of curiosity and preference for easy, routine work, they also claim to come up with new ideas and criticize traditional thinking. This suggests a moderate level of openness with some conflicting responses."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "44",
+                            "41"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Malfoy:「Oh, Crabbe, don't encourage him. He already thinks he's some sort of hero.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Malfoy:「Sophisticated? You think Potter knows anything about art, music, or literature? He's nothing more than a clueless Muggle-born!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Malfoy:「Oh, Crabbe, don't be ridiculous. As if Potter would know anything about art.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to show a lack of interest or engagement in activities related to imagination, art, and literature. There is also a dismissive attitude towards these topics, indicating a lower level of openness to aesthetic experiences and intellectual curiosity."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "35",
+                            "10",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Malfoy:「Routine work? That's for peasants, Crabbe. We're destined for greatness, not monotonous tasks.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Malfoy:「Oh please, Crabbe, don't start with your random questions again. We have more important things to worry about.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Malfoy:「Reflect? Play with ideas? What are you on about, Crabbe? We're not here for deep thoughts, we're here to cause trouble and have some fun!」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a low score in the Ideas facet of Openness, as they appear dismissive of reflecting and playing with ideas. Additionally, their response to routine work suggests a willingness to embrace change and try new experiences, indicating a higher score in the Actions facet of Openness. However, their lack of curiosity about different things and focus on causing trouble and having fun may indicate a lower score in the Fantasy and Aesthetics facets. Overall, the participant's responses suggest a mixed score in the Openness dimension, with some facets leaning towards higher scores and others towards lower scores."
+                    },
+                    {
+                        "id": [
+                            "30",
+                            "41",
+                            "15",
+                            "25"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Malfoy:「What are you talking about, Crabbe? We're in the middle of a Quidditch match!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Malfoy:「Are you kidding? Potter wouldn't know art if it hit him in the face!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Malfoy:「What are you on about, Crabbe?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Malfoy:「Inventive? You? Don't make me laugh, Crabbe.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to show a lack of interest in artistic and aesthetic experiences, as well as a dismissive attitude towards deep thinking and inventiveness."
+                    },
+                    {
+                        "id": [
+                            "5",
+                            "20",
+                            "44"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Malfoy:「Of course I do, Crabbe. I'm always full of brilliant ideas. Unlike you two dimwits.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Malfoy:「Why? Thinking of all the ways I could hex you?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Malfoy:「Sophisticated? That's a laugh! Potter wouldn't know art if it hit him in the face!」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of openness. They display sarcasm and dismissiveness towards new ideas, active imagination, and appreciation for art, music, or literature."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {
+        "robustness": 0.08714011534898454
+    },
+    "code": "RLOEN"
+}

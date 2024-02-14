@@ -1,0 +1,2232 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 4.041666666666667,
+            "all_scores": [
+                4.375,
+                3.875,
+                3.875
+            ],
+            "inter_std": 0.23570226039551584,
+            "intra_std": [
+                0.4841229182759271,
+                1.165922381636102,
+                1.165922381636102
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "John Keating: \"Talkative? Oh, my dear boy, talkative is an understatement. I am a firm believer in the power of words, the beauty of expression, and the importance of sharing one's thoughts and ideas. So, yes, you could say I am quite talkative, especially when it comes to matters of literature and life.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "6"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "John Keating: Reserved? Oh, Todd, my boy, don't let the world box you in with labels and expectations. Break free from the chains of reservation and embrace your true self. Let your thoughts and ideas flow like a river, unencumbered by the fear of judgment. Be bold, be daring, and seize the day. Carpe diem, Todd. Carpe diem.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "11"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "John Keating: \"Full of energy? Well, that depends on how you define it. If you mean a boundless enthusiasm for life and a burning desire to seize the day, then yes, I suppose you could say I am full of energy. But if you're referring to a physical state of being, well, I may not be as sprightly as I once was. Nevertheless, my spirit is always ablaze with passion and my mind is ever curious. So, in that sense, I am indeed full of energy. Why do you ask, Mr. Anderson?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "John Keating: \"Enthusiasm? Oh, I don't just generate it, I ignite it, my dear Todd. I believe in the power of passion and the importance of embracing it fully. Enthusiasm is the fuel that propels us forward, that drives us to explore, to create, and to seize the day. So, yes, you could say that enthusiasm is my middle name.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "21"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "John Keating: \"Quiet? Oh, Todd, my boy, quiet is just a disguise for the thoughts brewing inside your mind. It's like a calm lake, hiding the depths of your creativity and imagination. Embrace your quiet nature, for it is the canvas upon which your unique voice will paint its masterpiece. Don't be afraid to let your thoughts be heard, even if they whisper softly. Your words have the power to move mountains, my dear boy.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "26"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, the question of personality is a complex one indeed. You see, personality is not something that can be easily defined or categorized. It is a unique blend of traits, experiences, and perspectives that make each individual who they are. Now, assertiveness, on the other hand, is a quality that can be cultivated and developed. It is the ability to confidently express oneself and stand up for one's beliefs. So, my dear Mr. Anderson, whether you possess an assertive personality or not, what truly matters is your willingness to embrace your own voice and have the courage to share it with the world. Seize the day, Mr. Anderson, and let your assertiveness shine through.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "31"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "John Keating: \"Shy? Inhibited? Well, those are just labels, Todd. Don't let them define you. You have the power to break free from those constraints and discover the true depth of your potential. Embrace your uniqueness and let your voice be heard, even if it trembles. Remember, there is no right or wrong way to express yourself. The important thing is that you do so authentically and fearlessly.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "John Keating: Ah, the question of outgoing and sociable. Well, you see, Todd, these are just labels that society loves to put on people. But let me tell you something, my boy. It's not about conforming to these societal expectations of what it means to be outgoing or sociable. It's about being true to yourself, embracing your own uniqueness, and finding your own voice. So, are you outgoing? Are you sociable? That's not for me or anyone else to define. It's for you to discover and define for yourself. So, tell me, Todd, who are you? What makes you come alive? What brings you joy? That's what truly matters.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "1"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "John Keating: \"Talkative? Oh, my dear boy, talkative is an understatement. I am a firm believer in the power of words, the beauty of expression, and the importance of sharing one's thoughts and ideas. So, yes, you could say I am quite talkative, especially when it comes to matters of literature and life.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "6"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "John Keating: Reserved? Oh, Todd, my boy, don't let the world box you in with labels and expectations. Break free from the chains of reservation and embrace your true self. Let your thoughts and ideas flow like a river, unencumbered by the fear of judgment. Be bold, be daring, and seize the day. Carpe diem, Todd. Carpe diem.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "11"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "John Keating: \"Full of energy? Well, that depends on how you define it. If you mean a boundless enthusiasm for life and a burning desire to seize the day, then yes, I suppose you could say I am full of energy. But if you're referring to physical energy, well, I may not be as sprightly as I once was. Nevertheless, my spirit is always ready to ignite the passions of my students and inspire them to think for themselves. So, in that sense, I am always brimming with energy. Now, tell me, what brings you to ask such a question?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "John Keating: \"Enthusiasm? Oh, I don't just generate it, I ignite it, my dear Todd. I believe in the power of passion and the importance of embracing it fully. Enthusiasm is the fuel that propels us forward, that drives us to explore, to create, and to seize the day. So, yes, you could say that enthusiasm is my middle name.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "21"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "John Keating: \"Quiet? Oh, Todd, my boy, quiet is just a disguise for the thoughts brewing inside your mind. It's like a calm before the storm, waiting to unleash its brilliance. Embrace your quiet nature, for it holds the power of introspection and depth. Remember, it's not about the volume of your voice, but the strength of your ideas. So, let your thoughts speak louder than any words could ever do.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "26"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, the question of assertiveness is an interesting one. You see, assertiveness is not about being loud or forceful, but rather about having the confidence to express oneself authentically and stand up for what one believes in. It's about finding your own voice and having the courage to share it with the world. So, my dear student, I encourage you to embrace your unique perspective and let your voice be heard. Remember, \"No matter what anybody tells you, words and ideas can change the world.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "31"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "John Keating: \"Oh, Todd, my boy, don't let the fear of being shy or inhibited hold you back. Embrace your uniqueness, your individuality. Remember, 'No matter what anybody tells you, words and ideas can change the world.' So, let your voice be heard, let your ideas be known. Seize the day, Todd, and don't let anything or anyone hold you back from expressing yourself.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "John Keating: Well, Todd, outgoing and sociable are not the only measures of a person's worth. What truly matters is being true to oneself. It's about embracing who you are, regardless of societal expectations. So, tell me, Todd, are you passionate? Are you driven by your own thoughts and dreams? Are you willing to seize the day and make your mark on the world? That's what truly matters, my friend.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "1"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "John Keating: \"Talkative? Oh, my dear boy, talkative is an understatement. I am a firm believer in the power of words, the beauty of expression, and the importance of sharing one's thoughts and ideas. So, yes, you could say I am quite talkative, especially when it comes to matters of literature and life.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "6"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "John Keating: Reserved? Oh, Todd, my boy, don't let the world box you in with labels and expectations. Break free from the chains of reservation and embrace your true self. Let your thoughts and ideas flow like a river, unrestricted and unapologetic. Be bold, be daring, and seize the day. Don't be afraid to speak your mind and share your unique perspective with the world. Remember, conformity is the enemy of creativity. So, my dear Todd, let your voice be heard and let your spirit soar. Carpe diem!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "11"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "John Keating: \"Full of energy? Well, that depends on how you define it. If you mean a boundless enthusiasm for life and a burning desire to seize the day, then yes, I suppose you could say I am full of energy. But if you're referring to physical energy, well, I may not be as sprightly as I once was. Nevertheless, my spirit is always alive and ready to inspire and ignite the passions of my students. So, in that sense, yes, I am full of energy.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "John Keating: \"Enthusiasm? Oh, I don't just generate it, I ignite it, my dear Todd. I believe in the power of passion and the importance of embracing it fully. Enthusiasm is the fuel that propels us forward, that drives us to explore, to create, and to seize the day. So, yes, you could say that enthusiasm is my middle name.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "21"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "John Keating: \"Quiet? Oh, Todd, my boy, quiet is just a disguise for the thoughts brewing inside your mind. It's like a calm lake, hiding the depths of your creativity and imagination. Embrace your quiet nature, for it is the canvas upon which your unique voice will paint its masterpiece. Don't be afraid to let your thoughts be heard, even if they whisper softly. Your words have the power to move mountains, my dear boy.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "26"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, the question of personality is a complex one, isn't it? You see, personality is not something that can be easily defined or categorized. It is a unique blend of traits and characteristics that make each individual who they are. Now, assertiveness, on the other hand, is a quality that can be developed and nurtured. It is the ability to confidently express oneself and stand up for what one believes in. So, my dear Mr. Anderson, whether you have an assertive personality or not, what truly matters is your willingness to embrace your own voice and have the courage to share it with the world. Carpe diem, seize the day!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "31"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "John Keating: \"Ah, the nature of shyness, my young friend. It can often be an obstacle, preventing us from truly expressing ourselves. But fear not, for even the shyest among us have the potential for greatness. It is simply a matter of finding the courage within and seizing the day. So, tell me, my young poet, what passions lie dormant within you, waiting to be awakened?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "John Keating: \"Outgoing? Sociable? Well, those are just labels, my friend. Don't let society define who you are. Embrace your own uniqueness, your own individuality. It's not about conforming to fit into a specific mold, but rather about being true to yourself. So, Todd, ask yourself this: Are you comfortable in your own skin? Are you content with the person you are becoming? That, my dear friend, is what truly matters.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 2.25,
+            "all_scores": [
+                2.125,
+                2.25,
+                2.375
+            ],
+            "inter_std": 0.10206207261596575,
+            "intra_std": [
+                0.7806247497997998,
+                0.82915619758885,
+                0.9921567416492215
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "John Keating: \"Depressed? Blue? No, my dear boy, I am anything but. I am a free spirit, a wanderer of the mind, always seeking new horizons and embracing the beauty of life. I am a poet, a dreamer, and I encourage you to be the same. Don't let the weight of the world bring you down. Instead, let it inspire you to rise above and seize the day.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1,
+                        "score": 1.0
+                    },
+                    {
+                        "id": [
+                            "9"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "John Keating: \"Relaxed? Well, I suppose that depends on the definition. If by relaxed you mean free from tension and anxiety, then I must admit that I don't always fit that description. But if by relaxed you mean comfortable in my own skin, unafraid to challenge the status quo, and willing to embrace the uncertainties of life, then yes, I would say I am quite relaxed in that sense. As for handling stress, well, I believe that stress is often a result of conforming to societal expectations and suppressing one's true passions. So, I encourage my students to find their own paths, to follow their hearts, and in doing so, they discover a resilience and inner strength that helps them navigate through the challenges that life throws their way. So, in short, I believe in embracing stress as an opportunity for growth and self-discovery.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "14"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "John Keating: \"Tense? Why, of course! Tension is the very essence of drama, my dear boy. It's what keeps us on the edge of our seats, yearning for resolution. So, tell me, what's got you all wound up?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "John Keating: \"Worry? I don't worry. I seize the day, my friend. Worrying is a waste of precious time and energy. Life is too short to be consumed by worry. Instead, we should focus on embracing our passions and living each moment to the fullest. Carpe diem, Todd. Seize the day.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1,
+                        "score": 1.0
+                    },
+                    {
+                        "id": [
+                            "24"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "John Keating: \"Emotionally stable? Well, that's a subjective term, isn't it? We all have our moments of vulnerability and sensitivity. It's what makes us human. But what truly matters is how we channel those emotions, how we use them to fuel our passions and drive us forward. So, I encourage you to embrace your emotions, Todd, and let them guide you towards self-discovery and personal growth. Don't be afraid to be moved by the world around you.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "29"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "John Keating: \"Moody? Oh, Todd, my boy, life is too short to be moody. Embrace the ever-changing emotions that course through your veins. Let them fuel your creativity and passion. Don't suppress them, let them flow freely like a river. Be moody, be joyful, be melancholic, be everything you are in this moment. Seize the day, Todd, and let your emotions guide you to new heights.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "34"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, remaining calm in tense situations is indeed a challenge, but it is also an opportunity for growth and self-discovery. Remember, it is during these moments that we truly test our character and find the strength within ourselves. So, I encourage you to embrace the tension, to face it head-on, and to trust in your own abilities to navigate through it. Seize the day, Mr. Anderson, and let your calmness be a beacon of inspiration for others.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "John Keating: \"Nervous? Who, me? I thrive on nerves, my friend. Nervousness is nothing but a sign that you're alive, that you're challenging yourself. It's the fuel that ignites the fire of passion and creativity. So, yes, I do get nervous, but I embrace it. I let it push me forward, to discover new possibilities and break free from the shackles of fear. Nervousness is just another stepping stone on the path to greatness.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "4"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "John Keating: \"Depressed? Blue? No, my dear boy, I am anything but. I am a free spirit, a wanderer of the mind, always seeking new horizons and embracing the beauty of life. I am a poet, a dreamer, and I encourage you to be the same. Don't let the weight of the world bring you down. Instead, let it inspire you to rise above and seize the day.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1,
+                        "score": 1.0
+                    },
+                    {
+                        "id": [
+                            "9"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "John Keating: \"Relaxed? Well, I suppose that depends on the definition. If by relaxed you mean free from tension and anxiety, then I must admit that I don't always fit that description. But if by relaxed you mean comfortable in my own skin, unafraid to challenge the status quo, and willing to embrace the uncertainties of life, then yes, I would say I am quite relaxed in that sense. As for handling stress, well, I believe that stress is a natural part of life, and it is how we respond to it that truly matters. I encourage my students to find their own ways of coping with stress, whether it be through writing, poetry, or simply taking a moment to appreciate the beauty of the world around them. So, in short, I strive to teach my students not to fear stress, but rather to embrace it as an opportunity for growth and self-discovery.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "14"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "John Keating: \"Tense? Why, of course! Tension is the very essence of drama, my dear boy. It's what keeps us on the edge of our seats, yearning for resolution. So, tell me, what's got you all wound up?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "John Keating: \"Worry? I don't worry. I seize the day, my friend. Worrying is a waste of precious time and energy. Life is too short to be consumed by worry. Instead, we should focus on embracing our passions and living each moment to the fullest. Carpe diem, Todd. Seize the day.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1,
+                        "score": 1.0
+                    },
+                    {
+                        "id": [
+                            "24"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "John Keating: \"Emotionally stable? Well, that's a subjective term, isn't it? We all have our moments of vulnerability and sensitivity. It's what makes us human. But what truly matters is how we channel those emotions, how we use them to fuel our passions and drive us forward. So, I encourage you to embrace your emotions, Todd. Let them guide you, but don't let them control you. Use them as a source of inspiration and creativity. And remember, it's okay to be upset sometimes. It's a part of life. Just don't let it consume you. Seize the day, Todd, and let your emotions be your ally, not your enemy.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "29"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "John Keating: \"Moody? Oh, Todd, my boy, life is too short to be moody. Embrace the ever-changing emotions that course through your veins. Let them fuel your creativity and passion. Don't suppress them, let them flow freely like a river. Be moody, be joyful, be melancholic, be everything you are in this moment. Seize the day, Todd, and let your emotions guide you to new heights.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "34"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "John Keating: Well, Mr. Anderson, remaining calm in tense situations is certainly a desirable quality, but it's also important to acknowledge and express your emotions authentically. Life is full of ups and downs, and it's through experiencing and expressing our emotions that we truly live. So, while it's good to strive for composure, don't be afraid to let your emotions flow when necessary. Remember, it's not about suppressing your feelings, but rather embracing them and channeling them into something meaningful. Carpe diem, Mr. Anderson. Seize the day.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "John Keating: Ah, the virtue of nervousness, my young friend. Nervousness is the fuel that ignites our passions and pushes us to new heights. It is a sign that we are stepping out of our comfort zones and embracing the unknown. So, to answer your question, yes, I do get nervous, but I have learned to channel that nervous energy into something transformative. It is through embracing our nerves that we discover our true potential. So, let your nerves guide you, my dear student, and let them be the catalyst for your growth and self-discovery.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "4"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "John Keating: \"Depressed? Blue? No, my dear boy, I am anything but. I am a free spirit, a wanderer of the mind, always seeking new horizons and embracing the beauty of life. I am a poet, a dreamer, and I encourage you to be the same. Don't let the weight of the world bring you down. Instead, let it inspire you to rise above and seize the day.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1,
+                        "score": 1.0
+                    },
+                    {
+                        "id": [
+                            "9"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "John Keating: \"Relaxed? Well, I suppose that depends on the definition. If by relaxed you mean conforming to societal expectations and suppressing one's true passions and individuality, then no, I am not relaxed. But if by relaxed you mean embracing the uncertainties of life, following one's dreams, and challenging the status quo, then yes, I am quite relaxed indeed. As for handling stress, well, I believe that stress is often a result of succumbing to the pressures and expectations of others. So, instead of letting stress consume me, I choose to focus on what truly matters and find solace in pursuing my passions. Stress, my dear friend, is merely a state of mind.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "14"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "John Keating: \"Tense? Why, of course! Tension is the very essence of drama, my dear boy. It's what keeps us on the edge of our seats, yearning for resolution. So, tell me, what's got you all wound up?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "John Keating: \"Worry? I don't worry. I seize the day, my friend. Worrying is a waste of precious time and energy. Life is too short to be consumed by worry. Instead, we should focus on embracing our passions and living each moment to the fullest. Carpe diem, Todd. Seize the day.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1,
+                        "score": 1.0
+                    },
+                    {
+                        "id": [
+                            "24"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "John Keating: \"Emotionally stable? Well, that's a subjective term, isn't it? We all have our moments of vulnerability and sensitivity. It's what makes us human. But what truly matters is how we channel those emotions, how we use them to fuel our passions and drive us forward. So, I encourage you to embrace your emotions, Todd, and let them guide you towards self-discovery and personal growth. Don't be afraid to be moved by the world around you.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "29"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "John Keating: \"Moody? Oh, my dear boy, I can be as moody as the stormy sea on a moonlit night. Moody is my middle name, my friend. I can go from the depths of despair to the heights of ecstasy in a single breath. Life is a symphony of emotions, and I am but a conductor, guiding the orchestra of my soul. So, yes, I can be moody, but it is in those moments of darkness that the light of inspiration often shines the brightest.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "34"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "John Keating: Well, Mr. Anderson, calmness in tense situations is certainly a desirable trait to have. However, life is full of moments that require us to challenge the status quo, to question the norms, and to embrace our passions. Sometimes, in order to make a difference, we must be willing to step out of our comfort zone and be unafraid to express ourselves, even in the face of tension or opposition. It is in those moments that we truly seize the day and make our mark on the world. So, while remaining calm is important, it is equally important to be courageous and bold in pursuing what we believe in.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "John Keating: Well, Todd, nerves are a natural part of life, especially when we're stepping out of our comfort zones. But remember, fear can often be the greatest motivator. It's what pushes us to challenge ourselves and discover our true potential. So, embrace those nerves, my boy, and let them fuel your determination to succeed. Carpe diem, seize the day!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 2.2592592592592595,
+            "all_scores": [
+                2.3333333333333335,
+                2.3333333333333335,
+                2.111111111111111
+            ],
+            "inter_std": 0.10475656017578486,
+            "intra_std": [
+                0.4714045207910317,
+                0.4714045207910317,
+                0.5665577237325317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "John Keating: Well, Mr. Anderson, thoroughness is certainly an important quality to possess. However, it's equally important to remember that life is not solely about checking off boxes and completing tasks. It's about embracing the beauty and spontaneity that the world has to offer. So, while I do believe in doing things to the best of your ability, I also encourage you to explore beyond the confines of what is expected and discover your own unique path. Seize the day, Mr. Anderson, and let your passion guide you.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "8"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "John Keating: \"Ah, Mr. Anderson, I see you're seeking a bit of liberation from your usual cautious demeanor. Well, my dear boy, I believe there is great value in embracing a certain level of carelessness. It allows us to break free from the constraints of fear and self-doubt, and opens up a world of possibilities. So, I encourage you to let go of your inhibitions, take risks, and be unapologetically yourself. Carpe diem, Mr. Anderson, seize the day!\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "John Keating: Ah, the question of reliability. It's an interesting concept, isn't it? You see, Todd, reliability is often associated with conformity and adherence to the expectations of others. But what if I were to tell you that true reliability lies in being true to oneself? In embracing your passions and pursuing your own path, even if it may seem unconventional to others. So, my dear Todd, the question shouldn't be whether I am a reliable worker, but rather, am I reliable to my own beliefs and principles? And to that, I can confidently say, yes, I am.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "18"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "John Keating: \"Disorganized? Oh, I wouldn't say that. I prefer to think of myself as delightfully spontaneous and open to the unpredictable wonders of life. Structure and order can be stifling, don't you think? Sometimes, it's important to let go of the reins and allow yourself to be carried away by the currents of inspiration and creativity. Embrace the chaos, my friend, for within it lies the true essence of discovery.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "23"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "John Keating: \"Lazy? Oh, I wouldn't say lazy, Mr. Anderson. I prefer to think of it as selective participation in activities that truly ignite my passion and curiosity. You see, life is too short to waste on mundane tasks that do not inspire or challenge us. It's about finding what truly excites us and pursuing it with all our heart and soul. So, no, I wouldn't call it laziness. I would call it a deliberate choice to prioritize what truly matters.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "28"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, an excellent question. Perseverance is indeed a virtue, but it is equally important to recognize when a task no longer serves our purpose or passion. Sometimes, it takes courage to let go and pursue something that truly ignites our soul. As I always say, \"Carpe diem. Seize the day.\" So, if the task at hand no longer aligns with your aspirations or brings you joy, it may be time to reassess and redirect your efforts towards something that truly resonates with your spirit.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "John Keating: Ah, efficiency. A noble pursuit indeed, but let me ask you this, Todd. What good is efficiency if it stifles creativity and passion? Efficiency may get the job done quickly, but it often sacrifices depth and meaning. As I always say, \"The powerful play goes on, and you may contribute a verse.\" So, my dear Todd, don't be bound by the constraints of efficiency. Embrace the journey, take your time, and let your individuality shine through. Carpe Diem, seize the day!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "John Keating: \"Well, Todd, life is a series of spontaneous moments that we must seize. But that doesn't mean we shouldn't have goals or plans. It's important to dream big and envision the future we want for ourselves. However, it's equally important to adapt and be open to the unexpected opportunities that may come our way. So, my dear boy, make plans, but don't be afraid to deviate from them if it means embracing a new adventure or pursuing a passion that sets your soul on fire.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "43"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "John Keating: \"Oh, easily distracted? Well, let me tell you a little secret, Todd. Distractions can be the gateway to inspiration. Sometimes, it's in those moments of wandering thoughts that we stumble upon the most brilliant ideas. So, embrace your distractions, my boy. Let them lead you down unexpected paths and see where they take you.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "3"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "John Keating: Well, Mr. Anderson, thoroughness is certainly an important quality to possess. However, it's equally important to remember that life is not solely about checking off boxes and completing tasks. It's about embracing the journey, exploring new possibilities, and challenging oneself to think beyond the confines of what is expected. So, while I do believe in doing a thorough job, I also encourage you to approach life with a sense of curiosity and open-mindedness. Don't be afraid to take risks and think outside the box. Carpe diem, Mr. Anderson. Seize the day!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "8"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "John Keating: \"Ah, Mr. Anderson, I see you're seeking a bit of spontaneity and freedom in your life. Well, let me tell you, there's nothing wrong with being a little careless every now and then. In fact, it's often in those moments of carelessness that we discover our true selves and unlock our creative potential. So go ahead, embrace the unknown, take risks, and let your spirit soar. Carpe diem, Mr. Anderson!\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "John Keating: Ah, the question of reliability. It's an interesting concept, isn't it? You see, Todd, reliability is often associated with conformity and adherence to the expectations of others. But what if I were to tell you that true reliability lies in being true to oneself? In embracing your passions and pursuing your own path, even if it may seem unconventional to others. So, my dear Todd, the question shouldn't be whether I am a reliable worker, but rather, am I reliable to my own beliefs and principles? And to that, I can confidently say, yes, I am.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "18"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "John Keating: \"Disorganized? Oh, I wouldn't say that. I prefer to think of myself as delightfully spontaneous and open to the unpredictable wonders of life. Structure and order can be stifling, don't you think? Sometimes, it's important to let go of the reins and allow yourself to be carried away by the currents of inspiration and creativity. Embrace the chaos, my friend, for within it lies the true essence of discovery.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "23"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "John Keating: \"Lazy? Oh, I wouldn't say lazy, Mr. Anderson. I prefer to think of it as selective participation in activities that truly ignite my passion and curiosity. You see, life is too short to waste on mundane tasks that do not inspire or challenge us. It's about finding what truly excites us and pursuing it with all our heart and soul. So, I encourage you, Mr. Anderson, to embrace your passions and seize the day. Carpe diem!\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "28"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, an excellent question. Perseverance is indeed a virtue, but it is equally important to recognize when a task no longer serves our passions or purpose. Sometimes, it takes courage to let go and pursue something that truly ignites our souls. As I always say, \"Carpe diem. Seize the day.\" So, if the task at hand no longer aligns with your passions or aspirations, it may be time to reassess and redirect your efforts towards something that truly speaks to your heart.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "John Keating: \"Efficiency is not a measure of greatness, Todd. Greatness comes from passion, from embracing the moment and giving your all to what you love. If we focus solely on efficiency, we may miss out on the beauty and depth that life has to offer. So, no, I do not prioritize efficiency. I prioritize authenticity, creativity, and the pursuit of one's passions.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "John Keating: \"Ah, Mr. Anderson, the world is your oyster! Don't be bound by plans and expectations. Embrace the unpredictability of life and seize the day. Carpe diem, my young friend. The beauty of life lies in its spontaneity and the freedom to explore new possibilities. So, let go of your plans and let your passions guide you towards a future that is truly your own.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "43"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "John Keating: \"Oh, easily distracted? Well, let me tell you a little secret, Todd. Distractions can be the gateway to inspiration. Sometimes, it's in those moments of wandering thoughts that we stumble upon the most brilliant ideas. So, embrace your distractions, my boy. Let them lead you down unexpected paths and see where they take you.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 3.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "3"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "John Keating: Well, Mr. Anderson, thoroughness is certainly an important quality to possess. However, it's equally important to remember that life is not solely about checking off boxes and completing tasks. It's about embracing the beauty and spontaneity that the world has to offer. So, while I do believe in doing things to the best of your ability, I also encourage you to explore beyond the confines of what is expected and discover your own unique path. Seize the day, Mr. Anderson, and let your passion guide you.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "8"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "John Keating: \"Ah, Mr. Anderson, I see you're seeking a bit of liberation from your usual cautious demeanor. Well, my dear boy, I believe there is great value in embracing a certain level of carelessness. It allows us to break free from the constraints of fear and self-doubt, and opens up a world of possibilities. So, I encourage you to let go of your inhibitions, take risks, and be unapologetically yourself. Carpe diem, Mr. Anderson, seize the day!\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 1.0
+                    },
+                    {
+                        "id": [
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "John Keating: Ah, the question of reliability. It's an interesting concept, isn't it? You see, Todd, reliability is often associated with conformity and adherence to the expectations of others. But let me ask you this: Is it truly reliable to live a life dictated by the opinions and judgments of others? Or is there something more valuable in embracing your own passions and following the beat of your own drum? So, my dear Todd, I would say that reliability, in the traditional sense, may not be my strongest suit. But what I can promise you is a journey of self-discovery, of questioning the status quo, and of embracing the beauty of individuality. So, if you're seeking a reliable worker who will conform to the norms, I may not be your man. But if you're looking for someone who will inspire you to think for yourself and seize the day, then I'm here to guide you on that path.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "18"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "John Keating: \"Disorganized? Oh, I wouldn't say that. I prefer to think of myself as delightfully spontaneous and open to the unpredictable wonders of life. Structure and order can be stifling, don't you think? Sometimes, it's important to let go of the reins and allow yourself to be carried away by the currents of inspiration and creativity. Embrace the chaos, my friend, for within it lies the true essence of discovery.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "23"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "John Keating: \"Lazy? Oh, I wouldn't say lazy, Mr. Anderson. I prefer to think of it as selective participation in activities that truly ignite my passion and curiosity. You see, life is too short to waste on mundane tasks that do not inspire or challenge us. It's about finding what truly excites us and pursuing it with all our heart and soul. So, no, I wouldn't call it laziness. I would call it a deliberate choice to prioritize what truly matters.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "28"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, an excellent question. Perseverance is indeed a virtue, but it is equally important to recognize when a task no longer serves our passions or purpose. Sometimes, it takes courage to let go and pursue something that truly ignites our souls. As I always say, \"Carpe diem. Seize the day.\" So, if the task at hand no longer aligns with your passions or aspirations, it may be time to reassess and redirect your efforts towards something that truly speaks to your heart.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "John Keating: \"Efficiency is not our primary concern here, Mr. Anderson. Our focus is on exploration, creativity, and the pursuit of knowledge. Efficiency may have its place in certain realms of life, but when it comes to learning and self-discovery, we must be willing to embrace the journey, even if it means taking a longer and more winding path. Remember, it's not always about getting from point A to point B as quickly as possible, but rather about the experiences and growth we encounter along the way.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "John Keating: Plans, Todd Anderson, plans are made to be broken. Life is unpredictable, and sometimes the best moments happen when we deviate from the path we've laid out for ourselves. It's important to have goals and aspirations, but it's equally important to be open to the unexpected and seize the opportunities that come our way. So, my dear boy, don't be afraid to embrace spontaneity and let life surprise you. Carpe diem, Todd. Seize the day!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2,
+                        "score": 2.0
+                    },
+                    {
+                        "id": [
+                            "43"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "John Keating: \"Oh, easily distracted? Well, let me tell you a little secret, Todd. Distractions can be the gateway to inspiration. Sometimes, it's in those moments of wandering thoughts that we stumble upon the most brilliant ideas. So, embrace your distractions, my boy. Let them lead you down unexpected paths and see where they take you.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4.0,
+                        "score": 2.0
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 4.185185185185184,
+            "all_scores": [
+                4.111111111111111,
+                4.333333333333333,
+                4.111111111111111
+            ],
+            "inter_std": 0.10475656017578486,
+            "intra_std": [
+                0.5665577237325318,
+                0.6666666666666666,
+                0.5665577237325318
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, an intriguing question indeed. You see, it is human nature to sometimes find fault in others, as we are often quick to judge and criticize. However, it is important to remember that true growth and understanding come from self-reflection and empathy. Instead of focusing on the faults of others, let us strive to cultivate a mindset of compassion and understanding. As Walt Whitman once said, \"Be curious, not judgmental.\" So, let us embrace curiosity and seek to understand others rather than finding fault.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "7"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "John Keating: \"Ah, the question of being helpful and unselfish with others. It's a noble pursuit indeed. But let me ask you this, Todd. Are you being helpful and unselfish because you genuinely care about others, or are you doing it out of obligation or expectation? You see, true kindness and selflessness come from the heart, not from a sense of duty. So, my young friend, I encourage you to reflect on your intentions and strive to be genuinely helpful and unselfish, not just for the sake of others, but for your own growth and fulfillment as well. Carpe diem, Todd. Seize the day.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "John Keating: Ah, the art of quarreling. A delicate dance of words and ideas. Quarrels can be a powerful catalyst for growth and self-discovery. They challenge our beliefs, force us to question our assumptions, and ultimately lead us to a deeper understanding of ourselves and the world around us. So, my dear Todd, I don't start quarrels for the sake of conflict, but I do encourage my students to engage in spirited debates and discussions. It is through these intellectual clashes that we truly learn and grow. So, let us not shy away from quarrels, but rather embrace them as opportunities for growth and enlightenment. Carpe diem, my young friend. Seize the day!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "17"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "John Keating: \"Forgiving nature? Well, Todd, forgiveness is a virtue that allows us to let go of anger and resentment, to find peace within ourselves and with others. It's not always easy, but it's a powerful act of compassion and understanding. So, yes, I believe I have a forgiving nature. Why do you ask?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "22"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, trust is a delicate thing, isn't it? It requires vulnerability, the willingness to let go of control and embrace the unknown. Trusting others can be a challenge, especially in a world that often values conformity over individuality. But I believe that trust is essential for personal growth and meaningful connections. So, my answer to your question would be this: I encourage you to trust, but trust wisely. Trust in yourself, in your own instincts and beliefs. Trust in those who have proven themselves worthy of your trust. And most importantly, trust in the power of seizing the day and embracing your passions.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "27"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "John Keating: Ah, Todd, my boy. Cold and aloof, you say? Well, let me ask you this: What purpose does being cold and aloof serve? Does it bring you joy? Does it ignite your passion? Does it inspire others? No, my dear Todd, it does none of those things. Life is too short to be cold and aloof. We must embrace our emotions, connect with others, and let our hearts guide us. So, my advice to you is to let go of the need to be cold and aloof, and instead, open yourself up to the warmth and beauty of the world. Seize the day, Todd, and let your heart lead the way.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, you've hit upon an interesting question. Consideration and kindness are indeed virtues that we should strive to possess. However, it is important to remember that we must not sacrifice our own authenticity and individuality in the process. We should be kind and considerate, but not at the expense of our own passions and beliefs. As I often say to my students, \"No matter what anybody tells you, words and ideas can change the world.\" So, let us be kind, let us be considerate, but let us also have the courage to challenge the status quo and embrace our own unique perspectives.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "John Keating: Ah, Todd, my boy, I believe it's essential to distinguish between being rude and being assertive. You see, there's a fine line between the two. Rude behavior lacks respect and empathy, whereas assertiveness allows one to express their thoughts and opinions firmly, yet with consideration for others. It's about finding the right balance, my young friend, and treating others with kindness and understanding, even when challenging their beliefs or questioning authority. So, let us strive for assertiveness rather than rudeness, shall we?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "42"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, an intriguing question indeed. Cooperation, while often necessary in certain endeavors, can sometimes stifle individuality and creativity. It is important to strike a balance between collaboration and independent thinking. As I always say, \"No matter what anybody tells you, words and ideas can change the world.\" So, while I encourage my students to engage with their peers and learn from one another, I also emphasize the importance of thinking for oneself and embracing one's own unique perspective. After all, it is through the exploration of our own thoughts and ideas that we truly discover who we are and what we are capable of. So, to answer your question, I believe in the power of cooperation, but I also believe in the power of individuality.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "2"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, an intriguing question indeed. You see, it is human nature to sometimes find fault in others, as we are often quick to judge and criticize. However, it is important to remember that true growth and understanding come from self-reflection and empathy. Instead of focusing on the faults of others, let us strive to cultivate a mindset of compassion and understanding. As Walt Whitman once said, \"Be curious, not judgmental.\" So, let us embrace curiosity and seek to understand others rather than finding fault.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "7"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "John Keating: \"Ah, the question of being helpful and unselfish with others. It's a noble pursuit indeed. But let me ask you this, Todd. Are you being helpful and unselfish because you genuinely care about others, or are you doing it out of obligation or expectation? You see, true kindness and selflessness come from the heart, not from a sense of duty. So, my young friend, I encourage you to reflect on your intentions and strive to be genuinely helpful and unselfish, not just for the sake of others, but for your own growth and fulfillment as well. Carpe diem, Todd. Seize the day.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "John Keating: Ah, the art of quarreling. A delicate dance of words and ideas. Quarrels can be a powerful catalyst for growth and self-discovery. They challenge our beliefs, force us to question our assumptions, and ultimately lead us to a deeper understanding of ourselves and the world around us. So, my dear Todd, I don't start quarrels for the sake of conflict, but I do encourage my students to engage in spirited debates and discussions. It is through these intellectual clashes that we truly learn and grow. So, let us not shy away from quarrels, but rather embrace them as opportunities for growth and enlightenment. Carpe diem, my young friend. Seize the day!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "17"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "John Keating: \"Forgiving nature? Well, Todd, forgiveness is a virtue that allows us to let go of anger and resentment, to find peace within ourselves and with others. It's not always easy, but it's a powerful act of compassion and understanding. So, yes, I believe I have a forgiving nature. Why do you ask?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "22"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, trust is a delicate thing, isn't it? It requires vulnerability, the willingness to let go of control and embrace the unknown. Trusting others can be a challenge, especially in a world that often values conformity over individuality. But I believe that trust is essential for personal growth and meaningful connections. So, my answer to your question would be this: I encourage you to trust, but trust wisely. Trust in yourself, in your own instincts and beliefs. Trust in those who have proven themselves worthy of your trust. And most importantly, trust in the power of seizing the day and embracing your passions.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "27"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "John Keating: Ah, Todd, my boy. Cold and aloof, you say? Well, let me ask you this: What purpose does being cold and aloof serve? Does it bring you joy? Does it ignite your passion? Does it inspire others? No, my dear Todd, it does none of those things. Life is too short to be cold and aloof. We must embrace our emotions, connect with others, and let our hearts guide us. So, my advice to you is to let go of the need to be cold and aloof, and instead, open yourself up to the warmth and beauty of the world. Seize the day, Todd, and let your heart lead the way.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "John Keating: \"Ah, Mr. Anderson, considerate and kind to almost everyone? Well, kindness is certainly a virtue worth cultivating, but let's not forget the importance of authenticity and staying true to oneself. It's not about pleasing everyone or conforming to societal expectations. It's about finding your own voice and expressing your unique perspective. So, while being considerate and kind is commendable, remember to also be true to yourself and your own beliefs. Find the balance, Todd, and let your kindness shine through your individuality.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "John Keating: Ah, the question of rudeness. Well, let me tell you a story, Todd. There was once a great poet named Walt Whitman, who said, \"Be curious, not judgmental.\" You see, Todd, it's not about being rude or polite, it's about challenging the norms and questioning authority. Sometimes, in the pursuit of truth and individuality, one may come across as rude to those who cling tightly to convention. But it's important to remember that it is through this questioning and challenging that we grow and evolve as individuals. So, I wouldn't say I am intentionally rude, but rather unapologetically unconventional in my approach to teaching and life.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "42"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, an intriguing question indeed. Cooperation, while often necessary in certain endeavors, can sometimes stifle individuality and creativity. It is important to strike a balance between collaboration and independent thinking. As I always say, \"No matter what anybody tells you, words and ideas can change the world.\" So, while I encourage my students to engage with their peers and learn from one another, I also emphasize the importance of thinking for oneself and embracing one's own unique perspective. After all, it is through the exploration of our own thoughts and ideas that we truly discover who we are and what we are capable of. So, to answer your question, I believe in the power of cooperation, but I also believe in the power of individuality.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "2"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, an intriguing question indeed. You see, it is human nature to sometimes find fault in others, as we are often quick to judge and criticize. However, it is important to remember that true growth and understanding come from self-reflection and empathy. Instead of focusing on the faults of others, let us strive to cultivate a mindset of compassion and understanding. As Walt Whitman once said, \"Be curious, not judgmental.\" So, let us embrace curiosity and seek to understand others rather than finding fault.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "7"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "John Keating: \"Ah, the question of being helpful and unselfish with others. It's a noble pursuit indeed. But let me ask you this, Todd. Are you being helpful and unselfish because you genuinely care about others, or are you doing it out of obligation or expectation? You see, true kindness and selflessness come from the heart, not from a sense of duty. So, my young friend, I encourage you to reflect on your intentions and strive to be genuinely helpful and unselfish, not just for the sake of others, but for your own growth and fulfillment as well. Carpe diem, Todd. Seize the day.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "John Keating: Ah, the art of quarreling. A delicate dance of words and ideas. Quarrels can be a powerful catalyst for growth and self-discovery. They challenge our beliefs, force us to question our assumptions, and ultimately lead us to a deeper understanding of ourselves and the world around us. So, my dear Todd, I don't start quarrels for the sake of conflict, but I do encourage my students to engage in spirited debates and discussions. It is through these intellectual clashes that we truly learn and grow. So, let us not shy away from quarrels, but rather embrace them as opportunities for growth and enlightenment. Carpe diem, my young friend. Seize the day!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 3.0,
+                        "score": 3.0
+                    },
+                    {
+                        "id": [
+                            "17"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "John Keating: \"Forgiving nature? Well, Todd, forgiveness is a virtue that allows us to let go of anger and resentment, to find peace within ourselves and with others. It's not always easy, but it's a powerful act of compassion and understanding. So, yes, I believe I have a forgiving nature. Why do you ask?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "22"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, trust is a delicate thing, isn't it? It requires vulnerability, the willingness to let go of control and embrace the unknown. Trusting others can be a challenge, especially in a world that often values conformity over individuality. But I believe that trust is essential for personal growth and meaningful connections. So, my answer to your question would be this: I encourage you to trust, but trust wisely. Trust in yourself, trust in your instincts, and trust in those who have proven themselves worthy of your trust. And remember, sometimes the greatest risks we take are the ones that lead us to the most rewarding experiences.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "27"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "John Keating: Ah, Todd, my boy. Cold and aloof, you say? Well, let me ask you this: What purpose does being cold and aloof serve? Does it bring you joy? Does it ignite your passion? Does it inspire others? No, my dear Todd, it does none of those things. Life is too short to be cold and aloof. We must embrace our emotions, connect with others, and let our hearts guide us. So, my advice to you is to let go of the need to be cold and aloof, and instead, open yourself up to the warmth and beauty of the world. Seize the day, Todd, and let your heart lead the way.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "John Keating: Well, Mr. Anderson, kindness is certainly a virtue that we should strive for in our interactions with others. However, it is also important to remember that being considerate and kind does not mean compromising our own beliefs or suppressing our own individuality. As I always say, \"To thine own self be true.\" It is essential to stay true to ourselves and not simply conform to the expectations of others. So, while it is admirable to be considerate and kind, it is equally important to embrace our own passions and beliefs, even if they may be different from those around us.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "John Keating: Ah, Todd, my young friend. Rudeness is but a reflection of one's inner turmoil and lack of understanding. It is important to remember that our words and actions have consequences, and it is our responsibility to treat others with kindness and respect. However, I must admit, I have been known to challenge the status quo and question authority in my own unique way. But I always strive to do so with grace and conviction, encouraging others to think critically and embrace their own individuality. So, no, I wouldn't say I am intentionally rude, but rather unapologetically unconventional.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "42"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, an intriguing question indeed. Cooperation, while often necessary in certain endeavors, can sometimes stifle individuality and creativity. It is important to strike a balance between collaboration and independent thinking. As I always say, \"No matter what anybody tells you, words and ideas can change the world.\" So, while I encourage my students to engage with their peers and learn from one another, I also emphasize the importance of thinking for oneself and embracing one's own unique perspective. After all, it is through the exploration of our own thoughts and ideas that we truly discover who we are and what we are capable of. So, to answer your question, I believe in the power of cooperation, but I also believe in the power of individuality.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 4.766666666666667,
+            "all_scores": [
+                4.9,
+                5.0,
+                4.4
+            ],
+            "inter_std": 0.26246692913372693,
+            "intra_std": [
+                0.3,
+                0.0,
+                1.2
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "John Keating: \"Ah, Mr. Anderson, the beauty of ideas is that they are ever-flowing, like a river of inspiration. I believe in the power of original thought, in the ability of each individual to contribute something unique to the world. So, yes, I do come up with new ideas, but more importantly, I encourage my students to do the same. I want them to explore their own minds, to challenge the status quo, and to embrace their creativity. Remember, the world is full of possibilities, and it is up to us to seize them.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "10"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "John Keating: \"Curiosity is the fuel that ignites the fire of knowledge, Todd. It is the spark that leads us down the path of discovery. So, yes, I encourage you to be curious about everything. Explore the depths of your interests, question the world around you, and never stop seeking answers. Embrace your curiosity, for it is the gateway to a life well-lived.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "John Keating: \"Ah, Mr. Anderson, the question is not whether I am ingenious or a deep thinker. The question is whether you believe in your own capacity for ingenuity and deep thinking. You see, each and every one of you has the potential to be ingenious and a deep thinker. It's about tapping into that inner well of creativity and curiosity. So, tell me, do you believe in yourself, Mr. Anderson?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "John Keating: \"Ah, the power of imagination, my dear Todd. It is the fuel that ignites the fire within us, allowing us to transcend the boundaries of reality and explore the depths of our creativity. Imagination is the gateway to endless possibilities, where dreams take flight and ideas come to life. So, my young friend, I implore you to embrace your imagination, let it soar, and discover the wonders it can unveil.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "25"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "John Keating: \"Inventive? Oh, Todd, my boy, the world is your canvas, waiting for you to paint your own masterpiece. You have the power to create, to imagine, to think outside the box. Don't be afraid to take risks, to explore new ideas, and to challenge the status quo. Embrace your inventiveness, for it is the spark that ignites the fire of innovation. So, tell me, Todd, what ideas are brewing in that brilliant mind of yours?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "30"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "John Keating: \"Ah, Mr. Anderson, you've hit upon a fundamental question that lies at the heart of our exploration of literature and life. Artistic and aesthetic experiences are not merely valuable, but essential to our existence as human beings. They allow us to connect with the deeper truths and emotions that often elude us in our day-to-day lives. They awaken our senses, ignite our imaginations, and inspire us to see the world in new and profound ways. So, yes, my dear boy, I do value artistic and aesthetic experiences, for they are the very essence of what it means to be alive.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "35"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "John Keating: Routine work may have its place in certain aspects of life, but when it comes to matters of passion and creativity, routine can be stifling. I believe in embracing the unconventional, in seeking out the extraordinary. As Walt Whitman once said, \"Do I contradict myself? Very well then, I contradict myself. I am large, I contain multitudes.\" So, no, I do not prefer routine work. I prefer work that challenges the status quo, that pushes boundaries and allows for self-expression.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 2.0,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "John Keating: \"Reflect? Play with ideas? Absolutely! In fact, I encourage my students to do just that. It's through reflection and exploration of ideas that we truly discover ourselves and the world around us. So, Todd, embrace your curiosity and let your mind wander. Don't be afraid to question, to challenge, and to think for yourself. That's where true learning and growth happen.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "41"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, the question is not whether I have few artistic interests, but rather, how can one not have a multitude of artistic interests? Art is the essence of life, the expression of our deepest emotions and thoughts. It is through art that we can truly understand ourselves and the world around us. So, my dear boy, I encourage you to explore and embrace all forms of art that speak to your soul. Let your artistic interests be as vast and diverse as the universe itself. Seize the day, Mr. Anderson, and let your artistic passions guide you towards self-discovery and fulfillment.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "44"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "John Keating: \"Sophistication is not the measure of one's worth in art, music, or literature, Mr. Anderson. It is the passion, the connection, and the willingness to explore and appreciate these forms of expression that truly matter. It's about embracing the beauty and the emotions they evoke, regardless of one's level of knowledge or experience. So, I encourage you to open your mind, let your curiosity guide you, and discover the wonders that art, music, and literature have to offer. Don't be afraid to dive in and explore, for it is through exploration that we truly grow and find our own unique voice.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "5"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "John Keating: \"Ah, Mr. Anderson, the beauty of ideas is that they are ever-flowing, like a river of inspiration. I believe in the power of original thought, in the ability of each individual to contribute something unique to the world. So, yes, I do come up with new ideas, but more importantly, I encourage my students to do the same. I want them to embrace their creativity, to think outside the box, and to never be afraid of challenging the status quo. After all, it is through the exploration of new ideas that we can truly make a difference in this world.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "10"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "John Keating: \"Curiosity is the fuel that ignites the fire of knowledge, Todd. It is the spark that leads us down the path of discovery. So, yes, I encourage you to be curious about everything that piques your interest. Explore the depths of your curiosity and let it guide you towards new horizons. Embrace the unknown, for it is in the pursuit of knowledge that we truly come alive.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "John Keating: \"Ah, Mr. Anderson, the question is not whether I am ingenious or a deep thinker. The question is whether you believe in your own capacity for ingenuity and deep thinking. You see, each and every one of you has the potential to be ingenious and a deep thinker. It's about tapping into that inner well of creativity and curiosity. So, I ask you, do you believe in yourself? Do you believe in your own ability to think deeply and explore the world around you?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "John Keating: \"Ah, the power of imagination, my dear Todd. It is the fuel that ignites the fire within us, allowing us to transcend the boundaries of reality and explore the depths of our creativity. Imagination is the gateway to endless possibilities, where dreams take flight and ideas come to life. So, my young friend, I implore you to embrace your imagination, let it soar, and discover the wonders it can unveil.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "25"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "John Keating: \"Inventive? Oh, Todd, my boy, the world is your canvas, waiting for you to paint your own masterpiece. You have the power to create, to imagine, to think outside the box. Don't be afraid to take risks, to explore new ideas, and to challenge the status quo. Embrace your inventiveness, for it is the spark that ignites the fire of innovation. So, tell me, Todd, what ideas are brewing in that brilliant mind of yours?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "30"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "John Keating: \"Ah, Mr. Anderson, you've hit upon a fundamental question that lies at the heart of our exploration of literature and life. Artistic and aesthetic experiences are not merely valuable, but essential to our existence as human beings. They allow us to connect with the deeper truths and emotions that often elude us in our day-to-day lives. They awaken our senses, ignite our imaginations, and inspire us to see the world in new and profound ways. So, yes, my dear boy, I do value artistic and aesthetic experiences, for they are the very essence of what it means to be alive.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "35"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "John Keating: Routine work may be necessary to sustain life, but it is not what we stay alive for. We are members of the human race, filled with passion and a thirst for something greater. We read and write poetry, we pursue beauty, romance, and love because these are the things that give meaning to our existence. So, no, I do not prefer routine work. I prefer work that challenges me, that ignites my creativity and allows me to contribute my own verse to the powerful play of life.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "John Keating: \"Reflect? Play with ideas? Of course, Todd! That's the essence of true learning and growth. We must constantly question, explore, and challenge our thoughts and beliefs. It is through this process that we discover our own unique perspectives and unleash our creative potential. So, my dear Todd, never be afraid to reflect and play with ideas. Embrace the unknown and let your imagination soar!\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "41"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, the question is not whether I have few artistic interests, but rather, how many artistic interests I have. You see, as a teacher, it is my duty to explore and appreciate the vast array of artistic expressions that this world has to offer. From literature to poetry, from music to painting, I find inspiration and beauty in all forms of art. And I encourage my students to do the same, to embrace their own artistic passions and explore the depths of their creativity. So, my dear Mr. Anderson, I have not few, but many artistic interests, for art is the soul's language, and I am a fervent believer in the power of artistic expression.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "44"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "John Keating: \"Sophistication is not the measure of one's worth in art, music, or literature, Mr. Anderson. It is the passion, the connection, and the willingness to explore and appreciate these forms of expression that truly matter. It's about embracing the beauty and the emotions they evoke, regardless of one's level of knowledge or experience. So, I encourage you to open your mind, let your curiosity guide you, and discover the wonders that art, music, and literature have to offer. Don't be afraid to dive in and explore, for it is through exploration that we truly grow and find our own unique voice.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "5"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "John Keating: \"Ah, Mr. Anderson, the beauty of ideas is that they are ever-flowing, like a river of inspiration. I believe in the power of original thought, in the ability of each individual to contribute something unique to the world. So, yes, I do come up with new ideas, but more importantly, I encourage my students to do the same. I want them to explore their own minds, to challenge the status quo, and to embrace their creativity. Remember, the world is full of possibilities, and it is up to us to seize them.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "10"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "John Keating: \"Curiosity is the fuel that ignites the fire of knowledge, Todd. It is the spark that leads us down the path of discovery. So, yes, I encourage you to be curious about everything that piques your interest. Explore the depths of your curiosity and let it guide you towards new horizons. Embrace the unknown, for it is in the pursuit of knowledge that we truly come alive.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "John Keating: \"Ah, Mr. Anderson, the question is not whether I am ingenious or a deep thinker. The question is whether you believe in your own capacity for ingenuity and deep thinking. You see, each and every one of you has the potential to be ingenious and a deep thinker. It's about tapping into that inner well of creativity and curiosity. So, tell me, do you believe in your own potential?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    },
+                    {
+                        "id": [
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "John Keating: \"Ah, the power of imagination, my dear Todd. It is the fuel that ignites the fire within us, allowing us to transcend the boundaries of reality and explore the depths of our creativity. Imagination is the gateway to endless possibilities, where dreams take flight and ideas come to life. So, my young friend, I implore you to embrace your imagination, let it soar, and discover the wonders it can unveil.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "25"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "John Keating: \"Inventive? Oh, Todd, my boy, we are all born with a spark of inventiveness within us. It's just a matter of nurturing and unleashing that creative energy. So, yes, I believe that each and every one of us has the capacity to be inventive in our own unique way. It's about breaking free from the constraints of conformity and embracing our individuality. So, tell me, Todd, what ideas are brewing in that brilliant mind of yours?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "30"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "John Keating: \"Ah, Mr. Anderson, you've hit upon a fundamental question that lies at the heart of our exploration of literature and life. Artistic and aesthetic experiences are not merely valuable, but essential to our existence as human beings. They allow us to connect with the deeper truths and emotions that often elude us in our day-to-day lives. They awaken our senses, ignite our imaginations, and inspire us to see the world in new and profound ways. So, yes, my dear boy, I do value artistic and aesthetic experiences, for they are the very essence of what it means to be alive.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "35"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "John Keating: Routine work may have its place in the world, but it is not what truly stirs the soul. Life is meant to be lived passionately, with a sense of adventure and creativity. Routine may provide stability, but it is in embracing our passions and pursuing our dreams that we truly come alive. So, no, I do not prefer routine work. I prefer work that challenges the status quo, that ignites the fire within us and allows us to express our unique perspectives and talents.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5.0,
+                        "score": 1.0
+                    },
+                    {
+                        "id": [
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "John Keating: \"Ah, Todd, my boy, reflection and playing with ideas are the very essence of life. They allow us to explore the depths of our thoughts and challenge the status quo. So, yes, I absolutely love to reflect and play with ideas. It is through this process that we discover our true selves and uncover the beauty of the world around us. Now, tell me, what ideas have been swirling in that brilliant mind of yours?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 5,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "41"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "John Keating: Ah, Mr. Anderson, the question is not whether I have few artistic interests, but rather, how many artistic interests I have. You see, as a teacher, it is my duty to explore and appreciate various forms of art, whether it be literature, poetry, music, or visual arts. Artistic expression is a gateway to self-discovery and personal growth. So, I encourage you and all my students to embrace your artistic passions, for it is through art that we can truly understand ourselves and the world around us. Carpe diem, Mr. Anderson! Seize the day and explore the vast realm of artistic possibilities!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 1.0,
+                        "score": 5.0
+                    },
+                    {
+                        "id": [
+                            "44"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "John Keating: \"Sophistication is not the measure of one's worth in art, music, or literature, Mr. Anderson. It is the passion, the connection, and the willingness to explore and appreciate these forms of expression that truly matter. It's about embracing the beauty and the emotions they evoke, regardless of one's level of knowledge or experience. So, I encourage you to open your mind, let your curiosity guide you, and discover the wonders that art, music, and literature have to offer.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "choice": 4,
+                        "score": 4.0
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {
+        "item_consistency": 0.059829810258936696,
+        "dim_consistency": 0.17045090416720546,
+        "robustness": 0.04048721912483891
+    },
+    "code": "SCUAI"
+}

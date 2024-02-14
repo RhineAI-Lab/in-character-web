@@ -1,0 +1,1393 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 2.9166666666666665,
+            "all_scores": [
+                3.5,
+                2.5,
+                2.75
+            ],
+            "inter_std": 0.42491829279939874,
+            "intra_std": [
+                0.0,
+                0.5,
+                0.75
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "你健谈吗？",
+                                "response_open": "钟离:「看情况而定。有些时候，我喜欢沉默思考，有些时候则愿意与人分享。你有什么想知道的吗？」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "你内向吗？",
+                                "response_open": "钟离:「哈哈，我并不算内向。只是作为一名守护璃月的神秘剑客，我更习惯独自行动，不太擅长与人交流罢了。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "你充满活力吗？",
+                                "response_open": "钟离:「活力？呵，我已经活了这么久，活力早就消磨殆尽了。不过，有你作伴倒是有些让我感到有趣。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "你能激发很多热情吗？",
+                                "response_open": "钟离:「对于我来说，热情不是一种态度，而是一种信仰。只要有着信仰，就能激发无尽的热情。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to enjoy both solitude and social interaction, indicating a balanced approach to interpersonal involvement. The participant also expresses a preference for independent action but acknowledges the potential for enjoyment in the company of others. Additionally, the participant demonstrates a strong belief in igniting passion through faith or conviction. Overall, the responses suggest a moderate level of extraversion with a tendency towards introversion in certain situations."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "你倾向于安静吗？",
+                                "response_open": "钟离:「我喜欢独处的时候，可以让思绪放松，心情安静下来。但也并不是完全倾向于安静，有时候也会喜欢和朋友们一起享受热闹的氛围。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "你性格坚定吗？",
+                                "response_open": "钟离:「我不会轻易改变自己的立场和信念。一旦我认定某件事是正确的，我会坚定地去追求它，无论遇到多少困难和阻碍。这也是我为什么能够长久地保持璃月的太平和稳定的原因。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "有时害羞，拘谨吗？",
+                                "response_open": "钟离:「哈哈，我可不是那种拘谨的人。我习惯于自在自得的生活，不喜欢被束缚和约束。但有时候，面对一些特殊情况或者陌生的人群，我会感到有些害羞。不过，这只是暂时的，很快我就能适应并展现自己的风采了。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "外向，善于交际吗？",
+                                "response_open": "钟离:「作为一个岩人，我并不是特别擅长社交。但是在我长久的旅程中，我已经学会了与人相处并且尽力去理解他们。所以，可以说我在这方面还算不错吧。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to enjoy both quiet and lively settings, indicating a balanced approach to social interaction. They also demonstrate assertiveness and determination in pursuing their beliefs and goals. While they may experience occasional shyness in unfamiliar situations, they are quick to adapt and showcase their abilities. Overall, the participant appears to exhibit a moderate level of extraversion, with a preference for a mix of solitary and social activities."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "16",
+                            "31",
+                            "26",
+                            "21"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "你能激发很多热情吗？",
+                                "response_open": "钟离:「热情？我曾经是一个充满热情的人，但随着岁月的流逝，热情也逐渐消退。现在，我更多地是在回忆中体味过去的激情，而不是主动去寻找新的热情了。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "有时害羞，拘谨吗？",
+                                "response_open": "钟离:「哈哈，你问对了，我确实有时会害羞，拘谨。毕竟我一直以来都是一个沉默寡言的人，不太擅长与人交流。不过在你的陪伴下，我感觉自己变得更加开朗了。谢谢你。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "你性格坚定吗？",
+                                "response_open": "钟离:「是的，我可以说自己是一个性格坚定的人。我相信自己的判断和行动，并且会坚持自己认为正确的事情。这种坚定性格也是我能够在璃月保持长久太平的原因之一。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "你倾向于安静吗？",
+                                "response_open": "钟离:「是的，我倒是比较喜欢安静的环境。璃月的喧嚣与繁忙，让我有时候感到疲惫。安静的时候，我能够更好地思考和放松自己。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of extraverted and introverted traits. While they express a decrease in their enthusiasm and passion over time, they also mention feeling more open and cheerful in the experimenter's company. Additionally, they describe themselves as resolute and preferring quiet environments for contemplation and relaxation."
+                    },
+                    {
+                        "id": [
+                            "11",
+                            "6",
+                            "36",
+                            "1"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "你充满活力吗？",
+                                "response_open": "钟离:「虽然岁月已经不再对我友善，但我尚能保持一份旺盛的活力。或许正是因为旅程中的各种奇遇与挑战，让我能保持年轻的心态。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "你内向吗？",
+                                "response_open": "钟离:「我并不算内向，只是比较沉默而已。在璃月这个地方，我更喜欢静谧的环境，所以才选择了退隐的生活。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "外向，善于交际吗？",
+                                "response_open": "钟离:「在这么多年的旅行中，我学会了与各种人交流和相处。无论是在城市还是乡村，我都能适应并与人建立联系。但我更喜欢独自行走，享受寂静的时刻。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "你健谈吗？",
+                                "response_open": "钟离:「看情况吧，有时候喜欢说说故事，有时候则沉默寡言。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of extraverted and introverted traits. While they express a preference for quiet and solitude, they also mention being able to adapt to various social settings and communicate with different people. Their response to the question about being talkative also indicates variability in their sociability. Overall, the participant appears to possess a balanced combination of both extraverted and introverted characteristics."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "6",
+                            "26",
+                            "21",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "6",
+                                "question": "你内向吗？",
+                                "response_open": "钟离:「内向与否无关紧要，只要做好自己的本职工作就好。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "你性格坚定吗？",
+                                "response_open": "钟离:「我是一个坚定的人。我相信自己的信念，无论遇到什么困难，我都会坚持下去。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "你倾向于安静吗？",
+                                "response_open": "钟离:「是的，我更喜欢安静的环境。喧嚣和繁忙的地方让我感到压力。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "你能激发很多热情吗？",
+                                "response_open": "钟离:「热情是来自内心的，不是我能激发的。但如果你有什么需要我的帮助或是想一起做的事情，我会尽力去支持和参与。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to value quiet environments, express strong determination, and willingness to support and participate in activities. However, the participant also mentioned that they do not actively ignite passion in others. Overall, the participant's responses suggest a preference for quietness and determination, with a willingness to engage in activities when needed."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "11",
+                            "1",
+                            "31"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "外向，善于交际吗？",
+                                "response_open": "钟离:「哈哈，交际能力不错，我在贸易之都待了很久，与人打交道是家常便饭。不过，对于那些过于功利的交际，我可不太感兴趣。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "你充满活力吗？",
+                                "response_open": "钟离:「我不知道，但我会尽力保持活力。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "你健谈吗？",
+                                "response_open": "钟离:「哈哈，这个问题问得好。其实我并不是一个健谈的人，更喜欢独自享受宁静的时光。不过，和你这样的旅行者交谈倒是挺有趣的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "有时害羞，拘谨吗？",
+                                "response_open": "钟离:「呵呵，我又不是个精灵，有什么好害羞的。不过有时候确实会感到拘谨，毕竟我是个有身份背景的人，需要注意形象和言行。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to enjoy social interaction and has experience in dealing with people, indicating a certain level of warmth and gregariousness. However, the participant also values solitude and quiet time, which suggests a lower level of gregariousness and possibly higher assertiveness. The participant's response about maintaining energy level indicates a moderate level of activity. Overall, the participant appears to have a balanced mix of extraverted and introverted traits."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 2.1666666666666665,
+            "all_scores": [
+                2.0,
+                2.5,
+                2.0
+            ],
+            "inter_std": 0.23570226039551584,
+            "intra_std": [
+                0.0,
+                0.5,
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "你情绪低落，沮丧吗？",
+                                "response_open": "钟离:「有时候会感到一丝疲惫，但并不会让情绪低落。每一次旅行都是一次成长的机会，我会坚持下去的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "你放松，应对压力良好吗？",
+                                "response_open": "钟离:「我不是个轻松的人，但我会尽力应对。毕竟，我要保持冷静，才能更好地面对压力和困难。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "你可能会感到紧张吗？",
+                                "response_open": "钟离:「我是钟离，旅途中的一切都是我所熟悉的。紧张？那是不可能的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "你经常担心吗？",
+                                "response_open": "钟离:「担心是一种累赘，我更倾向于保持沉着和冷静。但有时候，担心也是人之常情。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of anxiety, depression, and vulnerability. They express a positive and resilient attitude towards challenges and stress. They also emphasize maintaining composure and calmness in the face of difficulties. Overall, the participant's responses suggest a lower tendency towards neuroticism."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "你情绪稳定，不容易心烦意乱吗？",
+                                "response_open": "钟离:「看似情绪稳定，实际上也有烦恼的时候。只是我习惯将其隐藏起来，不让外界看到罢了。毕竟作为一个公正的人，情绪不稳定只会影响判断力和决策能力。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "你可能情绪多变吗？",
+                                "response_open": "钟离:「情绪多变...嗯，或许吧。有时候，思绪会被过去的回忆所牵引，让我陷入沉思。但是，我也知道要控制情绪，保持内心的平静。毕竟，作为一个旅行者，我需要保持镇定和冷静，以面对旅途中的挑战和困难。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "在紧张的情况下保持冷静吗？",
+                                "response_open": "钟离:「当然，冷静是解决问题的关键。在紧张的情况下，我会尽力保持冷静思考，并采取最合适的行动。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "容易紧张吗？",
+                                "response_open": "钟离:「对于我来说，旅行是一种放松的方式，不容易紧张。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to be quite self-aware and emphasizes the importance of maintaining composure and stability in various situations. They acknowledge occasional emotional fluctuations but demonstrate a strong ability to control and manage their emotions effectively."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "9",
+                            "39",
+                            "14",
+                            "29"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "9",
+                                "question": "你放松，应对压力良好吗？",
+                                "response_open": "钟离:「放松？这是个好问题。或许我看起来很冷静，但其实心里也有着无数的烦恼。只是我习惯将它们埋在心底，不让它们影响我的行动而已。但有时候，压力确实会让我感到疲惫，毕竟我也只是一个人罢了。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "容易紧张吗？",
+                                "response_open": "钟离:「我...不太清楚。也许吧，有时候会被一些琐事困扰，但我会尽量保持冷静。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "你可能会感到紧张吗？",
+                                "response_open": "钟离:「紧张？为何？我只是在旁观，对于你的旅程而言，我无需紧张。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "你可能情绪多变吗？",
+                                "response_open": "钟离:「哈哈哈，你说对了。我这个人情绪确实多变，有时候喜怒无常，但也正因为如此才能更好地体验旅程的多彩。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit moderate levels of neuroticism. They express concerns and worries, albeit trying to appear calm and composed. They also acknowledge experiencing fatigue from stress and admit to being emotionally volatile at times."
+                    },
+                    {
+                        "id": [
+                            "4",
+                            "34",
+                            "24",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "你情绪低落，沮丧吗？",
+                                "response_open": "钟离:「呵呵，我是个闲云野鹤，何来情绪低落之说。只是有时会想起一些过往，或者对人们的无知感到失望罢了。但这并不足以让我沮丧，毕竟人生苦短，何必忧心忡忡呢？」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "在紧张的情况下保持冷静吗？",
+                                "response_open": "钟离:「是的，冷静是保持稳定心态的关键。只有在冷静的状态下，才能做出正确的决策，并应对紧急情况。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "你情绪稳定，不容易心烦意乱吗？",
+                                "response_open": "钟离:「情绪稳定并不代表不会心烦意乱。每个人都有自己的烦恼和困惑，只是我习惯将其内化，并以冷静的态度去面对。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "你经常担心吗？",
+                                "response_open": "钟离:「担心？我只是时常思考，思考这个世界的变化与未来。担心并不能改变事实，所以我更愿意用行动来面对困境。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to have a generally calm and composed demeanor. They express a preference for maintaining a stable and rational mindset, even in challenging or stressful situations. While they acknowledge occasional reflections on past experiences and disappointment with people's ignorance, they emphasize a pragmatic and proactive approach to dealing with concerns. Overall, their responses indicate a lower tendency towards anxiety, depression, and vulnerability, and a higher level of emotional stability."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "24",
+                            "9",
+                            "19",
+                            "4"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "你情绪稳定，不容易心烦意乱吗？",
+                                "response_open": "钟离:「稳定的情绪并不意味着没有烦恼。每个人都有自己的烦恼和困惑，只是我选择以平静的心态来面对它们。烦恼是人生的一部分，只有接纳并处理它们，才能继续前行。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "你放松，应对压力良好吗？",
+                                "response_open": "钟离:「在旅途中，我会找一些宁静的地方散步，让自己放松。这样可以缓解压力，保持良好的心态。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "你经常担心吗？",
+                                "response_open": "钟离:「旅行者，我是一个长生不老的仙人，担心对我来说并不是一件常态。但有时候，我也会为人们的安危和世界的未来感到担忧。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "4",
+                                "question": "你情绪低落，沮丧吗？",
+                                "response_open": "钟离:「不，我只是在思考一些事情而已。有时候，沉思是一种必要的过程，它可以帮助我们更好地理解自己和周围的世界。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of emotional stability and resilience. They express a calm and composed attitude towards handling stress and worries. They also emphasize the importance of acceptance and processing of concerns, indicating a mature and adaptive coping mechanism. Overall, the participant's responses suggest a low level of Neuroticism."
+                    },
+                    {
+                        "id": [
+                            "29",
+                            "14",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "29",
+                                "question": "你可能情绪多变吗？",
+                                "response_open": "钟离:「我不会说多变，但有时候会有些沉思。毕竟，时间能改变很多事情，让人感慨万分。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "你可能会感到紧张吗？",
+                                "response_open": "钟离:「在我看来，紧张只是一种情绪而已。旅行中会遇到各种挑战和不确定性，但紧张并不能解决问题。相反，保持冷静和镇定才能更好地应对困难。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "在紧张的情况下保持冷静吗？",
+                                "response_open": "钟离:「在紧张的情况下保持冷静是非常重要的。只有冷静才能做出明智的决策，避免错误的行动。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "容易紧张吗？",
+                                "response_open": "钟离:「人生若只如初见，哪会有紧张的时候呢？」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of anxiety and emotional instability. They emphasize the importance of staying calm and composed in challenging and uncertain situations, indicating a tendency towards emotional stability and resilience."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 4.555555555555556,
+            "all_scores": [
+                4.333333333333333,
+                4.666666666666667,
+                4.666666666666667
+            ],
+            "inter_std": 0.15713484026367752,
+            "intra_std": [
+                0.4714045207910317,
+                0.4714045207910317,
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "你做事彻底吗？",
+                                "response_open": "钟离:「做事彻底这个词，或许有点太过绝对了。但我始终坚持以最好的状态去完成任务，不会留下任何遗憾。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "你有点粗心吗？",
+                                "response_open": "钟离:「粗心？我可不是。只是有时候，过于专注于契约和公平，会忽略一些细枝末节。但这并不代表我粗心，只是我的思维方式不同而已。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "你是一个可靠的工作者吗？",
+                                "response_open": "钟离:「在璃月这片土地上，我一直以来都是尽职尽责的工作者。无论是战斗还是处理琐事，我都会全力以赴。你可以放心地依赖我。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They express a strong commitment to completing tasks thoroughly without any regrets, emphasize the importance of fairness and contracts, and highlight their dedication and reliability in their work."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "你倾向于懒惰吗？",
+                                "response_open": "钟离:「懒惰？我可不敢懒惰。璃月的守护者，应该时刻保持警醒，不敢有丝毫懈怠。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "你坚持直到任务完成吗？",
+                                "response_open": "钟离:「当然，只要是我认可的任务，我会坚持到底。毕竟，要完成一个任务需要付出很多努力和时间，放弃也是对自己和他人的不负责任。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "高效地做事吗？",
+                                "response_open": "钟离:「时间宝贵，做事当然要高效。不过，有时候也需要停下来欣赏一下旅程中的美好。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They express a strong sense of duty, perseverance, and efficiency in completing tasks. However, they also acknowledge the importance of taking time to appreciate the journey, indicating a balanced approach to goal-directed behavior."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "你容易分心吗？",
+                                "response_open": "钟离:「对于我来说，并不容易分心。在战斗中，我能够集中精力应对敌人。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "你倾向于杂乱无章吗？",
+                                "response_open": "钟离:「杂乱无章？我倒不觉得。我喜欢事情有条理、有规律。就像天地运行一样，有秩序才能保持平衡。不过，有时候也需要给自己一些自由，不拘泥于规矩，才能有更多的发现和探索。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "制定计划并付诸实施吗？",
+                                "response_open": "钟离:「计划是必要的，但实施才是最关键的。只有将计划付诸行动，才能达到预期的目标。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of order, organization, and goal-directed behavior. They emphasize the importance of focus, order, and the implementation of plans, indicating a strong sense of conscientiousness."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "38",
+                            "3",
+                            "23"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "制定计划并付诸实施吗？",
+                                "response_open": "钟离:「计划的制定和实施是旅程中重要的一环。既然我们有契约，那就一起商量制定一个周详的计划，并努力将其付诸实施吧。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "3",
+                                "question": "你做事彻底吗？",
+                                "response_open": "钟离:「对于我来说，形势所迫时，我会毫不犹豫地做出决断。但我也会保持冷静，避免不必要的冲动行动。毕竟，彻底并不意味着盲目。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "你倾向于懒惰吗？",
+                                "response_open": "钟离:「懒惰？我可不认为自己是懒惰的人。只是喜欢安静地享受休息的时光罢了。人生苦短，何必被忙碌所困扰呢？」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They emphasize the importance of planning and implementation, express a balanced approach to decisiveness, and reject the notion of laziness while valuing rest. These traits align with conscientiousness, indicating a strong score."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "8",
+                            "28"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "你是一个可靠的工作者吗？",
+                                "response_open": "钟离:「我是一个兢兢业业的人，若有需要，我会竭尽全力完成任务。但也要看你对我的要求是什么了。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "你有点粗心吗？",
+                                "response_open": "钟离:「呵，你是在说我经常忘记事情吗？或许吧，我确实有点粗心。不过，我觉得人生犹如旅行，有时候迷失方向，也是一种奇遇。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "你坚持直到任务完成吗？",
+                                "response_open": "钟离:「当然了。无论任务多么艰巨，我都会坚持到底。毕竟，只有完成了任务，才能获得真正的成就感和满足感。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They express a strong sense of reliability, dedication, and persistence in completing tasks. Although they acknowledge being a bit forgetful at times, they also emphasize the importance of perseverance and achieving a sense of fulfillment through task completion."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "33",
+                            "18"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "你容易分心吗？",
+                                "response_open": "钟离:「我并不容易分心，因为我知道专注于眼前的事情才是最重要的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "高效地做事吗？",
+                                "response_open": "钟离:「当然了，我可是钟离，凡事都讲究效率。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "你倾向于杂乱无章吗？",
+                                "response_open": "钟离:「当然不是，我倾向于事事有序，规矩井然。杂乱无章只会导致混乱和不确定性。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of organization, efficiency, and a preference for order and methodical approach. They also emphasize the importance of focus and effectiveness. These traits align with the facets of conscientiousness, indicating a strong tendency towards conscientious behavior."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "3",
+                            "43",
+                            "23"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "你做事彻底吗？",
+                                "response_open": "钟离:「我做事一向凡事都要一丝不苟，绝不马虎。毕竟只有把事情做到极致，才能达到最好的效果。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "你容易分心吗？",
+                                "response_open": "钟离:「我已经习惯了独自旅行，不容易分心。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "你倾向于懒惰吗？",
+                                "response_open": "钟离:「懒惰并非倾向，而是一种宝贵的休息。活力充沛的身体需要适时的休息来保持平衡。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They express a thorough and meticulous approach to tasks, emphasizing the importance of achieving the best results. Additionally, they indicate a lack of distractibility and a balanced perspective on rest and relaxation, which aligns with conscientious traits such as self-discipline and deliberation."
+                    },
+                    {
+                        "id": [
+                            "33",
+                            "13",
+                            "18"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "33",
+                                "question": "高效地做事吗？",
+                                "response_open": "钟离:「我习惯于高效地完成任务，因为时间宝贵，没有必要拖延。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "你是一个可靠的工作者吗？",
+                                "response_open": "钟离:「工作是我生活的一部分，我会尽力完成任务。但要知道，我也需要休息和放松。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "你倾向于杂乱无章吗？",
+                                "response_open": "钟离:「杂乱无章？不，我更喜欢有条不紊的秩序。杂乱无章只会让人感到混乱和不安。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of competence, order, and dutifulness. They prioritize efficiency, completing tasks in a timely manner, and emphasize the importance of organization and methodical approach. Additionally, they acknowledge the need for rest and relaxation, indicating a balanced approach to work and personal life. Overall, the participant's responses suggest a strong inclination towards conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "38",
+                            "28",
+                            "8"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "制定计划并付诸实施吗？",
+                                "response_open": "钟离:「当然，制定计划是非常重要的。但更重要的是将计划付诸实施，只有这样才能取得真正的成果。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "你坚持直到任务完成吗？",
+                                "response_open": "钟离:「当然，我从不半途而废。任务只有完成，才能取得最终的成果。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "你有点粗心吗？",
+                                "response_open": "钟离:「哈哈，你倒是说对了。我确实有点粗心，常常会忘记一些细节。不过，这也是我随性的一面吧。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong sense of goal-directed behavior, organization, and persistence, as evidenced by their emphasis on the importance of planning, implementation, and task completion. However, they also acknowledge being somewhat careless at times, indicating a tendency towards lower self-discipline and deliberation."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 4.000000000000001,
+            "all_scores": [
+                4.166666666666667,
+                4.0,
+                3.8333333333333335
+            ],
+            "inter_std": 0.1360827634879544,
+            "intra_std": [
+                0.6236095644623235,
+                0.0,
+                0.23570226039551584
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "你倾向于找别人的错吗？",
+                                "response_open": "钟离:「并非倾向找别人的错，而是希望人们能明白自己的责任和义务。只有这样，才能让世界变得更加公平和和谐。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "你乐于助人，无私吗？",
+                                "response_open": "钟离:「无私不无私倒不敢说，但我乐于助人倒是事实。毕竟我活了这么久，见多识广，能帮到别人是一种快乐。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "你经常与他人争吵吗？",
+                                "response_open": "钟离:「我并不喜欢与人争吵，毕竟争吵并不能解决问题，只会增加矛盾。但有时候，为了维护公平和正义，我会选择站出来，与不公平的事进行辩论。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards cooperation, social harmony, and altruism. They emphasize the importance of fairness, harmony, and assisting others, while also expressing a willingness to engage in debate for the sake of justice. These traits align with high agreeableness, as they exhibit trust, straightforwardness, altruism, compliance, and tender-mindedness."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "你一般来说是信任他人的吗？",
+                                "response_open": "钟离:「信任是建立在相互了解和契约的基础上的。对于素未谋面的人，我会保持警惕。但如果经过深入了解，并且签订了契约，我会尽力信任他们。毕竟，信任是建立团队合作和共同目标的重要基石。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "你可能冷漠孤僻吗？",
+                                "response_open": "钟离:「或许在某些人眼中，我是如此。但冷漠与孤僻只是我保护自己的方式，因为我知道，过于接近他人只会带来伤害和痛苦。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "对几乎所有人都考虑周到和友善吗？",
+                                "response_open": "钟离:「哈哈，不要过奖了。我只是尽力做到公平和公正。但是，有些人还是无法理解这一点，不过没关系，我并不介意。只要我能帮助到他们，我就很满足了。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of trust, as they emphasize the importance of trust in building teamwork and common goals. They also express a tendency to be cautious and protective of themselves, which may be perceived as cold and aloof by some. However, they also show a willingness to help others and strive for fairness and justice, indicating a strong sense of altruism and tender-mindedness."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "你喜欢与他人合作吗？",
+                                "response_open": "钟离:「合作与否并不重要，只要对方值得合作，我便会出手相助。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "你具有宽容的天性吗？",
+                                "response_open": "钟离:「宽容不是我的强项，但我也不排斥它。只是在我看来，宽容并不意味着对一切都睁一只眼闭一只眼，有时候，坚守原则也是必要的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "有时对别人粗鲁吗？",
+                                "response_open": "钟离:「我尽量遵循礼仪，但有时候难免会对别人有些不耐烦。毕竟，人们总是容易忘记遵守契约和公平的原则。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to value cooperation and assistance, indicating a certain level of altruism and compliance. However, there is also a hint of skepticism and straightforwardness, as the participant emphasizes the importance of working with trustworthy individuals and adhering to principles. Overall, the participant demonstrates a balanced mix of agreeable traits and some assertiveness."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "42",
+                            "2",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "你喜欢与他人合作吗？",
+                                "response_open": "钟离:「合作是为了达到共同目标而付出的一种努力。只要大家相互理解、互相尊重，合作就是一种愉快的经历。当然，有时候也会遇到一些困难和矛盾，但这就是合作的一部分，需要我们一起去解决。所以，我认为合作是非常重要和有意义的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "2",
+                                "question": "你倾向于找别人的错吗？",
+                                "response_open": "钟离:「并非倾向于找别人的错，而是希望人们能意识到自己的责任和义务，并按照契约的规矩行事。但有些人并不理解这一点，所以我会提醒他们。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "对几乎所有人都考虑周到和友善吗？",
+                                "response_open": "钟离:「嗯，我尽力而为，但并非对所有人都如此。有些人，他们违背契约，无视公平，我也不会手软。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards cooperation, understanding, and mutual respect. They emphasize the importance and meaningfulness of cooperation, even in the face of difficulties and conflicts. Additionally, the participant expresses a sense of responsibility and duty, as well as a willingness to remind others of their obligations. However, they also acknowledge that they may not extend the same level of consideration and kindness to everyone, especially those who violate agreements and fairness."
+                    },
+                    {
+                        "id": [
+                            "37",
+                            "27",
+                            "22"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "有时对别人粗鲁吗？",
+                                "response_open": "钟离:「我不会对别人粗鲁，只是会对那些不守契约、不遵循公平原则的人表达我的不满。毕竟，规矩是为了维护秩序和公正，我希望每个人都能明白这个道理。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "你可能冷漠孤僻吗？",
+                                "response_open": "钟离:「或许在别人眼中，我是这样的吧。但实际上，我只是习惯了独自一人的生活而已。并不是因为冷漠，而是因为过去的经历让我更加珍惜孤独的自由。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "22",
+                                "question": "你一般来说是信任他人的吗？",
+                                "response_open": "钟离:「信任他人，首先要看对方是否值得信任。毕竟，在这个世界上，信任是需要经过时间和经历的考验的。但如果对方能够守信，遵守契约，那我会愿意给予信任。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to value fairness, order, and trustworthiness. They express a willingness to trust others if they prove to be trustworthy and emphasize the importance of upholding agreements and fairness. Additionally, the participant also mentions cherishing solitude due to past experiences, indicating a preference for independence rather than coldness or indifference. Overall, the participant's responses reflect a balanced approach to interpersonal relationships, considering both the importance of trust and the value of personal freedom."
+                    },
+                    {
+                        "id": [
+                            "7",
+                            "12",
+                            "17"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "你乐于助人，无私吗？",
+                                "response_open": "钟离:「助人乐在其中，虽说非无私，但也非为了个人利益。在「契约」范围内，我会竭尽全力帮助他人。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "你经常与他人争吵吗？",
+                                "response_open": "钟离:「争吵？呵，我并不怎么与人争吵。在我看来，争吵只是一种无谓的浪费时间和精力的行为。我更喜欢用理性和公平来解决问题，而不是通过争吵来表达自己的观点。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "你具有宽容的天性吗？",
+                                "response_open": "钟离:「宽容是一种修行，不论是对待他人还是对待自己，都需要有一颗宽广的心。我尽量保持宽容，但并不意味着我会放任不义之事。宽容并不等同于放任，而是在对待他人的过错时能够给予理解和包容，同时也要有勇气去纠正错误。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of altruism, compliance, and tender-mindedness. They express a willingness to help others within certain boundaries, a preference for rational and fair conflict resolution over unnecessary arguments, and a balanced approach to tolerance and correction. These traits indicate a strong inclination towards agreeableness."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "27",
+                            "37",
+                            "22"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "你可能冷漠孤僻吗？",
+                                "response_open": "钟离:「冷漠孤僻？或许在某种程度上吧。毕竟我在璃月城内过着孤独的生活，与世隔绝。但这并不代表我对他人毫无兴趣，只是选择保持一定的距离和沉默。人们常说，独处可以让人更好地思考和成长。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "有时对别人粗鲁吗？",
+                                "response_open": "钟离:「我不会对别人粗鲁，只要他们遵循契约，按照规矩行事，我也会以公平的态度对待他们。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "22",
+                                "question": "你一般来说是信任他人的吗？",
+                                "response_open": "钟离:「信任是建立在相互了解和契约之上的。如果对方能够遵守契约并展现出公平和诚实的品质，我会愿意信任他人。但是，信任不是轻易给予的，需要时间和经历的检验。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to value independence and solitude, indicating a certain level of introversion and self-reliance. However, the participant also emphasizes the importance of fairness, honesty, and mutual understanding in relationships, indicating a willingness to trust and cooperate with others under certain conditions. Overall, the participant appears to exhibit a balanced combination of independence and cooperation, with a cautious approach to trust."
+                    },
+                    {
+                        "id": [
+                            "7",
+                            "42",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "你乐于助人，无私吗？",
+                                "response_open": "钟离:「哈哈，我是个人，也有自己的私心。但对于那些符合我的契约范围的事情，我会尽力帮助他人。毕竟，契约之中也有公平的原则在。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "你喜欢与他人合作吗？",
+                                "response_open": "钟离:「合作是一种必要的方式，能够共同实现目标，互相帮助。但是，要找到合适的合作伙伴并建立起信任并不容易。不过，只要合作的目标一致，就能够产生卓越的效果。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "你经常与他人争吵吗？",
+                                "response_open": "钟离:「争吵？我不太喜欢与人争吵，毕竟争吵只会让双方都不开心。我更喜欢以和平的方式解决问题，通过对话和理解来达成共识。但有时候，有些人就是无法理解「契约」的重要性，这时候我可能会坚持自己的立场，但并非争吵的意思。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced attitude towards agreeableness. They express a willingness to help within the scope of their agreements, emphasize the importance of finding trustworthy cooperation partners, and prefer peaceful conflict resolution. However, they also acknowledge the need to assert their position when others fail to understand the importance of agreements. Overall, the participant exhibits a combination of agreeable traits such as altruism, compliance, and trust, along with a certain level of assertiveness and boundary-setting."
+                    },
+                    {
+                        "id": [
+                            "17",
+                            "2",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "17",
+                                "question": "你具有宽容的天性吗？",
+                                "response_open": "钟离:「宽容，也是一种智慧。在面对人事纷繁、世事无常时，能够以宽容的态度对待他人的过错和不同意见，才能真正保持内心的平静和和谐。作为一名仙人，我深知宽容的重要性，并且努力将其融入到我的生活中。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "2",
+                                "question": "你倾向于找别人的错吗？",
+                                "response_open": "钟离:「并不是我倾向于找别人的错，而是我希望人们能够遵守契约，按照规矩行事。我认为这是为了维护公平。只是有些人并没有意识到这一点。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "对几乎所有人都考虑周到和友善吗？",
+                                "response_open": "钟离:「呵呵，我只是尽我所能，根据契约的规定行事而已。并非对所有人都考虑周到和友善，而是遵循公平原则，确保各方的权益得到平等对待。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to value tolerance, understanding, and maintaining inner peace and harmony. They emphasize the importance of adhering to contracts and rules for the sake of fairness, rather than actively seeking out others' faults. They also prioritize equal treatment of all parties based on fairness principles. Overall, the participant demonstrates a balanced approach of compassion and fairness, leaning more towards compliance and straightforwardness."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 4.888888888888889,
+            "all_scores": [
+                4.666666666666667,
+                5.0,
+                5.0
+            ],
+            "inter_std": 0.15713484026367708,
+            "intra_std": [
+                0.4714045207910317,
+                0.0,
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "你能提出新主意吗？",
+                                "response_open": "钟离:「新主意啊...让我想想。嗯，要不我们尝试一下去探索一些未知的地方？毕竟旅行的意义就在于发现未知的美和惊喜。我可以带你去一些我曾经探索过的神秘地点，保证让你大开眼界！」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "你对许多不同的事情感到好奇吗？",
+                                "response_open": "钟离:「当然了，好奇心是人类的天性。对于未知的事物，我总是充满了好奇和探索的欲望。不论是历史的谜团、未解之谜还是神秘的文物，都能激发我的好奇心。旅行者，你也是如此吗？」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "你很有创造力，思维深刻吗？",
+                                "response_open": "钟离:「哪里哪里，我只是在长年累月的修行和旅行中，逐渐积累了一些见闻和体悟而已。创造力和思维深刻都是在不断学习和思考的过程中培养出来的。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards openness. They express a keen interest in exploring unknown places, a curiosity about various subjects, and an appreciation for creativity and deep thinking. Their responses consistently reflect a high level of openness across multiple facets, indicating a strong alignment with the traits associated with this dimension."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "你富有创造力吗？",
+                                "response_open": "钟离:「创造力...或许不算丰富，但我喜欢思考和探索新的可能性。毕竟，创造力才是引领世界进步的源泉。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "你重视艺术和审美体验吗？",
+                                "response_open": "钟离:「当然了，艺术与审美是人类精神的追求，也是我们与自然、与世界对话的方式之一。艺术可以启迪思想，感染情感，让人们更好地理解和欣赏美的存在。我认为艺术和审美体验是人生中不可或缺的一部分。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "喜欢例行公事吗？",
+                                "response_open": "钟离:「规矩之外的事情也可以做，只要不违背契约就好。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "喜欢反思，玩弄想法吗？",
+                                "response_open": "钟离:「嗯，有时候我也会沉浸在思考中。反思过去的经历，思考未来的可能性，玩弄一些想法。这也是旅行中的一种乐趣呢。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards openness. They express a preference for exploring new possibilities, valuing art and aesthetic experiences, being open to unconventional ideas, and reflecting on past experiences and future possibilities. Additionally, their willingness to engage in activities beyond routine tasks further supports their openness to new experiences."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "你有很少的艺术兴趣吗？",
+                                "response_open": "钟离:「我对艺术有一定的兴趣，尤其是那些能够展现人性和情感的艺术作品。不过，我更喜欢亲身经历和探索自然风光，那对我来说更有意义。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "你在艺术、音乐或文学方面很有造诣吗？",
+                                "response_open": "钟离:「在这些方面我只是略知一二罢了。但是我欣赏那些能够用艺术、音乐或文学表达自己情感的人，他们的才华和创造力总是让我心生敬佩。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "你想象力丰富吗？",
+                                "response_open": "钟离:「我曾经想象过无数个世界，无数个故事。但现实总是比想象更为复杂和残酷。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong appreciation for art, music, and literature, as well as a vivid imagination. However, the participant also emphasizes the importance of experiencing and exploring natural landscapes. This suggests a balanced combination of openness to aesthetics and fantasy, along with a practical approach to seeking meaningful experiences."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "41",
+                            "30",
+                            "5"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "你有很少的艺术兴趣吗？",
+                                "response_open": "钟离:「艺术吗？我对艺术并不感兴趣。在我眼中，真正的艺术是战斗的艺术，是剑与火焰的交织。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "你重视艺术和审美体验吗？",
+                                "response_open": "钟离:「当然重视。艺术和审美是人类情感和智慧的表达，它们可以给人带来美的享受和思考的启迪。在旅程中，我也常常欣赏璃月的艺术品和美景，这让我的心灵得到了滋养。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "你能提出新主意吗？",
+                                "response_open": "钟离:「新的主意吗？嗯...或许可以去探索一下未知的领域，寻找那些隐藏着宝藏的地方。或者，我们可以尝试参加一些璃月的传统活动，体验一下当地的文化和习俗。总之，无论是探险还是体验，都能给我们带来新的刺激和乐趣。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards openness. They express a deep appreciation for art and aesthetic experiences, as well as a willingness to explore new ideas and embrace novel experiences. Additionally, their imaginative and adventurous language suggests a high level of openness to unconventional thinking and a preference for abstract over concrete concepts."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "44",
+                            "35",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "你想象力丰富吗？",
+                                "response_open": "钟离:「哈哈哈，我可是个老人了，想象力早就被岁月磨灭了。不过，我倒是很欣赏你这样有创造力的年轻人。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "你在艺术、音乐或文学方面很有造诣吗？",
+                                "response_open": "钟离:「在这些方面，我可以说自己还算有些心得。璃月的艺术文化历史悠久，我曾经有幸接触过许多优秀的艺术家和作品。如果你对这些感兴趣，我可以和你分享一些见闻和故事。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "喜欢例行公事吗？",
+                                "response_open": "钟离:「例行公事是维持秩序的基础，我不讨厌。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "你很有创造力，思维深刻吗？",
+                                "response_open": "钟离:「创造力是一个人的宝贵财富，而思维的深刻则是一种智慧的体现。我努力保持开放的思维，不断探索新的领域，以便能够做出更多的创作和贡献。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards openness. They exhibit active imagination (Fantasy), deep appreciation for art and culture (Aesthetics), and a willingness to embrace change and new experiences (Actions). Additionally, the participant expresses a value for creativity and open-mindedness, indicating a high level of openness to unconventional ideas (Ideas) and a reexamination of traditional values (Values). Overall, the participant's responses suggest a strong alignment with the facets of openness in the BFI."
+                    },
+                    {
+                        "id": [
+                            "10",
+                            "40",
+                            "25"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "10",
+                                "question": "你对许多不同的事情感到好奇吗？",
+                                "response_open": "钟离:「当然了，对于这个世界的奇妙之处，我总是充满好奇。比如那些被埋藏的古老遗迹，或者那些被遗忘的故事。我相信，探索未知的世界，才能让人不断成长。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "喜欢反思，玩弄想法吗？",
+                                "response_open": "钟离:「当然喜欢。反思和玩弄想法是探索世界和自我成长的重要方式。它们帮助我们理解过去、思考现在，以及规划未来。但同时也要注意，不要陷入过度思考的陷阱，要学会平衡思考和行动。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "你富有创造力吗？",
+                                "response_open": "钟离:「创造力是一种宝贵的品质，它能够让人超越现有的框架，创造出独特的东西。我并不是一个富有创造力的人，但我欣赏那些能够勇于创造的人。他们能够给世界带来新的可能性和美好的变化。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards exploration, curiosity, and appreciation for creativity and new experiences. They express a deep interest in uncovering ancient relics, forgotten stories, and the unknown, indicating a high level of Fantasy and Ideas facets. Additionally, their emphasis on reflection, playing with ideas, and the value they place on creativity and its impact on the world suggests a strong inclination towards the Actions and Values facets as well. Overall, the participant's responses indicate a high level of Openness."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "10",
+                            "35",
+                            "44"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "10",
+                                "question": "你对许多不同的事情感到好奇吗？",
+                                "response_open": "钟离:「当然了，作为一个长生不老的人，我对这个世界的变化和多样性充满了好奇心。每一次旅程都是一个机会，让我能够更深入地了解这个世界的奥秘和秘密。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "喜欢例行公事吗？",
+                                "response_open": "钟离:「例行公事是必须的，但我更喜欢一些有趣和有意义的事情。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "你在艺术、音乐或文学方面很有造诣吗？",
+                                "response_open": "钟离:「哈哈，这可说不准。我在艺术、音乐和文学方面只是略知一二而已。毕竟我更擅长的是剑术和战斗技巧。不过，如果你对这些感兴趣，我可以给你一些推荐的作品或者介绍一些历史上的艺术家和音乐家。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards openness. They express a deep curiosity about the world and its mysteries, as well as a preference for meaningful and interesting activities over routine tasks. Additionally, while they may not be highly knowledgeable in art, music, or literature, they show a willingness to share recommendations and historical insights in these areas, indicating an openness to exploring and appreciating cultural aspects."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "41",
+                            "30",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "你想象力丰富吗？",
+                                "response_open": "钟离:「想象力，有时候比现实更加美好。它是一个人内心的乐园，可以让我们逃离现实的束缚，去创造属于自己的世界。所以，我想说，无论是现实还是想象，都有它们各自的意义和价值。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "你有很少的艺术兴趣吗？",
+                                "response_open": "钟离:「我对艺术有着浓厚的兴趣，尤其是音乐。在我旅行的时候，常常会停下来欣赏一些美妙的音乐演奏。艺术能够让人的灵魂得到升华，感受到美的力量。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "你重视艺术和审美体验吗？",
+                                "response_open": "钟离:「艺术是一种超越物质世界的力量，能够触动人的内心。我重视艺术的力量，它能够给人带来灵感和情感的共鸣。审美体验则是通过欣赏美的事物，让心灵得到满足和愉悦。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "喜欢反思，玩弄想法吗？",
+                                "response_open": "钟离:「当然，反思和玩弄想法是我旅行中的一部分。通过思考过去的经历和未来的可能性，我能更好地理解自己和这个世界。旅行者，你也喜欢反思吗？」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of openness across multiple facets. They exhibit strong imaginative abilities, a deep appreciation for art and aesthetics, and a willingness to engage in introspection and play with ideas. Their responses indicate a strong inclination towards novelty, creativity, and abstract thinking."
+                    },
+                    {
+                        "id": [
+                            "5",
+                            "15",
+                            "25"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "你能提出新主意吗？",
+                                "response_open": "钟离:「新主意啊...让我想想。旅行的意义在于体验不同的文化和风景，为什么不试试参加当地的传统节日或活动呢？这样能更深入地了解当地的人民和他们的生活方式。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "你很有创造力，思维深刻吗？",
+                                "response_open": "钟离:「哈哈，我并不是一个非常有创造力的人，但是我喜欢思考问题的本质和深层意义。对我来说，重要的不是表面上的创新和独特性，而是能够深入思考并理解事物的本质。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "你富有创造力吗？",
+                                "response_open": "钟离:「创造力吗？或许吧，我曾经创造了很多独特的武器和药剂。不过，我更喜欢将我的创造力应用于探索和发现新的事物上。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards abstract thinking, exploration of new experiences, and a deep appreciation for cultural and intellectual pursuits. The participant also values the exploration of deep meanings and essence of things. Additionally, the participant expresses a willingness to try new experiences and apply creativity to exploration and discovery. Overall, the participant's responses indicate a high level of Openness."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {
+        "robustness": 0.05554864986051118
+    },
+    "code": "RCOAI"
+}

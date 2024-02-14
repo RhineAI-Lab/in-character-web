@@ -21,7 +21,6 @@ export default class DataService {
 
   static config : {
     args: string[][],
-    files: string[],
   } = proxy({
     args: [
       allow.map(data => data.value),
@@ -29,8 +28,9 @@ export default class DataService {
       allow[0].list[0].list.map(data => data.value),
       allow[0].list[0].list[0].list.map(data => data.value),
       allow[0].list[0].list[0].list[0].list.map(data => data.value),
+      allow[0].list[0].list[0].list[0].list[0].list.map(data => data.value),
+      allow[0].list[0].list[0].list[0].list[0].list[0].list.map(data => data),
     ],
-    files: ['ayaka-zh.json', 'Dumbledore-en.json', 'Harry-en.json', 'haruhi-zh.json', 'Hermione-en.json', 'hutao-zh.json', 'Luna-en.json', 'Malfoy-en.json', 'McGonagall-en.json', 'raidenShogun-zh.json', 'Raj-en.json', 'Ron-en.json', 'Sheldon-en.json', 'Snape-en.json', 'wanderer-zh.json', 'zhongli-zh.json', 'Blair Waldorf-en.json', 'Gaston-en.json', 'James Bond-en.json', 'Jigsaw-en.json', 'Jim Morrison-en.json', 'John Keating-en.json', 'Klaus Mikaelson-en.json', 'Lestat de Lioncourt-en.json', 'Lucifer Morningstar-en.json', 'Michael Scott-en.json', 'Rorschach-en.json', 'Shrek-en.json', 'The Dude-en.json', 'Thor-en.json', 'Twilight Sparkle-en.json', 'Walt Kowalski-en.json', 'traveler-zh.json', 'Caesar-en.json']
   })
 
   static tps = ['E/I', 'S/N', 'T/F', 'P/J']

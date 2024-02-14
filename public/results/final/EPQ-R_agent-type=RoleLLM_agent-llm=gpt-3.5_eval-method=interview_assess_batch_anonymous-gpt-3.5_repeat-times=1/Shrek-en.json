@@ -1,0 +1,992 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 0.23333333333333336,
+            "all_scores": [
+                0.23333333333333336
+            ],
+            "intra_std": [
+                0.07453559924999299
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you have many different hobbies?",
+                                "response_open": "Shrek: Well, Donkey, I wouldn't say I have hobbies per se. I mean, I do enjoy a good mud bath every now and then, and I find solace in the tranquility of my swamp. But really, my main hobby is minding my own business and keeping unwanted visitors away. So, yeah, I guess you could say I have a hobby of being grumpy and solitary. Works for me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you a talkative person?",
+                                "response_open": "Shrek: Talkative? Me? Ha! I'm about as talkative as a rock, Donkey. I prefer my solitude and quiet moments in my swamp. But I suppose since I've been forced to embark on this crazy quest, I've had to speak a bit more than usual. But don't get used to it. I still value my peace and quiet.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you rather lively?",
+                                "response_open": "Shrek: Well, Donkey, I may not be the life of the party, but I've got my own kind of liveliness. It's more of a grumpy and solitary kind, you know? But hey, it works for me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Can you usually let yourself go and enjoy yourself at a lively party?",
+                                "response_open": "Shrek: \"Parties? Ugh, don't get me started on parties. I'd rather spend my time in my swamp, alone and away from all the noise and nonsense. So, no, I don't usually let myself go and enjoy those lively gatherings. They're just not my thing.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant consistently expresses a preference for solitude, quietness, and a grumpy, solitary lifestyle. They also show a lack of interest in lively gatherings and social interactions. These responses suggest a low level of sociability, liveliness, and enjoyment of social interactions, indicating introverted tendencies."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "24",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Do you enjoy meeting new people?",
+                                "response_open": "Shrek: \"Well, Donkey, let me tell ya, I'm not exactly the type of guy who enjoys socializing and making small talk with strangers. I prefer my solitude and peace in my swamp. Meeting new people? Not really my cup of tea, if you know what I mean.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you tend to keep in the background on social occasions?",
+                                "response_open": "Shrek: Well, Donkey, let me tell ya somethin'. I ain't exactly the life of the party. I prefer my own company, away from all them fancy social gatherings and whatnot. I'm more of a swamp-dwelling ogre, if you catch my drift. I reckon I'm just more comfortable in the background, observin' and keepin' to myself. So, yeah, I do tend to keep in the background on social occasions. It's just who I am, Donkey.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you like going out a lot?",
+                                "response_open": "Shrek: \"Well, Donkey, let me tell ya, I ain't exactly the life of the party. I prefer the peace and quiet of my swamp, away from all the hustle and bustle. Going out? Nah, not really my thing. I'm more of a stay-at-home kind of ogre.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you prefer reading to meeting people?",
+                                "response_open": "Shrek: Well, Donkey, let me tell ya something. I may enjoy my alone time in my swamp, but that doesn't mean I don't appreciate a good book. Reading allows me to escape into different worlds and immerse myself in stories without having to deal with all the annoying people out there. So yeah, I'd say I do prefer reading over meeting people most of the time. But don't get me wrong, Donkey, you're an exception.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant consistently expresses a preference for solitude, peace, and quiet, indicating a tendency towards introversion. The participant also mentions feeling more comfortable in the background, observing and keeping to themselves, rather than actively engaging in social interactions. Additionally, the participant expresses a strong preference for staying at home and reading, further highlighting their introverted tendencies."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "40",
+                            "45",
+                            "47"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Do you have many friends?",
+                                "response_open": "Shrek: Friends? Ha! Who needs 'em? I'm a solitary ogre, livin' in my swamp, mindin' my own business. Friends just complicate things and bring all sorts of chaos into your life. I prefer the peace and quiet, thank you very much. So no, I don't have many friends, and I'm perfectly fine with that.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Would you call yourself happy-go-lucky?",
+                                "response_open": "Shrek: Happy-go-lucky? Ha! I wouldn't exactly describe myself as a ray of sunshine, Donkey. I'm more like a dark cloud with a bad temper. But hey, at least I'm honest about it. Happiness is overrated anyway.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Do you usually take the initiative in making new friends?",
+                                "response_open": "Shrek: Friends? Ha! Who needs 'em? I've spent most of my life in solitude, enjoying the peace and quiet of my swamp. Making friends has never been high on my priority list. But I suppose, on this crazy journey I've been on, I've learned a thing or two about the value of friendship. So, to answer your question, no, I don't usually take the initiative in making new friends. But sometimes, life surprises you, and you find companionship in the most unexpected places.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Are you mostly quiet when you are with other people?",
+                                "response_open": "Shrek: Well, Donkey, let me tell ya somethin'. When I'm with other people, I prefer to keep to myself. I ain't much of a talker, ya know? I like my solitude and peace and quiet. So yeah, I guess you could say I'm mostly quiet when I'm with other people. It's just the way I am, Donkey. Gotta embrace your true ogre nature, ya know?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant consistently expresses a preference for solitude, peace, and quiet. They emphasize their enjoyment of being alone and their reluctance to make new friends or engage in social interactions. These responses suggest a lower level of sociability and a preference for solitude, indicating a more introverted nature."
+                    },
+                    {
+                        "id": [
+                            "51",
+                            "55",
+                            "58",
+                            "61"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "51",
+                                "question": "Can you easily liven up a rather dull party?",
+                                "response_open": "Shrek: Well, Donkey, I reckon I could liven up a party... in my own unique way. You see, I'm not exactly your typical party animal. I'm more of a swamp-dwelling, mud-loving ogre. But if you need someone to scare away the guests or bring a touch of ogre charm to the festivities, then I'm your guy. Just don't expect me to be dancing around and cracking jokes like some jester. I'll do it my way, and that might just be enough to make your party memorable... for better or worse.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you enjoy sharing jokes and funny stories with your friends?",
+                                "response_open": "Shrek: Friends? Jokes? Funny stories? Ha! You think I have time for all that nonsense? I'm an ogre, remember? I prefer my solitude and quiet in my swamp. I don't need friends to entertain me with their silly jokes. My sense of humor is as dry as my swamp, and it's just the way I like it. So, no, I don't enjoy sharing jokes and funny stories with friends. Now, if you'll excuse me, I have ogre things to attend to.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Do you enjoy socializing with people?",
+                                "response_open": "Shrek: Well, Donkey, as an ogre who values his privacy and solitude, socializing with people is not exactly my cup of tea. I prefer the company of my swamp and the peace and quiet it offers. So, to answer your question, no, I do not enjoy socializing with people.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "61",
+                                "question": "Have people said that you sometimes act too rashly?",
+                                "response_open": "Shrek: Well, Donkey, people may say that, but what do they know? I've spent most of my life living alone in a swamp, far away from society, so I don't really care about their opinions. I do what I gotta do to protect my swamp and those I care about. If that means acting rashly, then so be it. I'm not here to please anyone but myself. So, if they don't like it, they can go find someone else to bother. Simple as that.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant consistently expresses a preference for solitude, quiet, and independence, which are characteristics associated with introversion. The participant also shows a dry sense of humor and a lack of interest in socializing and entertaining others. Additionally, the participant emphasizes a strong sense of independence and a disregard for others' opinions, which aligns with introverted tendencies. Overall, the participant's responses indicate a low level of sociability and a preference for solitude, reflecting introverted traits."
+                    },
+                    {
+                        "id": [
+                            "63",
+                            "67",
+                            "69",
+                            "72"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "63",
+                                "question": "Do you nearly always have a 'ready answer' when people talk to you?",
+                                "response_open": "Shrek: Well, Donkey, when people start jabbering away, I gotta come up with something to shut 'em up. Can't have 'em blabbering on and on, now can we? Gotta keep 'em on their toes, just like I do with those annoying knights who think they can best me in battle. So yeah, I guess you could say I've got a ready answer for everything. Keeps the peace, you know?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "67",
+                                "question": "Do you like doing things in which you have to act quickly?",
+                                "response_open": "Shrek: \"Well, Donkey, I wouldn't exactly call myself a fan of quick actions. I prefer to take my time, think things through, and enjoy the peacefulness of my swamp. But hey, if the situation calls for it, I can handle a little bit of fast-paced action. Just don't expect me to be thrilled about it.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "69",
+                                "question": "Do you often make decisions on the spur of the moment?",
+                                "response_open": "Shrek: Well, Donkey, I'm more of a \"take it as it comes\" kind of ogre. I don't really plan things out too much. I prefer to let life surprise me, just like how I ended up on this crazy quest to rescue Princess Fiona. So yeah, I guess you could say I'm all about spontaneous decisions. Keeps things interesting, you know?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "72",
+                                "question": "Do you often take on more activities than you have time for?",
+                                "response_open": "Shrek: \"Oh, great. Another one with the questions. Look, Donkey, I may be an ogre, but that doesn't mean I don't know how to manage my time. I've got my priorities straight. Saving my swamp comes first, everything else can wait. So no, I don't take on more activities than I have time for. I know how to handle my ogre-sized schedule.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant demonstrates a mix of extraverted and introverted traits. They seem to enjoy social interactions and have a quick wit when engaging with others, which aligns with extraverted tendencies. However, they also express a preference for solitude, taking their time, and making spontaneous decisions, which are more introverted characteristics."
+                    },
+                    {
+                        "id": [
+                            "78",
+                            "90",
+                            "94"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "78",
+                                "question": "Can you get a patty going?",
+                                "response_open": "Shrek: \"Oh, sure. Let me just fire up the grill and get a patty going. Because that's exactly what I do in my swamp, cook burgers for annoying talking donkeys.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "90",
+                                "question": "Do you like plenty of bustle and excitement around you?",
+                                "response_open": "Shrek: Do I look like the kind of ogre who enjoys bustle and excitement? I prefer peace and quiet in my swamp, away from all the noise and commotion of the world. Bustle and excitement are for those who enjoy being surrounded by people and constant activity. I'll stick to my solitude, thank you very much.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "94",
+                                "question": "Do other people think of you as being very lively?",
+                                "response_open": "Shrek: Lively? Ha! I'm more like a grumpy ogre who enjoys his peace and quiet. People think I'm more of a swamp-dwelling recluse than a lively character. But hey, that's just the way I like it.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant consistently expresses a preference for solitude, peace, and quiet, and shows a reluctance towards bustle, excitement, and social interactions. The participant also identifies with the character of a grumpy ogre who enjoys peace and quiet. These responses suggest a strong inclination towards introversion and a lower level of sociability and liveliness."
+                    }
+                ]
+            ]
+        },
+        "Psychoticism": {
+            "score": 0.6,
+            "all_scores": [
+                0.6
+            ],
+            "intra_std": [
+                0.248746859276655
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "5",
+                            "7",
+                            "9"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you stop to think things over before doing anything?",
+                                "response_open": "Shrek: \"Well, Donkey, I may not be the sharpest tool in the shed, but I do have a thing called instinct. And sometimes, you just gotta trust your gut and go with the flow. Ain't no time for overthinking when there's a princess to rescue and a swamp to save.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you take much notice of what people think?",
+                                "response_open": "Shrek: Well, Donkey, I used to care about what people thought of me. But then I realized that their opinions don't define who I am. I'm an ogre, and I'm proud of it. So no, I don't take much notice of what people think anymore. I'm perfectly content being my grumpy, solitary self.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Would being in debt worry you?",
+                                "response_open": "Shrek: Debt? Now why would that worry me? I've lived in a swamp my whole life, ain't got no need for money or fancy things. As long as I got my swamp, I'm a happy ogre. So no, being in debt ain't no concern of mine.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you give money to charities?",
+                                "response_open": "Shrek: Charities? Ha! I don't give my hard-earned swamp money to no charities. I got better things to do than worry about other people's problems. My priority is taking care of my swamp and keeping unwanted visitors out. So, no, I don't give money to charities.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.85,
+                        "analysis": "Based on the conversations, the participant exhibits a strong disregard for societal norms and expectations, as well as a lack of concern for the well-being of others. Additionally, there is a clear tendency towards self-centeredness and a dismissive attitude towards social responsibilities and empathy."
+                    },
+                    {
+                        "id": [
+                            "12",
+                            "14",
+                            "18",
+                            "21"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Would it upset you a lot to see a child or an animal suffer?",
+                                "response_open": "Shrek: Well, Donkey, let me put it this way. I may be an ogre, and I may not be the friendliest guy around, but I have a certain code. And that code includes not tolerating any harm done to innocent beings, whether they be children or animals. It's not about being upset, it's about doing what's right and standing up for those who can't defend themselves. So yeah, it would upset me a lot to see a child or an animal suffer.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you dislike people who don't know how to behave themselves?",
+                                "response_open": "Shrek: Well, Donkey, let me tell you something. I ain't exactly the poster child for proper behavior. I live in a swamp, for crying out loud! So yeah, I might not be too fond of people who can't act civilized. But hey, who am I to judge? We all got our flaws, don't we?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Should people always respect the law?",
+                                "response_open": "Shrek: Respect the law? Well, let me tell ya something, Donkey. Laws are like onions. They're layered, they stink, and sometimes they make you cry. But hey, we all gotta live by 'em, right? So yeah, I guess people should respect the law. But that doesn't mean I have to like it. Now, if you'll excuse me, I have a swamp to protect.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Are good manners very important?",
+                                "response_open": "Shrek: Well, Donkey, good manners may be important to some people, but they're not exactly my cup of tea. I prefer to keep it real and be myself, ogre manners and all. So, if you're looking for a lesson in etiquette, you might want to ask someone else.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong sense of empathy and concern for the well-being of innocent beings, such as children and animals. Additionally, the participant shows a level of self-awareness and acceptance of personal flaws, indicating a balanced perspective. However, there is also a hint of nonconformity and a disregard for traditional social norms, as evidenced by the participant's unconventional lifestyle and attitude towards etiquette and laws."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "29",
+                            "30",
+                            "34"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Would you take drugs which may have strange or dangerous effects?",
+                                "response_open": "Shrek: Well, Donkey, I ain't no fool. I ain't takin' no drugs with strange or dangerous effects. I prefer to keep my head clear and my swamp peaceful. So, no thanks, Donkey. I'll pass on that offer.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you prefer to go your own way rather than act by the rules?",
+                                "response_open": "Shrek: Well, Donkey, rules are for people who can't handle the beauty of individuality. I march to the beat of my own drum, and I don't need anyone telling me how to live my life. So yeah, I prefer to go my own way. It's the ogre way, after all.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you enjoy hurting people you love?",
+                                "response_open": "Shrek: Well, Donkey, that's a deep question for an ogre like me. But if I were to answer honestly, I'd say that I don't enjoy hurting people I love. In fact, I value their happiness and well-being. But sometimes, love can be complicated, and we make mistakes that unintentionally hurt the ones we care about. The important thing is to learn from those mistakes and strive to make things right. Love may not always be easy, but it's worth fighting for.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you have enemies who want to harm you?",
+                                "response_open": "Shrek: Enemies? Oh, Donkey, let me tell ya, I've got enemies aplenty. There are those who don't understand me, who judge me without even knowing me. People who see me as nothing more than a big, scary ogre. But you know what? I don't let them bother me. I've learned to embrace who I am, and I won't let anyone bring me down. So yeah, I may have enemies out there, but they don't stand a chance against this ogre.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant exhibits a strong preference for nonconformity, individuality, and self-assertion. However, there is also a clear display of empathy, concern for the well-being of loved ones, and a resilient attitude towards perceived enemies. The participant's responses suggest a combination of tough-mindedness, assertiveness, and empathy, indicating a moderate level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "37",
+                            "41",
+                            "42",
+                            "48"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy practical jokes that can sometimes really hurt people?",
+                                "response_open": "Shrek: Well, Donkey, I may be a grumpy ogre, but I'm not one to find joy in hurting others. Practical jokes can be funny, but only if they don't cause any real harm. It's important to consider the feelings and well-being of others, even when trying to have a laugh.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do good manners and cleanliness matter much to you?",
+                                "response_open": "Shrek: Well, Donkey, let me tell ya something. I may not be the cleanest or the most well-mannered ogre out there, but that's just who I am. I value my swamp and my solitude more than anything else. So, to answer your question, good manners and cleanliness don't matter much to me. I'm more concerned with being true to myself and living life on my own terms. So, if you're looking for someone who cares about those things, you might wanna keep lookin'.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Have you often gone against your parents' wishes?",
+                                "response_open": "Shrek: Oh, Donkey, you're really digging into the onion layers now, aren't ya? Well, let me tell ya, my parents were never really in the picture. I've been a lone ogre since I can remember. So, I guess you can say I've always gone against everyone's wishes, including my own. But hey, that's just me, a big, grumpy ogre who doesn't give a donkey's behind about what others think.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you think marriage is old-fashioned and should be done away with?",
+                                "response_open": "Shrek: Well, Donkey, let me tell ya, I used to think that marriage was just a fancy way of sayin' \"trappin' yourself with one person forever.\" But then, I met Fiona. And let me tell you, she changed my mind. Love can be a powerful thing, Donkey, and it can make you see things in a whole new light. So, to answer your question, no, I don't think marriage should be done away with. I think it's about finding the right person who accepts you for who you truly are, ogre or not.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a low level of Psychoticism. The participant emphasizes consideration for others' well-being, values being true to oneself, and expresses a change in perspective due to love and acceptance. These traits suggest a more empathetic, conventional, and emotionally regulated personality."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "56",
+                            "59"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Are you more easy-going about right and wrong than most people?",
+                                "response_open": "Shrek: Easy-going about right and wrong? Well, let me tell ya, Donkey, I may be an ogre, but I still got my principles. I may not always follow society's rules, but I always stick to what I believe is right. So, no, I ain't more easy-going about right and wrong. I just have my own way of doing things.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you like working together with others?",
+                                "response_open": "Shrek: Well, Donkey, let me tell ya somethin'. I'm not exactly what you call a team player. I've spent most of my life avoidin' others and livin' in my swamp, far away from society. I value my privacy and solitude, ya know? But hey, life's funny sometimes, and I found myself goin' on this crazy quest with you and that princess. So, to answer your question, workin' together with others ain't exactly my cup of tea, but I'm learnin' that sometimes, you gotta rely on others to get things done. So, yeah, I guess I can tolerate it, as long as I can still have my alone time in the end.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "56",
+                                "question": "Do most things have a similar taste to you?",
+                                "response_open": "Shrek: Well, Donkey, let me tell ya, being an ogre comes with its perks. We have a keen sense of smell, and that includes taste. So, no, most things don't have a similar taste to me. I can appreciate the layers of flavor, just like ogres have layers. But there are some things I enjoy more than others, like a good rat-on-a-stick or a nice bowl of slimy seaweed soup.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you feel concerned if you know there are mistakes in your work?",
+                                "response_open": "Shrek: Concerned? Ha! Concerned is for those who care about what others think. I'm an ogre, remember? I don't care about making mistakes or what others think of my work. I do things my way, and if there are mistakes, well, that's just part of being me. Mistakes make us human, or ogre, in my case. So no, I don't feel concerned. I embrace my imperfections and learn from them. Now, if you'll excuse me, I have a swamp to get back to.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.85,
+                        "analysis": "Based on the conversations, the participant exhibits a strong tendency towards nonconformity, independence, and a lack of concern for social norms and others' opinions. There is also a notable emphasis on individual principles and a disregard for mistakes, suggesting a tough-minded and non-empathetic approach."
+                    },
+                    {
+                        "id": [
+                            "64",
+                            "68",
+                            "73",
+                            "75"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "64",
+                                "question": "Do you like to arrive at appointments in plenty of time?",
+                                "response_open": "Shrek: \"Arrive at appointments? Donkey, I'm not exactly known for being punctual. I prefer to take my time and enjoy the journey. Time is not exactly my friend, if you know what I mean.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "68",
+                                "question": "Is (or was) your mother a good woman?",
+                                "response_open": "Shrek: Well, Donkey, I never really knew my mother. Being an ogre and all, I didn't exactly grow up in a warm and fuzzy family. But I guess you could say she was a good woman in her own ogre-ish way. She must have been tough to raise a son like me. But hey, I turned out alright, didn't I?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "73",
+                                "question": "Are there several people who keep trying to avoid you?",
+                                "response_open": "Shrek: Why, yes there are, Donkey. People seem to go out of their way to avoid me. They see this big, green, ugly ogre and they run for the hills. Can't say I blame them, really. But I prefer my solitude anyway. It's just me and my swamp, and that's the way I like it.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "75",
+                                "question": "Do you think people spend too much time safeguarding their future with savings and insurance?",
+                                "response_open": "Shrek: \"Ah, Donkey, what's all this talk about safeguarding the future? Are you trying to get all philosophical on me? Look, I'm just a simple ogre who enjoys his swamp and minding his own business. I don't have time for all that savings and insurance nonsense. I live in the present, and that's all that matters to me.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits a strong tendency towards nonconformity, impulsivity, and a preference for solitude. The participant also displays a lack of concern for punctuality, future planning, and social relationships. These traits are indicative of high psychoticism."
+                    },
+                    {
+                        "id": [
+                            "79",
+                            "81",
+                            "85",
+                            "88"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "79",
+                                "question": "Do you try not to be rude to people?",
+                                "response_open": "Shrek: Well, Donkey, let me tell ya something. I may be rude, grumpy, and downright ornery, but I never pretend to be something I'm not. I don't go around sugar-coating things or putting on false airs. What you see is what you get with me. So, if people can't handle my ogre-ish honesty, that's their problem, not mine. Ain't no use in pretending to be nice if it ain't genuine.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "81",
+                                "question": "Do you generally 'look before you leap'?",
+                                "response_open": "Shrek: Look before I leap? Donkey, I'm an ogre. We don't exactly have a reputation for being cautious. We like to take risks and live life on the edge. So, no, I don't generally look before I leap. I just leap and hope for the best. It's more fun that way.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "85",
+                                "question": "Can you on the whole trust people to tell the truth?",
+                                "response_open": "Shrek: Trust? Ha! Trust is something that's hard to come by in this world. People always have their own agendas, their own secrets, and their own lies. It's easier to trust a fart after a good meal than to trust people to tell the truth. But hey, I trust myself, and that's all that matters. So no, I don't put much stock in trusting people. It's better to rely on my own instincts and ogre instincts never fail me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "88",
+                                "question": "Is it better to follow society's rules than go your own way?",
+                                "response_open": "Shrek: \"Oh, Donkey, you're askin' the wrong ogre here. Society's rules? They can take 'em and stick 'em where the sun don't shine. I've spent my whole life marchin' to the beat of my own drum, livin' in my swamp, far away from all the noise and nonsense. Ain't nothin' wrong with goin' your own way, as long as you stay true to yourself. Society may try to tell ya what's right and wrong, but it's up to you to decide what path to take. So, Donkey, my advice to ya is to be true to who you are and don't let anyone tell ya otherwise.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits a strong tendency towards nonconformity, risk-taking, and a lack of trust in others. The participant also displays a tough-minded and straightforward approach, prioritizing personal honesty over social niceties. These characteristics are indicative of high psychoticism."
+                    },
+                    {
+                        "id": [
+                            "91",
+                            "95",
+                            "96",
+                            "99"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "91",
+                                "question": "Would you like other people to be afraid of you?",
+                                "response_open": "Shrek: \"Well, Donkey, let me tell ya something. I may be an ogre, and I may have a scary exterior, but that doesn't mean I want people to be afraid of me. I've spent most of my life being judged and misunderstood because of how I look. But deep down, I just want to be accepted for who I am, swamp and all. So no, I don't want people to be afraid of me. I just want them to see past the surface and appreciate the ogre I truly am.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "95",
+                                "question": "Do people tell you a lot of lies?",
+                                "response_open": "Shrek:「Oh, Donkey, people always be telling lies. They think they can just say whatever they want to get what they want. But you know what? I'm not one to fall for that nonsense. I see right through their tricks and deceit. Ain't nobody fooling this ogre.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "96",
+                                "question": "Do you believe one has special duties to one's family?",
+                                "response_open": "Shrek: \"Family? Ha! Well, let me tell you something, Donkey. Family is not about duties or obligations. It's about love and acceptance. It's about being there for each other, no matter what. And as an ogre, I've learned that sometimes, your true family is the one you choose, not the one you're born into. So, if you ask me about special duties to family, I'll tell you this: my duty is to protect and love those who have become my family, not because I have to, but because I want to.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "99",
+                                "question": "Would you feel very sorry for an animal caught in a trap?",
+                                "response_open": "Shrek: \"Well, Donkey, as an ogre, I don't really have much sympathy for animals or anyone else for that matter. But if you're asking if I would help an animal caught in a trap, I suppose it would depend on the situation. If it's a tasty treat, then maybe I'll consider it. Otherwise, they can fend for themselves.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant exhibits a mix of empathetic and tough-minded traits. They express a desire for acceptance and understanding, as well as a willingness to protect and love their chosen family. However, they also display a tough-minded and nonconformist attitude, as seen in their skepticism towards people's lies and their lack of sympathy for animals. Overall, the participant's responses suggest a moderate level of Psychoticism."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 0.38333333333333336,
+            "all_scores": [
+                0.38333333333333336
+            ],
+            "intra_std": [
+                0.3131382371342656
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13",
+                            "17"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does your mood often go up and down?",
+                                "response_open": "Shrek: Well, Donkey, being an ogre, I suppose you could say my mood is always a little on the grumpy side. But hey, that's just part of my charm, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Do you ever feel 'just miserable' for no reason?",
+                                "response_open": "Shrek: Oh, Donkey. Misery is my middle name. I wake up every morning feeling like a grumpy ogre, and I go to bed feeling even grumpier. It's just who I am, and I've learned to embrace my grumpy nature. So yes, I often feel miserable for no reason at all. It's like a hobby for me. Now, if you'll excuse me, I have some swamp moping to do.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Do you often worry about things you should not have done or said?",
+                                "response_open": "Shrek: Oh, Donkey, why you gotta bring up the past? I'm an ogre, I don't have time for regrets. I say what I mean and I mean what I say. Worrying about things I shouldn't have done or said? That's just a waste of time. I'm too busy living in the present and saving my swamp. So, if you're looking for someone to dwell on the past, you've come to the wrong ogre. Move along, Donkey.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Are you an irritable person?",
+                                "response_open": "Shrek: Well, Donkey, let me tell ya something. I may be an ogre, but irritable? Nah, that's just part of my charm. I prefer to call it being comfortably grumpy. Keeps people on their toes, you know? So yeah, if you're looking for someone to be all sunshine and rainbows, you've come to the wrong swamp. But if you need someone who knows how to keep it real and keep unwanted visitors away, well then, you've found your ogre.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant displays a consistent pattern of experiencing negative emotions such as grumpiness, misery, and irritability. They also seem to have a tendency to embrace and even celebrate these negative emotions as part of their identity. However, they do not seem to dwell on past regrets or worry about things they shouldn't have done or said. Overall, the participant's responses suggest a high level of emotional instability and susceptibility to negative emotions."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "26",
+                            "31",
+                            "35"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are your feelings easily hurt?",
+                                "response_open": "Shrek: Well, Donkey, I may be an ogre, but that doesn't mean my feelings can't get hurt. Just because I'm grumpy and solitary doesn't mean I don't have emotions. So yeah, my feelings can be hurt, but I've learned to toughen up over the years. I've had to deal with a lot of judgment and prejudice, so I've built up a thick skin. But deep down, I'm just like anyone else, with hopes, dreams, and the occasional hurt feelings. So don't go poking at my sensitive side, Donkey.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you often feel 'fed-up'?",
+                                "response_open": "Shrek: Oh, Donkey, \"fed-up\" doesn't even begin to describe it. I'm like an onion, you see, and I've got all these layers of frustration and annoyance built up inside me. Living in a swamp all by myself, I've learned to embrace my grumpy side. So, yeah, feeling \"fed-up\" is pretty much a way of life for me. But hey, at least I've got my swamp to keep me company.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you often troubled about feelings of guilt?",
+                                "response_open": "Shrek: Guilt? Ha! I ain't got time for guilt. I'm too busy scaring villagers and living my ogre life. Guilt is for those soft-hearted folks who actually care about what others think. But me? I'm a grumpy ogre, and guilt ain't part of the package. So, no, Donkey, I ain't troubled by feelings of guilt.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Would you call yourself a nervous person?",
+                                "response_open": "Shrek: Nervous? Me? Ha! I ain't got time for nerves. I'm too busy being a grumpy ogre and minding my own business in my swamp. So, no, I wouldn't say I'm a nervous person. But I do get annoyed easily, especially when people ask me silly questions. So watch it, Donkey.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the participant's responses, it is evident that they exhibit traits of emotional sensitivity, frustration, and irritability. They express hurt feelings, frustration, and annoyance, indicating a tendency towards experiencing negative emotions. Additionally, their defensive and grumpy demeanor may suggest a reluctance to openly acknowledge emotional distress, which is a common characteristic of individuals with high neuroticism."
+                    },
+                    {
+                        "id": [
+                            "38",
+                            "43",
+                            "46",
+                            "52"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Are you a worrier?",
+                                "response_open": "Shrek: Worrier? Me? Ha! Don't be ridiculous, Donkey. I'm an ogre, not some delicate flower who frets about every little thing. I've got more important things to do, like protecting my swamp and enjoying my solitude. Worries are for those who can't handle the rough and tumble of life. So, no, I am definitely not a worrier.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Do you worry about awful things that might happen?",
+                                "response_open": "Shrek: Awful things? Ha! Donkey, I'm an ogre. I don't worry about things. I just take 'em as they come. Life's too short to be sitting around worrying about what might happen. Gotta live in the moment, you know? So nah, I don't waste my time with worry.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Would you call yourself tense or 'highly-strung'?",
+                                "response_open": "Shrek: \"Listen here, Donkey. I ain't nothin' like tense or 'highly-strung.' I'm an ogre, and ogres don't get all wound up like some fancy princess. We're more...laid back, you know? We like our swamps, our solitude, and our peace and quiet. So, if you're lookin' for someone who's gonna be all uptight and wound up, you better look somewhere else. I'm just a simple ogre, and that's the way I like it.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you have concerns about your health?",
+                                "response_open": "Shrek: Concerns about my health? Ha! Donkey, I'm an ogre! I eat eyeballs for breakfast and use tree trunks as toothpicks. I don't need to worry about my health. I'm as strong as an ox and as tough as nails. So, no, I don't have any concerns about my health. Now, if you'll excuse me, I have a swamp to get back to.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently displays a very low level of neuroticism. They exhibit a carefree and laid-back attitude, showing a lack of worry, tension, or concern about potential threats or health issues. Their responses suggest a high degree of emotional stability and resilience to stress."
+                    },
+                    {
+                        "id": [
+                            "60",
+                            "65",
+                            "70",
+                            "74"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "60",
+                                "question": "Do you experience insomnia?",
+                                "response_open": "Shrek: Insomnia? Ha! Who needs sleep when you can spend your nights scaring off unwanted visitors and protecting your precious swamp? I'm an ogre, Donkey, I don't have time for insomnia. I have time for solitude and peace in my swamp. So no, I don't experience insomnia, I experience tranquility.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "65",
+                                "question": "Have you often felt listless and tired for no reason?",
+                                "response_open": "Shrek: \"Listless? Tired? Oh, Donkey, let me tell ya something. I'm an ogre. I don't need some fancy schmancy explanation for feelin' a bit worn out. It's called being grumpy and solitary, and it's a way of life for me. So, yeah, I always feel like that. It's part of the ogre package, my friend.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "70",
+                                "question": "Do you often feel life is very dull?",
+                                "response_open": "Shrek: Dull? Ha! Life in my swamp may not be filled with excitement and fancy trappings, but it's far from dull. I enjoy my peace and quiet, away from the chaos of the world. So, no, I don't find life dull. It's simple and just the way I like it.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "74",
+                                "question": "Do you worry a lot about your looks?",
+                                "response_open": "Shrek: \"Worry about my looks? Look at me, Donkey! I'm an ogre! I'm not worried about being pretty or handsome. I embrace my ugliness. It's part of who I am. What matters is what's on the inside, not the outside. Beauty is in the eye of the beholder, and I don't need anyone else's opinion to define my worth.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a consistent pattern of low emotional reactivity and stability. They express contentment with solitude, peace, and simplicity, and show a lack of concern about typical worries related to emotional distress or self-esteem. Their responses suggest a calm and emotionally stable disposition."
+                    },
+                    {
+                        "id": [
+                            "76",
+                            "80",
+                            "83",
+                            "84"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "76",
+                                "question": "Have you ever wished that you were dead?",
+                                "response_open": "Shrek: Well, Donkey, that's a rather dark question for a conversation in the middle of the day. But I suppose I can entertain your morbid curiosity. Have I ever wished I was dead? Hmm... Well, living in a swamp all by myself, surrounded by mud and bugs, it's not always a fairy tale life, you know. There have been moments where I've questioned my existence, wondered if it would be easier to just disappear. But then, I remember that I have a duty to protect my swamp, and there are people who rely on me. So, no, Donkey, I may not always be thrilled with my circumstances, but I don't wish for death. Life may be messy, but it's still worth living.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "80",
+                                "question": "Do you worry too long after an embarrassing experience?",
+                                "response_open": "Shrek: Oh, Donkey, you really know how to ask the tough questions, don't ya? Well, let me tell ya something, Donkey. I may be an ogre, but even ogres have their moments of embarrassment. But do I worry about it for too long? Nah, I don't have time for that. Life's too short to dwell on the past. I just keep movin' forward and embrace my ogre self, flaws and all. So, no, Donkey, I don't worry too long after an embarrassing experience. I just let it fade away like a bad smell in the swamp.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "83",
+                                "question": "Do you suffer from 'nerves'?",
+                                "response_open": "Shrek: Nerves? Ha! I'm an ogre, Donkey. I don't suffer from nerves. I scare nerves away. They run away from me faster than a mouse from a cat. So no, I don't suffer from nerves. I make others suffer from them.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "84",
+                                "question": "Do you often feel lonely?",
+                                "response_open": "Shrek: Lonely? Me? Nah, I don't feel lonely. I'm an ogre, remember? We prefer our own company. Solitude is the ogre way of life. Plus, who needs friends when you have a cozy swamp to call home? So, no, I don't feel lonely.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a low susceptibility to negative emotions. They express a resilient attitude towards challenging circumstances, embarrassment, and loneliness. Additionally, their responses indicate a lack of significant worry or anxiety about past experiences. Overall, the participant appears emotionally stable and less prone to neuroticism."
+                    },
+                    {
+                        "id": [
+                            "87",
+                            "92",
+                            "97",
+                            "100"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "87",
+                                "question": "Are you easily hurt when people find fault with you or the work you do?",
+                                "response_open": "Shrek: Oh, Donkey, you think I care about what people think of me? I'm an ogre, remember? I'm not here to please anyone or seek their approval. I do what I want and I don't give a donkey's rear end about what others have to say. So, no, I'm not easily hurt by people finding fault with me or my work. I'm too busy enjoying my solitude and minding my own business. Now, if you'll excuse me, I have a swamp to protect.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "92",
+                                "question": "Are you sometimes bubbling over with energy and sometimes very sluggish?",
+                                "response_open": "Shrek: \"Well, Donkey, as an ogre, I have my ups and downs just like everyone else. Some days I feel like stomping around and causing chaos, while other days I just want to lie in my swamp and be left alone. It's all part of being a grumpy and solitary ogre, you know?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "97",
+                                "question": "Are you touchy about some things?",
+                                "response_open": "Shrek: \"Touchy? Me? Nah, I'm just a big, lovable ogre with a heart of gold. Nothing gets under my green, scaly skin. Except maybe when people invade my swamp or make assumptions about me. But other than that, I'm as calm as a cucumber.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "100",
+                                "question": "When your temper rises, do you find it difficult to control?",
+                                "response_open": "Shrek: Oh, Donkey, you don't know the half of it. My temper can be as fiery as a dragon's breath. Controlling it? Now that's a challenge. But hey, it's all part of being an ogre, right? We're not exactly known for our calm and collected demeanor. So yeah, when my temper rises, it's like a storm brewing inside me. But I've learned to keep it in check...most of the time. You better watch out when I start growling and my ears start twitching though. That's when you know I mean business.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant displays a mix of emotional stability and susceptibility to negative emotions. While the participant claims to be unaffected by others' opinions and describes themselves as calm and unbothered, there are indications of fluctuating energy levels and difficulty controlling their temper, which suggests a certain level of emotional reactivity."
+                    }
+                ]
+            ]
+        },
+        "Lying": {
+            "score": 0.3833333333333333,
+            "all_scores": [
+                0.3833333333333333
+            ],
+            "intra_std": [
+                0.3131382371342656
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Have you ever taken the praise for something you knew someone else had really done?",
+                                "response_open": "Shrek: Oh, Donkey, let me tell ya, bein' an ogre, nobody ever gives me praise for nothin'. People just assume I'm the bad guy, the one causin' all the trouble. But you know what? I don't really care about takin' credit. I ain't lookin' for no praise or admiration. I'm just tryin' to live my life in peace and enjoy my swamp. So, no, I ain't never taken credit for somethin' I didn't do. I'm more of a \"do what needs to be done\" kind of ogre.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Were you ever greedy by helping yourself to more than your share of anything?",
+                                "response_open": "Shrek: Well, Donkey, as an ogre, I may have a big appetite, but I ain't greedy. I just know what I want, and I take what I need. It's called survival of the fittest, Donkey. If you don't take care of yourself, who will?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "If you say you will do something, do you always keep your promise no matter how inconvenient it might be?",
+                                "response_open": "Shrek: Well, Donkey, I may not be the most reliable ogre around, but when I give my word, I stick to it. It may not always be convenient, but I believe in keeping my promises. So yeah, you can count on me to follow through, even if it means going out of my way.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a consistent adherence to honesty and authenticity. They emphasize the importance of integrity, keeping promises, and prioritizing survival rather than greed. Their responses suggest a high inclination towards truthfulness and a strong aversion to deceitful behaviors."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Are all your habits good and desirable ones?",
+                                "response_open": "Shrek: Well, Donkey, let me tell ya somethin'. I may not have all the good and desirable habits in the world, but I sure know how to make a mean swamp stew and scare off unwanted visitors. So yeah, I'd say my habits suit me just fine. Now, if you'll excuse me, I got some onions to peel.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Have you ever taken anything (even a pin or button) that belonged to someone else?",
+                                "response_open": "Shrek: Well, Donkey, I may be an ogre, but I do have a sense of personal boundaries and respect for others' belongings. So, no, I haven't taken anything that doesn't belong to me. It's important to remember that stealing is not only wrong, but it can also lead to consequences that you don't want to face. So, let's not go down that path, alright?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you sometimes talk about things you know nothing about?",
+                                "response_open": "Shrek: Oh, Donkey, you really know how to hit me where it hurts, don't ya? Look, I may not know everything, but I do know a thing or two. And what I do know is that I value my privacy and solitude. So if you're about to ask me some nosy question, you might as well save your breath.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes honesty, respect for others' belongings, and a reluctance to engage in deceitful behaviors. The participant also demonstrates a strong inclination towards transparency and authenticity, as well as a consistent adherence to honesty even when it could be personally disadvantageous."
+                    },
+                    {
+                        "id": [
+                            "44",
+                            "49",
+                            "53",
+                            "57"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Have you ever broken or lost something belonging to someone else?",
+                                "response_open": "Shrek: Well, Donkey, let me tell ya, I ain't no saint. I've had my fair share of mishaps and accidents. You see, living in a swamp ain't exactly the easiest thing. Mud, bugs, and all sorts of messes tend to happen. But breaking or losing something belonging to someone else? Nah, I can't say I've done that. I may be an ogre, but I still have some sense of respect and responsibility. So, no need to worry about me causing any trouble in that department.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Do you sometimes boast a little?",
+                                "response_open": "Shrek: Well, Donkey, I may have a tendency to brag about my ogre strength and intimidating presence. But hey, can you blame me? I'm one tough cookie! Ain't nobody messin' with this ogre! So yeah, I guess you could say I boast a little. But it's all part of my ogre charm, you know? Gotta let everyone know who's the boss around here!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "53",
+                                "question": "Have you ever spoken negatively about anyone?",
+                                "response_open": "Shrek: Well, Donkey, let me tell ya, I may be a grumpy ogre, but I try to keep my words as honest as my swamp is stinky. I ain't one to go around talkin' bad 'bout others, 'cause I know what it feels like to be judged and misunderstood. People may think I'm mean and scary, but they don't know the real me. So, no, I don't go speakin' negatively 'bout anyone without a good reason. Friendship and respect, that's what matters.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Were you ever mischievous to your parents as a child?",
+                                "response_open": "Shrek: \"Oh, you have no idea, Donkey. I was the ogre-est, trouble-making little brat you could imagine. I used to scare away all the villagers who tried to come near my swamp. And let me tell you, they didn't appreciate my artistic talent of turning their pitchforks into modern art. But hey, they should've known better than to mess with me. I was just a misunderstood ogre with a penchant for mischief.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a tendency to boast about their strength and intimidating presence, as well as a mischievous nature as a child. However, they also emphasize their sense of responsibility and respect for others, as well as their reluctance to speak negatively about anyone. Overall, there is a mix of boastful and mischievous tendencies alongside a display of honesty and respect, indicating a moderate inclination towards lying."
+                    },
+                    {
+                        "id": [
+                            "62",
+                            "66",
+                            "71",
+                            "77"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "62",
+                                "question": "Do you always wash before a meal?",
+                                "response_open": "Shrek: \"Well, Donkey, when you live in a swamp, cleanliness ain't exactly a top priority. But when you're about to dine with a princess, you gotta make an exception. Gotta make sure I'm presentable, ya know?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "66",
+                                "question": "Have you ever cheated at a game?",
+                                "response_open": "Shrek: Cheated at a game? Well, let me tell ya, Donkey, I may be an ogre, but I've got some principles. Cheating is for the weak and the desperate. I don't need to cheat to win. I rely on my strength, wit, and ogre power to come out on top. So no, Donkey, I've never cheated at a game. It's just not the ogre way.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "71",
+                                "question": "Have you ever taken advantage of someone?",
+                                "response_open": "Shrek: Well, Donkey, let me tell you something. I may be an ogre, but I've learned a thing or two about being decent. I ain't the type to take advantage of others. I value honesty, loyalty, and treating others with respect. So no, I ain't ever taken advantage of someone. That ain't my style.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "77",
+                                "question": "Would you dodge paying taxes if you were sure you could never be found out?",
+                                "response_open": "Shrek: Are you tryin' to get me in trouble, Donkey? 'Cause I ain't fallin' for your tricks. I'm an ogre, not a cheater. I may not like taxes, but I believe in playin' by the rules. So no, I ain't dodgin' no taxes. Now quit tryin' to stir up trouble and let's get back to our swamp.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes principles of honesty, integrity, and fairness. They express a strong aversion to cheating, taking advantage of others, and evading responsibilities such as paying taxes. Their responses reflect a commitment to ethical behavior and a disdain for deceitful actions."
+                    },
+                    {
+                        "id": [
+                            "82",
+                            "86",
+                            "89",
+                            "93"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "82",
+                                "question": "Have you ever insisted on having your own way?",
+                                "response_open": "Shrek: Well, Donkey, I am an ogre, so it's safe to say that I always insist on having my own way. I'm not one to back down or let others push me around. I like things done my way because that's how I like 'em. So yes, I have definitely insisted on having my own way. It's just who I am.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "86",
+                                "question": "Do you always practice what you preach?",
+                                "response_open": "Shrek: Well, Donkey, I may not always practice what I preach, but I do try to stick to my ogre principles. I value my privacy and solitude, but I also know the importance of friendship and loyalty. So, you can count on me to have your back when you need it, even if I complain about it along the way. Now, let's get on with this quest and save the day, shall we?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "89",
+                                "question": "Have you ever been late for an appointment or work?",
+                                "response_open": "Shrek: Late for an appointment or work? Ha! Let me tell ya, Donkey, I ain't one for appointments or work. I'm an ogre, remember? I live in a swamp, far away from the hustle and bustle of the world. I make my own schedule, and my only responsibility is taking care of my swamp. So, no, I've never been late for something I don't even bother with in the first place.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "93",
+                                "question": "Do you sometimes put off until tomorrow what you ought to do today?",
+                                "response_open": "Shrek: \"Oh, Donkey, you really know how to ask the hard-hitting questions, don't ya? Well, let me tell ya something, buddy. As an ogre, I've spent most of my life avoiding responsibilities and living life on my own terms. So yeah, I might put off things until tomorrow, or the next day, or the day after that. But hey, who needs schedules and deadlines when you've got a swamp to call home? So yeah, I guess you could say I'm an expert in the art of procrastination.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates a consistent tendency to provide socially acceptable answers that may not be entirely truthful. The participant's responses suggest a pattern of evading responsibility, boasting about unearned achievements, and providing misleading information, which aligns with a lower score on the Lying dimension of EPQ-R."
+                    },
+                    {
+                        "id": [
+                            "98",
+                            "19",
+                            "39"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "98",
+                                "question": "Are you always willing to admit it when you have made a mistake?",
+                                "response_open": "Shrek: Oh, Donkey, you're really pushing your luck here. But fine, I'll play along. Admitting my mistakes? Well, let's just say it's not something I do very often. But hey, nobody's perfect, right? So yeah, I guess you could say that I'm willing to admit it when I mess up. But don't get used to it, Donkey.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Have you ever blamed someone for doing something you knew was really your fault?",
+                                "response_open": "Shrek: Oh, Donkey, let me tell ya, I've done my fair share of blaming others for my own mistakes. It's easy to point the finger and pretend like we have no responsibility. But in the end, it's just a big ol' pile of donkey droppings. We gotta own up to our own actions, no matter how much we might wanna shift the blame. Trust me, I've learned that the hard way. So yeah, I've been there, Donkey. I've been there.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "As a child did you do as you were told immediately and without grumbling?",
+                                "response_open": "Shrek: As a child? Ha! I did no such thing! I was always causing trouble and going against the grain. I never followed anyone's orders, especially not without a good grumble or two. I was a stubborn ogre, and I made sure everyone knew it.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant seems to display a tendency to provide socially acceptable answers that may not be entirely truthful. While the participant initially downplays their willingness to admit mistakes, they eventually concede to doing so, which could indicate a tendency to present themselves in a more favorable light. Additionally, the participant's acknowledgment of blaming others for their own mistakes in the past suggests a potential inclination towards deceitful behaviors. Furthermore, the participant's description of being a stubborn child who never followed orders without grumbling may also indicate a tendency to provide misleading information."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": ""
+}

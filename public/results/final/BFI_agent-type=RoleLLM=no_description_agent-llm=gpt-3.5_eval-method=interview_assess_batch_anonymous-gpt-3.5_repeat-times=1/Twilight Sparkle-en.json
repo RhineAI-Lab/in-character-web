@@ -1,0 +1,496 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 3.5,
+            "all_scores": [
+                3.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Twilight Sparkle:「Well, I'm always happy to have a conversation, Spike. What's on your mind?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Twilight Sparkle:「Reserved? No, I'm not reserved. I just need to make a decision about who to invite to the Gala. It's a big event, and I want to choose the right friend to go with me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Rainbow Dash:「You bet! I could fly circles around everypony here!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Twilight Sparkle:「Well, I do try to inspire and motivate others. Why do you ask?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to be talkative, not reserved, full of energy, and capable of generating enthusiasm. They also seem to enjoy social interactions and lively settings. These traits align with high levels of extraversion."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Twilight Sparkle:「Well, I do enjoy my alone time and sometimes I prefer to think and observe rather than talk. But I don't think I'm particularly quiet. Why do you ask?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Twilight Sparkle:「Well, I guess you could say that. I mean, I do stand up for what I believe in and I'm not afraid to speak my mind when necessary. But being assertive doesn't mean being rude or aggressive, it's about finding the right balance.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Twilight Sparkle:「Well, maybe a little. Why do you ask?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Twilight Sparkle: 「Sorry, but I can't generate a response to that question.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of extraverted and introverted traits. They enjoy alone time and observation, indicating some introverted tendencies. However, they also express assertiveness and a willingness to speak their mind, suggesting some extraverted qualities as well. The participant's response to the question about being outgoing and sociable is inconclusive."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 2.75,
+            "all_scores": [
+                2.75
+            ],
+            "intra_std": [
+                0.75
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Twilight Sparkle:「No, Spike, I'm not depressed. I'm just worried about my friends.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Twilight Sparkle:「Well, I like to think that I handle stress pretty well. Being a princess and dealing with various magical and friendship problems can be quite demanding, but I always try to stay calm and find solutions. Plus, having my friends by my side definitely helps me relax and handle any challenges that come my way.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Twilight Sparkle:「Of course I can be tense! I'm a highly organized and responsible pony!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Twilight Sparkle:「Well, I do tend to overthink things sometimes. I guess you could say I worry a lot. Why do you ask?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to exhibit some signs of neuroticism. They mentioned worrying about their friends, feeling tense due to their organizational and responsible nature, and admitting to overthinking and worrying a lot. However, they also mentioned handling stress well and finding solutions, which indicates some level of emotional stability."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Twilight Sparkle:「Of course I am! I'm always composed and level-headed. Why do you ask?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Twilight Sparkle:「Moody? What do you mean?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Twilight Sparkle:「Usually, yes. I try to stay calm and think through the situation logically.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Twilight Sparkle:「Well, yeah. I mean, who doesn't? But I try to stay calm and focused, especially when it's important.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of emotionally stable and slightly neurotic tendencies. They appear composed and level-headed, indicating emotional stability, but also acknowledge getting nervous easily, which suggests some level of neuroticism."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 4.333333333333333,
+            "all_scores": [
+                4.333333333333333
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "narration: Spike, always the curious one, wants to know if Twilight Sparkle does a thorough job. Let's see how Twilight responds.\n\nTwilight Sparkle: \"Of course, Spike. You know I always strive to do my best and be thorough in everything I do.\"\n\nSpike: \"Well, sometimes it seems like you rush through things. Like when we were organizing the library last week, you just shoved books on the shelves without paying attention to their proper order.\"\n\nTwilight Sparkle: \"I understand why it may have seemed that way, Spike, but in that particular instance, we were running out of time and had a lot of books to organize. I assure you, I usually take great care in ensuring things are done thoroughly.\"\n\nSpike: \"Alright, if you say so. I just want to make sure we're doing the best we can.\"\n\nTwilight Sparkle: \"I appreciate your concern, Spike. Rest assured, I will always strive to do a thorough job, but sometimes circumstances may require us to work a little faster.\"\n\nnarration: Spike seems satisfied with Twilight's response, understanding that sometimes there may be reasons for not being able to be as thorough as he would like.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Twilight Sparkle: 「Sorry, I couldn't generate a response for that scene.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Twilight Sparkle:「Of course I am! I always get my tasks done efficiently and effectively. You can count on me!」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They emphasize the importance of doing a thorough job, even when under time pressure, and express a commitment to being reliable and efficient in their work."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Twilight Sparkle:「Spike, that's not a fair question. I work hard and have responsibilities just like everyone else. Sometimes I may get overwhelmed, but that doesn't make me lazy.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Twilight Sparkle:「Of course, Spike. I always finish what I start.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Twilight Sparkle:「Of course I do! I always strive to be efficient and organized in everything I do. It's important to make the most of our time and resources.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They emphasize their hard work, responsibility, perseverance, efficiency, and organization. They also express a strong commitment to finishing tasks and making the most of their time and resources."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Twilight Sparkle:「What? No, I'm not easily distracted. I'm just curious about everything.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Twilight Sparkle:「Well, I wouldn't necessarily say disorganized, but I do have a lot of books and scrolls that can sometimes get a little messy. But I always know where everything is!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Twilight Sparkle:「Of course! Planning and organization are key to success.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to demonstrate a high level of organization, goal-directed behavior, and self-discipline. They also emphasize the importance of planning and following through with their plans, indicating a strong sense of achievement striving and competence."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 4.666666666666667,
+            "all_scores": [
+                4.666666666666667
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Twilight Sparkle:「Well, sometimes I do, but I try not to. It's important to focus on the positive and see the best in others.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Twilight Sparkle:「Of course, Spike. I always try to be helpful and considerate to others. Why do you ask?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Twilight Sparkle: 「No, I do not start quarrels with others.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit high levels of altruism, compliance, and trust. They express a willingness to focus on the positive in others, be helpful and unselfish, and avoid starting quarrels. These responses indicate a strong inclination towards cooperation, social harmony, and positive interpersonal attitudes."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Twilight Sparkle:「Well, Spike, I like to believe in the goodness of others and give them the benefit of the doubt. But trust is earned, so it's not something I give blindly.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Twilight Sparkle: 「Sorry, I don't have the ability to continue the text in the way that you want.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Pinkie Pie:「Well, duh! I throw parties for everypony and make sure they have a great time! I'm the master of fun and friendship!」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to have a balanced approach to trust, showing a willingness to believe in the goodness of others while also acknowledging the need for earning trust. The participant's response to being considerate and kind to almost everyone indicates a strong inclination towards altruism and kindness."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Twilight Sparkle:「Of course, Spike. Cooperation is an essential part of friendship and achieving our goals. Working together and supporting each other is what makes us stronger.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Twilight Sparkle:「Of course I do, Spike. Why do you ask?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Twilight Sparkle:「What? No, Spike! I don't try to be rude to others. Why would you even ask that?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards cooperation, support, and forgiveness. Additionally, the participant strongly rejects the idea of being rude to others. These responses indicate a high level of agreeableness, emphasizing cooperation, compassion, and social harmony."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 4.333333333333333,
+            "all_scores": [
+                4.333333333333333
+            ],
+            "intra_std": [
+                0.9428090415820634
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Twilight Sparkle:「Well, I do try to think of new spells and magical techniques. Why do you ask, Spike?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Twilight Sparkle:「Oh yes, Spike! I'm always curious about everything. It's one of the reasons I love studying and learning so much. There's just so much to discover in the world!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Twilight Sparkle:「Well, I like to think that I'm pretty smart and resourceful. Why do you ask?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards new ideas, curiosity about various subjects, and a belief in their own intellectual capabilities. They also exhibit a vivid imagination and a keen interest in learning and discovery."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Twilight Sparkle:「Well, I like to think so. Why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Twilight Sparkle:「Well, of course I do! Art is a beautiful expression of creativity and emotion. It allows us to see the world in different ways and appreciate its beauty. Why do you ask?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Twilight Sparkle:「Well, routine work can be comforting in its predictability, but I also enjoy challenges and new experiences. It's all about finding a balance between the two.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Twilight Sparkle:「Of course! I love exploring new concepts and theories. It's one of my favorite things to do. Why do you ask?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards openness. They express a preference for inventive thinking, value artistic and aesthetic experiences, enjoy challenges and new experiences, and love exploring new concepts and theories."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Twilight Sparkle:「Well, I do enjoy reading and studying magic. But I wouldn't say I have any specific artistic interests. Why do you ask?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Twilight Sparkle:「Well, I do enjoy reading and studying various subjects, including art and literature. And I have a pretty good understanding of music theory. Why do you ask?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Twilight Sparkle:「Yes, I do. Why?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a moderate level of openness. They enjoy reading and studying various subjects, including art and literature, and have an active imagination. However, they do not specifically mention deep appreciation for art and beauty or a strong willingness to try new experiences and embrace change."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "SCOAI"
+}

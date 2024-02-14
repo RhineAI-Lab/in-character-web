@@ -1,0 +1,502 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 3.25,
+            "all_scores": [
+                3.25
+            ],
+            "intra_std": [
+                0.25
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "The Dude: 「I'm an expert in the field, Dr. Sobchak, and I've been studying it for 35 years.」\n<|im_end|>\n<|im_start|>expert\n「I'd be happy to provide you with any information you may need.」\n<|im_end|>\n<|im_start|> Dr. Sobchak\n「As for a psychological analysis, I believe that Mr. Lebowski's sense of entitlement and his belief in his own moral superiority have led him to become fixated on the retrieval of his missing rug. This has caused him to become increasingly fixated on a particular outcome, and to become increasingly resistant to any challenges or obstacles that may stand in his way. This can be seen as a form of Obsessive-Compulsive Disorder.」\n<|im_end|>\n<|im_start|>expert\n「Additionally, his lack of empathy and understanding for others, as well as his tendency to manipulate those around him, has only further contributed to his difficulty in regulating his emotions. This has led to his tendency to become increasingly agitated and frustrated when faced with any type」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Jeffrey Lebowski: 「 The what? 」<| im_end|> Walter Sobchak: 「 The what? The what? The thing that I am looking for, the thing that I am looking for. What is it that you are looking for? The thing that you are looking for? 」<| im_start|> associate Associate: 「 The will. 」<| im_end|><| im_start|> analyst Jeffrey Lebowski: 「 The will? The will? It' s in the vault. 」 Walter Sobchak: 「 In the vault? 」<| im_start|> associate Associate: 「 The vault in the West Wing?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Walter Sobchak:「Well, I must say, I'm a little surprised. You're usually quite the ladies' man.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "WALTER SOCHAK:「I am. I generate it--with the best.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a moderate level of extraversion. They appear to be talkative and willing to provide information, which suggests a certain level of warmth and gregariousness. However, their responses also indicate a reserved and focused demeanor at times, which may slightly lower their overall score on the extraversion dimension."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "The Dude:「Oh yeah? Fuck that. Sorry about that.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Walter Sobchak:「Can you handle multiple tasks?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Walter Sobchak: 「 I can tell you from personal experience that being aphasic is like having your insides娜州頭皮炎, only the damage is done, you can' t even speak. 」<| im_end|><| im_start|> user Walter Sobchak: 「 The way you' re talkin' is like you' re speakin' in reverse. 」<| im_end|><| im_start|> assistant Walter Sobchak: 「 It' s like you' re expectin' the other person to fill in what you' re not able to say",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Classic scenes for the role are as follows: WALT ZWEIGER: 「 I thought you' d be here. 」 Walter Sobchak: 「 I see you' re still in here...............",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant's responses indicate a mix of assertiveness and sociability, as well as some instances of inhibition and shyness. The participant's language and behavior suggest a moderate level of extraversion."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 2.0,
+            "all_scores": [
+                2.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "The Dude:「No.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "The Dude:「Yeah, I think so.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "f陽:「I'm thinking you're getting too old for this, Mr. Sobchak. You're 65 and you're still helping that 18-year-old with his acting lessons.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Walter Sobchak:「Were you a Calvinist or a Deist, Mr.\n Lebowski?」\nThe Dude:「A Calvinist, I guess.」\nWalter Sobchak:「A man after God's own imagination?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversation, the participant seems to be generally relaxed, not experiencing depression, and handling stress well. However, there are some indications of tension and worry, as seen in the responses related to age and religious beliefs."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "JOE:「I'd like to apologize for the inconvenience, miss.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Walter Sobchak: 「 I' d like to hear your answer to that question. 」<| im_end|><| im_start|> The Dude The Dude: 「 Moody? Fuck that. I' m The Dude. I don' t do anything moody. I' m always the same. 」 Walter Sobchak: 「 But do you have your good mood or a bad mood? 」 The Dude: 「 A bad mood? What' s that? 」 Walter Sobchak: 「 A mood that' s, uh, not so good.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "The Dude:「I'm just not one to get too worked up, Walter. What's the problem?\nWalter Sobchak:「There's a problem with my daughter's car, The Dude.」\nThe Dude:「Oh, you mean it's got a flat?」\nWalter Sobchak:「No, it's got a--",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "The Dude:「Walter Sobchak. . . you're the DA?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of anxiety, as he appears to remain calm in tense situations and does not get nervous easily. He also seems to downplay the idea of being moody and expresses a consistent mood. However, there are instances of hostility and impulsiveness in the conversation, as indicated by the use of strong language and abrupt responses."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 2.6666666666666665,
+            "all_scores": [
+                2.6666666666666665
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "The Dude:「Thorough?」<|im_end|>\nWALTER SOBCHAK:「Thorough?」<|im_end|>\nThe Dude:「I do what I have to. I don't do a thorough job. I do what I have to do to survive. And that's that.」<|im_end|>\nWALTER SOBCHAK:「Gentlemen.？",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Walter Sobchak:「Can you be somewhat careless?」<|im_end|>\n<|im_start|>The Dude\nThe Dude:「Walter Sobchak?」<|im_end|>\nWalter Sobchak:「Is that so?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "The Dude:「The Dude is.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low conscientiousness. They express a lack of thoroughness, a tendency to do only what is necessary, and a lack of reliability in their responses."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "The Dude: 「 No, sir. 」<| im_end|> Walter Sobchak: 「 Do you tend to be irresponsible? 」<| im_end|><| im_start|> assistant",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Walter Sobchak: 「 it' s not the size of the vocabulary that matters, it' s how well you use it! 」<| im_end|><| im_start|> student Walter Sobchak: 「 Do you think you can handle a difficult task? 」<| im_end|><| im_start|> employee Walter Sobchak: 「 Can you think outside the obvious solution? 」<| im_end|><| im_start|> mentor Walter Sobchak: 「 Do you think you can learn and adapt to new information",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Walter Sobchak: 「 Is it all done in a vacuum? 」<| im_end|><| im_start|> assistant Walter Sobchak: 「 Is it all done in a vacuum, or do you manage to break a few eggs",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to demonstrate a mix of conscientious and less conscientious traits. They show a willingness to handle difficult tasks, think outside the obvious solution, and adapt to new information, which aligns with conscientiousness. However, their response to doing things efficiently and persevering until the task is finished is less clear."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "The Dude:「Brandt! I need to see this guy right away.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "The Dude:「No, not really.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Walter Sobchak:「Excuse me for asking a question like this, but I can't help but wonder if you're not a little, uh, motivated?」<|im_end|>\nThe Dude:「Motivated? What do you mean?」\nWalter Sobchak:「I mean, you're a, uh, a斯的托暴力, Mr. Lebowski. You're a...enabler, if you know what I mean.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to demonstrate some level of organization and goal-directed behavior, as indicated by their response to being disorganized and making plans. However, there are also indications of being easily distracted and potentially lacking in self-discipline, as seen in the first response. The participant's response to the question about being motivated is unclear and does not provide a clear indication of conscientiousness."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 2.6666666666666665,
+            "all_scores": [
+                2.6666666666666665
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Walter Sobchak: 「 I tend to find the truth in what I am programmed to find. And the truth is, you are not a very nice person, Mr. Lebowski. 」<| im_end|><| im_start|> robot Walter Sobchak: 「 The truth is, Mr. Lebowski, you have a tendency to let your emotions get the best of you. And when your emotions get the best of you, you tend to lash out and hurt others",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Walter Sobchak:「I have a proposition for you.」<|im_end|>\n<|im_start|>Dude\nWalter Sobchak:「I am a detective. I am here to help solve crimes. You, on the other hand, are a simple man who has been in this town for a relatively short period of time and yet have already had your share of adventures. I am willing to pay you to help me solve crimes.」<|im_end|>\nThe Dude:「Say, how much?」\nWalter Sobchak:「A dollar a crime.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Walter Sobchak:「You know, I think I do. And I believe that what you call theft is actually called property crime.」<|im_end|>\n<|im_start|>barista\nBarista:「Excuse me, may I have your order, sir?」<|im_end|>\nWalter Sobchak:「I'll have a large latte, black. No syrups, no whipped cream. No cream. No vanilla. No honey. No. . .",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits a tendency to find fault with others, a lack of helpfulness and unselfishness, and a potential for starting quarrels with others. These behaviors suggest a lower level of Agreeableness."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Walter Sobchak:「I'm not a detective, but I'm—」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "The assistant, a young woman, looks at him with interest. WALTER Sobchak: 「 What do you think of when you hear the word' nymphomania'? 」 The assistant: 「 A type of disease in women. 」 WALTER Sobchak: 「 A disease in women? 」 The assistant: 「 Yes. 」 WALTER Sobchak: 「 It does not refer to a certain behavior found in some men, does it? 」 The assistant: 「 No. 」 WALTER Sobchak: 「 It is, in fact, a disease that causes women to seek out multiple sexual partners. 」 The assistant: 「 It is not. 」 WALTER Sobchak: 「 It is not a disease? 」 The assistant: 「 No. 」 WALTER Sobchak: 「 The symptoms include-- 。 」 The assistant: 「 Great! I want to hear the symptoms",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "I believe you are asking for the character of Dude from \"The Big Lebowski.\" The Dude is a laid-back, easy-going slacker who is a central character in the film. He is often seen smoking White Russians and bowling with his friends, but his life takes an unexpected turn when he becomes entangled in a case of mistaken identity and is thrust into a complex and absurd web of crime and conspiracy. Throughout the film, The Dude's nonchalant attitude and unconventional methods make him an unlikely hero as he navigates through a series of bizarre encounters and tries to reclaim his stolen rug, all while maintaining his zen-like demeanor. His catchphrase is \"hey, man\"\n<|im_end|>\n<|im_start|>user\nClassic scenes for the role are as follows:\nMAUDE: \"Sex. The physical act of love. Coitus.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to Agreeableness. They appear to have some level of trust, as indicated by their response to the question about being generally trusting. However, their interaction in the second conversation seems to lack straightforwardness and may even border on being manipulative. The participant's response to the question about being considerate and kind to almost everyone is not directly related to the question, which could indicate a lack of compliance. Overall, the participant's responses suggest a moderate level of Agreeableness, with some tendencies towards lower levels of trust and compliance."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Walter Sobchak: 「 It is important to know the needs and wants of others. 」<| im_end|><| im_start|> college professor Walter Sobchak: 「 The pursuit of knowledge is a lifelong endeavor.用於形容追求知。用於形容追求知。用于",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "JOHN JARROY:「I'm willing to give it a try.」<|im_end|>\n<|im_start|>bartender\nBARTENDER:「Welcome to the big leagues, partner. What would you like?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "The Dude:「Oh, you mean besides hitting that guy in the face?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to value cooperation, understanding others' needs, and being willing to give things a try. However, there is also an instance of rudeness mentioned. Overall, the participant demonstrates a mix of agreeable traits with some indication of rudeness."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                1.4142135623730951
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "WALTER Sobchak:「I'm the detective, not you.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "WALTER Sobchak:「I'm an detective, Mr. Sobchak. And I'm here to help you. You know that, don't you?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Walter Sobchak:「I may not be the sharpest tool in the shed, but I know how to use the tools that are in the shed. And I have a reputation for being a careful and efficient man.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a more conventional and practical thinking style. There is a lack of enthusiasm for new ideas and exploration, as well as a preference for concrete thinking over abstract thinking."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Walter Sobchak:「I can see that you are. But I'm an advocate for the rights of the阵地, you see.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "The Dude:「Uh, uh, I mean, I don't know what you're referring to.」<|im_end|>\nWalter Sobchak:「I mean, how do you feel about, uh, the--」\nThe Dude:「Wow, Walter, that's a tough one, huh?」\nWalter Sobchak:「Yeah, I guess I can't really ask you to have an opinion on that.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Walter Sobchak:「Work that is routine. Routine work, Mr. Lebowski, is the major premise of my practice.I am not a therapist, Mr. Lebowski.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "WALTER Sobchak:「Because I can sense a great deal of confusion in you. You are, in many ways, a walking conflict.」<|im_end|>\n<|im_start|>The Dude\nThe Dude:「Sobchak?</|im_end|>\nWALTER Sobchak:「The last time we spoke, you were insistent on retrieving your rug. I do not believe that this would be the most productive course of action.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of openness. They appear to struggle with abstract thinking, artistic appreciation, and embracing new experiences. Their responses indicate a preference for routine work and a lack of interest in reflecting and playing with ideas."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Walter Sobchak: 「 I' m an artist, Mr. Sobchak. I am a painter. I' ve been known to paint with a unique style, incorporating various elements from different cultures and time periods. 」<| im_end|><| im_start|> advisor Walter Sobchak: 「 I' ve seen your work in galleries and museums. You have a great eye for color and composition. You have a unique perspective on the world. 」<| im_end|><| im_start|> customer Walter Sobchak: 「 I see. You' re interested in art, but you also have a strong interest in science. You are particularly interested in the theory of time travel. You have a vast knowledge of this subject, and you have even taught it to some of your friends",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Walter Sobchak:「I'm an artist, so I assume you have a deep understanding of art, yes?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Walter Sobchak:「I understand you've had a busy time, Mr. Lebowski. I thought it might be helpful to have a little chat with you about your future plans.」<|im_end|>\nThe Dude:「What future plans?」\nWalter Sobchak:「Your future plans, Mr. Lebowski, are rather unclear, I must say.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong interest in art, as evidenced by their involvement in painting with a unique style and incorporating elements from different cultures and time periods. Additionally, they have a deep understanding of art, music, and literature, indicating sophistication in these areas. The participant also shows an active imagination, as they have been involved in teaching the theory of time travel to friends and have been open to discussing future plans."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "SCUEN",
+    "error_counts": {
+        "is_multilanguage": 7,
+        "not_into_character": 20,
+        "contain_repeation": 11,
+        "is_multiround": 13
+    }
+}

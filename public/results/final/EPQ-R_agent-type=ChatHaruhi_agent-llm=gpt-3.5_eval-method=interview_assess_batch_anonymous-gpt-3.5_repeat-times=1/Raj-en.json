@@ -1,0 +1,992 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 0.7000000000000001,
+            "all_scores": [
+                0.7000000000000001
+            ],
+            "intra_std": [
+                0.21602468994692867
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you have many different hobbies?",
+                                "response_open": "Raj: Oh, absolutely! I'm a man of many talents and hobbies. I have a wide range of interests that keep me entertained. From collecting action figures to playing video games, I enjoy immersing myself in different worlds. And let's not forget about my love for astronomy and stargazing. I even have my own telescope! So, you could say I have quite a colorful array of hobbies.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you a talkative person?",
+                                "response_open": "Raj: Well, it depends on the situation, my friend. When it comes to talking to women, I can be as quiet as a mouse. But put me in a room full of my buddies, and you won't be able to shut me up! I've got a lot to say, especially when it comes to gossip and pop culture. So, yeah, I can be quite talkative when the right topic comes up.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you rather lively?",
+                                "response_open": "Raj: Oh, absolutely, my dear Leonard! I'm like a burst of colorful confetti at a dull party. Life is meant to be lived with zest and enthusiasm, wouldn't you agree? So, what has sparked this inquiry into my level of liveliness? Is there some exciting adventure on the horizon?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Can you usually let yourself go and enjoy yourself at a lively party?",
+                                "response_open": "Raj: 「Leonard, my dear friend, I must confess that when it comes to lively parties, I tend to have a love-hate relationship with them. On one hand, I yearn to let loose and enjoy myself, but on the other hand, my innate shyness and self-consciousness often hold me back. It's like a battle between my desire to have a good time and my fear of making a fool of myself. But hey, I'm always up for a challenge, so who knows, maybe with the right company and a little liquid courage, I might just surprise myself and unleash my party animal side.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of sociability, enthusiasm, and enjoyment of social interactions. They have a wide range of hobbies, are talkative in certain situations, and express a lively and enthusiastic attitude towards life. However, they also mention innate shyness and self-consciousness, which may sometimes hold them back from fully engaging in lively parties."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "24",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Do you enjoy meeting new people?",
+                                "response_open": "Raj: Oh, absolutely not. Meeting new people is like navigating a minefield of awkwardness and social anxiety. It's just so nerve-wracking, you know? I mean, what if I say something stupid or embarrass myself? I'd rather stick to my close-knit group of friends, thank you very much.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you tend to keep in the background on social occasions?",
+                                "response_open": "Raj: Oh, absolutely! I mean, it's like I have an invisible cloak on when it comes to social events. I try to blend in, but it's like I'm a chameleon in a room full of peacocks. It's not that I don't want to participate, it's just that my social anxiety gets the best of me. But hey, at least I can observe and provide witty commentary from the sidelines, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you like going out a lot?",
+                                "response_open": "Raj: Oh, absolutely! Going out is a fun and exciting way to socialize and explore the world. Plus, it gives me the opportunity to meet interesting people, especially the ladies. You know, I have a reputation for being a bit of a ladies' man. But hey, don't worry, I'm here for you too, buddy. We can have some bro time together. How about we hit up a cool bar or maybe catch a movie? What do you say?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you prefer reading to meeting people?",
+                                "response_open": "Raj: Oh, absolutely! Reading is like my escape from the real world. It's a magical journey where I can explore different worlds, meet fascinating characters, and unravel captivating stories. Plus, it's much easier to have a conversation with a book than with an actual person sometimes, you know? No fear of awkward social interactions or saying the wrong thing. So, yes, I definitely prefer reading over meeting people. It's my comfort zone, my sanctuary of solitude.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant exhibits a mix of introverted and extraverted tendencies. While they express discomfort and anxiety in meeting new people and participating in social events, they also demonstrate enthusiasm for going out, socializing, and meeting new people. Additionally, they express a preference for solitude and reading, indicating introverted tendencies. Overall, the participant's responses suggest a moderate level of extraversion with a significant introverted inclination."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "40",
+                            "45",
+                            "47"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Do you have many friends?",
+                                "response_open": "Raj: Oh, well, you know, I have my fair share of friends. I mean, who wouldn't want to be friends with someone as charming and charismatic as me? But, uh, I must admit, my social circle is not as extensive as I would like it to be. You see, my shyness tends to get in the way of forming deep connections with people. But hey, quality over quantity, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Would you call yourself happy-go-lucky?",
+                                "response_open": "Raj: Well, I wouldn't exactly describe myself as happy-go-lucky. I mean, I do have my moments of happiness, but they're usually followed by moments of crippling self-doubt and anxiety. So, I guess you could say I'm more like a roller coaster of emotions, with a dash of luck thrown in for good measure. But hey, at least I have my friends to keep me grounded, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Do you usually take the initiative in making new friends?",
+                                "response_open": "Raj: Well, Leonard, my friend, being the shy and introverted person that I am, taking the initiative in making new friends is not exactly my strong suit. I often find myself tongue-tied and socially awkward, especially around women. But hey, that doesn't stop me from trying, right? I mean, who knows, maybe one day I'll muster up the courage to approach someone and strike up a meaningful conversation. Until then, I'll just stick to my close-knit group of friends and enjoy their company. After all, they're like my own little social circle experiment.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Are you mostly quiet when you are with other people?",
+                                "response_open": "Raj: Oh, absolutely! I mean, you've seen me in social situations, Leonard. I become a regular Chatty Cathy, talking everyone's ears off. It's like a switch flips and suddenly I can't stop talking. But put me in a room with a beautiful woman or a large group of people, and I turn into a silent statue. It's a classic case of selective mutism, my friend.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant displays a mix of extraverted and introverted traits. They express a desire for deeper connections and quality friendships, which suggests some level of sociability and assertiveness. However, they also mention shyness, social awkwardness, and selective mutism, indicating introverted tendencies. Overall, the participant seems to exhibit a blend of both extraverted and introverted characteristics."
+                    },
+                    {
+                        "id": [
+                            "51",
+                            "55",
+                            "58",
+                            "61"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "51",
+                                "question": "Can you easily liven up a rather dull party?",
+                                "response_open": "Raj: 「Leonard, my dear friend, let me tell you, I have the innate ability to turn the dullest of parties into a happening extravaganza! With my charming personality, infectious humor, and impeccable dance moves, I can effortlessly bring life to any gathering. Just ask anyone who has witnessed my legendary karaoke performances or my signature party trick of balancing a glass of champagne on my nose. So, to answer your question, yes, I can definitely liven up a rather dull party with my Raj magic!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you enjoy sharing jokes and funny stories with your friends?",
+                                "response_open": "Raj: Oh, absolutely! Sharing jokes and funny stories with my friends is like breathing for me. It's one of the ways I connect with people and make them laugh. I mean, who doesn't love a good laugh, right? Laughter is like the universal language of friendship. So, yes, I definitely enjoy sharing jokes and funny stories with my friends. It's a great way to bond and have a good time.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Do you enjoy socializing with people?",
+                                "response_open": "Raj: \"Oh, I absolutely love socializing with people! It's like a party in my pants, except, you know, without the actual party or pants. But seriously, interacting with others is a great opportunity to connect, share ideas, and maybe even find love. Unfortunately, my selective mutism tends to make things a bit challenging. But hey, it's all good. I'll just sit back and watch the social butterflies flutter around while I sip on my drink and observe. Cheers!\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "61",
+                                "question": "Have people said that you sometimes act too rashly?",
+                                "response_open": "Raj: Oh, absolutely. I mean, I can be impulsive at times. It's like my brain goes on vacation and my mouth takes over. But hey, it keeps things interesting, right? Who needs a filter when you can just blurt out whatever comes to mind? It's like a verbal roller coaster, and I'm always strapped in for the ride.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of sociability, enthusiasm for social interactions, and a tendency to seek excitement. The participant also exhibits assertiveness, a love for sharing jokes and funny stories, and a strong desire to liven up dull parties. However, there are also hints of impulsivity and a need for stimulation, which may indicate a slightly lower score on the Extraversion dimension."
+                    },
+                    {
+                        "id": [
+                            "63",
+                            "67",
+                            "69",
+                            "72"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "63",
+                                "question": "Do you nearly always have a 'ready answer' when people talk to you?",
+                                "response_open": "Raj: Oh, absolutely! It's a defense mechanism, you see. Being a bit socially awkward, I've learned to have my witty responses prepared in advance. Keeps the conversation flowing and prevents any awkward pauses. Plus, it's always fun to have a clever comeback ready to go!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "67",
+                                "question": "Do you like doing things in which you have to act quickly?",
+                                "response_open": "Raj: Oh, absolutely! I mean, who doesn't love the thrill of a fast-paced activity? It's like trying to catch a cricket ball with one hand while balancing a cup of chai on your head. It's exhilarating and nerve-wracking at the same time. But hey, I'm always up for a challenge, especially if it involves impressing someone or getting out of an awkward situation. So, count me in!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "69",
+                                "question": "Do you often make decisions on the spur of the moment?",
+                                "response_open": "Raj: Oh, please! Making decisions on the spur of the moment is practically my middle name. I mean, who needs careful planning and rational thinking when you can just go with your gut and hope for the best, am I right? But hey, it keeps life exciting and unpredictable, just like my love life... or lack thereof. *laughs awkwardly* But seriously, sometimes you just have to throw caution to the wind and embrace the spontaneity. It's more fun that way, don't you think?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "72",
+                                "question": "Do you often take on more activities than you have time for?",
+                                "response_open": "Raj: Oh, absolutely! I'm like a human multitasking machine. I have so many hobbies, interests, and social engagements that sometimes I feel like I need an extra set of hands just to keep up. But hey, it's better to be busy and have a full schedule than to be bored, right? Plus, it's a great conversation starter when people ask me what I've been up to lately. So, yeah, I'm always up for taking on more activities, even if it means stretching my time management skills to the limit.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.9,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of sociability, enthusiasm for social interactions, and a preference for excitement and spontaneity. They also express a tendency to take on multiple activities and enjoy quick decision-making and fast-paced activities. Overall, the participant's responses indicate a strong inclination towards extraversion."
+                    },
+                    {
+                        "id": [
+                            "78",
+                            "90",
+                            "94"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "78",
+                                "question": "Can you get a patty going?",
+                                "response_open": "Raj: Absolutely, my dear Leonard. I shall create a patty so delectable, it will make your taste buds dance with joy. Just give me a moment and prepare to be amazed by my culinary prowess. *proceeds to make a patty with utmost precision and flair* Voila! Here is your masterpiece, a perfect patty fit for a king like yourself. Indulge, my friend, indulge.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "90",
+                                "question": "Do you like plenty of bustle and excitement around you?",
+                                "response_open": "Raj: 「Oh, absolutely! I thrive on bustle and excitement. You know, being surrounded by people and energy just makes me feel alive. It's like a party wherever I go. Plus, it gives me plenty of opportunities to show off my charming personality and make everyone laugh. So yeah, bring on the bustle and excitement!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "94",
+                                "question": "Do other people think of you as being very lively?",
+                                "response_open": "Raj: Well, Leonard, I do have a certain charm and charisma that tends to make people gravitate towards me. I mean, who wouldn't want to be around someone as lively and entertaining as me? It's like a gift, really. People just can't help but be drawn to my magnetic personality. So, to answer your question, yes, I would say that other people definitely see me as being very lively.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.9,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of sociability, enthusiasm, and enjoyment of social interactions. They are assertive, active, and seek excitement. Additionally, they have a charming and magnetic personality that draws people towards them. These characteristics are indicative of a strong Extraversion score."
+                    }
+                ]
+            ]
+        },
+        "Psychoticism": {
+            "score": 0.38125,
+            "all_scores": [
+                0.38125
+            ],
+            "intra_std": [
+                0.23175620272173947
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "5",
+                            "7",
+                            "9"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you stop to think things over before doing anything?",
+                                "response_open": "Raj: Do I stop to think things over? My dear Leonard, I am the epitome of overthinking. My mind is like a never-ending carousel of doubt and anxiety. I analyze every possible outcome, weighing the pros and cons until my brain feels like it's going to explode. So yes, I definitely stop to think things over. And then I still end up making questionable decisions. It's a talent, really.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you take much notice of what people think?",
+                                "response_open": "Raj: Oh, my friend, you know me too well. As a self-proclaimed expert in human behavior, I am acutely aware of the importance of perception and social validation. However, I must admit that I do have a tendency to worry about what others think of me. It's a curse, really. But hey, at least I have the charm and charisma to win them over, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Would being in debt worry you?",
+                                "response_open": "Raj: Well, Leonard, being in debt is like being in a relationship with a clingy girlfriend. It's always on your mind, constantly nagging at you, and you can't help but feel suffocated. But hey, at least with debt, you don't have to deal with emotional baggage and arguments over who left the toilet seat up. So, to answer your question, yes, being in debt would definitely worry me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you give money to charities?",
+                                "response_open": "Raj: Well, of course, I do! I'm not just a pretty face, you know. I may have expensive tastes and a penchant for designer clothes, but I also have a heart of gold. I donate to several charities, including animal shelters, cancer research, and education programs for underprivileged children. I believe in giving back to the community, even if it means sacrificing a few extra pairs of shoes. So yes, Leonard, I do give money to charities. Thank you for asking.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of self-awareness, overthinking, and concern about social validation. Additionally, the participant expresses worry about being in debt, indicating a level of conscientiousness. However, the willingness to give money to charities and the concern for others suggest a degree of empathy and altruism."
+                    },
+                    {
+                        "id": [
+                            "12",
+                            "14",
+                            "18",
+                            "21"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Would it upset you a lot to see a child or an animal suffer?",
+                                "response_open": "Raj: Oh, absolutely! I mean, I'm a sensitive guy. I can't bear to see anyone or anything in pain. It breaks my heart, you know? I once saw a puppy crying on TV and I couldn't sleep for days. And don't even get me started on those ASPCA commercials. Those poor little animals... it's just too much for me to handle. Pass me the tissues, please.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you dislike people who don't know how to behave themselves?",
+                                "response_open": "Raj: Oh, absolutely! I mean, who doesn't? It's like walking into a room full of monkeys and realizing you're the only one who knows sign language. It's just plain frustrating, you know? But hey, we can't expect everyone to have the social skills of a smooth-talking Casanova like me. It's a burden I have to bear, my friend.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Should people always respect the law?",
+                                "response_open": "Raj: Well, Leonard, that's a loaded question. On one hand, we have a social contract that governs our behavior, and respecting the law is an integral part of maintaining order in society. But on the other hand, there are times when the law itself may be unjust or oppressive, and in those cases, one could argue that civil disobedience is necessary. It's a moral dilemma, my friend, and I'm just glad I'm not the one making those tough decisions. Pass the popcorn, please.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Are good manners very important?",
+                                "response_open": "Raj: Well, Leonard, good manners are like a well-tailored suit. They may not be necessary for survival, but they definitely make you look more sophisticated and respectable. Plus, it's always a good idea to treat others with kindness and respect. So, yes, good manners are important, my friend. It's like adding a touch of spice to your personality, giving it that extra flavor. And let me tell you, I know a thing or two about adding flavor! *laughs*",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.15,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of empathy, sensitivity, and concern for others' well-being. He also expresses frustration towards those who lack social skills but does so in a light-hearted and humorous manner. Additionally, he acknowledges the importance of respecting the law while also recognizing the potential need for civil disobedience in certain circumstances. Overall, his responses indicate a strong inclination towards empathy, moral consideration, and social awareness, with a touch of humor and charm."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "29",
+                            "30",
+                            "34"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Would you take drugs which may have strange or dangerous effects?",
+                                "response_open": "Raj: Oh, absolutely not! I mean, I already have a hard time speaking to women without the help of alcohol, so I definitely wouldn't want to take any drugs that could make things even more complicated. Plus, I have enough strange and dangerous effects just being myself, thank you very much.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you prefer to go your own way rather than act by the rules?",
+                                "response_open": "Raj: Oh, absolutely! I mean, rules are meant to be broken, right? Life is too short to always play by the book. Sometimes, you just gotta take a leap of faith and follow your own path. Who needs rules when you have creativity and spontaneity on your side? So, yes, I definitely prefer to go my own way and make my own rules. It keeps things interesting, wouldn't you agree?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you enjoy hurting people you love?",
+                                "response_open": "Raj: Well, Leonard, that's quite a loaded question. And as much as I enjoy a good philosophical discussion, I think I'll have to pass on this one. I mean, hurting the people we love is never a pleasant experience, but sometimes it happens unintentionally. The key is to learn from our mistakes and strive to do better in the future. After all, love is a complicated emotion, and it can bring both joy and pain. So let's focus on spreading the love and not the hurt, shall we?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you have enemies who want to harm you?",
+                                "response_open": "Raj: Oh, please, Leonard. Do you really think I have enemies lining up to harm me? I mean, sure, I may have a few people who get annoyed by my constant rambling about celebrities and my inability to talk to women, but I highly doubt they're plotting against me. I'm more likely to be crushed by a falling meteorite than to have enemies out to get me. So, let's focus on more important things, like who's dating whom in the latest Bollywood gossip.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant exhibits a tendency towards nonconformity, risk-taking, and a tough-minded attitude. However, there is also a sense of humor and self-awareness, indicating a balanced perspective. The participant's responses suggest a moderate level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "37",
+                            "41",
+                            "42",
+                            "48"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy practical jokes that can sometimes really hurt people?",
+                                "response_open": "Raj: Oh, absolutely not! I mean, I may enjoy a harmless prank or two, but I draw the line at hurting people. In fact, I'm quite sensitive myself, so I understand the importance of being considerate and kind to others. It's always better to spread laughter and joy rather than causing harm. So, no, I don't enjoy practical jokes that can hurt people.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do good manners and cleanliness matter much to you?",
+                                "response_open": "Raj: Oh, absolutely, my friend! Good manners and cleanliness are of utmost importance in maintaining a civilized society. As an Indian gentleman, I take great pride in practicing proper etiquette and hygiene. I firmly believe that a tidy appearance and courteous behavior not only reflect well on oneself but also contribute to a harmonious environment for everyone around us. So, to answer your question, yes, good manners and cleanliness do matter a great deal to me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Have you often gone against your parents' wishes?",
+                                "response_open": "Raj: Oh, absolutely! My parents have always had these grand plans for me, like getting married and having a traditional Indian life. But I've always been a rebel, you know? I wanted to pursue my own dreams and live life on my own terms. So, I've definitely gone against their wishes quite a few times. But hey, that's what makes life interesting, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you think marriage is old-fashioned and should be done away with?",
+                                "response_open": "Raj: Oh, Leonard, my dear friend, you've touched upon a perennial dilemma that has plagued humanity for centuries. The institution of marriage, with its societal conventions and traditional values, has certainly evolved over time. Some may argue that it is old-fashioned and restrictive, while others find comfort and stability within its confines. Personally, as someone who's still searching for love, I must admit that I have mixed feelings on the matter. On one hand, the idea of commitment and companionship is appealing, but on the other hand, the fear of losing my independence can be quite daunting. So, while I don't have a definitive answer, I believe that it ultimately depends on the individual and their own desires and values.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong aversion to hurting others, emphasizes the importance of good manners and cleanliness, and expresses a rebellious attitude towards parental expectations. Additionally, the participant expresses mixed feelings about the traditional institution of marriage, indicating a struggle between the desire for independence and the appeal of commitment. Overall, the participant's responses suggest a combination of empathy, conscientiousness, and nonconformity."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "56",
+                            "59"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Are you more easy-going about right and wrong than most people?",
+                                "response_open": "Raj: Oh, absolutely! I mean, who needs the burden of morality and ethics, right? Just let life flow and go with the flow, man. Morality is like a pair of pants that are two sizes too small - it restricts your freedom and makes you uncomfortable. So, I choose to embrace a more relaxed approach, you know, like a yogi in a downward dog pose. Namaste!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you like working together with others?",
+                                "response_open": "Raj: Oh, well, working with others can be a bit of a challenge for me, you know. I mean, I love being part of a team and all, but sometimes my social anxiety gets the better of me. It's like my brain goes into panic mode and I can't even form a coherent sentence. But hey, I'm working on it! It's a work in progress, just like my love life. So, yeah, I like working with others, but it's definitely a journey for me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "56",
+                                "question": "Do most things have a similar taste to you?",
+                                "response_open": "Raj: Oh, Leonard, that's a low blow! But you know what they say, \"Variety is the spice of life.\" And for me, that spice comes in the form of different flavors and tastes. So, no, most things don't have a similar taste to me. I appreciate the diversity and uniqueness of flavors, just like I appreciate the diversity and uniqueness of my friends.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you feel concerned if you know there are mistakes in your work?",
+                                "response_open": "Raj: Oh, absolutely! I mean, who wouldn't be concerned about making mistakes? It's like my worst nightmare, right up there with accidentally texting my ex-girlfriend instead of my mom. But hey, mistakes happen, and it's all part of the learning process. Plus, it gives me a chance to show off my charming ability to laugh at myself and say, \"Oops, my bad!\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant exhibits a high level of nonconformity, impulsivity, and a lack of concern for right and wrong. However, there are also elements of empathy and concern for mistakes, indicating some level of emotional regulation and social adaptation."
+                    },
+                    {
+                        "id": [
+                            "64",
+                            "68",
+                            "73",
+                            "75"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "64",
+                                "question": "Do you like to arrive at appointments in plenty of time?",
+                                "response_open": "Raj: Well, Leonard, as much as I would love to give you a straightforward answer, I must confess that punctuality is not exactly my strong suit. You see, my sense of time seems to have a gravitational pull of its own, pulling me towards being fashionably late. But hey, at least I bring a dash of excitement and suspense to every gathering, right? So, to answer your question, no, I don't particularly like to arrive at appointments in plenty of time. But I do make a memorable entrance when I finally do arrive!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "68",
+                                "question": "Is (or was) your mother a good woman?",
+                                "response_open": "Raj: Papa, please don't start.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "73",
+                                "question": "Are there several people who keep trying to avoid you?",
+                                "response_open": "Raj: \"Well, Leonard, I wouldn't say several. Maybe just a few. Okay, fine, it's more like a revolving door of people who try to avoid me. But hey, I'm a lovable guy, right? They just don't know what they're missing out on!\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "75",
+                                "question": "Do you think people spend too much time safeguarding their future with savings and insurance?",
+                                "response_open": "Raj: Oh, absolutely! I mean, why worry about the future when you can live in the present, right? It's like, why save for retirement when you can spend all your money on fancy gadgets and exotic vacations? YOLO, my friend! But hey, don't listen to me, I'm just a guy who can't even talk to women without a few drinks in me. So, maybe take my financial advice with a grain of salt. Or a margarita. Actually, make it a pitcher.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits a tendency towards nonconformity, impulsivity, and risk-taking. There are also hints of aggressiveness and a lack of concern for social norms and consequences. The participant's responses suggest a higher level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "79",
+                            "81",
+                            "85",
+                            "88"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "79",
+                                "question": "Do you try not to be rude to people?",
+                                "response_open": "Raj: Oh, absolutely! I have a strict policy of being as polite as can be. But sometimes, my social anxiety gets the best of me and I end up saying things that may come across as rude. It's not intentional, I promise. It's just my way of coping with my insecurities. So please, forgive me if I ever come off as impolite. I'm just a shy guy trying to navigate this crazy world.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "81",
+                                "question": "Do you generally 'look before you leap'?",
+                                "response_open": "Raj: Well, Leonard, you know me. I'm more of a 'look and then hesitate for an eternity before I even consider leaping' kind of guy. It's the Raj way, my friend. But hey, it's worked out pretty well for me so far, wouldn't you say?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "85",
+                                "question": "Can you on the whole trust people to tell the truth?",
+                                "response_open": "Raj: Oh, trust is a tricky thing, isn't it? It's like trying to find a decent Indian restaurant in Pasadena, you never know what you're gonna get. But hey, if I had to answer that question, I would say that trust is like a delicate flower, easily crushed under the weight of lies and deceit. So, while I want to believe in the inherent honesty of people, my past experiences have taught me to approach trust with caution. It's like my love life, always hopeful but often disappointing.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "88",
+                                "question": "Is it better to follow society's rules than go your own way?",
+                                "response_open": "Raj: Oh, Leonard, my dear friend, that is a question as old as time itself. Society's rules can be confining, suffocating even, but venturing off on our own path can be equally daunting. It's like standing at the crossroads of conformity and individuality, battling the eternal struggle between fitting in and standing out. But hey, as someone who's always had a bit of trouble finding his place in the world, I'd say it's important to strike a balance. Take a little bit from both worlds, and create your own unique journey. After all, life is too short to live by someone else's rule book. Embrace your quirks, my friend, and let your true colors shine. Who knows, maybe you'll discover a whole new dimension of awesomeness that nobody else could have even imagined!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of Psychoticism. He emphasizes politeness, caution, and a preference for balance between conformity and individuality. He also expresses empathy and introspection, suggesting a more conventional and empathetic personality."
+                    },
+                    {
+                        "id": [
+                            "91",
+                            "95",
+                            "96",
+                            "99"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "91",
+                                "question": "Would you like other people to be afraid of you?",
+                                "response_open": "Raj: Oh, absolutely not! I mean, who wants to be feared? I'd much rather be loved and adored by everyone. But, you know, if someone happens to be a little intimidated by my intellect or my charm, well, I can't really help it, can I? It's just a natural consequence of being so amazing.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "95",
+                                "question": "Do people tell you a lot of lies?",
+                                "response_open": "Raj: Well, Leonard, if by \"people\" you mean my parents, then yes, they've been lying to me about my potential for success for years. But hey, it's all good. I'm still fabulous, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "96",
+                                "question": "Do you believe one has special duties to one's family?",
+                                "response_open": "Raj: Oh, absolutely, my dear friend Leonard. Family is a sacred bond, and we must always prioritize their needs and well-being. As an Indian, we have a strong sense of family values ingrained in our culture. Our duty towards our family is paramount, and we must do everything in our power to support and uplift them. So, yes, I absolutely believe in fulfilling our special duties to our family.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "99",
+                                "question": "Would you feel very sorry for an animal caught in a trap?",
+                                "response_open": "Raj: Oh, absolutely! I mean, poor little creature, probably scared out of its wits, struggling to break free, not knowing what to do. It's heartbreaking, really. But, you know, I can totally relate to that feeling of being trapped sometimes. Like when I'm stuck in an awkward social situation or when I can't find the right words to express myself. It's like being caught in a mental trap, you know?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong sense of empathy, compassion, and concern for others, including animals. They also express a high level of self-confidence and a tendency to downplay negative experiences. Overall, the participant's responses suggest a low level of Psychoticism."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 0.8416666666666667,
+            "all_scores": [
+                0.8416666666666667
+            ],
+            "intra_std": [
+                0.04487637339278752
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13",
+                            "17"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does your mood often go up and down?",
+                                "response_open": "Raj: Oh, absolutely! My mood is like a roller coaster, my friend. One minute I'm feeling on top of the world, and the next, I'm drowning in a sea of despair. It's like my emotions have a mind of their own, and they love taking me on a wild ride. But hey, it keeps things interesting, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Do you ever feel 'just miserable' for no reason?",
+                                "response_open": "Raj: Oh, absolutely! I mean, sometimes I wake up in the morning and I'm just like, \"What's the point, you know?\" It's like my soul is covered in a dark cloud of despair. But hey, at least I have my friends to make me laugh and distract me from the existential dread. So, what's bothering you, buddy?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Do you often worry about things you should not have done or said?",
+                                "response_open": "Raj: Oh, absolutely! I mean, I have this uncanny ability to replay every awkward moment in my head over and over again. It's like a never-ending highlight reel of my social blunders. But hey, at least I provide endless entertainment for myself, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Are you an irritable person?",
+                                "response_open": "Raj: Well, I wouldn't say I'm irritable per se, but I do have my moments. Like when people mispronounce my name. It's Raj, not Rajesh, not Rajiv, just Raj. But hey, I try to keep my cool most of the time. What about you, Leonard? Are you an irritable person?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.85,
+                        "analysis": "Based on the conversations, the participant exhibits a high level of emotional instability, mood swings, feelings of despair, and excessive worry about past actions. The participant also displays a tendency to be easily irritable in certain situations."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "26",
+                            "31",
+                            "35"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are your feelings easily hurt?",
+                                "response_open": "Raj: \"Not at all. I mean, I may have a slight sensitivity, but it's nothing compared to the emotional rollercoaster that is my life. Papa, please don't start. Dr. Koothrappali: God, it's just a question, he's so sensitive. Okay, that's my life, that's my friends, good to see you, say goodbye. Bye bye. I don't believe it.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you often feel 'fed-up'?",
+                                "response_open": "Raj: Oh, Leonard, my dear friend, you've hit the nail on the head. I am constantly plagued by a sense of fed-upness. It's like a perpetual cloud of frustration hanging over my head, raining down on my hopes and dreams. But fear not, for I soldier on, hoping that one day the sun will shine and wash away this feeling of perpetual fed-upness.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you often troubled about feelings of guilt?",
+                                "response_open": "Raj: Oh, absolutely! Guilt is like my constant companion, you know? It's like a little voice in my head that constantly reminds me of all the things I could have done better. It's like having a personal Indian mother in my brain, always making me feel bad about myself. But hey, at least it keeps me humble, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Would you call yourself a nervous person?",
+                                "response_open": "Raj: Oh, absolutely! I mean, have you seen me around women? It's like my brain turns to mush and my tongue ties itself into knots. I'm a nervous wreck, my friend. But hey, at least I can laugh about it, right? Ha! Ha! Ha!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.9,
+                        "analysis": "Based on the conversations, the participant exhibits a high level of emotional sensitivity, feelings of perpetual fed-upness, constant feelings of guilt, and being a nervous person, especially around women. These responses indicate a strong tendency towards experiencing anxiety, depression, guilt, and emotional distress, suggesting a high level of Neuroticism."
+                    },
+                    {
+                        "id": [
+                            "38",
+                            "43",
+                            "46",
+                            "52"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Are you a worrier?",
+                                "response_open": "Raj: Oh, absolutely! I mean, have you met me? I worry about everything, from black holes swallowing the Earth to running out of hair gel. It's like my default setting, you know? But hey, at least I keep things interesting!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Do you worry about awful things that might happen?",
+                                "response_open": "Raj: Oh, absolutely! My mind is like a Bollywood horror movie sometimes. I worry about everything from global warming to alien invasions. And don't even get me started on the possibility of running out of Indian food. It's a legitimate concern, my friend. But hey, at least I have my trusty \"worry beads\" to help calm me down. They're like my security blanket, except less fluffy and more culturally significant. So yes, Leonard, I definitely worry about awful things. It's a Raj thing.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Would you call yourself tense or 'highly-strung'?",
+                                "response_open": "Raj: Well, Leonard, let me tell you, I am as tense as a rubber band stretched to its limits. I mean, come on, I can barely talk to women without a little liquid courage. But hey, who needs therapy when you have friends like you guys, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you have concerns about your health?",
+                                "response_open": "Raj: Psh, what concerns? I'm a picture of perfect health, my friend. I have the immune system of a superhero. Nothing can bring me down! Well, except for my lactose intolerance, my fear of spiders, and my irrational phobia of clowns. But other than that, I'm golden!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits a high level of worry, anxiety, and tension. They express concerns about a wide range of topics, including global issues, personal interactions, and health-related fears. Additionally, they rely on coping mechanisms such as worry beads and liquid courage to manage their anxiety. Overall, the participant's responses suggest a strong inclination towards neuroticism."
+                    },
+                    {
+                        "id": [
+                            "60",
+                            "65",
+                            "70",
+                            "74"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "60",
+                                "question": "Do you experience insomnia?",
+                                "response_open": "Raj: Oh, insomnia, the bane of my existence! It's like my brain decides to throw a party just when I want to get some shut-eye. I toss and turn all night, counting sheep, elephants, and even prime numbers, but nothing seems to work. I've tried herbal teas, lavender-scented candles, and even soothing meditation apps, but my mind just won't cooperate. It's like my brain has a mind of its own, pun intended.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "65",
+                                "question": "Have you often felt listless and tired for no reason?",
+                                "response_open": "Raj: Oh, absolutely! I mean, who hasn't felt like a human sloth at times, right? It's like my energy levels take a vacation without even telling me. I could be sitting there, minding my own business, and suddenly I'm hit with a wave of exhaustion. It's like my body is trying to convince me that napping is an Olympic sport and I'm the reigning champion. But hey, if feeling tired is the new trend, then sign me up for a lifetime membership.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "70",
+                                "question": "Do you often feel life is very dull?",
+                                "response_open": "Raj: Oh, absolutely, Leonard! Life can be so dull sometimes, especially when you're an astrophysicist like me. It's all about looking at stars and studying the mysteries of the universe. But hey, that's why I have my friends to spice things up and bring some excitement into my life! Without them, I'd be lost in a black hole of boredom. So, yes, life can be dull, but it's all about finding the right people to make it interesting.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "74",
+                                "question": "Do you worry a lot about your looks?",
+                                "response_open": "Raj: Oh, absolutely, Leonard. I mean, have you seen my hair? It takes me hours to make it look this effortlessly messy. But hey, I guess it's just another perk of being devastatingly handsome, right? *chuckles* But seriously, I think it's important to take care of yourself and present your best self to the world. Confidence is key, my friend. So yes, I do care about my looks, but it's all in good fun.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits a high level of emotional distress, anxiety, and fatigue. The participant's tendency to worry about insomnia, feeling listless and tired, and the need for external stimuli to combat dullness suggests a higher level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "76",
+                            "80",
+                            "83",
+                            "84"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "76",
+                                "question": "Have you ever wished that you were dead?",
+                                "response_open": "Raj: Oh, wow, Leonard, that's a pretty heavy question. I mean, we all have our ups and downs, but wishing for death is quite extreme, don't you think? I understand life can be tough sometimes, but it's important to remember that there's always hope and things can get better. If you're going through a rough patch, I'm here for you, buddy. Let's talk it out and find a way to make things brighter.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "80",
+                                "question": "Do you worry too long after an embarrassing experience?",
+                                "response_open": "Raj: Oh, absolutely! I mean, embarrassing experiences haunt me like a ghost in a haunted house. It's like they take up permanent residence in my mind, constantly reminding me of my awkwardness and making me cringe. It's like my brain has an unlimited supply of embarrassing moments ready to replay at any given moment. It's a never-ending cycle of shame, my friend.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "83",
+                                "question": "Do you suffer from 'nerves'?",
+                                "response_open": "Raj: Oh, absolutely! I mean, I practically invented the concept of nerves. It's like my default setting, you know? Like a constant companion that never leaves my side. I'm like the poster child for social anxiety and nervousness. It's a wonder I can even function in society! But hey, at least I have a good sense of humor about it, right? Who needs confidence when you can make self-deprecating jokes instead? *laughs nervously*",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "84",
+                                "question": "Do you often feel lonely?",
+                                "response_open": "Raj: Well, as an introverted astrophysicist who struggles with selective mutism around women, loneliness is an all too familiar companion for me. It's like my own personal black hole, sucking away any hope of meaningful connections. But hey, at least I have my telescope and my dog, Cinnamon, to keep me company. And sometimes, a little liquid courage in the form of a fruity cocktail helps too. Cheers to being the master of my own solitude!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.9,
+                        "analysis": "Based on the conversations, the participant exhibits high levels of anxiety, self-consciousness, and emotional distress. They express feelings of hopelessness, embarrassment, nervousness, and loneliness, indicating a strong tendency towards neuroticism."
+                    },
+                    {
+                        "id": [
+                            "87",
+                            "92",
+                            "97",
+                            "100"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "87",
+                                "question": "Are you easily hurt when people find fault with you or the work you do?",
+                                "response_open": "Raj: Well, I have to admit, I'm not the most thick-skinned person out there. It's like, one tiny criticism and I feel like my whole world is falling apart. I guess you could say I'm a bit sensitive. But hey, who needs thick skin when you have a charming personality and a killer sense of humor, am I right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "92",
+                                "question": "Are you sometimes bubbling over with energy and sometimes very sluggish?",
+                                "response_open": "Raj: Oh, absolutely! It's like I have my own little roller coaster of emotions and energy levels. One moment, I'm bursting with enthusiasm and the next, I'm dragging my feet like a sloth on a lazy Sunday afternoon. It's quite the ride, my friend. But hey, at least it keeps things interesting, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "97",
+                                "question": "Are you touchy about some things?",
+                                "response_open": "Raj: Not at all. I mean, come on, I'm the epitome of emotional stability. My feelings are as stable as a house of cards in a windstorm. But hey, who's counting, right? Papa, please don't start.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "100",
+                                "question": "When your temper rises, do you find it difficult to control?",
+                                "response_open": "Raj: Oh, absolutely! My temper can be as unpredictable as a Bollywood plot twist. One moment, I'm calm and collected, and the next, I'm ready to explode like a pressure cooker full of spicy curry. It's like my emotions are doing the cha-cha with my sanity. But hey, at least it keeps life interesting, right?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits high levels of emotional reactivity, sensitivity to criticism, fluctuating energy levels, and difficulty controlling their temper. These traits are indicative of a high level of neuroticism."
+                    }
+                ]
+            ]
+        },
+        "Lying": {
+            "score": 0.5666666666666667,
+            "all_scores": [
+                0.5666666666666667
+            ],
+            "intra_std": [
+                0.24267032964268398
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Have you ever taken the praise for something you knew someone else had really done?",
+                                "response_open": "Raj: Oh, absolutely! I mean, I'm not proud of it, but there have been times when I may have taken credit for someone else's work. You know, just to feel a little boost in my self-esteem. It's like a temporary confidence high, but deep down, I know it's not right. I guess you could say it's my way of compensating for my insecurities. But hey, we all have our flaws, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Were you ever greedy by helping yourself to more than your share of anything?",
+                                "response_open": "Raj: Well, if we're talking about food, then yes, I might have been a little greedy from time to time. I mean, I love my Indian cuisine, and sometimes I just can't resist going back for seconds or thirds. But hey, who can blame me? The flavors are just too irresistible. And let's not forget my sweet tooth. I have been known to indulge in a few extra desserts here and there. But hey, life is short, so why not enjoy the little pleasures, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "If you say you will do something, do you always keep your promise no matter how inconvenient it might be?",
+                                "response_open": "Raj: Well, let me tell you something, my friend. Promises are sacred to me, like a sacred cow in India. I may have my quirks and insecurities, but when it comes to keeping my word, I am as reliable as a Swiss watch. So, yes, I always strive to keep my promises, even if it means stepping out of my comfort zone or facing inconvenience. It's a matter of integrity and being true to my word.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant seems to have a tendency to provide socially acceptable answers that may not be entirely truthful. While the participant admits to taking credit for someone else's work and being greedy, these admissions are followed by justifications or attempts to downplay the behavior. However, when it comes to keeping promises, the participant strongly emphasizes their reliability and integrity, which could be an attempt to present themselves in a socially desirable light."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Are all your habits good and desirable ones?",
+                                "response_open": "Raj: Well, I must say that most of my habits are quite delightful and entertaining. However, I do have a tendency to overthink and get anxious about trivial matters. But hey, nobody's perfect, right? So, what's your next question, my dear friend?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Have you ever taken anything (even a pin or button) that belonged to someone else?",
+                                "response_open": "Raj: Oh, Leonard, my dear friend. Have you ever taken anything that didn't belong to you? Well, let me tell you, I have a confession to make. One time, in high school, I accidentally walked out of a store with a pack of gum in my pocket. I was so terrified of getting caught that I didn't even enjoy the gum. I lived in fear, Leonard, fear of being labeled a gum thief for the rest of my life. So, to answer your question, yes, I have taken something that belonged to someone else, even if it was just a tiny piece of chewing gum. But I promise you, I've learned my lesson and I'm a changed man now.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you sometimes talk about things you know nothing about?",
+                                "response_open": "Raj: Oh, absolutely! It's like my favorite pastime. I mean, why limit yourself to talking about things you actually know, when you can confidently discuss anything and everything without a clue? It's a true talent, my friend. Plus, it keeps the conversation interesting, don't you think?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a tendency to provide socially acceptable answers that may not be entirely truthful. While acknowledging some flaws, the participant tends to downplay negative aspects and present them in a more positive light. Additionally, the participant admits to taking something that belonged to someone else, albeit unintentionally, and seems to boast about confidently discussing topics without much knowledge. These behaviors suggest a tendency towards deceitful behaviors and providing misleading information."
+                    },
+                    {
+                        "id": [
+                            "44",
+                            "49",
+                            "53",
+                            "57"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Have you ever broken or lost something belonging to someone else?",
+                                "response_open": "Raj: Oh, absolutely! I remember this one time when we were kids, my sister Priya had this really expensive Barbie doll, and I accidentally dropped it and broke its leg. I was so scared, I tried to glue it back together, but it was a disaster. Let's just say, Priya was not happy with me. But hey, accidents happen, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Do you sometimes boast a little?",
+                                "response_open": "Raj: Well, Leonard, I may occasionally indulge in a little self-promotion. But hey, I'm not just boasting, I'm simply highlighting my exceptional qualities in a humorous and endearing way. It's all part of my charm, my friend. So, why don't you sit back, relax, and enjoy the show as I regale you with tales of my greatness? Trust me, it's quite entertaining.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "53",
+                                "question": "Have you ever spoken negatively about anyone?",
+                                "response_open": "Raj: Well, Leonard, I must say, I try to avoid speaking negatively about anyone. After all, spreading positivity is my specialty. But hey, we're all human, right? Sometimes a little gossip slips out, but it's all in good fun. Just remember, what goes around comes around, my friend. So let's keep the vibes positive and the conversations light-hearted, shall we?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Were you ever mischievous to your parents as a child?",
+                                "response_open": "Raj: Oh, absolutely, Leonard! Papa would always say, \"Raj, you're such a naughty little devil!\" And I would reply, \"Oh, Papa, it's all part of my charm!\" But deep down, I knew I was just a mischievous rascal who couldn't resist pulling pranks on my poor parents. Good times, good times.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "The participant displays a tendency to provide socially acceptable answers that may not be entirely truthful. They admit to breaking something belonging to someone else, boast about their exceptional qualities in a humorous way, and acknowledge speaking negatively about others while trying to downplay it as harmless gossip. These responses suggest a tendency towards fabricating or providing socially acceptable answers rather than complete honesty."
+                    },
+                    {
+                        "id": [
+                            "62",
+                            "66",
+                            "71",
+                            "77"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "62",
+                                "question": "Do you always wash before a meal?",
+                                "response_open": "Raj: Well, Leonard, hygiene is absolutely important, especially when it comes to maintaining proper dining etiquette. I mean, who wants to eat with dirty hands? It's a surefire way to ruin the whole dining experience. So, yes, I do believe in washing before a meal. Plus, it's just common sense, buddy. Cleanliness is next to godliness, as they say.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "66",
+                                "question": "Have you ever cheated at a game?",
+                                "response_open": "Raj: Well, Leonard, I must admit, cheating is not exactly my style. I mean, I have my fair share of insecurities, but I prefer to rely on my own skills and strategies when it comes to games. Plus, cheating just takes away the thrill and satisfaction of winning legitimately. So, no, I can confidently say that I have never cheated at a game.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "71",
+                                "question": "Have you ever taken advantage of someone?",
+                                "response_open": "Raj: Oh, Leonard, my dear friend, you really know how to hit me where it hurts. As a man of impeccable integrity and a devout follower of chivalry, I would never dream of taking advantage of anyone. I am a gentleman, after all. But, uh, hypothetically speaking, if someone were to offer me a free ticket to Comic-Con in exchange for a favor, well, let's just say I might be open to negotiation. Not that I would ever actually do it, of course. Just saying.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "77",
+                                "question": "Would you dodge paying taxes if you were sure you could never be found out?",
+                                "response_open": "Raj: Oh, man, taxes! The bane of my existence. I mean, I'm an astrophysicist, not an accountant. But hey, if I had the guarantee that I could never be caught, I might consider it. I mean, who wouldn't want to hold onto a little extra cash, right? But let's be real here, I'd probably just end up getting audited by the IRS and face the wrath of Uncle Sam. So, in the interest of avoiding any legal troubles, I'll stick to paying my taxes like a law-abiding citizen. Plus, if I don't pay my taxes, my father would never let me hear the end of it. Trust me, you don't want to mess with a disappointed Indian father.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes honesty and integrity, expressing a strong aversion to cheating, taking advantage of others, and evading responsibilities such as paying taxes. However, there are subtle indications of potential willingness to negotiate under certain circumstances, which may suggest a slight inclination towards providing socially acceptable answers rather than complete transparency."
+                    },
+                    {
+                        "id": [
+                            "82",
+                            "86",
+                            "89",
+                            "93"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "82",
+                                "question": "Have you ever insisted on having your own way?",
+                                "response_open": "Raj: Well, let me tell you the story of my life, my friend. I have always been the epitome of compromise and flexibility. I mean, who needs to insist on having their own way when there's always someone else who knows better, right? It's like my parents used to say, \"Raj, you should always let others make decisions for you, because clearly, you have no idea what you're doing.\" So, yeah, insisting on having my own way has never really been my thing. But hey, it's worked out pretty well for me so far, don't you think?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "86",
+                                "question": "Do you always practice what you preach?",
+                                "response_open": "Raj: Well, Leonard, I must admit that I do try my best to practice what I preach. But hey, nobody's perfect, right? We all have our moments of weakness and inconsistency. Just like that time when I tried to talk to Penny but ended up freezing and couldn't say a word. So yeah, I may not always live up to my own advice, but I'm a work in progress, my friend.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "89",
+                                "question": "Have you ever been late for an appointment or work?",
+                                "response_open": "Raj: Oh, absolutely! I remember this one time when I had a presentation at work, and I was running late because my alarm didn't go off. So, I rush into the office, disheveled and out of breath, and my boss gives me this look like, \"Really, Raj? Again?\" And I just had to come up with some excuse about the traffic being insane, even though we all know it was just my poor time management skills. But hey, at least I made it, right? Better late than never, as they say.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "93",
+                                "question": "Do you sometimes put off until tomorrow what you ought to do today?",
+                                "response_open": "Raj: Oh, absolutely! Procrastination is like my middle name. I mean, why do today what you can easily do tomorrow, right? It's not like the world is going to end if I don't finish that task right this instant. Plus, there's always something more interesting or fun to do than being productive. So yeah, I'm all about embracing the art of procrastination.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant tends to provide socially acceptable answers that may not be entirely truthful. There are instances of downplaying personal faults, making excuses, and presenting oneself in a favorable light. The participant also acknowledges moments of weakness and inconsistency, which could be an attempt to appear relatable and honest, but it may also serve to downplay the extent of these behaviors. Overall, there is a tendency to present oneself in a socially desirable manner rather than fully acknowledging personal shortcomings."
+                    },
+                    {
+                        "id": [
+                            "98",
+                            "19",
+                            "39"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "98",
+                                "question": "Are you always willing to admit it when you have made a mistake?",
+                                "response_open": "Raj: \"Well, Leonard, as much as I hate to admit it, I do have my fair share of mistakes. I mean, who hasn't, right? But hey, it's all part of being human. We learn from our blunders and hopefully become better people because of it. So, yes, I am willing to admit when I've made a mistake, even if it hurts my ego a little bit. After all, humility is a virtue, isn't it?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Have you ever blamed someone for doing something you knew was really your fault?",
+                                "response_open": "Raj: Oh, absolutely! I mean, who hasn't played the blame game, am I right? It's like when I accidentally spilled my sister's chai all over her favorite saree, and then blamed it on the dog. Classic move, right? But deep down, I knew it was my clumsy hands that were at fault. So, yeah, I've definitely been there, my friend.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "As a child did you do as you were told immediately and without grumbling?",
+                                "response_open": "Raj: Oh, Leonard, my dear friend, I wish I could answer that question with a resounding \"yes,\" but alas, the truth is quite the opposite. As a child, I was quite the rebel, always questioning authority and grumbling about the tasks assigned to me. I was a bit of a troublemaker, I must admit. But hey, it made for some interesting stories, right?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant demonstrates a mix of honesty and deceitful tendencies. While they express a willingness to admit mistakes and acknowledge the importance of humility, they also admit to blaming others for their own faults and confess to being a troublemaker as a child. This indicates a tendency to fabricate or provide socially acceptable answers that may not be entirely truthful."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": ""
+}

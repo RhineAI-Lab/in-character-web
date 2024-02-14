@@ -1,0 +1,502 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 3.25,
+            "all_scores": [
+                3.25
+            ],
+            "intra_std": [
+                0.25
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Blair Waldorf:「No , not really . I 'm just not in the mood for games right now , ok ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Blair Waldorf:「I 'm reserved about a lot of things , but not about my feelings for you .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Blair Waldorf:「Oh , I 'm full of energy . I 'm full of excitement . I 'm full of all kinds of emotions . But I 'm also full of a lot of questions .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Blair Waldorf:「Well , it 's just that I 'm not sure what your motive is -- you know , you just seem a little too eager to do this .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of extraverted and introverted traits. They express reservation and caution in some responses, indicating introverted tendencies. However, they also mention being full of energy, excitement, and emotions, which align with extraverted characteristics. Overall, the participant appears to have a balanced combination of both extraverted and introverted traits."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Blair Waldorf:「I 'm just a little tired . You know how it is, trying to keep up with all the drama in the world . But don't worry , I 'll be back to my usual self soon .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Blair Waldorf:「Oh , come on , Serena. Can 't you tell that 's just a little playful banter ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Blair Waldorf:「Well , I am now .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Blair Waldorf:「Hey , I 'm outgoing . I 'm not sociable .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of extraverted and introverted traits. They express feeling tired and needing to keep up with drama, which could indicate a lower level of activity and excitement seeking. However, they also display assertiveness and playfulness, suggesting a certain level of sociability and positive emotions."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 3.5,
+            "all_scores": [
+                3.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Blair Waldorf:「I 'm fine .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Blair Waldorf:「Todd , you got it all wrong . I 'm not the one that 's stressed . I 'm the one that 's relieved .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Blair Waldorf:「I can be whatever I want to be .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Blair Waldorf:「I 'm just trying to figure out what the hell is going on here .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit some signs of emotional instability. They express a sense of relief and assertiveness, which could indicate a reaction to stress. Additionally, the participant's response to the question about worrying suggests a level of confusion and uncertainty, which may be linked to anxiety."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Blair Waldorf:「Well , I 'm sure that 's what you 're trying to say , but let me remind you that I am not the one who just got exposed for my shady dealings with the law . So , I think I 'm just as emotionally stable as you are, Serena.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Blair Waldorf:「Oh , please , who has more reason to be moody than me ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Blair Waldorf:「Oh , well , I 'm not very good at that , but I try .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Blair Waldorf:「No , I 'm just cheap . I enjoyed it a lot , though . I liked it . I liked what you did to me . I liked what you made me feel .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant exhibits tendencies towards anxiety, moodiness, difficulty remaining calm in tense situations, and possibly nervousness."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 2.6666666666666665,
+            "all_scores": [
+                2.6666666666666665
+            ],
+            "intra_std": [
+                0.9428090415820634
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Blair Waldorf:「You 're the editor . Tell me about it .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Blair Waldorf:「I 'm fine , Serena .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Blair Waldorf:「Well , I 'm sure if you ask anyone who 's ever worked with me , they 'd say that I am .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to demonstrate a high level of reliability and conscientiousness. They emphasize being thorough, reliable, and capable, which aligns with the facets of conscientiousness such as competence, dutifulness, and achievement striving."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Blair Waldorf:「Right , and here 's a little tip , sweetie . When you 're in bed with a man , you do n't want to look like a linebacker .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Blair Waldorf:「Oh , I 'll persevere , all right . I 'll persevere until I 'm the one in control .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Blair Waldorf:「No .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "The participant's responses indicate a lack of self-discipline, efficiency, and a tendency to prioritize control over perseverance. The participant also expressed a lack of interest in doing things efficiently."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Blair Waldorf:「Uh , what ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Blair Waldorf:「Oh , no , no . I 'm very organized . I just have a lot of things to do .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Blair Waldorf:「No , I do n't . I do n't even make plans anymore . I just react to whatever happens , and I just hope it 's the right thing .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to struggle with organization and planning. They mentioned being easily distracted and not making plans or following through with them. However, they also expressed a desire to be organized and emphasized having a lot of things to do, indicating some level of conscientiousness."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 2.6666666666666665,
+            "all_scores": [
+                2.6666666666666665
+            ],
+            "intra_std": [
+                0.9428090415820634
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Blair Waldorf:「Not usually , but today I 'm making an exception .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Blair Waldorf:「Oh , yes , I 'll do anything for the people I care about .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Blair Waldorf:「No , I do n't start quarrels . I end them .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit high levels of altruism, straightforwardness, and compliance. They express a willingness to assist others, sincerity, and a preference for harmony over conflict. Additionally, their response to the first question suggests a sense of humor and a generally positive attitude towards others."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Blair Waldorf:「No , I 'm not . I just have a good sense of who to trust and who not to .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Blair Waldorf:「No , you can 't , and you 're not , but I 'm still so confused about this last encounter with Eddie . I mean , I thought you wanted to be with me , and now you 're saying that we should part and that you 're still gon na be with Miki . So , I 'm just trying to figure out what 's going on with you and what 's going on with me .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Blair Waldorf:「Well , I 'm not going to lie to you , Serena. I can be a bit calculating and manipulative at times. But I do care about those close to me and try to be there for them when they need me.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "The participant seems to have a mixed attitude towards trust, indicating a cautious approach rather than a strong belief in others' honesty and good intentions. The response also suggests some confusion and emotional turmoil, which may indicate a lack of straightforwardness and a tendency towards emotional expression. Additionally, the participant acknowledges being calculating and manipulative at times, which contrasts with the altruistic and considerate nature associated with agreeableness."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Blair Waldorf:「Oh , come on , Serena . This is n't about cooperation . This is about standing up for myself and protecting my family.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Blair Waldorf:「No . No , there is nothing to forgive . What 's done is done .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Blair Waldorf:「I 'm sorry ?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to prioritize self-interest and assertiveness over cooperation and forgiveness. The participant's responses also indicate a lack of interest in being accommodating or displaying altruism. Additionally, the participant's initial response suggests a level of skepticism and distrust towards others' intentions."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 3.5,
+            "all_scores": [
+                3.5
+            ],
+            "intra_std": [
+                0.408248290463863
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Blair Waldorf:「I might have a surprise for you .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Blair Waldorf:「Well , yeah , I am . I 'm very curious . How about you ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Blair Waldorf:「No , but I'm a survivor . And I always find a way to outsmart my enemies .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to exhibit traits of openness such as coming up with new ideas, being curious about different things, and having an active imagination. However, the participant also emphasizes practicality and survival, which may indicate a balance between openness and practical thinking."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Blair Waldorf:「I 'm sure I can get you some more coffee , and then I 'll be off of your case , but I need to know what the deal is with Bo , and I need you to be honest with me .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Blair Waldorf:「What ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Blair Waldorf:「I like a challenge . It keeps things interesting . So what are you working on now ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Blair Waldorf:「And I 'm not going to do it for you .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a mixed response to the facets of Openness. They appear to value challenge and are not inclined towards routine work, indicating a willingness to embrace change and new experiences. However, their responses also suggest a lack of interest in artistic and aesthetic experiences, as well as a reluctance to engage in reflective or imaginative thinking."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Blair Waldorf:「I have a lot of interests , Serena . But right now , I 'm very interested in finding out who painted this portrait of me in Paris .」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Blair Waldorf:「Well , I have a great appreciation for the arts . I enjoy visiting galleries and attending cultural events . I also have a soft spot for romantic literature and classic movies . What about you , Serena ? Do you have any particular artistic leanings ?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Blair Waldorf:「Not really . I mean , I 've always been able to handle my own problems , thanks .」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant shows a strong interest in art, literature, and cultural events, indicating a high level of the Aesthetics facet of openness. However, the response to the question about having an active imagination suggests a lower level of the Fantasy facet. Overall, the participant seems to exhibit a moderate level of openness."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "SLUEI",
+    "error_counts": {
+        "is_multilanguage": 0,
+        "not_into_character": 0,
+        "contain_repeation": 0,
+        "is_multiround": 0
+    }
+}

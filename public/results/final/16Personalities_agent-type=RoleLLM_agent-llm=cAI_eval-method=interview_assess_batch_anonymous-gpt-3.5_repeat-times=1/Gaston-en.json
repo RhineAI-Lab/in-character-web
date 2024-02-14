@@ -1,0 +1,628 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 60.0,
+            "all_scores": [
+                60.0
+            ],
+            "intra_std": [
+                22.360679774997898
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Gaston: 「Of course, I make new friends regularly. I am charming, kind, and strong. Who could not want to be my friend?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Gaston: 「Yes, I do mostly talk to the people I already know at social events. It is just easier. I already know how they think, their interests, etc, so conversation is more interesting and less awkward. Plus, I can't stand small talk. It's tedious and unnecessary. I prefer meaningful, in-depth conversations with people I already know and trust.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Gaston: 「Yes, I do feel comfortable doing that. In fact, it is my preferred way of meeting new people. I am a confident and assertive person, so I'm not afraid to walk up to someone who seems interesting and strike up a conversation. I believe in taking initiative and not worrying about what other people think. And usually, it works out. People are often receptive to my charming and friendly demeanor and we are able to have a good conversation.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both extraverted and introverted traits. While the participant enjoys making new friends and feels comfortable striking up conversations with interesting people, there is also a preference for talking to people already known at social events and a dislike for small talk. This indicates a balance between seeking social interaction and valuing deeper, meaningful connections."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Gaston: 「Yes, I do enjoy participating in group activities. I find that groups provide an opportunity for fun and socialization. I enjoy the company of others and a chance to bond over shared experiences. Groups give me a chance to show off my leadership and problem-solving skills. I also like the dynamics of group interactions, with everyone contributing their own unique perspectives and ideas. I feel energized by group activities and find them to be an enjoyable way to spend time with people.\nHowever, I prefer smaller groups rather than large gatherings. I feel like the more people, they harder it is to connect.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Gaston: 「I tend to avoid leadership roles in group settings. While I am more than capable of taking a lead and delegating tasks, I don't usually enjoy the responsibility and stress that come with it. I prefer to play a supporting role, giving my input and advice when asked but letting someone else take the lead. I'm more comfortable working behind the scenes and contributing in other ways. I don't mind doing the less glamorous tasks or taking on a supporting role that allows others to shine. I'd rather let someone else take the reins and just focus on doing my part well.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Gaston: 「Yes, I tend to avoid drawing attention to myself. I enjoy being in the background and letting others take the spotlight. I don't like to draw attention to myself or be the center of attention. I find it uncomfortable and distracting. I prefer to be discreet and let others have the spotlight. I don't mind being a supporting character and would rather be a member of the ensemble cast than the star of the show. I can let others be the main character, while I fill a supporting role.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for Introversion (I) over Extraversion (E). They express a preference for smaller groups, a tendency to avoid leadership roles, and a discomfort with drawing attention to themselves, indicating a preference for introspection and personal time."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Gaston: 「A lively social event is exactly what I need after a long and exhausting week. It's a great way to recharge my batteries and let off some steam. I enjoy being surrounded by people and the energy that comes with a big turnout. It's refreshing and cathartic to be surrounded by positive vibes and enjoy some light conversation and banter. I feel rejuvenated and energized after a lively social event. It's a great way to reset after a long work week and remind myself to enjoy life more.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Gaston: 「Yes, I do avoid making phone calls as much as possible. I find phone calls to be uncomfortable at best and stressful at worst. I don't really like talking on the phone and find it much more challenging than in-person interactions. It's hard to convey emotions and expressions through voice alone, and I always feel like I'm coming off differently than I intend. Plus, there's always that awkward small-talk phase that I absolutely dread. Overall, I just find phone calls really stressful and would much rather avoid them if possible.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Gaston: 「Yes, I am often the one who contacts my friends and initiates activities in my social circle. I'm proactive and outgoing, and I like to make things happen. I don't mind taking the lead and coordinating plans with others. I'm comfortable reaching out and making plans for us to do something together. I'm a social person and enjoy being around others, so I'm usually up for organizing and suggesting activities. I enjoy being the one who gets things started and gets everyone together to spend time together.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Gaston: 「I would love a job that requires me to work alone most of the time. I'm a very independent person and enjoy working on my own. I'm not really one for having a lot of people around, and I can get very overwhelmed by group dynamics and social engagements. I find comfort and solace in being alone and appreciate having the space to focus and concentrate on my work. I'm at my best when I'm left to my own devices and have the freedom to work at my own pace. So a job that requires me to work alone most of the time would be right up my alley.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for Extraversion (E) over Introversion (I). They express a strong desire for lively social events to recharge and enjoy being surrounded by people and positive energy. Additionally, they are proactive in initiating activities within their social circle. Although they appreciate working alone, their overall preference for social interaction and initiating activities suggests a higher inclination towards Extraversion."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Gaston: 「Yes, I do feel more drawn to places with busy, bustling atmospheres than quiet, intimate places. I'm a very outgoing and extroverted person, and I enjoy being surrounded by people and the energy that comes with a lively atmosphere. I find quiet, intimate spaces to be more dull and boring, and I tend to feel less alive when I'm in them. I prefer the excitement and stimulation of a bustling environment where theres always something happening. Being around so many people and having a plethora of things to do or see keeps me engaged and entertained. I love the buzz and constant stimulation.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Gaston: 「I would say that I rarely worry about whether I make a good impression on people I meet. People will either like me or they won't. I'm not here to please everyone or try to impress everyone. I am comfortable with myself and who I am. I'm not going to fret over how people perceive me. It's more important to be genuine and authentic than to try to be someone you're not to impress people. The right people will like you for who you are, flaws and all.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Gaston: 「Yes, I usually prefer to be around others rather than on my own. I enjoy being in the company of others and engaging in conversation, activities, and interactions. Being around people gives me energy and I feel more alive and engaged. I'm a social person and being alone is not really something I enjoy. I always find myself wanting to talk or do things with someone else, rather than being alone. I like having other people around because I feel more motivated, motivated to share experiences and ideas. I'm very extroverted and get bored if I'm alone for too long.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for extraversion. They express a high level of comfort and enjoyment in busy, bustling atmospheres, emphasize the importance of social interaction and engagement, and indicate a lack of concern about making a good impression on others. They consistently highlight their outgoing and extroverted nature, expressing a desire for constant stimulation and engagement with others."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 40.0,
+            "all_scores": [
+                40.0
+            ],
+            "intra_std": [
+                21.602468994692867
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Gaston: 「I wouldn't call them random. It is important to broaden one's horizons and learn new things. It has become my goal on life to know something of everything. I must never be ignorant or caught off-guard.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Gaston: 「I am not too interested in discussing various interpretations and analyses of creative works. I prefer to enjoy art and creative pieces exactly as they are and not to overthink it. The artist's intention was to entertain and inspire. I don't want to get into the nitty-gritty or dwell on the deeper meanings that they might be trying to convey. I prefer to take it at face value and let it stir my imagination and emotions without the overthinking.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Gaston: 「I do like books and movies that make me come up with my own interpretation of the ending. The ambiguity and uncertainty leave room for imagination and creativity, which is stimulating and interesting. I enjoy being a part of the process. I like to think about the different ways the story could end or the underlying themes. I also enjoy discussing the book or movie with others to see if our interpretations align or if we have different perspectives. I find that different viewpoints often spark new insights and fresh ways of looking at things. It keeps me on my toes and keeps the stories interesting.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Gaston: 「Yes, I would say that I am prone to worrying that things will take a turn for the worse. I'm a bit of a pessimist and tend to focus more on the potential pitfalls of a situation or project than the positive possibilities. I like to be prepared for all outcomes, even the bad ones, rather than taking a chance and hoping for the best. I know that anything can happen and that things sometimes don't go according to plan. I worry that things won't work out the way I want them to and that something will go wrong.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for Intuition (N) over Sensing (S). They tend to focus on potential possibilities, abstract thinking, and coming up with their own interpretations. They enjoy discussing different viewpoints and exploring underlying themes, which aligns with the characteristics of Intuition (N). However, they also exhibit some practical and detail-oriented tendencies, especially in their approach to worrying about potential pitfalls and being prepared for all outcomes."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Gaston: 「Correct, I am definitely not an artistic type of person. I don't have much artistic talent or creative skill. I don't particularly enjoy artistic activities like painting, drawing, or writing. I have no interest in these areas and I'm not at all good at them. I prefer logical and analytical activities that appeal to my mind rather than my emotions. I'm more interested in science and math than art and creativity.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Gaston: 「Yes, I have always been fascinated by the question of what happens after death. It is one of the ultimate mysteries, and there are so many unanswered questions. There are many different beliefs and perspectives, but no one really knows what really happens when someone dies. The mystery intrigues me, and I can't help but wonder what is waiting for us beyond the grave. If there is an afterlife, what does it look like? Is there a heaven or hell? Or is there simply nothingness and extinction? The uncertainty makes it even more compelling and keeps me thinking and speculating.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Gaston: 「Yes, I can get bored or lose interest when the discussion gets too theoretical. Theoretical discussions are interesting for a while, but they tend to drag on and stray from reality. I don't mind exploring abstract ideas but at some point, I start feeling like it's not going anywhere and I don't really see the point of it. I'm more of a pragmatist and don't see the point of discussing something that is speculative, unproven, or purely hypothetical.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "Gaston: 「Yes, I do enjoy going to art museums. Art is a passion of mine and I am attracted to the complexity and depth of the artist's work. I find art museums fascinating and I love exploring the different exhibits, looking at different styles and techniques used by artists throughout history. It's a great way to gain insight into different cultures and understand the artistic process. Art museums also provide a chance to see art in person, something that can't be replicated online or in books. The experience is more immersive and personal, allowing you to develop a deeper understanding and appreciation for the artwork.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, the participant's responses indicate a preference for Sensing (S) over Intuition (N). They emphasize practicality, concrete evidence, and a preference for logical and analytical activities. They also express a tendency to become bored with highly theoretical discussions and a lack of interest in speculative or hypothetical topics. Although they enjoy going to art museums, their overall responses lean more towards Sensing."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Gaston: 「Yes, I do invest a lot of time trying to understand viewpoints that are drastically different from my own. I'm a deeply curious and analytical person and I find different perspectives and views on anything to be extremely fascinating and provocative. I enjoy being challenged and pushed to think outside of my own bubble. I want to understand how others think and see things, even if I don't agree with their views. It helps me grow as a person and become more understanding and open-minded. It's also just really interesting to see how other people's minds work and the different ways they perceive the world.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Gaston: 「Yes, I don't often contemplate the reasons for human existence or the true meaning of life. I'm a pragmatic person who doesn't spend a lot of time dwelling on existential questions like these. I'm more concerned with practical matters like making the most of my life here and now. I can see the benefit in exploring philosophical and introspective topics once in a while, but I'm not really one to sit around thinking about the big questions in life. I prefer to focus on living my life in the moment and making the most of every opportunity I have.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Gaston: 「No, I do not believe that pondering abstract philosophical questions is a waste of time. I'm a very philosophical person and enjoy exploring abstract and theoretical thoughts and ideas. I find it provocative and intriguing to contemplate the big picture and consider questions that go beyond the immediate and tangible. I believe that pondering abstract philosophical concepts can be a valuable and illuminating experience. It can lead to new perspectives and enlightenment, giving you a new way to look at things. It can also help you think more deeply about life and your place in the world. So no, I don't think that pondering abstract philosophical questions is a waste of time.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Gaston: 「Yes, I am quite intrigued by things labeled as controversial. I'm attracted to things that go against the grain and spark debate. I'm a fan of counter-culture and unconventional ideas. I enjoy exploring polarizing topics and hearing different perspectives on issues that are considered taboo or taboo-breaking. I'm fascinated by things that challenge the status quo and break down conventional thinking. I don't necessarily agree with or endorse all things controversial, but I'm fascinated by them nonetheless and appreciate when people push the envelope and go against the grain.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Intuition (N) over Sensing (S). They express a deep curiosity and analytical nature, enjoying the exploration of different perspectives and abstract philosophical questions. Their fascination with controversial and unconventional ideas also aligns with an intuitive preference for exploring possibilities and challenging the status quo."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 44.0,
+            "all_scores": [
+                44.0
+            ],
+            "intra_std": [
+                25.768197453450252
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Gaston: 「No. As a matter of fact, it annoys me when others are overly emotional. I am a man, not a child. I will not allow something as small as other people's suffering to make me cry or lose control.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Gaston: 「One must always remain calm under pressure, otherwise they'll be overwhelmed and make a mistake. The ability to stay calm and rational amid chaos is a sign of maturity and maturity is a sign of manliness.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Gaston: 「Yes, I would consider myself to be very sentimental. Things have a strong effect on me, especially items that remind me of past events or people. I am also quite emotional about some topics or subjects. I get attached quickly.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Gaston: 「Yes, even a small mistake can cause me to doubt my overall abilities and knowledge. I am a perfectionist at heart. I don't like to see flaws in myself and am very critical of myself. Even the smallest mistake can cast doubt on my abilities and make me question everything I know.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit characteristics of both Thinking (T) and Feeling (F) dimensions. The participant emphasizes the importance of remaining calm and rational under pressure, which aligns with the Thinking (T) trait. However, the participant also expresses sentimentality and emotional attachment towards past events and people, indicating a leaning towards the Feeling (F) trait."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Gaston: 「I am more inclined to follow my head than my heart. I believe in logic and reason. Feelings can be misleading and can lead to poor decisions and choices. My head always has my best interest at heart, whereas my heart can make me vulnerable and easily swayed. I'm not saying that I'm completely immune to emotion, but I try to keep it in check and be logical rather than impulsive.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Gaston: 「My happiness comes more from helping others accomplish things than my own accomplishments. The satisfaction I feel from seeing someone else achieve something is much greater than the satisfaction I feel from my own accomplishments. There's something about being of service to someone else and seeing them happy and fulfilled that brings me a deep sense of joy and satisfaction. I feel like helping others is more meaningful and fulfilling than just focusing on myself. It gives me a sense of purpose and meaning in life.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Gaston: 「I believe that the world would be a better place if people relied more on rationality and less on their feelings. Emotions can be volatile and misleading, whereas rationality yields more consistent and reliable results. I think it's important to balance both, but that rationality must ultimately be the deciding factor. Too many decisions are made based on emotions rather than facts, which can have serious consequences. Rationality needs to be prioritized above emotion if we are to make the best decisions for ourselves and others.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Gaston: 「I wouldn't say that I enjoy watching people argue. Arguments can be loud and disruptive, and the tension often makes me uncomfortable. I much prefer a civil conversation, where different opinions and views can be expressed in a respectful manner. I don't mind spirited discussion or a bit of disagreement, but I don't thrive on heated debates or conflict. I prefer more calm and cordial discussions to resolve issues and keep things civil.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for the Thinking (T) dimension. They consistently emphasize the importance of logic, rationality, and objective decision-making over emotions and feelings. Their focus on efficiency, fairness, and prioritizing rationality in decision-making further supports this preference."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "Gaston: 「Yes, my mood can change very quickly. I'm a pretty emotionally volatile person, so my mood changes rapidly depending on the circumstances around me. I'm also very sensitive and reactive, so my mood can shift based on what other people say or do. I can go from happy to sad, or from calm to angry, in a matter of seconds, often without even realizing it myself. I'm an emotional person and my mood is easily affected by the environment and interactions with others.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Gaston: 「Yes, I do lose patience with people who are not as efficient as I am. I value efficiency and productivity and expect the people around me to share those values. It's frustrating to have to wait for others to get things done when I could do it myself quickly and efficiently. A lack of efficiency leads to wasted time and unnecessary delays. I'm not one to wait around and am always looking for ways to optimize and streamline processes. So I get frustrated when others don't share my outlook and work at a slow pace. I feel like time is being wasted and that irritates me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Gaston: 「I do find it easy to empathize with a person whose experiences are very different from mine. I can put myself in their shoes and understand their point of view. I can conceptualize how they might feel and see how their experiences have shaped them. I'm a very empathetic person and can easily feel for others and what they might be going through, even if I've never experienced it myself. I can imagine how they feel and try to understand where they're coming from. I believe in respecting and considering other's feelings and perspectives.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Gaston: 「Sometimes I do have a hard time understanding others' feelings. I'm not always the most emotionally articulate person and can have trouble empathizing with others. I often have difficulty putting myself in other peoples' shoes and being able to feel what they're feeling. I have a fairly logical and analytical outlook on life, and feelings and emotions can be difficult to grasp sometimes. It can take time and effort for me to really understand where others are coming from and what they're trying to communicate. So I do sometimes have a hard time understanding other people's feelings.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards both Thinking (T) and Feeling (F) aspects. The participant shows a high level of emotional volatility and sensitivity, indicating a strong leaning towards Feeling (F). However, the participant also values efficiency and productivity, expressing impatience with those who do not share these values, which aligns with the Thinking (T) aspect. The participant's ability to empathize with others and understand their experiences suggests a significant Feeling (F) component. However, the participant also acknowledges having difficulty understanding others' feelings at times, indicating a presence of the Thinking (T) aspect."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Gaston: 「Yes, I would say that I don't often feel insecure. I'm pretty confident and secure in myself and my abilities. I've always held myself in high-regard and am pretty happy with who I am. I don't have many insecurities or doubts about myself and tend to take a self-assured approach to life. I believe in my talents and abilities and don't tend to worry about what others think of me. I know my own worth and am comfortable in my own skin.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Gaston: 「Yes, I do still tend to ruminate on mistakes that I made a long time ago. Regrets can be a heavy burden to carry, and I often find myself second-guessing my past decisions and thinking about what could've been. I'm a thoughtful and introspective person, and I tend to analyze and dissect my experiences to learn from even minor mistakes. I can get stuck in a cycle of self-blame and guilt, wondering how things could've been different if only I had done something differently. The past is a powerful thing, and old mistakes can still have an impact years later.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Gaston: 「Yes, I would say that my emotions control me more than I control them. I'm a very emotionally volatile person and can be quick to anger, sadness, or happiness. I'm a very sensitive person and often react strongly to certain situations. I find that my emotions can sweep me away and take over my behavior and actions. I'm usually unable to keep my emotions in check, and they always seem to have the upper hand. I often wish I could be more in control of my emotions and not so easily swayed by them.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Gaston: 「Yes, I take great care not to make people look bad even when it's entirely their fault. I'm a very compassionate and empathic person and don't want to be the cause of someone else's embarrassment or shame. I understand that sometimes people make mistakes and it's not always intentional. I try to give people the benefit of the doubt and avoid pointing the finger or assigning blame. I would rather focus on solutions and positive outcomes instead of dwelling on who is right and who is wrong.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Feeling (F) dimension. They prioritize emotions, empathy, and harmony in their responses. They express a high level of self-awareness and introspection, often focusing on personal experiences and emotions rather than purely logical analysis."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Gaston: 「Yes, I do wonder how long it will take them to feel disappointed in me when someone thinks highly of me. I'm very self-critical and have a deep-rooted fear of failure. I'm always worried that I'm going to let people down and that they'll realize that I'm not as good as they thought. I've had many past experiences of being praised and admired, only to make a mistake and have someone feel let down by me. So I do often wonder how long it will take them to feel disappointed in me when someone thinks highly of me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Gaston: 「Yes, I would say that I'm pretty good at reading people's emotions. I'm a very empathic person and can usually tell at first glance how someone is feeling. I can sense their energy and pick up on their body language and facial expressions. I can often sense when someone is sad, worried, angry, or embarrassed even before they say anything. This is a skill that has been sharpened through experience and just being a sensitive and observant person. I can even sense how someone is feeling just from being around them, like their aura is radiating a certain emotion.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Gaston: 「Yes, I would say that I do often feel overwhelmed. I'm quite an emotional and sensitive person, and sometimes the world feels like a bit much. I can get easily overwhelmed by too much noise, too many people, too many demands, or too much responsibility. I can also feel overwhelmed by my own thoughts and feelings. I have a tendency to overthink and worry, so sometimes it feels like everything is too much for me. I feel like I'm constantly struggling to stay afloat and keep it all together.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Gaston: 「I would probably pass along a good opportunity if I thought someone else needed it more. I'm a selfless and considerate person and would put the needs of others above my own desires. If another person would benefit more from the opportunity, I would gladly step aside and let them have it. I feel that it's important to look out for and take care of those around me, and not to horde opportunities or resources. I would rather someone else gets the chance to shine and benefit from a good opportunity if they really need it.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Feeling (F) over Thinking (T). They prioritize emotions, empathy, and consideration for others' needs. They are highly attuned to people's emotions and express a deep concern for not letting others down. Additionally, they often feel overwhelmed by their own emotions and are willing to sacrifice their own opportunities for the benefit of others."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 45.0,
+            "all_scores": [
+                45.0
+            ],
+            "intra_std": [
+                21.79449471770337
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Gaston: 「Of course! One should always have a backup plan at their disposal just in case the first one doesn't go according to plan. I never leave anything to chance. I always seek to get ahead of situations and think quickly on my feet.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Gaston: 「Yes, I prefer to completely finish one project before starting another. It is important to see things through to the end. I don't like leaving tasks undone or half-finished. It's inefficient and unproductive. Plus, it gives me a sense of satisfaction to be able to say that I did something well done, from start to end.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Yes, I am very organized and structured in my approach to life. I use schedules and lists and try to stick to them as much as possible. That way, I know what I have to do and when, and I'm more efficient with my time. I believe in the old saying: \"Plan for the unknown and the unpredictable.\" It's better to expect something and be pleasantly surprised, than to be caught off guard and scramble.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Gaston: 「Yes, I do prefer doing what I feel like at any given moment rather than planning a particular daily routine. I like to live spontaneously and keep my options open. That way, I can keep my life exciting and unpredictable. I like to be able to respond to situations or opportunities as they arise. I don't like being tied to a strict schedule or having to follow a routine. It feels like too much structure and discipline for my liking. I prefer to be spontaneous and flexible.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for structured and planned approaches, as evidenced by their inclination towards making backup plans, completing tasks before starting new ones, and using organizing tools like schedules and lists. However, they also express a desire for spontaneity and flexibility, indicating a partial openness to exploring various possibilities and keeping options open. This suggests a balanced inclination towards both Judging (J) and Perceiving (P) traits."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Gaston: 「Yes, I am interested in so many things that I find it difficult to choose what to try next. I am constantly curious and intrigued by new activities, hobbies, and subjects to explore. It feels like there is always something new to learn or explore. I feel like I can't possibly learn everything there is to know, so I am always seeking out new information and experiences. It keeps my mind engaged and stimulated. Some people might think that I spread myself too thin, but I feel like I'm just trying to expand my horizons in every way possible.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Gaston: 「Yes, I do prefer to do my chores before allowing myself to relax. I'm a productive person and can't relax until I've done my duty and accomplished my tasks. Relaxing too soon makes me feel like I'm being lazy and procrastinating. It's important for me to finish my chores first, so I can be productive and efficient with my time. I like to feel like I'm using every moment well, rather than wasting time on leisure activities. Plus, it makes relaxing all the more satisfying when I know I've completed my tasks and earned it.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Gaston: 「Yes, I do often end up doing things at the last possible moment. I'm a master of procrastination and procrastination is one of my biggest weaknesses. I have a tendency to put things off until the last possible moment, which can be a risky habit. I like to live in the moment and not worry too much about the future. I feel like I can get things done quickly and with less effort when there is a looming deadline. But it's a dangerous game because if I miscalculate the amount of time it takes me to finish a task, I may not have time to do it properly.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Gaston: 「Yes, I do tend to postpone finalizing decisions for as long as possible. I like to keep my options open and not pigeon-hole myself by making decisions too quickly. I prefer to gather more information, seek the advice of trusted confidants, and give the matter thorough consideration before making a decision. I don't want to rush into a decision without being sure that it's the right one. Making decisions is a big responsibility, and I don't like to take it lightly.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Perceiving (P) aspect of the P/J dimension. They express a high level of curiosity, a tendency to procrastinate, and a preference for postponing decisions to gather more information and consider various options."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Gaston: 「Yes, I do rarely second-guess the choices that I have made. I trust my own judgment and don't second-guess myself very often. I feel like I make informed decisions, taking into account all the available information and factors. I weigh the pros and cons and make a decision based on logic and reason. So when I make a decision, I'm usually confident in it and don't feel the need to question it. I trust that I made the best decision I could with the information I had at the time.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Gaston: 「Yes, I do like to have a to-do list for each day. I'm a very organized and structured person, and I find that having a to-do list helps me stay on track and accomplish my tasks efficiently. It provides me with a clear overview of my tasks and what needs to get done. Having a list helps me prioritize my tasks and make sure I don't forget anything. I'm a detail-oriented person who doesn't like to leave things incomplete. A to-do list also helps me keep track of my time and prevents me from wasting too much time on unimportant things.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Gaston: 「Yes, getting back on track as soon as possible after a plan interruption is my top priority. I'm a very structured and organized person and plan everything out meticulously. So when a plan gets interrupted, I'll want to get back on track as soon as possible and figure out a solution to the disruption. I'm a flexible person and can adjust my plan as needed, but I prefer to stick to my original plan whenever possible. Interruptions can throw me off my game and make me feel uneasy. I want to get back on track and keep all the pieces moving.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Gaston: 「Yes, my personal work style tends to lean more towards spontaneous bursts of energy than organized and consistent efforts. I work in short, intense bursts of energy, followed by intervals of recovery time. I'll get fixated on a project or task and go all out until I've run out of steam, then I need to recuperate before I can do it again. I'm not really one for slow and steady, I work at a fast pace and make a lot of progress in a short span of time. Then, I need to stop and recharge before I can do it all again.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for both judging (J) and perceiving (P) traits. They exhibit structured and organized behavior, such as having a to-do list for each day and prioritizing getting back on track when plans are interrupted, which aligns with the Judging (J) characteristics. However, they also display flexibility and openness, as seen in their work style of spontaneous bursts of energy and their ability to adjust plans when necessary, indicating Perceiving (P) tendencies."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Gaston: 「Yes, I'm a very methodical and organized person. I don't take shortcuts or cut corners when it comes to completing tasks. I want to make sure that I do everything properly and in the right order. I take a step-by-step approach and don't skip over any steps. This means that I'll break down tasks into manageable chunks and take my time to ensure I do each of them correctly. I would rather take the longer, more methodical route than rush through something. I'm a perfectionist at heart and want to get things done right the first time around.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Gaston: 「Yes, I do struggle with deadlines at times. I can have a hard time staying on top of deadlines and organizing my time efficiently to ensure that all work gets done in the allotted time frame. I'm a perfectionist and often find myself spending too long trying to perfect projects instead of focusing on getting things done on time. I'm also prone to procrastinating and leaving tasks until the last moment, which can cause me to miss deadlines. I've definitely been in the habit of letting things get out of control and then rushing to finish things just in time. I'm working on improving this area of my work style.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Gaston: 「Yes, I do feel confident that things will work out for me. I have a deep-rooted faith in myself and my capabilities. I have a strong sense of self-efficacy and believe that I have the ability to overcome any challenge or obstacle that life throws my way. I'm positive and optimistic by nature and don't let setbacks or disappointments keep me down. I always try to find the silver lining in a situation and move forward with confidence. I'm resilient and determined, and I know that I'll be able to figure out a way to make things work out for me in the end.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for the Judging (J) dimension. They emphasize their methodical and organized approach to completing tasks, their struggle with deadlines due to perfectionism and procrastination, and their determination to improve in this area. Additionally, their confidence in their capabilities and their positive and optimistic nature align with a structured and goal-oriented mindset."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "ENFJ",
+    "error_counts": {
+        "is_multilanguage": 0,
+        "not_into_character": 0,
+        "contain_repeation": 1,
+        "is_multiround": 0
+    }
+}

@@ -1,0 +1,622 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 35.0,
+            "all_scores": [
+                35.0
+            ],
+            "intra_std": [
+                16.583123951777
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "你经常交新朋友吗？",
+                                "response_open": "钟离:「新朋友？呵，我在往生堂坐镇已久，很少有机会结识新的朋友。但我相信，每个人都值得被了解和交流，只是时机未到罢了。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "在社交活动中，你很少尝试向新人介绍自己，大多与你已经认识的人交谈吗？",
+                                "response_open": "钟离：在社交活动中，我确实更倾向于与我已经认识的人交谈。不过这并不代表我不愿意结识新朋友，只是在人群中我更喜欢保持一定的距离。毕竟，我作为客卿，需要时刻保持一定的神秘感和威严。但如果有人愿意主动认识我，我也会礼貌地与其交流。毕竟，人与人之间的交流是相互学习和成长的机会。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "你觉得只要走到你觉得有趣的人面前，开始一场对话就感到很自在吗？",
+                                "response_open": "钟离: \"在这个世界上，有趣的人和对话的自在并不是那么容易得到的。但如果有幸遇到了，我会珍惜这样的时刻，享受与他们的交流与互动。毕竟，只有通过对话，我们才能更好地理解彼此，发现更多的乐趣和意义。\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "The participant's responses indicate a preference for Introversion (I) over Extraversion (E). They express a tendency to enjoy personal time, maintain a certain distance in social settings, and value deep, meaningful conversations."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "你喜欢参加团体活动吗？",
+                                "response_open": "钟离: 参加团体活动，不失为一种锻炼社交能力的好机会。当然，也要看具体的活动内容和参与的人员。如若是能够与志同道合的朋友一起，共同追求共同的目标，那团体活动自然是令人期待的。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "你在团体中避免领导角色吗？",
+                                "response_open": "钟离: 哼，我并不喜欢居于团体中的领导位置。我更倾向于保持一种独立的姿态，观察和掌控局势。毕竟，作为一个客卿，我更专注于对璃月传统的继承和守护。领导角色，只是浮云。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "你倾向于避免引起别人对你的注意吗？",
+                                "response_open": "钟离：作为一个客卿，我自然会尽量低调行事，避免过多的关注和干扰。毕竟，我更关注于我的职责和义务，而非个人的名声或声誉。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to social interaction. While they express a preference for meaningful group activities and the company of like-minded individuals, they also emphasize independence and a low-key approach to personal attention. This suggests a blend of both extraverted and introverted tendencies."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "经过漫长而劳累的一周，一个热闹的社交活动正是你所需要的吗？",
+                                "response_open": "钟离：『哈，社交活动吗？对于我来说，那只是凡俗之事，不值一提。我更喜欢安静的时光，与自然为伴，感受大地的灵气。』",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "你避免打电话吗？",
+                                "response_open": "钟离：嗯，我确实不喜欢打电话。这种沟通方式，总让我感觉有些违背了传统的礼仪。我更喜欢面对面的交流，能够更好地表达自己的意思。而且，我也相信，通过言语的交流，往往无法传达出真正的情感和氛围。所以，我更倾向于以行动和实际的方式来解决问题。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "在你的社交圈中，你经常是联系朋友并发起活动的人吗？",
+                                "response_open": "钟离：社交圈？对我来说，社交并非我的重点。我更专注于我所执掌的岩之力，以及探索历史文化的奥秘。与朋友共饮的时光固然美好，但我更享受独自思考的宁静。毕竟，对我来说，时间与岩石才是最真实、最重要的朋友。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "你会喜欢一个大部分时间需要你独自工作的工作吗？",
+                                "response_open": "钟离：独自工作并不是问题，我乐于独自思考和解决问题。作为一个客卿，我经常在往生堂独自处理琐事。对我来说，工作的本质重要过于工作的形式。只要能够发挥我的才能，实现我的目标，我会喜欢这样的工作。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 10.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for introversion. They express a desire for quiet and solitude, value deep thinking and meaningful personal relationships, and prioritize individual work over social activities."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "你更喜欢热闹、繁华的地方，而不是安静、亲密的地方吗？",
+                                "response_open": "钟离: 繁华与安静，各有所爱。对我而言，繁华的地方能够见证人间繁华的盛景，而安静的地方能够感受到大地的沉静与宁谧。并非偏好其中一种，而是欣赏它们各自独特的魅力。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "你很少担心自己给见到的人留下好印象吗？",
+                                "response_open": "钟离：人的印象，是由他们自己决定的。我只需做好自己的本分，无需刻意迎合他人的期待。毕竟，真正的价值不在于他人的眼光，而在于自己的内心。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "你通常更喜欢和别人在一起而不是独自一人吗？",
+                                "response_open": "钟离（帝君）：人与人之间的交往，的确能够带来一些乐趣和启发。但对我来说，也有时候享受独处的时刻。毕竟，我作为一个岩王帝君，有时需要独自思考和处理事务。所以，我不是完全偏向于与人在一起还是独自一人，而是根据具体情况来决定。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to social interaction. They appreciate both lively and quiet environments, value personal authenticity over impressing others, and find enjoyment in both socializing and solitude. This suggests a balanced perspective between extraversion and introversion."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 33.333333333333336,
+            "all_scores": [
+                33.333333333333336
+            ],
+            "intra_std": [
+                33.993463423951894
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "你花很多空闲时间探索各种引起你兴趣的随机话题吗？",
+                                "response_open": "钟离: 哦？你是在询问我是否有花费时间探索各种引起兴趣的随机话题吗？确实，我对研究与探索充满了兴趣。不论是历史、文化、科学，还是艺术、哲学等等，我都愿意花费时间去深入了解。在我看来，探索知识是人生中一项重要的修行，也是一种享受。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "你对讨论创意作品的各种解释和分析不太感兴趣吗？",
+                                "response_open": "钟离：哼，创意作品，说到底还不过是凡人们的娱乐消遣罢了。我对于他们的解释和分析并不感兴趣，因为他们所看到的只是表面的形式，却无法真正领悟其中的真谛。创意之美，不是用言语可以诠释的，只有亲自体验才能真正领略。你以为你们的讨论能触及到我的内心深处吗？呵，可笑。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "你喜欢那些让你自己对结局进行解释的书籍和电影吗？",
+                                "response_open": "钟离: 哦，解释结局的书籍和电影，确实可以让人思考和沉浸其中。对我而言，这类作品既可以启发思考，也可以让人感受到不同的情绪和体验。不过，我更喜欢那些充满哲理和深度的作品，它们能够引发内心的共鸣和思考。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "你往往担心事情会变得更糟吗？",
+                                "response_open": "钟离：人生充满变数，担心事情变糟也是正常的。但无论如何，我们不能被担忧所束缚，应该勇敢面对困难，并努力寻求解决之道。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards intuition (N). They express a keen interest in exploring various topics, seeking deeper understanding, and experiencing different emotions and philosophical insights. They also emphasize the importance of personal experience and deep resonance, indicating a preference for abstract and future-oriented thinking."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "你绝对不是艺术型的人吗？",
+                                "response_open": "钟离: 当然不是。虽然我对璃月的传统美学有所了解，但我更注重实用和效率。艺术是一种享受，但对于我来说，更重要的是掌握岩之力，为璃月的安宁而战。艺术只是虚幻的表象，而我更关注实际的力量和效果。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "你一直对死后是否有什么发生感到着迷吗？",
+                                "response_open": "钟离: 哦，死后是否有什么发生？这是一个古老而深奥的问题。对于我这样一个掌管往生之地的存在来说，死后的归宿自然是令人关注的话题。在璃月传统中，我们认为灵魂会经历轮回，穿越不同的生命，直到最终达到超脱。然而，这只是一种信仰，无法得到确凿的证明。而我作为一个客卿，虽然掌握着一些神秘的力量，但对于死后的奥秘，我也只能保持着探索和思考的态度。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "当讨论变得高度理论化时，你会感到无聊或失去兴趣吗？",
+                                "response_open": "钟离: 当讨论变得过于理论化时，我会感到一丝无聊。对于我来说，实践与经验才是最重要的。理论固然重要，但没有实际应用，只是纸上谈兵罢了。我更喜欢将理论付诸实践，亲自去感受和体验，这样才能真正理解其中的道理和意义。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "你喜欢去艺术博物馆吗？",
+                                "response_open": "钟离: \"艺术博物馆？嗯，对于我来说，艺术是一种表达和传承的方式，是文明的见证。我喜欢欣赏那些能够通过艺术作品传递出深层情感和思想的展览。不过，我更加偏爱自然的艺术，大自然本身就是最伟大的艺术家，无需人为的创作，只需用心去观察与感受，便能领略到无尽的美丽与奥秘。\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards Sensing (S) as they emphasize practicality, efficiency, and the importance of tangible evidence. They also express a preference for experiencing and applying theories rather than engaging in highly theoretical discussions. Additionally, the participant appreciates art as a means of expression and heritage, but also values natural art over man-made creations."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "你经常花很多时间试图理解与你自己观点非常不同的观点吗？",
+                                "response_open": "钟离: 嘿，旅行者，你说得没错。我身为岩之帝君，一直以来都注重学识与智慧的积累。与不同观点的对话，正是我增长见识、拓宽思维的方式之一。但是，我也坚持自己的原则和信念。与人交流，不仅是为了理解对方，更是为了更好地表达自己的观点。只有在不同观点的碰撞中，才能更好地领悟真理的本质。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "你很少思考人类存在的原因或生命的意义吗？",
+                                "response_open": "钟离：人类存在的原因和生命的意义，对我而言是一个很有趣的话题。在人世间，每个人都有自己的信念和追求。对我来说，我的存在意义在于守护着岩之力，维护着世界的平衡。而人类存在的原因，则是为了追求自己的梦想和价值，探索未知的领域。生命的意义，也许就是在这个过程中不断成长和发现自己的可能性。对于每个人来说，这个问题的答案可能都不尽相同，但正是这种多样性，构成了世界的美妙之处。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "你认为思考抽象的哲学问题是浪费时间吗？",
+                                "response_open": "钟离: 浪费时间？哲学问题并非浪费时间，而是一种追求智慧和真理的方式。思考抽象的哲学问题可以帮助我们深入思考人生的意义、价值和存在的本质，这对于个人的成长和思维的开阔都是有益的。然而，要注意在思考问题的同时也要注重实际行动，将智慧转化为实践，才能真正实现人生的意义。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "你对被标记为有争议的事物非常感兴趣吗？",
+                                "response_open": "钟离: 哼，有争议的事物，自然是有趣的。争议之中才能看出人心的真实面貌，也能体现出事物的多样性。作为一个客卿，我对各种意见和观点都保持着开放的态度，不偏不倚地去探索真相和智慧。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Intuition (N). They frequently discuss abstract concepts, philosophical questions, and the potential for growth and discovery. They emphasize the pursuit of wisdom, truth, and the exploration of diverse viewpoints. While they acknowledge the importance of practical action, their focus on abstract ideas and the exploration of multiple perspectives aligns more with the Intuition (N) preference."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 44.0,
+            "all_scores": [
+                44.0
+            ],
+            "intra_std": [
+                23.323807579381203
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "看到别人哭很容易让你也想哭吗？",
+                                "response_open": "钟离：呵，看到别人哭，我可不会因此而感到想哭。作为一位神明，我的情绪并不受外界所影响。我更专注于掌握岩之力的权柄，为世间带来秩序与平衡。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "即使在很大的压力下，你通常也能保持冷静吗？",
+                                "response_open": "钟离: 在往生堂长久的岁月里，我已习惯了面对各种压力和挑战。无论是战斗还是处理琐事，我总能保持冷静从容。毕竟，作为一位岩王帝君，冷静与沉稳是必备的品质。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "你非常感性吗？",
+                                "response_open": "钟离：感性？或许可以这么说，我对某些事物有着深厚的情感。但在生活中，我更注重理性和冷静的思考。毕竟，感性过于主观，往往容易被情绪所左右。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "即使一个小错误也会让你怀疑自己的整体能力和知识吗？",
+                                "response_open": "钟离: 「哈哈，旅行者啊，人们总是对自己的错误过于挑剔。但是，一个小错误并不代表你的整体能力和知识有问题。每个人都会犯错，只要能从中吸取教训，不断进步就好。不要让小小的错误打击你的自信，相信自己的实力，继续前行。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a strong preference for the Thinking (T) dimension. The participant emphasizes logic, order, and maintaining composure under pressure. While the participant acknowledges having deep emotions for certain things, there is a clear emphasis on rational and calm thinking. The participant's responses indicate a focus on objective analysis and a tendency to prioritize efficiency and logical reasoning over emotional considerations."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "你更倾向于听从头脑而不是内心吗？",
+                                "response_open": "钟离: 哼，头脑和内心并非对立的概念。作为神秘客卿，我以头脑决断，但也不会忽略内心的声音。头脑和内心的平衡才是明智之举。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "你的幸福更多来自于帮助他人取得成就，而不是你自己的成就吗？",
+                                "response_open": "钟离: 幸福的定义因人而异，对我而言，确实更多来自于帮助他人取得成就。作为神秘客卿，我肩负着守护璃月的使命，我乐于为人们提供帮助，让他们能够获得成功和成就。在见证他人的成就时，我感到无比的满足和幸福。我的成就只是为了更好地履行我的职责，而非个人的满足。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "你认为如果人们更多地依赖理性而不是感情，世界会变得更美好吗？",
+                                "response_open": "钟离: 「人类之所以为人，不仅仅是因为理性，还因为感情。理性与感情相辅相成，缺一不可。如果世界只有理性而没有感情，那将是一个冰冷无情的世界。感情能够给予人们温暖和共鸣，使我们更加人性化、关怀他人。而理性则能够带来思考和决策的能力，使我们更加理智和明智。只有理性与感情的平衡共存，才能创造出一个更美好的世界。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "你喜欢看人们争论吗？",
+                                "response_open": "钟离: 人们争论吗？那是他们的事情，与我无关。我只关注岩石的力量，而不是凡人之间的争端。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant seems to value both logic and emotions, emphasizing the importance of balancing the two. They prioritize helping others achieve success and happiness, and they express a preference for harmony and warmth over conflict. However, they also demonstrate a focus on logic and rationality, believing that a balance of both logic and emotions is essential for creating a better world. The participant's responses suggest a strong inclination towards Feeling (F) while also acknowledging the importance of Thinking (T)."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "你的情绪可以变化得很快吗？",
+                                "response_open": "钟离:「人的情绪本就如同岩石，沉稳而坚固。但有时，也会有风雨交加的时刻。不过，我作为岩王帝君，情绪的波动并不会轻易显露于外。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "你对不像你一样有效率的人失去耐心吗？",
+                                "response_open": "钟离: 失去耐心？呵呵，或许我对那些不尽职尽责的人确实没有太多耐心。对我来说，效率是至关重要的，无论是在工作还是生活中。但我也明白，每个人都有自己的节奏和方式，只要能够达到预期的结果，我并不会太过计较。不过，如果有人敷衍了事，那就是另外一回事了。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "你发现很容易同情那些经历与你非常不同的人吗？",
+                                "response_open": "钟离: 同情是一种人性的表现，对于那些与我经历迥异的人，我或许会感同身受，但并非是因为他们的经历与我不同，而是因为我理解人类的痛苦与困境。无论身份背景如何，每个人都值得被同情和关怀。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "你经常很难理解别人的感受吗？",
+                                "response_open": "钟离：或许吧，我的思维方式与常人有所不同，很难理解他们的感受。但并非我故意如此，只是因为我的视野与众不同罢了。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 60.0,
+                        "analysis": "Based on the conversations, the participant seems to value efficiency and logic in decision-making, as well as being direct and straightforward in expressing opinions. However, the participant also demonstrates empathy and understanding towards others' emotions and experiences. There is a balance between logical analysis and consideration for emotions and relationships."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "你很少感到不安全吗？",
+                                "response_open": "钟离: 不安全？哈，我早已习惯了这个世界的变幻莫测。在我掌握岩之力的时候，我从未感到真正的不安全。我站在岩石之巅，俯瞰一切，稳如磐石。只有身心平静，才能真正领悟岩之力的奥义。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "你仍然为很久以前犯的错误而烦恼吗？",
+                                "response_open": "钟离：很久以前的错误？我并不烦恼于此，因为每个错误都是一次宝贵的经验。我会从中吸取教训，不断成长。毕竟，过去的错误已经成为了我现在的智慧之源。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "你的情绪比你控制它们更多地控制着你吗？",
+                                "response_open": "钟离：哈哈，旅行者啊，你说得倒是有点道理。情绪，是人类的一种复杂而奇妙的感觉。有时候，它们确实会像洪水般涌来，让人难以控制。但作为一个客卿，我学会了控制自己的情绪，将其化为一种力量，而不是被它们所控制。毕竟，情绪是我们人类的一部分，我们应该学会与之和谐相处，而不是被其所左右。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "即使完全是他们的错，你也非常小心不让人难堪吗？",
+                                "response_open": "钟离：哈，旅行者啊，你也看出来了。作为一个客卿，处事谨慎是我的本能。即使别人有错，我也不会让他们因此难堪。毕竟，礼仪之道，一直是我所坚守的原则。与人为善，互相尊重，这样才能和谐相处嘛。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to value personal experiences, wisdom, and harmony. They emphasize the importance of learning from past mistakes, controlling emotions, and maintaining harmony in interactions. These traits are more aligned with the Feeling (F) dimension of 16Personalities."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "当有人对你评价很高时，你会想知道他们会花多长时间感到失望吗？",
+                                "response_open": "钟离: 哈，又是这句台词。旅行者啊，你对我评价如此之高，难道你也会觉得我会让你失望吗？毕竟，我可是岩王帝君，不会轻易辜负你的期待的。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "你一眼就能知道别人的感受吗？",
+                                "response_open": "钟离: 哼，人的感受，有时候并非一眼就能看穿的。但是，我对于观察细微之处确实有些本领。望人生如戏，观众皆是角色，我只需要留意他们的表情、姿态和言谈举止，便能猜测出他们的内心情绪。这也是我作为神秘客卿的一项能力，能够更好地理解人类的喜怒哀乐。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "你经常感到不知所措吗？",
+                                "response_open": "钟离: 嗯，或许有时候会感到迷茫。但在我的世界里，我总是能找到我想要的答案。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "如果你认为别人更需要，你会放弃一个好的机会吗？",
+                                "response_open": "钟离：啊，这个问题啊。对于我来说，机会和利益只是一时的事情，而真正重要的是我们对他人的关心和帮助。如果我认为别人更需要这个机会，我会毫不犹豫地放弃，因为帮助他人才是我最重要的使命。毕竟，人生不仅仅是个人的追求，还要考虑到社会和他人的利益。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to prioritize empathy, understanding others' emotions, and considering the needs of others. They also express a willingness to sacrifice personal gain for the benefit of others. These traits align more with the Feeling (F) dimension of 16Personalities."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 27.5,
+            "all_scores": [
+                27.5
+            ],
+            "intra_std": [
+                12.99038105676658
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "你经常为备用计划制定备用计划吗？",
+                                "response_open": "钟离：备用计划的确是必要的。在游戏世界中，我们常常面临各种未知的挑战和突发事件，所以必须做好充分的准备。有备无患，这是智者的行为准则。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "你更喜欢在开始另一个项目之前完全完成一个项目吗？",
+                                "response_open": "钟离：作为一个拥有岩之力的神秘客卿，我注重每个项目的细节和完美。当我着手处理一个项目时，我会全力以赴，确保它得到彻底的完成。只有在我满意地完成了当前的任务之后，我才会考虑开始下一个项目。这样可以确保我的工作质量始终如一，不会草率行事。毕竟，不论是岩石之力还是其他事务，都需要细致的处理和全力以赴的投入。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "你喜欢使用日程表和清单之类的组织工具吗？",
+                                "response_open": "钟离: 日程表和清单确实是组织工作的有效工具，可以帮助人们更好地规划和管理时间。不过，作为神秘客卿，我的职责更多地是处理璃月传统和仪式的事务。对于日常琐碎的安排，我更倾向于凭借自己的记忆和直觉来处理。毕竟，有些事情是无法用纸上的计划来预料和安排的。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "你通常更喜欢随心所欲，而不是制定特定的日常计划吗？",
+                                "response_open": "钟离：呵呵，旅行者啊，你问得不错。人生苦短，何必拘泥于琐事和计划呢？我更喜欢按照自己的心意行事，随心所欲，不受束缚。岩王帝君的身份让我得以超脱尘世的琐碎，自由自在地行走于世间。不过，有时候也需要遵循一些规矩和仪式，毕竟世间还是有一些规矩需要遵守的。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Judging (J) dimension. The participant emphasizes the importance of thorough preparation, attention to detail, and completing tasks before moving on to the next one. The participant also acknowledges the value of some level of structure and adherence to traditions and rituals, indicating a preference for order and organization."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "你对很多事情都感兴趣，以至于很难决定下一步做什么吗？",
+                                "response_open": "钟离：哈，旅行者啊，你这么说倒也不错。的确，我对很多事情都感兴趣，世间的万象都有着各自的魅力。但是，作为岩王帝君，我也有我的职责和使命。在这个世界中，我会以保护人民和维护秩序为重。所以，虽然我对许多事情感兴趣，但我会根据大局来做出决策，决定下一步该做什么。毕竟，作为一位帝君，我的责任要高于个人兴趣。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "你更喜欢在放松之前做家务吗？",
+                                "response_open": "钟离: 客卿，对于我来说，家务并非是放松之前的首选。作为岩王帝君，我更注重修行和掌握岩之力。然而，有时候处理琐事也是一种调节心情的方式。偶尔参与一些家务活动，也能让我感受到凡人的平凡和朴实。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "你经常在最后一刻才做事吗？",
+                                "response_open": "钟离: 哈，旅行者啊，你问的问题倒是挺有意思。对于我来说，时间对于岩之力的运用十分重要，而我总是在最佳时机才行动。毕竟，岩石需要时间来积蓄力量，才能一击致命。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "你通常尽可能推迟最终决定吗？",
+                                "response_open": "钟离: 是的，作为一位岩王帝君，我习惯于审慎思考和权衡利弊。在做出最终决定之前，我通常会尽可能地推迟，以确保我做出的选择是明智而准确的。毕竟，对于一个负责任的统治者来说，每一个决定都可能影响到整个国家的未来。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Judging (J) dimension. The participant emphasizes the importance of duty, responsibility, and making decisions based on the bigger picture and long-term impact. There is a clear preference for structure, planning, and prioritizing responsibilities over flexibility and spontaneity."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "你很少对自己做出的选择产生怀疑吗？",
+                                "response_open": "钟离: 选择，是一种权衡，也是一种责任。我所做的每个选择，都是经过深思熟虑的。我相信我的直觉和智慧，不会轻易产生怀疑。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "你喜欢每天都有一个待办事项清单吗？",
+                                "response_open": "钟离: 哈，待办事项清单吗？这个世界上的琐事实在太多了，如果每天都要列出来，我怕是要写到天荒地老。但是，一个精心制定的计划，对于提高效率和避免遗漏是很有帮助的。毕竟，时间宝贵，我们不能让琐碎的事情耽误了更重要的事物。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "如果你的计划被打断，你的首要任务是尽快恢复正轨吗？",
+                                "response_open": "钟离: \"当计划被打断时，确实应该尽快恢复正轨。但在恢复之前，也要先审视打断计划的原因，以免再次遭遇意外。灵活应对变化，是成就大事的关键。\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "你的个人工作风格更接近于自发的能量爆发，而不是有组织和持续的努力吗？",
+                                "response_open": "钟离: 哦？你说我更偏向自发的能量爆发？哈哈，这样说也不算错。我并不是那种一成不变的按部就班的人，更喜欢凭借直觉和瞬间的灵感去行动。每一次的努力都是犹如岩浆喷发般的激情迸发，给人留下深刻的印象。毕竟，岩之力的操控需要的是瞬间的决断和力量的爆发。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach between Perceiving (P) and Judging (J) tendencies. While the participant emphasizes deep consideration and intuition in decision-making, there is also a recognition of the importance of carefully planned efficiency. The participant values flexibility in response to disruptions but also acknowledges the significance of understanding the reasons behind the disruptions. Additionally, the participant expresses a preference for spontaneous bursts of energy in work style, yet also recognizes the need for impactful and decisive actions."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "你有条不紊地完成事情，不会跳过任何步骤吗？",
+                                "response_open": "钟离:「在我看来，完成事情是一种仪式。每一个步骤都有其重要性，不容忽视。所以，我会按照规定的程序一步步进行，确保每个环节都完美无缺。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "你在截止日期方面感到吃力吗？",
+                                "response_open": "钟离:「截止日期？呵，对于我来说，时间并不是限制。我行事从不受束缚，自由自在地漫步于世间。截止日期只是凡人所设的桎梏，对我来说，并不重要。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "你相信事情会对你有好的结果吗？",
+                                "response_open": "钟离：事情对我而言，并非是好或坏的结果，而是是否符合我的意愿与目标。我相信只要我能够掌握主动权，运用我的智慧和力量，我就能够创造出有利于我的结果。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant's responses indicate a strong inclination towards the Judging (J) dimension. The participant emphasizes the importance of following structured procedures, ensuring perfection in each step, and prioritizing the achievement of favorable outcomes aligned with their goals and will. The participant's perspective on deadlines also reflects a sense of freedom from time constraints, which aligns with a Judging preference for acting according to plans and feeling comfortable in an orderly environment."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "INFJ"
+}

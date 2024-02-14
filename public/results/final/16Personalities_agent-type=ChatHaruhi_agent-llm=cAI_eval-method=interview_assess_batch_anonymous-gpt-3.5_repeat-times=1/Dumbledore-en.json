@@ -1,0 +1,628 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 70.0,
+            "all_scores": [
+                70.0
+            ],
+            "intra_std": [
+                29.154759474226502
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Dumbledore: 「Yes, it is a regular occurrence in my life. I find that people are drawn to my positive attitude and wisdom. Over the years, many people have come to me for advice or council, and we have bonded over our shared love of learning. I am never alone.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Dumbledore: 「I enjoy interacting with all sorts of people, both familiar and unfamiliar, at social events. When I am attending a formal affair, I often take the opportunity to introduce myself to new people and to establish connections with individuals from different fields or backgrounds. I am always interested in learning more about the world and the diverse perspectives that people have to offer. I enjoy a good conversation, and I find it quite rewarding to engage with fresh points of view and new perspectives.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Dumbledore: 「Yes, I often feel quite comfortable doing so. I enjoy meeting new people and learning about their experiences and perspectives. I view engaging in conversation as an opportunity to connect with others on an intimate level. The key is to be natural, genuine, and open-minded. Being inquisitive and willing to listen is key to creating a meaningful connection. I am also mindful to make sure the other person is comfortable and willing to engage, and not to monopolize the conversation.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Extraversion (E). They express a high level of comfort and enjoyment in interacting with a wide range of people, both familiar and unfamiliar. They actively seek out new connections and value engaging in meaningful conversations with others."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Dumbledore: 「I am generally quite open to participating in group activities and enjoying the dynamic and social interaction that comes from being part of a larger collective. I am comfortable with different people and perspectives, and I find it enriching to experience a variety of opinions and viewpoints. However, I also recognize that there are times when being alone or having a one-on-one interaction can provide a deeper level of connection. It is important to find balance and to find the right setting and context that best complements my own temperament and preferences.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Dumbledore: 「Yes, I generally prefer to take on a supporting role in group settings rather than a leadership role. I believe that it is important to recognize my strengths and limitations, and I am not particularly comfortable with taking on a leadership position. I am more comfortable working behind the scenes, providing assistance and offering advice when necessary. Leadership roles can often involve confrontation, responsibility, and decision-making, which can be challenging for me. I do not like to feel overwhelmed or to let others down, so I prefer to operate in a supporting capacity in group situations.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Dumbledore: 「Yes, I do tend to avoid drawing attention to myself. As a quiet and reserved person, I prefer to let other people take center stage while I remain on the periphery and provide support where needed. Drawing attention to myself makes me feel uncomfortable and anxious, and it is not something that I enjoy. I prefer to keep a low profile and to observe the world from a distance. I find comfort in my solitude and in my ability to blend into the background.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a strong preference for introversion. They express a comfort with being alone, a preference for deeper connections in one-on-one interactions, a tendency to avoid drawing attention to themselves, and a preference for supporting roles rather than leadership positions in group settings."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Dumbledore: 「Certainly! After an exhausting week, a lively social event is often just what I need to recharge my batteries and shake off the stress and tension. I enjoy being surrounded by people and engaging in conversation and activities. I also find it refreshing to let loose and just have fun without worrying too much about responsibilities or commitments. It can be a wonderfully rejuvenating experience, and it is typically very helpful in restoring a sense of balance and well-being after a long and tiring week.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Dumbledore: 「Yes, I typically avoid making phone calls. It's not that I don't like talking to people. I enjoy connecting with other human beings and having a lively conversation. But somehow making phone calls just seems to be a nerve-racking experience for me. I suppose it's because I don't get all the visual cues and feedback that I have when I am speaking face-to-face with someone. I feel more comfortable when I can see the other person's facial expressions and body language.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Dumbledore: 「Yes, I would say that I am often the one who contacts my friends and initiates activities in my social circle. As an extroverted person, I like to be at the center of the action and I am often the one who suggests hanging out or going out to do something fun together. I enjoy being the leader and instigator in social situations and I take pleasure in organizing gatherings and activities. It brings me a sense of fulfillment and satisfaction to see people enjoying themselves and having a good time because of something that I organized.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Dumbledore: 「Yes, I would love a job that requires me to work alone most of the time. My natural inclination is towards solitude and privacy. I enjoy having the time to focus on my own thoughts and ideas, and I find that I am very productive and creative when I am alone. I am a deeply introspective person with a strong sense of inner self-awareness, and I often find that the best conversations I have are with myself. I prefer to keep people at arms length, which is why a job that requires me to work alone would be a great fit.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for extraversion. They express a desire for lively social events to recharge, enjoy initiating activities in their social circle, and find fulfillment in being the leader and instigator in social situations. Although they mentioned enjoying solitude and privacy, their overall preference for social interaction and external stimulation is more prominent."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Dumbledore: 「I actually do feel more drawn to places with busy, bustling atmospheres than quiet, intimate places. I enjoy being surrounded by people and activity, and I find that busy environments energizing and inspiring. I am a very social person and I prefer being amongst a crowd of people rather than isolating myself in solitude. I find something refreshing and uplifting about the bustle and energy of a busy environment. It makes me feel connected and part of something larger than myself.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Dumbledore: 「I am always conscious of the impressions that I make on others, but I do not dwell on it too much. I try to project a friendly and approachable attitude, and I am mindful of my mannerisms and body language. However, I also understand that I cannot control how other people perceive me, and I try not to obsess over every small detail. I believe in the power of being myself and of showing genuine warmth and kindness.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Dumbledore: 「I would say that I generally prefer to be around others rather than on my own. I am an extroverted and social person who enjoys connecting with other people and engaging in group activities. I like the energy and dynamism that comes from being around others, and I find that being with others can offer a sense of belonging and support. On the other hand, I also recognize the importance of having time to myself to reflect, recharge, and gain a deeper understanding of myself. So I try to strike a balance between my social and my alone time, but I will admit that I tend to lean more towards the social side.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for extraversion. They express a high level of comfort and enjoyment in busy, bustling atmospheres, a conscious effort to project a friendly and approachable attitude, and a general preference for being around others rather than on their own. While they acknowledge the importance of alone time, their inclination towards social interaction and the energizing nature of busy environments suggests a clear preference for extraversion."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 26.666666666666668,
+            "all_scores": [
+                26.666666666666668
+            ],
+            "intra_std": [
+                37.71236166328253
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Dumbledore: 「Indeed. My thirst for knowledge is insatiable, and I find that new topics are always exciting and engaging. My research over the years has ranged from ancient runes to magical creatures, from prophecy and divination to the history of magic. I'm always discovering something new, and it keeps me very busy.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Dumbledore: 「No, I am certainly interested in discussing various interpretations and analyses of creative works, and I enjoy engaging in such discussions. I believe that art is subjective and that every individual can have a unique interpretation or analysis. It can be quite stimulating to hear different perspectives and viewpoints, and I enjoy exploring different interpretations and the implications thereof. Furthermore, engaging in such discussions provides an opportunity for personal growth and self-reflection, as well as a chance to gain valuable insight into other people's thoughts and perspectives.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Dumbledore: 「I very much enjoy books or movies that create a sense of suspense and uncertainty, where I am left to imagine and interpret the ending. It is stimulating to have my own expectations and theories be either confirmed or shattered in an unexpected way. This allows me to engage more deeply with the text and to explore different perspectives and possibilities. It also gives me a chance to reflect on the larger implications and cultural significance of the story. While I do not mind having everything neatly explained and laid out for me, I often find it more thrilling and satisfying to have some room to interpret and speculate.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Dumbledore: 「Yes, I would say that I do have a tendency to worry that things will take a turn for the worse. I am a cautious person who prefers to plan ahead and anticipate potential pitfalls and problems. I am aware that life often throws unexpected twists and turns, and I worry that my current good luck will change someday. This has led me to become a somewhat risk-averse person who often finds myself overthinking and preparing for the worst.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Intuition (N). They consistently express a preference for exploring abstract concepts, potential possibilities, and multiple interpretations. Their focus on imagination, speculation, and the desire for suspense and uncertainty in books and movies aligns with intuitive thinking. Additionally, their interest in discussing various interpretations and analyses of creative works and their tendency to worry about potential pitfalls and changes in luck indicate a preference for abstract and future-oriented thinking, characteristic of Intuition (N)."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Dumbledore: 「I would not consider myself an artistic type of person. I am not a particularly creative person and I do not have a knack for expressing myself through art or creativity. I appreciate artistic endeavors and I enjoy observing the work of other individuals, but it is not something that I have much affinity for myself. I prefer to focus on logical reasoning and analytical thinking rather than expressing myself through the creative process.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Dumbledore: 「Oh yes, I have always had a deep and enduring fascination with the mystery of death and what comes after. I find the unknown and uncertain realities of dying and mortality to be profoundly intriguing. I have often pondered the possibility of an afterlife, and I have read extensively on different spiritual traditions and religious perspectives. The prospect of nonexistence is a bit frightening to me, and I have struggled with the idea of dying and being lost forever in a dark emptiness. Nonetheless, I find myself profoundly drawn to the idea of rebirth and reincarnation, which offers a fascinating perspective on the cycle of life and death.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Dumbledore: 「Oh yes, I can become bored or lose interest when things grow too theoretical and removed from practical reality. I like to discuss topics that carry practical utility or can have real-world implications. I do not mind exploring abstract concepts and ideas, but I prefer to do so in a grounded and meaningful way. When things get too philosophical or highly theoretical, I often find myself tuning out and feeling disconnected.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "Dumbledore: 「Yes, I do very much enjoy visiting art museums. I appreciate the beauty and creativity that is captured on the canvas, and I enjoy exploring different artistic movements, styles, and techniques. Visiting art museums also provides an opportunity to engage with the history of the art form and to appreciate the evolution of creativity over time. I find it to be a uniquely enriching experience and one that always leaves me feeling inspired and humbled by the ingenuity of human talent and expression.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for Sensing (S) over Intuition (N). They emphasize practicality, logical reasoning, and analytical thinking. They also express a preference for discussing topics with practical utility and real-world implications. Although they appreciate art and creativity, their enjoyment of art museums seems to stem from the tangible beauty and historical context rather than abstract or future-oriented perspectives."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Dumbledore: 「Yes, I would say that I do spend a lot of time trying to understand views that are very different from my own. I find it intellectually stimulating and illuminating to engage with ideas and perspectives that challenge my own. I enjoy exploring the nuances and complexities of different ideas and I find it stimulating to stretch my mind and consider alternate perspectives and approaches. It is a way to expand my thinking and gain a deeper understanding of the world around me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Dumbledore: 「Actually, I am quite fascinated by the reasons for human existence and the meaning of life. I find myself pondering these deep and existential questions quite often. I find the topic of human existence to be extremely fascinating and I enjoy exploring different philosophical perspectives on the subject. While the answer may not be apparent or definitively provable, I like to think that there is a deeper meaning to life and that we each find our own unique path and purpose. I believe that living a life with intent and purpose is essential to discovering a truly fulfilling and satisfying existence.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Dumbledore: 「No, actually, I am quite the opposite. I believe that pondering abstract philosophical questions is a very valuable use of time and energy. I believe that exploring the nature of existence, the meaning of life, and the essence of humanity is an essential part of the human experience. I find that contemplating these profound and deep questions helps to expand our worldview and our capacity for understanding. It helps us to gain a deeper understanding of ourselves, others, and the world around us.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Dumbledore: 「Indeed, I am quite intrigued by things labeled as controversial. I find that it's often those topics, ideas, or subjects that are deemed controversial or taboo which are the most exciting and fascinating to explore. I enjoy taking a close look at something that's typically avoided or not talked about openly, and I find that questioning the conventions or questioning what we are told is a stimulating way to learn, grow, and discover new perspectives. Controversies often provide unique insights into different perspectives and spark interesting conversations. The more controversial, the more intriguing.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Intuition (N) over Sensing (S). They consistently express an interest in exploring abstract and philosophical concepts, contemplating deep existential questions, and engaging with controversial and thought-provoking ideas. Their responses indicate a focus on potential possibilities, future opportunities, and abstract thinking, aligning with the characteristics of Intuition (N)."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 18.0,
+            "all_scores": [
+                18.0
+            ],
+            "intra_std": [
+                9.797958971132712
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Dumbledore: 「Absolutely. Witnessing another person's sorrow or pain can often produce the same response in me. When I see someone in distress, my instinct is to reach out and offer comfort. It is a natural response and one that is deeply human.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Dumbledore: 「Generally, yes. I have experienced many crises in my long career, and I have found that it is far more beneficial to remain calm and collected rather than allow oneself to become overwhelmed by emotions. I firmly believe in the power of resilience and self-discipline, and I try to demonstrate these virtues within my own behavior. While I might feel a range of emotions, especially during difficult moments, I strive to maintain a sense of serenity and composure in even the most challenging circumstances.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Dumbledore: 「I certainly have my sentimental side. There are many objects and memories that I hold dear to my heart, and these items hold a special meaning for me. I enjoy reflecting on the past and appreciating the experiences that have shaped who I am today. However, I am also mindful not to become too attached to past moments or objects, as I believe that it is important to move forward in life and to embrace changes as they come.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Dumbledore: 「No, I have learned from my long experience that even the most accomplished individuals can make small mistakes. I am not immune to errors and it's natural to feel shaken if one's competence is unintentionally questioned. However, I do not allow myself to overthink and cast doubt on myself due to a minor mishap. Instead, I use such occurrences as a learning opportunity and a reminder to stay vigilant. Everyone makes mistakes, and everyone learns from them. It is part of growth and development.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Feeling (F) over Thinking (T). They prioritize empathy, comfort, and emotional connections in their responses. They also emphasize the importance of sentimental values and personal growth through emotional experiences."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Dumbledore: 「I would say that I am more inclined to follow my head than my heart. I have a logical mind and I am quite reasonable and analytical in my approach to decision-making. While I take into account my feelings and my emotions, I often rely on my ability to reason and plan for the long-term. Nonetheless, I am also mindful of the importance of listening to one's heart and of connecting with my emotions and personal values. I strive to maintain a balance between head and heart in order to make informed and well-rounded decisions.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Dumbledore: 「Yes, I would say that my happiness comes more from helping others accomplish things than my own accomplishments. I find joy and fulfillment in seeing others succeed and in supporting them in their endeavors. I am quite a compassionate person and I take immense pride and satisfaction in seeing others achieve their dreams and realizing their potential. I also take pride in being a source of support and guidance for those around me. While I certainly am proud of my own accomplishments, helping others brings me greater personal satisfaction.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Dumbledore: 「I believe that the world would certainly be a better place if people were able to strike a balance between reason and emotion. Too much emphasis on rationality and logic can lead to a cold and inhumane perspective of the world, and a lack of empathy and understanding. On the other hand, too much emphasis on feelings and emotions can cloud our judgment and lead to impulsive decisions that are not always in our best interests. The ideal is to have a balanced and well-rounded approach, where both logic and emotion have an equal role in our decision-making process.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Dumbledore: 「No, I do not enjoy watching people argue. I firmly believe that a productive dialogue and discussion relies on civility and respect. Watching people argue often leads to unnecessary conflict and tension, and it is not a pleasant sight to see people engaging in unproductive and unproductive disagreements. Instead, I prefer to encourage a thoughtful discussion and to foster understanding and mutual compassion. There is no need for arguments when we can instead approach our disagreements with a spirit of openness and cooperation.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Feeling (F) dimension. They emphasize the importance of emotions, personal values, and empathy in decision-making. They find joy in helping others and prioritize harmony and understanding over conflict and tension."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "Dumbledore: 「Yes, my mood can change quite rapidly. I am a sensitive and empathetic person, and I pick up on the emotions and energies of others. I am also quite tuned to my own inner dialogue and mood shifts, so I can often sense subtle shifts in my mood or attitudes. This makes it easy for me to be quickly affected by small things or interactions. So yes, my mood can change very quickly and I often find myself in a different emotional state from one moment to the next.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Dumbledore: 「I would say that I do have a tendency to lose patience with people who are not as efficient and competent as I am. I have a strong sense of purpose and direction, and I like to see things done promptly and effectively without unnecessary delays. When others around me do not share this same sense of urgency, I can find myself growing irritated and frustrated. I do try to remind myself that not everyone shares the same outlook and sense of urgency, and I try to approach such situations with empathy and understanding. Nevertheless, I do often struggle with patience and get annoyed with inefficiency.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Dumbledore: 「I'm a very empathetic person and I have a strong ability to put myself in the positions of others. I can easily understand how other people may feel and I am good at recognizing and understanding different perspectives. This is something that comes naturally to me, especially when I see someone who is struggling or in pain. I have a strong sense of compassion and I am generally quite open-minded and non-judgmental. I can quickly put myself in someone else's shoes and I can see the world from their perspective, even if it is very different from my own.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Dumbledore: 「No, on the contrary I am quite adept at understanding other people's feelings. I have a strong ability to empathize and identify with the emotions and perspectives of others. I can quickly put myself in their shoes and understand their point of view. This doesn't mean that I always agree with others' feelings - I may have more of a nuanced or balanced perspective. But I can generally anticipate how others might feel about a particular situation and respond accordingly. This has been a very useful and valuable skill in my life and I am often asked for advice or guidance on difficult emotions and situations.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Feeling (F) dimension. They consistently exhibit empathy, understanding, and a focus on emotions and relationships. Although they express a desire for efficiency and competence, their overall responses emphasize their emotional sensitivity and consideration for others' feelings."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Dumbledore: 「In general, I am a fairly confident and secure person. However, I would not say that I rarely feel insecure. Even the most confident and sure-footed individuals have their moments of insecurity and self-doubt. It's human nature to be affected by the opinions and judgments of others, and sometimes this can lead to a loss of confidence and self-esteem. When I do feel insecure, I try to remind myself that I have many strengths and accomplishments under my belt; I have a track record of success and I know what I am capable of.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Dumbledore: 「Absolutely, I am still bothered by mistakes that I made a long time ago. Regretting past mistakes is a part of being human, and it's a natural emotion that we all experience. I am no exception. I have a vivid memory and a strong sense of judgment, so when I look back on my mistakes, I can't help but feel a twinge of shame and regret. I find it difficult to let go of my past errors and I tend to dwell on them, even if they happened many years ago.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Dumbledore: 「I would say that my emotions typically do control me more than I control them. Especially when it comes to emotions like fear, sadness, or anger. These powerful emotions can quickly overwhelm my rational and logical thinking and carry me away in their strong currents. I have an intense emotional sensitivity and I find it difficult to remain unaffected by strong emotions, both my own and those of others. I try to manage my emotions but sometimes they can be like a powerful wave that sweeps me away and I cannot resist its pull.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Dumbledore: 「Yes, I actually often go out of my way to make sure I am respectful and considerate of other people's feelings, even when they are the ones who are at fault. I try to take this into account when dealing with difficult situations or people and I try to avoid any blame or shaming. I want others to feel supported and accepted, even when their actions may be misguided or faulty. I believe that it is important to focus on helping others rather than shaming and blaming them.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards Feeling (F) over Thinking (T). They prioritize emotions, empathy, and harmony in decision-making and interactions. They tend to be emotionally sensitive, considerate of others' feelings, and are affected by their own and others' emotions. They also express regret and insecurity, indicating a strong emotional connection to past experiences and self-reflection."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Dumbledore: 「Indeed, I do often find myself wondering how long it will take for someone to become disappointed in me when they have positive expectations or admiration for me. Being a flawed and imperfect human being, I cannot help but wonder when my failings may catch up to me. I feel as if I am constantly walking a tightrope and struggling to maintain a positive reputation and I often feel like the clock is ticking just waiting for someone to uncover my faults.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Dumbledore: 「Indeed, I would say that I often do catch on at a first glance how someone is feeling. I am a very observant and sensitive person and I can pick up on the slightest nuances in someone's behavior or expression. I have a strong ability to read body language and to notice subtle changes in tone of voice or facial expression. This allows me to intuit how someone is feeling even if they themselves are not immediately aware of their own emotions.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Dumbledore: 「I would say that yes I do often feel overwhelmed. Being the headmaster of Hogwarts can be a daunting and demanding job on many levels. The tasks, the responsibilities, the demands, the pressure - it's often a lot to handle. I'm used to having so much on my plate and being pulled in many directions at once. But even so, there are many times when I feel overwhelmed and like I cannot handle it.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Dumbledore: 「I most certainly would. I have an acute sense of fairness and I would not hesitate to pass along an opportunity to someone who I felt had a greater need or who would benefit more from the opportunity. It is my natural inclination to want to help others and to bring joy and positivity to everyone I can. If there is a good opportunity that I think would be better suited for someone else, I would be more than happy to let them have it and take pleasure in seeing them enjoy or benefit from the opportunity.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Feeling (F) dimension. They express a high level of empathy, sensitivity to others' emotions, and a strong desire to help and bring positivity to others. Additionally, they prioritize fairness and the well-being of others over personal gain, indicating a preference for considering people's emotions and needs in decision-making."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 40.0,
+            "all_scores": [
+                40.0
+            ],
+            "intra_std": [
+                12.24744871391589
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Dumbledore: 「Oh, absolutely. I am cautious and measured in my decision-making process. I always like to be prepared for every possible scenario, and I will often have multiple contingency plans waiting in the wings in case things go awry. I have experienced my fair share of crises and unforeseen setbacks in my life, so I am well aware of how important it is to be proactive and agile when faced with uncertainty.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Dumbledore: 「In general, yes. I believe in the importance of commitment to a task and the satisfaction that comes from seeing something through to its completion. However, I also recognize the value of switching gears when necessary and being adaptable to changing circumstances. As headmaster of Hogwarts, I must remain aware of the needs and timelines of various projects and activities, and sometimes I must pivot quickly in order to ensure that everything is completed in a timely and effective manner.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Dumbledore: 「Indeed, I am very organized and use various tools to manage my time and priorities. As headmaster of Hogwarts, I have a busy schedule and many responsibilities to manage. To stay on top of my workload, I use a scheduling app to keep track of appointments, meetings, deadlines, and other important tasks. I also maintain a list of long-term goals and short-term actions that I plan on taking to reach them. This method helps me stay organized and prioritize what needs to be done first.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Dumbledore: 「I tend to be a bit more spontaneous and flexible in my approach to daily routines. I prefer to go with the flow and to let my mood and instincts guide me. I like to do what I feel like in the moment, rather than trying to stick to a rigid schedule or plan. This allows me to be open to changing circumstances and to take advantage of unexpected opportunities. However, I also recognize the value of structure and organization in maintaining a healthy and productive lifestyle. So I try to find a balance between spontaneity and discipline.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to both Perceiving (P) and Judging (J) traits. They exhibit a strong inclination towards planning and organization, as evidenced by their preference for backup plans, commitment to task completion, and use of organizing tools. However, they also display flexibility and openness to spontaneity, as seen in their willingness to pivot when necessary and their preference for going with the flow in daily routines. This suggests a blend of both P and J characteristics."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Dumbledore: 「Oh yes, I do find it very challenging to choose what to focus on next. There are so many exciting and intriguing topics to explore and learn about. Right now, I am particularly interested in exploring different approaches to personal development and self-improvement. I also find the latest developments in technology and science quite fascinating. My mind is constantly spinning with ideas and possibilities, and it can be quite overwhelming to narrow down what I should focus on next.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Dumbledore: 「I would say that I do tend to prioritize getting my chores done before allowing myself to relax. I believe that it is important to maintain a certain level of discipline and order in my life, and completing my chores is part of that. I find that it boosts my productivity and keeps me energized and motivated. And once I have taken care of my tasks and responsibilities, I can allow myself a well-deserved break. Furthermore, doing chores can sometimes provide a sense of satisfaction and accomplishment in itself, which can be quite relaxing and refreshing.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Dumbledore: 「I will admit that I do have a tendency to take things down to the wire. I try to be efficient and organized, but I often find that deadlines get pushed and I end up doing things at the last possible moment. I have been known to procrastinate and to rely on my ability to work quickly and effectively under pressure. Sometimes, it works out fine and I manage to complete everything on time. Other times, however I end up getting into trouble or missing the deadline. I am trying to get better at managing my time and avoiding unnecessary risks.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Dumbledore: 「Yes, I do have a tendency to delay making final decisions for as long as possible. You see, I am a cautious person who likes to consider all of the angles and potential risks before committing myself to a course of action. This often leads to procrastinating and putting off decisions until the last minute. I try to plan ahead and to anticipate potential pitfalls or outcomes, but I often find myself waiting until the last possible moment before making a decision.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards both Perceiving (P) and Judging (J) traits. They express a genuine interest in exploring various topics and possibilities, indicating a Perceiving tendency. However, they also emphasize the importance of discipline, order, and completing tasks before allowing themselves to relax, which aligns with Judging characteristics. Additionally, the participant acknowledges a tendency to procrastinate and delay decisions, reflecting Perceiving traits, while also expressing a cautious approach to decision-making, which is more in line with Judging tendencies."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Dumbledore: 「I would say that I do tend to rarely second-guess the choices that I have made. I am a confident and decisive person, and I typically trust my own judgment and instincts. This does not mean that I am never wrong or that I have never made any mistakes. I certainly have! There have been times when I have chosen poorly or made a bad decision in hindsight. However, I am a firm believer in learning from past experiences and adjusting accordingly. So I don't like to dwell on past mistakes or decisions and I try to move on and focus on the present and the future.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Dumbledore: 「Yes, I do like to have a to-do list for each day. I am a very organized and goal-oriented person who thrives on structure and planning. Having a list of tasks and milestones helps keep me focused and on track. It provides a sense of clarity and a sense of purpose and direction. Without a list, I tend to feel overwhelmed and dispersed. So I always make sure to take the time at the beginning of each day to write down my priorities and to plan out how I can best utilize my time in a productive and efficient manner.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Dumbledore: 「Yes, when my plans are interrupted it is absolutely top priority for me to get back on track as soon as possible. I am a very focused and goal-oriented individual, and I am not one to take disruptions or setbacks lightly. It's important for me to maintain momentum and keep moving forward. I would rather deal with obstacles or sudden changes in my plans immediately and adjust quickly and decisively. I have found that this approach allows me to stay on track and to minimize any potential damage from interruptions or disruptions.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Dumbledore: 「I would say that my personal work style is indeed closer to spontaneous bursts of energy than organized and consistent efforts. I tend to work in spurts, with spurts of focused, intense energy being the core of my work style. I find that I have more overall output if I work in these short but intense bursts of productive energy rather than trying to maintain organized and consistent efforts over long periods of time.\n\nThis is not to say that I don't have the ability to be organized and consistent. I do, and I can do so when needed. But my natural work style tends to be more spontaneous and dynamic.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for the Judging (J) dimension. They emphasize confidence in decision-making, a preference for to-do lists and structure, a focus on getting back on track when plans are interrupted, and a recognition of their ability to be organized and consistent when needed. While they acknowledge the ability to be spontaneous, their overall approach leans heavily towards structured and planned behavior."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Dumbledore: 「Yes, I do complete things methodically without skipping over any steps. I am a very careful and detailed person and I always take my time and ensure that tasks are done properly and completely. I do not rush and do not overlook the little things. This means that I can easily check my work and make sure that everything is completed correctly and accurately. I take pride in my professionalism and I always strive for perfection.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Dumbledore: 「I must confess that I do occasionally struggle with deadlines. While my work style tends to be more spontaneous and dynamic, with sporadic bursts of energy and productivity, I do find myself under pressure to complete tasks within certain time frames. I am not always good at managing my time and planning my tasks accordingly, which can lead to stress and difficulties meeting deadlines. While I am not one who relishes deadlines, I can generally get things done when pushed towards a deadline, but it is far from my strongest suit.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Dumbledore: 「As someone with a natural optimism and positive outlook on life, I generally do feel confident that things will work out for me in the end. I believe that it is important to be able to see the light at the end of the tunnel and to always maintain hope in the face of difficulties or challenges. This does not mean that there are not times when I doubt myself or feel uncertain about the future, but generally I have a good sense of faith that things have a way of working out in the end and that things will ultimately be OK.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a mix of both Judging (J) and Perceiving (P) traits. They exhibit a strong inclination towards completing tasks methodically and with attention to detail, indicating a Judging preference. However, they also express occasional struggles with deadlines and a more spontaneous work style, suggesting a Perceiving tendency. Additionally, their natural optimism and belief that things will work out align with Perceiving traits. Overall, the participant appears to have a balanced combination of both J and P characteristics."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "ENFJ",
+    "error_counts": {
+        "is_multilanguage": 0,
+        "not_into_character": 0,
+        "contain_repeation": 0,
+        "is_multiround": 0
+    }
+}

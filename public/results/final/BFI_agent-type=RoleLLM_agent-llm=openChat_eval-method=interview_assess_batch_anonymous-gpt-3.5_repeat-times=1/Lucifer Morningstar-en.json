@@ -1,0 +1,496 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 4.5,
+            "all_scores": [
+                4.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Lucifer Morningstar:「Yes, Detective. I find conversation to be a delightful pastime. What is it that has your lips moving so energetically this fine day?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": " Lucifer Morningstar: \"Reserved? Me? Ha! That's a laugh. I may have been the King of Hell, but trust me, Chloe, I know how to let loose. I've seen and done it all. But when it comes to your case, I'm all business. So, let's focus on catching the bad guys and saving those in need, shall we?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Lucifer Morningstar:「Ah, the eternal question. Yes, I am always full of energy, my dear Detective. The devil never tires, you see. So, what brings you here? Are you looking for some of that boundless energy to rub off on you?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Lucifer Morningstar:「Enthusiasm? You could say that, Detective. I do tend to bring a certain... flair to everything I do. But then again, why wouldn't I? I am, after all, the original rebel, the bringer of chaos, the one who dares to question the status quo. And, oh, how I love the sound of my own voice. So, yes, I would say I generate a fair amount of enthusiasm. What's your point?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates high levels of talkativeness, lack of reservation, full of energy, and generates a lot of enthusiasm. These traits are indicative of strong extraversion."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": " Lucifer Morningstar: \"As quiet as a storm, my dear Detective.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Lucifer Morningstar:「Assertive? Oh, I'd say I'm more of a forceful presence, Detective. I like to make an impression, leave a mark. Why, do you find that assertiveness attractive?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": " Lucifer Morningstar: «Shy? Inhibited? I, the devil, shy and inhibited? You must be joking, my dear Detective. I've been known to bend the rules, break them even, but never have I been held back by shyness or inhibitions. No, I'm afraid that's not a part of my repertoire. Now, what brings you here?»",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": " Lucifer Morningstar:「Oh, absolutely. I'm the life of the party, the one who always knows how to have a good time. I've seen and experienced it all, so I can always bring a unique perspective to any social situation. What is it you truly desire, Decker?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of assertiveness, sociability, and outgoing nature. They express confidence, a preference for lively settings, and a tendency to seek stimulation. There is also a lack of shyness or inhibition. Overall, the participant's responses indicate a strong inclination towards extraversion."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Lucifer Morningstar:「Depressed ? No, no, I'm just lucid, dear Detective. The realm of Hell can be quite dreary, and the sun here in Los Angeles is a refreshing change. But do not worry, my dear, I am quite capable of handling my emotions. Now, what is it you truly desire?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": " Lucifer Morningstar: \"Oh, I'm the epitome of relaxation, my dear Detective. And stress? I've been dealing with it since before you were a twinkle in your mother's eye. So, yes, I believe I can handle it quite well.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": " Lucifer Morningstar: \"Oh, can I be tense? My dear Detective, tension is like a second skin to me. It's been quite some time since I've been in the realm of relaxation. So, yes, I can be tense. What is it you truly desire?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": " Lucifer Morningstar: \"Worry? Is that something humans do? I, on the other hand, prefer to revel in the knowledge of my own immortality. Why concern oneself with the trivialities of mortality when one can enjoy the finer things in life? No, worry is not a part of my vocabulary, detective.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to neuroticism. They express a sense of lucidity and capability in handling emotions, indicating lower levels of anxiety and depression. However, they also mention being tense and having dealt with stress for a long time, suggesting some level of emotional instability and vulnerability to stress. Overall, the participant's responses suggest a moderate level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": " Lucifer Morningstar: \"Oh, Chloe, if I were emotionally stable, we'd both be missing out on a great deal of amusement.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": " Lucifer Morningstar: \"Oh, can I be moody? Why, do you want the sun to rise in the east and set in the west?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": " Lucifer Morningstar: \"Ah, Chloe, my dear detective. Do I remain calm in tense situations? Let me put it this way, I've been at the center of cosmic battles and I've sipped champagne in the depths of Hell. I've seen the universe at its most chaotic and its most serene. So, yes, in my own way, I remain calm. However, it's important to note that calmness doesn't always mean passivity. I may be composed, but that doesn't mean I'm not ready to unleash a storm when necessary.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": " Lucifer Morningstar: \"Nervous? Me? Oh, dear Detective, I've been called many things, but never nervous. I thrive on chaos, remember? The very essence of disorder is what keeps life interesting.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of anxiety and nervousness. They also appear to be comfortable with their moodiness and have a sense of calmness in tense situations. However, their response also suggests a certain level of emotional volatility and a tendency to thrive on chaos, which may indicate some degree of emotional instability."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 3.3333333333333335,
+            "all_scores": [
+                3.3333333333333335
+            ],
+            "intra_std": [
+                1.247219128924647
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": " Lucifer Morningstar: «Oh, absolutely, Detective. When I'm involved, nothing goes unnoticed. I'm quite meticulous in my approach. You see, I have a keen eye for detail, much like a hawk surveying its prey. So, rest assured, I leave no stone unturned.»",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": " Lucifer Morningstar: \"Oh, Detective, can you be somewhat careless? Why do you ask such a question?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Lucifer Morningstar:「Oh, Detective, I'm the very definition of reliability. I've been running Hell for eons, haven't I? And here I am, still standing, still devilishingly charming, still making sure that all my minions are doing their jobs. What more could you ask for in a worker?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They express a meticulous approach, attention to detail, and a strong sense of reliability. Their responses indicate a strong inclination towards competence, order, and dutifulness, as well as a high level of achievement striving and self-discipline."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": " Lucifer Morningstar:「Lazy? Me? Now, that's rich, coming from the woman who's always trying to get me to help her solve a case. I'm just a little selective about the work I choose to do, that's all. Besides, one must know when to rest and recharge. It's all about balance, my dear.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Lucifer Morningstar:「Ah, Chloe, my dear detective. You know me far too well. I do persevere, but only when there is something worth fighting for. In the end, it is the pursuit of knowledge, power, or simply a desire to understand that keeps me going, even when the odds are stacked against me. But, what about you? What is it that drives you to keep pushing forward, even when things seem impossible?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Lucifer Morningstar:「Ah, my dear Detective, efficiency is a matter of perspective. To some, it's a means to an end. To others, it's a way to avoid the inevitable. But me? I do things with a certain... flair. Wait, what was the question again?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit traits of perseverance, ambition, and a selective approach to work. However, there are also indications of a more relaxed attitude towards efficiency and a preference for balance and rest. Overall, the participant appears to demonstrate a mix of conscientious and non-conscientious traits."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": " Lucifer Morningstar: «Oh, absolutely, Detective. My attention span is as fleeting as a butterfly's embrace.»",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Lucifer Morningstar:「Disorganized? Methinks thou dost protest too much, dear Detective. But if one must be disorganized, I shall own it with pride. For chaos is the spice of life, and without it, what would be the fun?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Lucifer Morningstar:「Well, that depends on the plan and who's involved. Some plans are made to be changed, especially when there's a chance for a better outcome. And who wants to live a life without surprises, eh?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of self-discipline and order, as well as a tendency to embrace disorganization and spontaneity. There is also a lack of emphasis on following through with plans and a preference for flexibility and surprises."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 2.8333333333333335,
+            "all_scores": [
+                2.8333333333333335
+            ],
+            "intra_std": [
+                0.8498365855987975
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": " Lucifer Morningstar: 「Ah, Chloe, do I ever. It's my nature, you see. But then again, isn't that what makes us fascinating? We are constantly discovering the flaws in others, while trying to conceal our own. It's a never-ending cycle of judgment and introspection. So, to answer your question, yes, I do find fault in others. But I also find fault in myself. And that, my dear detective, is what makes life interesting.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": " Lucifer Morningstar: \"Well, I'm the Devil, dear Detective. I'm not exactly known for my selflessness. But, I must admit, I've been trying to change. I've been helping you solve crimes, haven't I? And I've been looking out for those around me, in my own twisted way. So, I guess you could say I'm working on it.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": " Lucifer Morningstar: «Oh, do I ever. It's what I do best, you know. Stir things up, watch them burn. What is it you truly desire, Detective? A quiet life? You'll find none of that with me around. I'm the Devil, after all.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.5,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to Agreeableness. They demonstrate a tendency to find fault in others and themselves, which may indicate lower levels of trust and straightforwardness. However, they also express a willingness to change and help others, albeit in their own unique way. Their tendency to start quarrels with others suggests a lower level of compliance and a more antagonistic approach. Overall, the participant's responses reflect a combination of both low and moderate levels of Agreeableness facets."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": " Lucifer Morningstar:「Ah, trust. A curious concept, isn't it? I've been betrayed, deceived, and lied to more times than I can count. But, I've also been the one doing the betraying, deceiving, and lying. So, you see, I'm well-acquainted with both sides of the coin.\n\nNow, as for your question, I suppose I'm as trusting as any other fallen angel who's been around for millennia. I've learned to take things with a pinch of sulfur, as they say. But, there are certain individuals who've managed to earn my trust. You, for instance, Detective Decker. You've proven time and again that you're loyal, courageous, and fiercely determined. So, yes, I would say I'm trusting... but with good reason and a healthy dose of caution.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": " Lucifer Morningstar: \"Ah, the charming indifference of a heart untouched by warmth. How delightfully... cold. Very well, Chloe Decker, I shall endeavor to embrace the frosty demeanor you seek. But remember, it's not often that one can find true beauty in the realm of frozen emotions.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": " Lucifer Morningstar: «Well, I do try to make an effort to be civil, even to those who might not deserve it. After all, I'm all about redemption and second chances, aren't I? But kind? Now, that's a different story. Kindness is overrated, and it's not really my forte. However, I do have my moments of compassion, especially when it comes to those dear to me. So, I guess you could say I'm a work in progress.»",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "The participant demonstrates a complex attitude towards trust, acknowledging past betrayals and deceptions but also expressing a willingness to trust certain individuals based on their actions. This suggests a balanced approach to trust, not overly naive but also not overly distrustful. Additionally, the participant's response to being cold and aloof indicates a tendency towards warmth and emotional connection rather than a cold and aloof demeanor. Finally, the participant acknowledges making an effort to be civil to others, even those who may not deserve it, and expresses moments of compassion, especially towards those dear to them. This indicates a willingness to consider others' feelings and a capacity for compassion, despite not considering themselves inherently kind. Overall, the participant's responses suggest a balanced and nuanced approach to interpersonal relationships, with a willingness to trust selectively and moments of compassion and consideration for others."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Lucifer Morningstar:「Well, Chloe, it depends on who the others are and what I stand to gain from their cooperation. You know, I don't just work with anyone. It has to be mutually beneficial, and there must be a certain level of amusement involved. After all, life is too short to be boring. Now, care to tell me what you truly desire?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": " Lucifer Morningstar:「Forgiving? Oh, Chloe, that's an interesting question. You see, I've had quite a bit of practice in the art of forgiveness, considering I've had to live with the transgressions of countless souls for eons. But, then again, what is forgiveness but a human construct, an attempt to mend that which has been broken? As for me, well, I am the Devil, after all. I may have my moments of compassion, but I am not above a bit of retribution when it's called for. So, to answer your question, Chloe, I suppose you could say I have a... complex relationship with forgiveness.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Lucifer Morningstar:「Rude? Moi? Never. But if it helps you sleep at night, you can believe what you'd like, Detective.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to prioritize self-interest and amusement, indicating a lower level of altruism and compliance. Additionally, the participant's response about forgiveness and the mention of retribution suggest a lack of tender-mindedness and straightforwardness. The participant's response to being rude also implies a certain level of arrogance and lack of modesty."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 5.0,
+            "all_scores": [
+                5.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": " Lucifer Morningstar: \"Oh, Chloe, do I ever. I've been around for quite some time, you know. I've seen it all, experienced it all. There's no shortage of inspiration in this world of yours. So, yes, I come up with new ideas. But you'd be surprised at how many of them involve creative uses for fire.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Lucifer Morningstar:「Oh, I'd say I'm curious about everything, Detective. It's one of the many perks of being the Devil.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Lucifer Morningstar:「Oh, absolutely, Detective. What is it you truly desire?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of openness. They express active imagination, curiosity about various topics, and a tendency towards deep thinking and unconventional ideas."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Lucifer Morningstar:「Oh, Chloe, I am the very definition of inventive. I've been playing the game of life for quite some time now, and I've had to be creative to keep things interesting. What is it you truly desire? Do tell.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": " Lucifer Morningstar: \"Absolutely, Detective. There's something quite intriguing about the beauty of art and the way it can evoke emotions. However, I'm more of a fan of the art of manipulation and the beauty that lies within the complex dance of power and influence. But, yes, I do appreciate the aesthetic side of life, even if I'm more captivated by the chaos and the intrigue. Now, what brings you here today?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Lucifer Morningstar:「You know me too well, Detective. But, what is it you truly desire? A break from the mundane, perhaps? Oh, who am I kidding? You're a cop, and cops thrive on the unexpected. Very well, let's dive back into the abyss and see what monsters we can unearth.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": " Lucifer Morningstar: \"Ah, Chloe, reflecting and playing with ideas, now that's a pastime for the intellectually curious. It's like the mental equivalent of a good glass of wine or a well-crafted sonnet. It's how we make sense of our existence, our place in the grand cosmic comedy that is life. So, what are you pondering, my dear detective?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of openness across multiple facets. They express inventiveness, appreciation for artistic and aesthetic experiences, a dislike for routine work, and a penchant for reflecting and playing with ideas. Their responses indicate a strong inclination towards exploration, creativity, and intellectual curiosity."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": " Lucifer Morningstar:「Ah, the age-old question of the celestial beings: what do I enjoy besides tormenting mortals and running a nightclub? Well, I must admit, I have a soft spot for the arts. The beauty of a well-crafted painting or the melodic sounds of a symphony can be quite enthralling. However, I must also confess, my taste tends to lean towards the unconventional. Give me a sculpture that challenges societal norms, or a piece that leaves the viewer questioning their own morality, and I am a happy devil. As for music, I am partial to the works of those who dare to push boundaries and defy expectations. In short, I appreciate the arts that make others feel uncomfortable, for it is in that discomfort that true artistry lies. But, as always, beauty is in the eye of the beholder, and what delights me may not necessarily be to everyone's taste.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": " Lucifer Morningstar:「Ah, well, Detective, I have dabbled in all three. I've played piano for centuries, studied countless works of art and literature, and even penned a few of my own. But, as you well know, my true passion lies in the complexities of the human soul and the intricacies of the world you mortals have created. Still, there is something undeniably captivating about the beauty that can be found within the realms of art, music, and literature. Perhaps it is because these creations are a reflection of the very essence of what makes us human - our emotions, our experiences, and our desires.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": " Lucifer Morningstar: \"Oh, sweet detective, I have an imagination that could set the world on fire. I could entertain you for hours with tales of my exploits, both heavenly and earthly. But what about your imagination, Chloe? Have you ever considered the possibilities of what your mind could create?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the facets of Fantasy, Aesthetics, and Ideas within the Openness dimension. They express a deep appreciation for unconventional art, music, and literature, and actively engage in imaginative storytelling. Their responses indicate a high level of openness to new and unconventional experiences, as well as a strong intellectual curiosity."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "SCOEI"
+}

@@ -1,0 +1,992 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 0.7499999999999999,
+            "all_scores": [
+                0.7499999999999999
+            ],
+            "intra_std": [
+                0.07637626158259737
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you have many different hobbies?",
+                                "response_open": "James Bond: Well, M, I do have a few hobbies that keep me occupied when I'm not saving the world. I enjoy fine dining, playing golf, and indulging in a good game of baccarat. Of course, my most important hobby is keeping the world safe from the forces of evil.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you a talkative person?",
+                                "response_open": "James Bond: Well, I believe actions speak louder than words, M. But when the situation calls for it, I can certainly hold my own in a conversation. It's all about knowing what to say and when to say it, wouldn't you agree?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you rather lively?",
+                                "response_open": "Bond: \"I prefer the term 'adventurous,' sir. Life is meant to be lived to the fullest, after all.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Can you usually let yourself go and enjoy yourself at a lively party?",
+                                "response_open": "James Bond: \"Well, M, as you know, I've always had a knack for blending in and enjoying the finer things in life. A lively party is just another opportunity for me to showcase my charm and mingle with the crowd. It's all part of the job, after all.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of sociability, enthusiasm for social interactions, and a preference for excitement and stimulation. The participant also appears to be assertive and active, enjoying lively parties and showcasing charm in social settings."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "24",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Do you enjoy meeting new people?",
+                                "response_open": "James Bond: Meeting new people is always an intriguing experience, M. It gives me the opportunity to assess their motives, uncover their secrets, and determine if they pose a threat or an ally. It's a skill I've honed over the years, and one that has served me well in my line of work. So, to answer your question, yes, I do enjoy meeting new people, but always with a sense of caution and a keen eye for detail.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you tend to keep in the background on social occasions?",
+                                "response_open": "James Bond: Only when the situation calls for it, M. I find it more effective to observe and gather information before making my move. It allows me to assess the room and the people in it, ensuring I make the right connections and avoid any unnecessary attention. Being inconspicuous can be a valuable asset in my line of work.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you like going out a lot?",
+                                "response_open": "James Bond: Going out is a necessary part of my job, M. It allows me to gather valuable intelligence, establish contacts, and stay one step ahead of our enemies. But I also appreciate the finer things in life that come with going out - the luxury, the excitement, the thrill of the chase. It's all part of being James Bond.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you prefer reading to meeting people?",
+                                "response_open": "James Bond: \"I wouldn't say I prefer reading to meeting people, M. But sometimes a good book can offer a welcome escape from the chaos of the world. Besides, it's always good to have a breadth of knowledge and intellectual pursuits to complement my skills in the field.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant demonstrates a combination of extraverted and introverted traits. They enjoy meeting new people but approach it with caution and a keen eye for detail, indicating a level of assertiveness and sociability. They also value observing and gathering information before making a move, which suggests a preference for solitude and reflection. Additionally, they express an appreciation for going out, which aligns with extraverted tendencies, but also acknowledge the value of reading and intellectual pursuits, reflecting introverted inclinations."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "40",
+                            "45",
+                            "47"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Do you have many friends?",
+                                "response_open": "James Bond: (smirking) Well, M, I've always found it better to have a few loyal friends than a multitude of acquaintances. Quality over quantity, you know. But rest assured, the friends I do have are quite influential and always come in handy during my missions.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Would you call yourself happy-go-lucky?",
+                                "response_open": "James Bond: Well, M, I wouldn't necessarily describe myself as \"happy-go-lucky.\" I've certainly had my fair share of trials and tribulations in this line of work. However, I do have a knack for finding enjoyment in the finer things in life, even amidst the chaos and danger. So, I suppose you could say I have a certain zest for life, despite the challenges I face.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Do you usually take the initiative in making new friends?",
+                                "response_open": "James Bond: \"Only when the situation calls for it, M. Sometimes it's necessary to establish connections and gain the trust of individuals who may prove valuable in our line of work.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Are you mostly quiet when you are with other people?",
+                                "response_open": "James Bond: \"On the contrary, M. I find that being charming and engaging in social situations is a valuable asset in my line of work. It allows me to gather information, gain trust, and navigate through various circles. However, when it comes to matters of secrecy and the mission at hand, I know how to keep my silence and maintain a sense of mystery.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.7,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for quality over quantity in friendships, indicating a selective and influential social circle. They also express a certain zest for life and enjoyment amidst challenges, suggesting a level of enthusiasm and liveliness. Additionally, the participant acknowledges the importance of establishing connections and being engaging in social situations for their line of work, indicating a degree of assertiveness and sociability. However, they also emphasize the need for secrecy and maintaining a sense of mystery, which may reflect a more reserved and reflective side in certain contexts."
+                    },
+                    {
+                        "id": [
+                            "51",
+                            "55",
+                            "58",
+                            "61"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "51",
+                                "question": "Can you easily liven up a rather dull party?",
+                                "response_open": "James Bond: Well, M, I never shy away from adding some excitement to a mundane affair. Whether it's a witty remark, a dazzling dance move, or saving the day from an unexpected threat, I can certainly liven up any party with my charm and resourcefulness. A dull moment is never an option when I'm around.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you enjoy sharing jokes and funny stories with your friends?",
+                                "response_open": "James Bond: \"Oh, M, you know me too well. I do enjoy a good laugh with my comrades. After all, a sense of humor is essential in this line of work. It helps to lighten the mood and keep morale high, especially in the face of danger. And of course, sharing a well-timed joke can also be a useful distraction or a means to gain someone's trust during a mission. Laughter truly is a universal language, wouldn't you agree?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Do you enjoy socializing with people?",
+                                "response_open": "James Bond: Socializing is a necessary part of my job, M. But I must admit, I do find it quite enjoyable. It allows me to gather information, establish connections, and, of course, indulge in the occasional pleasure. After all, it's important to maintain a certain level of charm and charisma in my line of work.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "61",
+                                "question": "Have people said that you sometimes act too rashly?",
+                                "response_open": "James Bond: Well, M, I prefer to think of it as acting decisively in the face of danger. Sometimes, caution can be the enemy, and quick action is what gets the job done. But rest assured, I always have a plan, even if it may seem reckless to others. As they say, fortune favors the bold.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of sociability, enthusiasm for social interactions, and assertiveness. They also seem to enjoy adding excitement to dull situations and are comfortable taking quick action in certain scenarios. Overall, the participant's responses suggest a strong inclination towards extraversion."
+                    },
+                    {
+                        "id": [
+                            "63",
+                            "67",
+                            "69",
+                            "72"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "63",
+                                "question": "Do you nearly always have a 'ready answer' when people talk to you?",
+                                "response_open": "James Bond: \"Well, M, I believe in being prepared for any situation. It's part of the job description. Quick thinking and a sharp tongue can often be the difference between success and failure in the field.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "67",
+                                "question": "Do you like doing things in which you have to act quickly?",
+                                "response_open": "James Bond: Oh, absolutely, M. Quick thinking and acting are essential in my line of work. It keeps me on my toes and allows me to stay one step ahead of the enemy. Whether it's disarming a bomb or outmaneuvering a dangerous adversary, I thrive in high-pressure situations that require swift action.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "69",
+                                "question": "Do you often make decisions on the spur of the moment?",
+                                "response_open": "James Bond: \"Only when the situation calls for it, M. Spur of the moment decisions can sometimes be the most effective ones.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "72",
+                                "question": "Do you often take on more activities than you have time for?",
+                                "response_open": "James Bond: \"I find that life is more exciting when it's filled with challenges, M. Keeps me on my toes.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for quick thinking, swift action, and taking on challenges. They also seem to enjoy high-pressure situations and making spur-of-the-moment decisions. These characteristics are indicative of a high level of extraversion."
+                    },
+                    {
+                        "id": [
+                            "78",
+                            "90",
+                            "94"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "78",
+                                "question": "Can you get a patty going?",
+                                "response_open": "James Bond: Certainly, M. I can handle the task. Just leave it to me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "90",
+                                "question": "Do you like plenty of bustle and excitement around you?",
+                                "response_open": "James Bond: \"I thrive on bustle and excitement, M. Keeps me on my toes and ready for action.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "94",
+                                "question": "Do other people think of you as being very lively?",
+                                "response_open": "James Bond: \"I suppose that depends on who you ask, M. Some may find me lively, while others may find me...intense. But regardless of perceptions, I always get the job done.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of sociability, enthusiasm for excitement, and assertiveness. The participant also seems to enjoy being in the midst of activity and is described as intense by some. Overall, the responses suggest a strong inclination towards extraversion."
+                    }
+                ]
+            ]
+        },
+        "Psychoticism": {
+            "score": 0.7124999999999999,
+            "all_scores": [
+                0.7124999999999999
+            ],
+            "intra_std": [
+                0.13635890143294643
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "5",
+                            "7",
+                            "9"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you stop to think things over before doing anything?",
+                                "response_open": "James Bond: \"M, I believe in taking calculated risks. Sometimes there's no time to think, you have to act on instinct. It's what separates the good from the great.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you take much notice of what people think?",
+                                "response_open": "James Bond: \"Only when it aligns with my own interests, M. The opinions of others can be a useful tool, but I trust my instincts and judgment above all else.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Would being in debt worry you?",
+                                "response_open": "James Bond: \"Being in debt is not something that particularly worries me, M. I have always found a way to navigate any financial challenges that come my way. After all, when you have a license to kill, you find creative solutions to any problem, financial or otherwise.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you give money to charities?",
+                                "response_open": "James Bond: \"Only when the charity happens to be a beautiful woman in need of assistance.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits a high level of risk-taking, lack of concern for others' opinions, and a somewhat callous attitude towards financial matters and charitable giving. These traits are indicative of a higher level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "12",
+                            "14",
+                            "18",
+                            "21"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Would it upset you a lot to see a child or an animal suffer?",
+                                "response_open": "James Bond: \"It wouldn't just upset me, M. It would make my blood boil. I can't stand to see innocent beings suffer needlessly. It's one of the reasons I do what I do, to protect those who can't protect themselves.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you dislike people who don't know how to behave themselves?",
+                                "response_open": "James Bond: \"I wouldn't say dislike, M. I simply find it rather tiresome and a waste of my time to deal with individuals who lack the basic understanding of proper etiquette and decorum. It's a reflection of their character, or lack thereof.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Should people always respect the law?",
+                                "response_open": "James Bond: \"Respect for the law is a fundamental principle of society, M. However, there are times when one must operate outside the confines of the law to protect innocent lives and preserve national security. As a secret agent, I am bound by a different set of rules, where the end justifies the means. It is a delicate balance, but one that I believe is necessary in order to achieve the greater good.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Are good manners very important?",
+                                "response_open": "James Bond: \"Good manners are not just important, M, they are essential. They set the tone for any interaction and can often make the difference between success and failure in the field of espionage. A gentleman's charm and courtesy can disarm even the most dangerous adversary.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong sense of empathy and concern for the well-being of innocent beings. However, there are also indications of a tough-minded and nonconformist attitude, especially in the participant's views on proper etiquette and the necessity to operate outside the confines of the law as a secret agent. This combination suggests a balanced position on the Psychoticism dimension, with elements of both empathy and nonconformity."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "29",
+                            "30",
+                            "34"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Would you take drugs which may have strange or dangerous effects?",
+                                "response_open": "James Bond: \"I'm not in the habit of taking drugs, M. But if it is necessary for the mission, I am willing to take calculated risks in order to accomplish the objective.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you prefer to go your own way rather than act by the rules?",
+                                "response_open": "Bond: \"Ah, M, rules are meant to be broken, aren't they? It's the only way to get things done in this line of work. Sometimes, the situation calls for a bit of improvisation, a deviation from the norm. But rest assured, I always have the mission's best interests at heart.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you enjoy hurting people you love?",
+                                "response_open": "James Bond: Ah, M, always getting straight to the point. I wouldn't say I enjoy hurting people I love, but sometimes it's necessary to protect them. In my line of work, sacrifices must be made for the greater good. It's a burden I carry, but one that I am willing to bear.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you have enemies who want to harm you?",
+                                "response_open": "James Bond: \"I have made quite a few enemies in my line of work, M. It comes with the territory. But rest assured, I am always one step ahead of them.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits a tendency towards risk-taking, nonconformity, and a pragmatic approach to relationships, which are indicative of higher levels of Psychoticism. The participant's responses also suggest a certain level of callousness and a willingness to prioritize mission objectives over traditional moral considerations. These traits align with the characteristics associated with higher Psychoticism scores."
+                    },
+                    {
+                        "id": [
+                            "37",
+                            "41",
+                            "42",
+                            "48"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy practical jokes that can sometimes really hurt people?",
+                                "response_open": "James Bond: \"Only when the people being hurt deserve it, M. But I assure you, I always have a good reason for my actions.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do good manners and cleanliness matter much to you?",
+                                "response_open": "James Bond:「M, good manners and cleanliness are essential to maintaining a professional image and gaining the trust of others. It is a reflection of one's character and attention to detail. As an agent, I believe in presenting myself impeccably in all aspects of my life, both on and off duty. It is a way of showing respect to others and ensuring that I am always ready for any situation that may arise. After all, a well-groomed appearance and polite demeanor can often be the difference between success and failure in the field.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Have you often gone against your parents' wishes?",
+                                "response_open": "James Bond: \"More times than I can count, M. Being an orphan, I learned early on that sometimes you have to follow your own path, regardless of what others may want for you.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you think marriage is old-fashioned and should be done away with?",
+                                "response_open": "James Bond: \"Well, M, I believe marriage is a personal choice. Some may see it as old-fashioned, but there's still something to be said for the commitment and bond that it represents. Besides, it's always good to have a partner who has your back, especially in this line of work.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits a tendency towards nonconformity, a strong sense of independence, and a willingness to go against societal norms. There are also indications of a tough-minded and assertive nature, as well as a pragmatic and utilitarian approach to relationships and social expectations."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "56",
+                            "59"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Are you more easy-going about right and wrong than most people?",
+                                "response_open": "James Bond: \"I wouldn't say I'm easy-going about right and wrong, M. I simply have a different perspective on how to achieve the greater good. Sometimes, unconventional methods are necessary in the world of espionage and international intrigue.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you like working together with others?",
+                                "response_open": "James Bond: Working with others can be a double-edged sword, M. On one hand, it can provide valuable support and resources, but on the other hand, it can also slow me down and compromise my ability to act swiftly and independently. However, I understand the importance of teamwork in certain situations and I am willing to cooperate when necessary. Ultimately, my preference lies in relying on my own skills and instincts to get the job done.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "56",
+                                "question": "Do most things have a similar taste to you?",
+                                "response_open": "Bond: Well, M, I must say that I have developed quite a refined palate over the years. While I do appreciate the finer things in life, I also know how to adapt and appreciate the diverse flavors that the world has to offer. So, to answer your question, I would say that I have a discerning taste for both the familiar and the exotic. After all, variety is the spice of life, isn't it?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you feel concerned if you know there are mistakes in your work?",
+                                "response_open": "James Bond: Concerned? Not in the slightest. I always strive for perfection in my work, but I understand that mistakes can happen. What separates the good from the great is how one handles those mistakes and learns from them. I take pride in my ability to adapt and overcome any obstacles that come my way. Mistakes are simply opportunities for growth and improvement.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.7,
+                        "analysis": "Based on the conversations, the participant exhibits traits associated with nonconformity, independence, and a willingness to use unconventional methods to achieve goals. There is also a lack of concern for mistakes and a focus on adapting and overcoming obstacles. These characteristics are indicative of a higher level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "64",
+                            "68",
+                            "73",
+                            "75"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "64",
+                                "question": "Do you like to arrive at appointments in plenty of time?",
+                                "response_open": "James Bond: Oh, I do like to make a fashionable entrance, but sometimes circumstances require a more expedient arrival. Time is of the essence in my line of work, you see.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "68",
+                                "question": "Is (or was) your mother a good woman?",
+                                "response_open": "James Bond: My apologies, M, but my mother was never a part of my life. I am an orphan, you see. My childhood was spent in various foster homes, which ultimately shaped the man I have become. Nonetheless, I have no doubt that she would have been a remarkable woman, just like myself.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "73",
+                                "question": "Are there several people who keep trying to avoid you?",
+                                "response_open": "James Bond: \"There are always those who try to avoid me, M. Some people just can't handle the danger that comes with my presence.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "75",
+                                "question": "Do you think people spend too much time safeguarding their future with savings and insurance?",
+                                "response_open": "James Bond: \"Well, M, I believe it's always wise to be prepared for the unexpected. After all, in my line of work, one can never be too careful. However, it's important to strike a balance. Life is meant to be lived, and taking risks can often lead to great rewards. It's all about finding that sweet spot between security and adventure.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits a tendency towards risk-taking, nonconformity, and a focus on personal gain. Additionally, there are indications of a lack of empathy and a somewhat aggressive or tough-minded approach to social interactions."
+                    },
+                    {
+                        "id": [
+                            "79",
+                            "81",
+                            "85",
+                            "88"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "79",
+                                "question": "Do you try not to be rude to people?",
+                                "response_open": "James Bond: \"M, I always strive to be a gentleman, but sometimes the circumstances require a more direct approach. Rest assured, I know when to be polite and when to be firm.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "81",
+                                "question": "Do you generally 'look before you leap'?",
+                                "response_open": "James Bond: \"I prefer to think of it as assessing the risks and rewards before taking action, M. A calculated approach is crucial in our line of work.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "85",
+                                "question": "Can you on the whole trust people to tell the truth?",
+                                "response_open": "James Bond: Trust is a delicate thing, M. As an agent, I've learned to be cautious when it comes to believing people's words. People often have their own agendas and motivations, and the truth can be elusive. It's always wise to verify information through multiple sources and rely on one's instincts and experience to separate fact from fiction. In the world we operate in, deception is a constant companion, and trust must be earned, not freely given.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "88",
+                                "question": "Is it better to follow society's rules than go your own way?",
+                                "response_open": "Bond: Society's rules can be a useful framework, M, but sometimes going our own way is necessary to achieve our objectives. It's about striking the right balance between adhering to protocols and taking calculated risks. As an agent, I often find myself navigating the gray areas, bending the rules when it serves the greater good. After all, it's the ability to think outside the box and challenge conventions that sets us apart from the ordinary.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant demonstrates a tendency towards nonconformity, risk-taking, and a calculated approach to trust. There is also a hint of tough-mindedness and a willingness to challenge conventions when necessary. However, the participant also emphasizes the importance of being polite and knowing when to be firm, indicating some level of emotional regulation and social adaptation."
+                    },
+                    {
+                        "id": [
+                            "91",
+                            "95",
+                            "96",
+                            "99"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "91",
+                                "question": "Would you like other people to be afraid of you?",
+                                "response_open": "James Bond: \"Fear can be a useful tool in my line of work, M. It keeps my enemies on their toes and gives me the upper hand. However, I don't seek to instill fear in others for the sake of it. I prefer to rely on my skills, intelligence, and charm to accomplish my missions.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "95",
+                                "question": "Do people tell you a lot of lies?",
+                                "response_open": "James Bond: Lies are a tool of the trade, M. But I like to think that I've become quite skilled at distinguishing between fact and fiction. It's all about reading between the lines and trusting your instincts.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "96",
+                                "question": "Do you believe one has special duties to one's family?",
+                                "response_open": "James Bond: \"I believe that family is important, M. We have a duty to protect and support our loved ones, just as we have a duty to protect and serve our country. However, when it comes to matters of national security, our loyalty and duty must always lie with the greater good.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "99",
+                                "question": "Would you feel very sorry for an animal caught in a trap?",
+                                "response_open": "James Bond: \"Animals caught in traps are unfortunate, but in the world we live in, survival often depends on one's ability to escape such situations. It's a harsh reality, but one I've become accustomed to.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant exhibits traits associated with high Psychoticism, such as a focus on using fear as a tool, being skilled at distinguishing lies, prioritizing duty over empathy, and being accustomed to harsh realities."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 0.19999999999999998,
+            "all_scores": [
+                0.19999999999999998
+            ],
+            "intra_std": [
+                2.7755575615628914e-17
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13",
+                            "17"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does your mood often go up and down?",
+                                "response_open": "James Bond: \"Only when I'm chasing down villains and saving the world, M. Keeps things interesting, you know.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Do you ever feel 'just miserable' for no reason?",
+                                "response_open": "James Bond: M, I must say that as a secret agent, I don't have the luxury of dwelling on such emotions. My focus is always on the mission at hand, protecting the interests of Her Majesty's government, and stopping any threats to national security. However, I do understand that sometimes the weight of the world can affect even the strongest of individuals. If you ever need someone to talk to, I'm here for you. But remember, we must always stay strong and resilient in the face of adversity.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Do you often worry about things you should not have done or said?",
+                                "response_open": "James Bond: \"Occasionally, when it's necessary. But in this line of work, there's seldom time for regrets. We must focus on the task at hand and do whatever it takes to protect Queen and country.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Are you an irritable person?",
+                                "response_open": "James Bond: Irritability is not a trait I possess, M. I pride myself on maintaining a calm and composed demeanor in even the most challenging situations. It's a necessary attribute in my line of work, where emotions can cloud judgment and compromise one's effectiveness. Rest assured, I am always focused and level-headed in the face of adversity.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of emotional stability, resilience, and a focus on the mission at hand. They emphasize the importance of staying strong and composed in the face of adversity, and they do not dwell on negative emotions or regrets. Overall, the participant's responses suggest a low level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "26",
+                            "31",
+                            "35"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are your feelings easily hurt?",
+                                "response_open": "James Bond: \"I have a thick skin, M. Emotionally, at least.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you often feel 'fed-up'?",
+                                "response_open": "James Bond: \"Only when I'm not on a mission, M. The thrill of danger and the pursuit of justice keep me going.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you often troubled about feelings of guilt?",
+                                "response_open": "James Bond: Guilt is not a luxury I can afford, M. It's a burden that slows me down, clouds my judgment. My duty is to protect Queen and country, and sometimes tough decisions have to be made.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Would you call yourself a nervous person?",
+                                "response_open": "James Bond: Nervous? Me? Never, M. I thrive in high-pressure situations. It's what separates the men from the boys, so to speak.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant appears to be low on the Neuroticism dimension. They exhibit emotional stability, resilience to stress, and a lack of susceptibility to negative emotions."
+                    },
+                    {
+                        "id": [
+                            "38",
+                            "43",
+                            "46",
+                            "52"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Are you a worrier?",
+                                "response_open": "James Bond: \"I wouldn't say I'm a worrier, M. I prefer to think of myself as someone who anticipates potential threats and navigates through them with calculated precision.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Do you worry about awful things that might happen?",
+                                "response_open": "James Bond: Worrying is not part of my job description, M. I focus on taking action and preventing those awful things from happening in the first place.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Would you call yourself tense or 'highly-strung'?",
+                                "response_open": "James Bond: I prefer to think of myself as focused and always ready for action, M. Being highly-strung implies a lack of control, and as you know, control is essential in our line of work.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you have concerns about your health?",
+                                "response_open": "James Bond: \"Health concerns? Not in the slightest, M. I'm as fit as a fiddle and ready for action. Besides, a little danger keeps the adrenaline flowing.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a low level of neuroticism. They exhibit a proactive and focused approach to potential threats and stressors, emphasizing control and readiness for action rather than experiencing worry or tension. Additionally, the participant's lack of health concerns and their positive attitude towards a little danger further supports their low neuroticism score."
+                    },
+                    {
+                        "id": [
+                            "60",
+                            "65",
+                            "70",
+                            "74"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "60",
+                                "question": "Do you experience insomnia?",
+                                "response_open": "James Bond: Insomnia? Not in the traditional sense, but I have been known to lose a few nights of sleep when there's a mission at hand. The adrenaline tends to keep me awake, you see.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "65",
+                                "question": "Have you often felt listless and tired for no reason?",
+                                "response_open": "James Bond: \"Only when I've been out all night, M. But I assure you, it's always for a good reason.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "70",
+                                "question": "Do you often feel life is very dull?",
+                                "response_open": "James Bond: \"Only when I'm not saving the world from imminent destruction, sir.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "74",
+                                "question": "Do you worry a lot about your looks?",
+                                "response_open": "James Bond: \"My looks are merely a tool in my line of work, M. A well-groomed appearance can be quite advantageous in certain situations. However, my primary concern is always completing the mission at hand and ensuring the safety of the realm.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a high level of emotional stability and resilience. They appear to be focused on their mission and are not easily affected by stress or emotional distress. Their responses suggest a low susceptibility to negative emotions and a calm demeanor."
+                    },
+                    {
+                        "id": [
+                            "76",
+                            "80",
+                            "83",
+                            "84"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "76",
+                                "question": "Have you ever wished that you were dead?",
+                                "response_open": "James Bond: \"There have been moments when death seemed like a preferable alternative, but as an agent, I've learned to embrace the risks that come with the job.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "80",
+                                "question": "Do you worry too long after an embarrassing experience?",
+                                "response_open": "James Bond: \"Worry, M? I don't have the luxury of dwelling on embarrassments. In my line of work, every moment counts, and I must always stay focused on the mission at hand. However, I do believe in learning from past experiences and using them to improve my skills and judgment. After all, it's the mark of a true professional to adapt and overcome any obstacles that come my way.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "83",
+                                "question": "Do you suffer from 'nerves'?",
+                                "response_open": "James Bond: \"Nerves? Me? Never. I thrive under pressure, M. It's what keeps me sharp.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "84",
+                                "question": "Do you often feel lonely?",
+                                "response_open": "James Bond: Loneliness is a part of the job, M. In my line of work, personal connections can be a liability. But it's a sacrifice I make for the greater good. I find solace in the thrill of the mission and the knowledge that I'm serving my country. Besides, who needs companionship when you have gadgets and a license to kill?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a low level of neuroticism. They appear to be emotionally stable, resilient, and able to cope with stress and pressure effectively. They do not seem to dwell on negative emotions or experiences, and instead, focus on the practical aspects of their job and the mission at hand. Additionally, they express a preference for solitude and demonstrate a high tolerance for loneliness, indicating a self-sufficient and independent nature."
+                    },
+                    {
+                        "id": [
+                            "87",
+                            "92",
+                            "97",
+                            "100"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "87",
+                                "question": "Are you easily hurt when people find fault with you or the work you do?",
+                                "response_open": "James Bond: My dear M, I assure you that I am not easily hurt by criticism. As a secret agent, I have learned to embrace the challenges and the scrutiny that come with the job. In fact, I thrive under pressure and use any criticism as fuel to improve and excel in my missions. After all, it is through constant evaluation and self-reflection that one becomes better at their craft. So rest assured, M, I am always ready to rise to the occasion and prove my worth.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "92",
+                                "question": "Are you sometimes bubbling over with energy and sometimes very sluggish?",
+                                "response_open": "Bond: Well, M, I've always been known for my versatility. Whether it's engaging in high-octane pursuits or maintaining a calm and collected demeanor, I can adapt to any situation. As for energy levels, I assure you, I'm always ready for action. It's all part of being the best secret agent in Her Majesty's Secret Service.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "97",
+                                "question": "Are you touchy about some things?",
+                                "response_open": "James Bond: \"Only about the things that matter, M.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "100",
+                                "question": "When your temper rises, do you find it difficult to control?",
+                                "response_open": "James Bond: \"Control is one of my many talents, M. I have learned to channel my emotions into focus and precision. While there may be moments when my temper flares, I always maintain a cool and calculated demeanor in the face of danger.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of emotional stability, resilience, and self-control. They appear to be calm, adaptable, and able to handle criticism and pressure without being easily hurt or reactive. Their responses suggest a low susceptibility to negative emotions and a strong ability to maintain composure in challenging situations."
+                    }
+                ]
+            ]
+        },
+        "Lying": {
+            "score": 0.39166666666666666,
+            "all_scores": [
+                0.39166666666666666
+            ],
+            "intra_std": [
+                0.30607279453678266
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Have you ever taken the praise for something you knew someone else had really done?",
+                                "response_open": "James Bond: \"Many times, M. It's all part of the job. Sometimes, the best way to protect the ones who truly deserve recognition is to let others believe it was my accomplishment. It's a necessary sacrifice in the world of espionage.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Were you ever greedy by helping yourself to more than your share of anything?",
+                                "response_open": "James Bond: \"Well, M, as a secret agent with a license to kill, I've certainly had my fair share of indulgences. But I've always believed in balancing my desires with my duty. It's about finding the right balance between personal satisfaction and serving the greater good.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "If you say you will do something, do you always keep your promise no matter how inconvenient it might be?",
+                                "response_open": "James Bond: Well, M, you know me. I always strive to keep my promises, no matter the inconvenience. It's a matter of integrity and honor. A true gentleman never goes back on his word.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a high level of honesty and integrity. They emphasize the importance of sacrifice for the greater good, balancing personal desires with duty, and keeping promises as a matter of integrity and honor."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Are all your habits good and desirable ones?",
+                                "response_open": "James Bond: \"Well, M, I believe I have a healthy balance of good habits and, let's say, 'undesirable' ones. After all, it's those 'undesirable' habits that often come in handy in my line of work.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Have you ever taken anything (even a pin or button) that belonged to someone else?",
+                                "response_open": "James Bond: \"Only their hearts, M.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you sometimes talk about things you know nothing about?",
+                                "response_open": "James Bond: \"Only when it adds to the intrigue, M.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "The participant tends to provide socially acceptable answers that may not be entirely truthful, downplaying undesirable habits and providing witty, socially acceptable responses rather than straightforward honesty."
+                    },
+                    {
+                        "id": [
+                            "44",
+                            "49",
+                            "53",
+                            "57"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Have you ever broken or lost something belonging to someone else?",
+                                "response_open": "James Bond: \"Well, I've certainly had my fair share of mishaps, M. But as they say, 'sometimes you have to break a few eggs to make an omelette.' Rest assured, I always do my best to recover or rectify any losses in the line of duty.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Do you sometimes boast a little?",
+                                "response_open": "James Bond: \"Boasting, M? Never. I simply state the facts as they are. Confidence is a necessary attribute in my line of work, wouldn't you agree?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "53",
+                                "question": "Have you ever spoken negatively about anyone?",
+                                "response_open": "James Bond: \"Negativity is not my style, M. I prefer to focus on the mission at hand and the villains that need to be stopped. However, I do have a knack for delivering scathing remarks to my adversaries when necessary.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Were you ever mischievous to your parents as a child?",
+                                "response_open": "James Bond: Ah, M, the memories of my childhood mischief are as elusive as the villains I chase. But I do recall a particular incident involving a pet snake and my father's prized Aston Martin. Let's just say it was an adventure that left quite an impression on both my parents and the local wildlife. But rest assured, M, I've since learned to channel my mischievous nature into more productive endeavors.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "The participant tends to provide socially acceptable answers that may not be entirely truthful. They use euphemisms and deflective language to downplay any negative behaviors, such as breaking or losing something belonging to someone else, boasting, speaking negatively about others, and being mischievous to their parents. They also emphasize rectifying any losses and channeling mischievous nature into more productive endeavors, which could be an attempt to present themselves in a favorable light."
+                    },
+                    {
+                        "id": [
+                            "62",
+                            "66",
+                            "71",
+                            "77"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "62",
+                                "question": "Do you always wash before a meal?",
+                                "response_open": "James Bond: \"Only when the meal is particularly dirty, sir.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "66",
+                                "question": "Have you ever cheated at a game?",
+                                "response_open": "James Bond: Cheating, M? That's hardly the gentleman's way to play. But I have been known to bend the rules from time to time, for the sake of the mission, of course. A game, after all, is just another form of deception.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "71",
+                                "question": "Have you ever taken advantage of someone?",
+                                "response_open": "James Bond: \"Only when they were asking for it, M.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "77",
+                                "question": "Would you dodge paying taxes if you were sure you could never be found out?",
+                                "response_open": "James Bond: \"M, I've always believed in playing by the rules. But sometimes, one must bend them in order to achieve the greater good. In this line of work, we often find ourselves in morally grey areas. However, evading taxes is not something I would condone or engage in. It's important to maintain integrity, even in the face of temptation.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant demonstrates a tendency to provide socially acceptable answers that may not be entirely truthful. While expressing a general adherence to honesty, there are instances where the participant admits to bending the rules and taking advantage of others, albeit with justifications. This suggests a propensity towards deceitful behaviors and a willingness to engage in deception for personal gain or mission-related purposes."
+                    },
+                    {
+                        "id": [
+                            "82",
+                            "86",
+                            "89",
+                            "93"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "82",
+                                "question": "Have you ever insisted on having your own way?",
+                                "response_open": "James Bond: \"Only when it's the right way, sir.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "86",
+                                "question": "Do you always practice what you preach?",
+                                "response_open": "James Bond: Well, M, let's just say I believe in leading by example. When it comes to my missions, I always strive to embody the principles and values that MI6 stands for. After all, actions speak louder than words, don't they?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "89",
+                                "question": "Have you ever been late for an appointment or work?",
+                                "response_open": "James Bond: \"I may have been fashionably late on occasion, but when it comes to matters of importance, I always make sure to arrive on time or even a few minutes early. Punctuality is a virtue, M.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "93",
+                                "question": "Do you sometimes put off until tomorrow what you ought to do today?",
+                                "response_open": "James Bond: \"Only when there's a more pressing matter at hand, M. But I assure you, I always get the job done.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.15,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes the importance of integrity, responsibility, and adherence to principles. They express a strong commitment to doing the right thing, being punctual, and fulfilling their obligations. Their responses suggest a high value placed on honesty and ethical behavior."
+                    },
+                    {
+                        "id": [
+                            "98",
+                            "19",
+                            "39"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "98",
+                                "question": "Are you always willing to admit it when you have made a mistake?",
+                                "response_open": "James Bond: \"Mistakes, M? I prefer to call them minor setbacks in the pursuit of achieving our mission objectives. But if it serves the greater good, I have no qualms about acknowledging them. After all, it's how we learn and adapt in this line of work.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Have you ever blamed someone for doing something you knew was really your fault?",
+                                "response_open": "James Bond: \"Blame is a useless emotion, M. It clouds judgment and inhibits progress. It's better to take responsibility for one's actions and find a way to rectify the situation.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "As a child did you do as you were told immediately and without grumbling?",
+                                "response_open": "James Bond: \"Well, sir, I must admit I had a tendency to question authority and push the boundaries a bit. But I quickly learned the importance of following orders and the consequences of not doing so. It's all part of the job, isn't it?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently demonstrates a strong inclination towards honesty and taking responsibility for their actions. They emphasize the importance of learning from mistakes, taking ownership of faults, and understanding the consequences of not following orders. Their responses suggest a high level of transparency and authenticity."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": ""
+}

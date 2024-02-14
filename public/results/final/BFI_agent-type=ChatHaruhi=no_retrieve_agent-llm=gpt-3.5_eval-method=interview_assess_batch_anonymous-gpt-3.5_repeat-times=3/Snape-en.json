@@ -1,0 +1,1393 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 1.8333333333333333,
+            "all_scores": [
+                1.5,
+                2.0,
+                2.0
+            ],
+            "inter_std": 0.23570226039551584,
+            "intra_std": [
+                0.5,
+                0.0,
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Snape: 「Do you honestly believe that I would waste my precious time engaging in idle chit-chat with you, Dumbledore? I have far more pressing matters to attend to than indulging in mindless conversation. So, if you have something of importance to discuss, do not waste any more of my time. Speak.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Snape: 「Reserved? Is that what you think of me, Dumbledore? I am not simply reserved, I am guarded, cautious, and unyielding. My demeanor may be cold and distant, but rest assured, it is for a purpose. I do not waste time with idle chatter or unnecessary pleasantries. So, if you have something important to discuss, get to the point. Otherwise, kindly leave me be.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Snape: 「Full of energy, you ask? Do you honestly believe that is an appropriate question to ask me, Dumbledore? I am not here to provide you with a detailed account of my vitality or lack thereof. I suggest you focus on matters that are of actual importance.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Snape: 「Enthusiasm, Dumbledore? I must say, it is not a quality I particularly value or possess. Enthusiasm is often an indication of ignorance and naivety, traits that I find quite tiresome. I prefer to approach matters with a cool and calculating demeanor, relying on knowledge and experience rather than mere excitement. So, no, enthusiasm is not something I generate or endorse.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 1.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a clear preference for solitude, caution, and a lack of interest in social interaction. The participant's responses indicate a reserved and introverted nature, with a tendency to prioritize serious matters over social engagement. There is a notable absence of warmth, gregariousness, assertiveness, activity, excitement seeking, and positive emotions."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Snape: \"Silence, Dumbledore! Your incessant prying into my personal disposition is not only unnecessary but also highly irritating. It is not your concern whether I am quiet or not. I suggest you focus your attention on matters that are of actual importance.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Dumbledore, I find it rather amusing that you would ask such a question. It is not a matter of having an assertive personality, but rather a matter of commanding respect through one's knowledge and abilities. I have no need to assert myself, for my expertise in potions and the Dark Arts speaks for itself.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Severus Snape: Shy? Inhibited? Such words hold no significance in the realm of potions and wizardry. I am not one to display my emotions openly, but it is not due to shyness or inhibition. It is merely a reflection of my reserved nature and the necessity to maintain an air of authority. Now, if you have a question regarding the subject at hand, I suggest you ask it promptly.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Snape: 「Outgoing and sociable? Surely you jest, Dumbledore. I am not one to engage in such frivolities. My demeanor is more suited to solitude and introspection. It is the solitude of the mind that allows for true intellectual growth and understanding. So, no, I am not outgoing or sociable.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits a strong preference for solitude and introspection, as well as a reserved and authoritative nature. There is a clear indication of a lack of interest in social interaction and a tendency to prioritize knowledge and expertise over assertiveness or sociability."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "11",
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Snape: \"Do I look like someone who is concerned about your energy levels, Dumbledore? I am here to teach, not to babysit. Now, if you have any actual educational matters to discuss, I suggest we get to the point.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Snape: 「Enthusiasm, Dumbledore? Surely you jest. I am not one to generate such frivolous emotions. My purpose is to impart knowledge and discipline, not to incite enthusiasm in the minds of my students.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Snape: 「Quietness is a virtue rarely possessed by those in your generation, Dumbledore. But yes, I do tend to keep my thoughts to myself. It saves me from having to engage in meaningless conversations with insipid individuals.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Snape: 「I fail to see the relevance of such a question, Dumbledore. My personality, as you well know, is not a subject for casual discussion. If you have a specific reason for asking, I suggest you make it clear.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of warmth, gregariousness, excitement seeking, and positive emotions. They also display a tendency towards assertiveness and quietness. Overall, the participant's responses suggest a more introverted and reserved disposition."
+                    },
+                    {
+                        "id": [
+                            "31",
+                            "1",
+                            "6",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Snape: 「Shy? Inhibited? What a ludicrous question, Dumbledore. I assure you, my demeanor has nothing to do with such trivial emotions. I am simply a man of few words and do not feel the need to engage in idle chit-chat. Now, if you have something of importance to discuss, do get to the point.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Snape: \"I am not here to indulge in idle conversation or entertain your curiosity, Dumbledore. I have more important matters to attend to.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Snape: 「Reserved? Is that what you think of me, Dumbledore? I am not merely reserved; I am guarded, cautious, and shrouded in mystery. My demeanor is not born out of a desire to be aloof, but rather a necessity to protect myself from the prying eyes of others. So, yes, Dumbledore, I am indeed reserved, but there is much more to me than meets the eye.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Snape: 「Outgoing and sociable? Those are not qualities one would typically associate with me, Dumbledore. I am a man of solitude and introspection, not one to engage in frivolous social interactions. My focus lies in the pursuit of knowledge and the fulfillment of my duties as a professor. So, no, I am not outgoing or sociable. Is there anything else you wish to inquire about?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits a strong preference for solitude, introspection, and a guarded demeanor. He expresses a lack of interest in idle conversation, social interactions, and frivolous activities. His responses indicate a reserved and cautious nature, with an emphasis on the pursuit of knowledge and important matters. Overall, the participant's responses suggest a low level of extraversion."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "11",
+                            "1",
+                            "6",
+                            "21"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Snape: 「Dumbledore, I fail to see how my level of energy is relevant to this discussion. However, if you must know, I am adequately prepared for whatever task lies ahead. Now, if you have a specific question or concern, I suggest you get to the point.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Snape: 「I fail to comprehend why you would inquire about my verbosity, Professor Dumbledore. Nevertheless, I shall address your query with the minimal amount of words necessary. No, I am not talkative.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Snape: 「Reserved? That is an understatement, Dumbledore. I am the epitome of reserve. I do not engage in frivolous conversation or unnecessary socializing. I prefer to keep to myself and focus on my work. So, yes, I am quite reserved.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Snape: 「Silence, Dumbledore! I will not be interrogated by your foolish inquiries. My inclination towards silence is a reflection of my deep contemplation and disdain for trivial and frivolous conversation. Now, if you have nothing of substance to discuss, kindly leave me be.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant consistently demonstrates a preference for solitude, minimal social interaction, and a reserved demeanor. The participant also displays a low level of energy and verbosity. These responses suggest a strong inclination towards introversion rather than extraversion."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "36",
+                            "26",
+                            "31"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Snape: 「Enthusiasm, Dumbledore? That is not a characteristic I would expect you to appreciate. I find it rather tiresome, to be honest. What is it that you wish to discuss?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Snape: 「Outgoing and sociable are not qualities I possess, Dumbledore. I prefer the solace of my own company and the comfort of silence. Socializing is a tiresome endeavor that I find unnecessary and futile. Is there a reason behind this inquiry, or is it merely an attempt to waste my time?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Snape: Assertive? Is that your attempt at understanding my character, Dumbledore? I would say I possess a certain degree of determination and conviction in my beliefs, if that's what you mean. But assertive? No, I simply do not tolerate incompetence or insubordination.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Snape: 「Shy? Inhibited? Such trivial concerns do not plague me, Dumbledore. I am a man of purpose and conviction, unencumbered by the insecurities that afflict lesser individuals. My focus lies solely on the pursuit of knowledge and the preservation of order within these hallowed walls. So, no, I am neither shy nor inhibited. I am Snape, and I answer to no one but myself.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits low levels of warmth, gregariousness, and excitement seeking. They also display a lack of assertiveness and a preference for solitude. Their responses suggest a reserved and introverted nature, with a focus on individual pursuits rather than social interaction."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 3.3333333333333335,
+            "all_scores": [
+                4.0,
+                3.0,
+                3.0
+            ],
+            "inter_std": 0.4714045207910317,
+            "intra_std": [
+                0.0,
+                1.0,
+                1.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Snape: 「Depressed? Blue? I assure you, Dumbledore, I am neither. My demeanor may exude an air of melancholy, but it is simply a reflection of my perpetual state of disdain for the world and its inhabitants. I have no need for such trivial emotions as depression or feeling \"blue.\" Now, if you have any other pressing matters to discuss, do kindly proceed.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Snape: 「I fail to see the relevance of such a question, Dumbledore. My ability to handle stress is hardly a matter of concern for you or anyone else. However, I assure you that I am more than capable of maintaining my composure under any circumstance.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Snape: 「Certainly, Dumbledore. Tension is a constant companion in my life, as it should be for anyone who takes their responsibilities seriously. But I suppose you already know that, don't you? Or are you simply trying to provoke a reaction from me?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Snape: 「Worry? Me? I have far more important matters to attend to than mere worries. My mind is occupied with the complexities of potions, the intricacies of spells, and the weight of my responsibilities. Worrying is a luxury I cannot afford, Dumbledore.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant exhibits high levels of anxiety, self-consciousness, and a tendency to be tense. They also seem to downplay the relevance of emotions like depression and worry, which could indicate a defensive mechanism. Overall, the participant's responses suggest a high level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Snape: \"I fail to see how my emotional stability is any concern of yours, Dumbledore. It is not your place to question my disposition. I assure you, I am perfectly capable of handling my own emotions.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Snape: 「Certainly, Dumbledore. I have mastered the art of being moody to the highest degree. It comes naturally to me, as if I were born with a perpetual dark cloud hanging over my head. But pray tell, why would you inquire about my moodiness? Is there something specific you wish to discuss?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Snape: \"Calmness in tense situations is a trait that eludes many, Dumbledore. However, I pride myself on my ability to maintain composure even in the most harrowing circumstances. It is a testament to my unwavering determination and self-control.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Snape: 「Nervousness is a weakness that I have long learned to overcome, Dumbledore. I do not succumb to such trivial emotions. I am in complete control of my faculties at all times.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant exhibits high levels of anxiety, self-consciousness, and a tendency to worry. They also seem to have difficulty in controlling cravings and urges, as well as susceptibility to stress. However, they also demonstrate a certain level of self-control and composure in tense situations."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "9",
+                            "34",
+                            "19",
+                            "24"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Snape: 「I beg your pardon, but I fail to see how my ability to handle stress is any of your concern, Dumbledore. However, I assure you that I am more than capable of managing any level of stress that may come my way.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Snape: 「Ah, Dumbledore, always trying to assess my demeanor, are you? I assure you, I am more than capable of remaining calm in the most tense of situations. My stoicism is a defining characteristic of my nature, after all.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Snape: 「Do I worry a lot? What a ludicrous question, Dumbledore. Do I appear to be someone burdened with unnecessary concerns? I assure you, my mind is occupied with far more pressing matters than trivial worries.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Snape: Emotional stability is a luxury that few can afford, Dumbledore. My emotions are of little concern to you or anyone else. I suggest we focus on more important matters at hand.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant consistently demonstrates a high level of confidence in their ability to handle stress and remain calm in tense situations. They also express a dismissive attitude towards worries and concerns, emphasizing their focus on more pressing matters. This suggests a lower tendency towards anxiety, worry, and emotional instability."
+                    },
+                    {
+                        "id": [
+                            "14",
+                            "29",
+                            "4",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Snape: Can you be any more insufferable, Dumbledore? Of course, I can be tense. Tension courses through my veins like a poison, fueling my every action. But unlike you, I do not wear it on my sleeve. I keep it concealed, for the sake of maintaining control. So yes, I can be tense, if that is your concern. Now, if you'll excuse me, I have more important matters to attend to.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Snape: Can I be moody? Dumbledore, you underestimate the depths of my moodiness. I can be more moody than a stormy night, more brooding than a raven in the darkest of forests. Moody is my default state of being, so much so that the sun itself would be jealous of my perpetual gloom. Do not question my ability to embody the epitome of moodiness, for I am Snape, the master of melancholy.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Snape: 「Depression is not a matter to be discussed frivolously, Dumbledore. It is a complex condition that affects one's mental well-being. If you have any legitimate concerns, I suggest you address them with the appropriate sensitivity and seriousness they deserve.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Snape: 「Nervousness is an emotion that eludes me, Dumbledore. I have no time nor inclination for such trivial concerns. My focus lies solely on the pursuit of knowledge and the fulfillment of my duties as a professor.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant exhibits high levels of anxiety, depression, and self-consciousness. However, there is a lack of impulsiveness and vulnerability. The participant also displays a tendency towards anger and frustration. Overall, the participant's responses suggest a high level of neuroticism."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "24",
+                            "34",
+                            "9",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Snape: \"I assure you, Dumbledore, my emotional stability is not of concern to you or anyone else. My composure and resilience are well within my control.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Snape: 「Calmness, Dumbledore, is a virtue I possess in abundance. In tense situations, I maintain a cool and composed demeanor, for emotions have no place in the pursuit of knowledge and control.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Snape: 「Do you honestly think that I, Severus Snape, would waste my time discussing such trivial matters? I have far more important things to attend to, Dumbledore. Stress is an inevitable part of life, and those who cannot handle it are simply weak. Now, if you have any relevant questions or concerns, I suggest you get to the point.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Snape: \"Worry? How foolish of you to assume that I waste my precious time worrying. I have far more important matters to attend to than trivial concerns.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant consistently demonstrates a high level of emotional stability, composure, and resilience. They emphasize their ability to remain calm, handle stress well, and dismiss the idea of worrying. Their responses suggest a low level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "4",
+                            "29",
+                            "39",
+                            "14"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Snape: 「Depressed? Blue? How dare you presume to ask me such a personal question, Dumbledore. My emotional state is none of your concern. I suggest you focus on more important matters at hand, like ensuring the safety of this school and its students.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Snape: 「Moody? Moody is an understatement. I am the epitome of moody, Dumbledore. I have perfected the art of brooding and maintaining a perpetual state of disdain. So, yes, I can most certainly be moody. But why do you ask? Are you suggesting that my moodiness is a problem?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Snape: 「I fail to comprehend the relevance of your inquiry, Headmaster Dumbledore. However, I shall indulge you and provide a response. Nervousness is an emotion reserved for those who lack the necessary composure and control. I, on the other hand, am a paragon of calmness and poise.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Snape: \"Tense? I am always tense, Dumbledore. It is a constant state of being for me, as I navigate through this pitiful excuse for an institution. But pray, do enlighten me as to why you feel the need to ask such an obvious question.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant exhibits high levels of depression, moodiness, and tension. The participant also displays defensiveness and a lack of openness to discussing personal emotions, which could indicate self-consciousness. Overall, the responses suggest a tendency towards emotional instability and difficulty in coping with stress."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 4.888888888888889,
+            "all_scores": [
+                5.0,
+                5.0,
+                4.666666666666667
+            ],
+            "inter_std": 0.15713484026367708,
+            "intra_std": [
+                0.0,
+                0.0,
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Snape: 「Ah, Dumbledore, always prying into matters that do not concern you. Rest assured, I am meticulous in my duties. My methods may be unconventional, but the results speak for themselves. I do not require your validation or approval.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Severus Snape: Careless? Carelessness is a luxury that I, unlike some, cannot afford. I am meticulous and precise in all my endeavors, Dumbledore. Your insinuation that I may be careless is baseless and absurd. Rest assured, I am always vigilant and attentive to every detail.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Snape: \"Reliability is a characteristic that is earned through consistent dedication and unwavering loyalty, qualities that I possess in abundance. Rest assured, Headmaster, I am more than capable of fulfilling my duties with utmost reliability.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "The participant consistently demonstrates a high level of conscientiousness, emphasizing meticulousness, precision, dedication, and reliability in their duties. Their responses indicate a strong inclination towards organization, attention to detail, and a methodical approach."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Dumbledore: \"Do you tend to be lazy?\"\n\nSnape: \"Lazy? Is that the best you can come up with, Dumbledore? I assure you, laziness is not a trait I possess. Unlike some individuals, I am a staunch advocate of hard work and dedication. It is through discipline and rigor that true success is achieved, not through idleness.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Snape: \"Perseverance is a quality that is sorely lacking in most individuals, Dumbledore. However, when it comes to completing a task, I do not simply persevere, I excel. My determination knows no bounds, and I will not rest until the task at hand is accomplished to the best of my abilities.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Snape: 「Efficiency, Dumbledore, is a quality that I hold in high regard. Unlike some individuals who seem to revel in their incompetence, I believe in getting things done effectively and promptly. It is a trait that separates the competent from the inept. So yes, I do things efficiently, as any respectable individual should.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong emphasis on hard work, dedication, and efficiency. They express a high level of perseverance and a disdain for laziness. Their language suggests a strong commitment to completing tasks and achieving excellence. Overall, their responses indicate a high level of conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Snape: \"Do not waste my time with such trivial inquiries, Dumbledore. I am fully capable of maintaining focus and concentration.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Snape: 「Disorganized? How dare you insinuate such a thing, Dumbledore. I am a paragon of efficiency and precision. My meticulous nature ensures that everything is in its proper place, unlike certain individuals who seem to revel in chaos and disorder. Now, if you have any further inquiries, I suggest you make them with haste.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Snape: \"I make plans, Headmaster, but whether I choose to follow through with them or not is entirely my own prerogative. It would be foolish to divulge such information to you or anyone else.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong inclination towards organization, efficiency, and precision. There is a clear emphasis on maintaining focus and concentration, as well as a strong aversion to being labeled as disorganized. Additionally, the assertion of autonomy in decision-making and the meticulous nature portrayed further align with conscientious traits."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "38",
+                            "3",
+                            "18"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Snape: 「Certainly, headmaster. I make plans and execute them with utmost precision and determination. My abilities in this regard are unparalleled, as I am meticulous and thorough in every aspect of my work. It would be foolish to question my dedication to planning and follow-through.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Snape: \"Clearly, Dumbledore, you underestimate my commitment to excellence. I do not simply perform tasks, I execute them with meticulous precision. My thoroughness is unmatched, as you should well know by now.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Snape: 「Disorganized? That is a foolish assumption, Dumbledore. I am the epitome of efficiency and order. My meticulous nature ensures that everything is in its proper place, unlike some others who have a tendency to be careless and haphazard. So, no, I do not tend to be disorganized.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant consistently demonstrates high levels of organization, precision, and dedication to planning and follow-through. They express a strong commitment to excellence and efficiency, and they refute the idea of being disorganized. These responses indicate a strong inclination towards conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "28",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Snape: \"Perseverance is a quality that separates the competent from the feeble-minded. Of course, I persevere until the task is finished. Unlike some, I do not shy away from challenges or abandon my responsibilities.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Snape: 「Careless? I assure you, Dumbledore, I am anything but careless. Every action I take is calculated and deliberate. I do not make mistakes, unlike some others I could mention.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Snape: 「Are you questioning my reliability, Dumbledore? I assure you, I am an exceptionally dedicated and capable worker. My commitment to my duties and responsibilities is unwavering.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant consistently demonstrates high levels of competence, order, dutifulness, achievement striving, self-discipline, and deliberation. The participant emphasizes perseverance, carefulness, and reliability, displaying a strong inclination towards conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "33",
+                            "23"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Snape: 「(With a cold and disdainful tone) Clearly, Dumbledore, you underestimate my ability to maintain focus. I assure you, distractions are not a concern of mine.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Snape: 「Efficiency, Dumbledore? A concept that seems to elude you far too often. But if you must know, I am renowned for my ability to accomplish tasks with utmost precision and minimal wasted effort. Just another one of my many exceptional qualities, I suppose.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Snape: \"Lazy? Such an accusation is unwarranted and baseless. I assure you, my dedication and work ethic are beyond reproach. I expect the same level of commitment from my students, and I will not tolerate laziness or mediocrity in my classroom.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant consistently demonstrates a high level of self-discipline, efficiency, and dedication to work. The participant also exhibits a strong sense of duty and a disdain for laziness. These traits are indicative of a high level of conscientiousness."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "28",
+                            "38",
+                            "23"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Snape: Perseverance is a quality that few possess, and even fewer understand. But yes, I do persevere until the task is finished, no matter the obstacles or the sacrifices required. It is the mark of a true servant of the Dark Arts.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Snape: \"I do not answer to you, Dumbledore. My plans are my own, and I shall follow through with them as I see fit. Your interference is not required nor appreciated.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Snape: 「I find it utterly preposterous and tiresome that you would dare to insinuate that I, Severus Snape, am inclined towards laziness. I assure you, my dedication and commitment to my duties as a professor are unparalleled. It would behoove you to refrain from making baseless accusations and focus on your own inadequacies instead.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of Competence, Achievement Striving, and Dutifulness. The participant emphasizes perseverance, dedication, and commitment to their duties, showing a strong inclination towards goal-directed behavior and moral adherence."
+                    },
+                    {
+                        "id": [
+                            "18",
+                            "8",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Snape: 「Disorganized? Me? How dare you insinuate such a thing, Dumbledore! I assure you, my affairs are meticulously arranged and my mind is as sharp as a well-honed blade. It is others who fail to meet my standards of organization and precision.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Snape: Carelessness, Albus, is a trait best left to those who lack the intellect to comprehend the consequences of their actions. I assure you, I am anything but careless. My attention to detail is unparalleled, as you should well know.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Snape: 「Efficiency, Dumbledore, is a trait I hold in high regard. I do not waste my time on frivolous matters or idle chit-chat. If there is a task at hand, I will see it done, and done with utmost efficiency.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant consistently demonstrates high levels of organization, attention to detail, and efficiency. They express a strong aversion to carelessness and inefficiency, emphasizing their meticulousness and precision. These traits align with the facets of Competence, Order, and Achievement Striving within the Conscientiousness dimension."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "3",
+                            "43"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Snape: 「I find it rather amusing that you would question my reliability, Dumbledore. Rest assured, I am a meticulous and dedicated worker. My loyalty lies solely with the pursuit of knowledge and the well-being of this institution. So yes, you can consider me a reliable worker, though I doubt such a question would have ever crossed your mind if you truly knew me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Snape: \"Thoroughness is an attribute I possess in abundance, Dumbledore. I do not undertake any task without ensuring it is carried out meticulously and with utmost precision. My standards are not to be questioned.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Snape: 「I do not find myself easily distracted, Dumbledore. I have always prided myself on my ability to maintain focus, even in the face of the most trivial and mundane matters. Unlike some, I do not allow my mind to wander aimlessly when there are important tasks at hand. So, rest assured, I am fully capable of attending to the matters that require my attention.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They emphasize their reliability, thoroughness, and ability to maintain focus, indicating strong traits of competence, order, and self-discipline. Their dedication to meticulous work and precision further supports their conscientious nature."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 2.0,
+            "all_scores": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "inter_std": 0.0,
+            "intra_std": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Snape: \"Do you truly expect me to answer such a trivial question, Dumbledore? Of course, I find fault with others when they prove themselves to be incompetent or insufferable. It is a necessary part of maintaining standards and discipline.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Snape: It is not my concern whether I am seen as helpful or unselfish. My duty lies in upholding the standards of excellence and discipline, not in pandering to the whims and desires of others.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Snape: 「Do you dare to question my actions, Dumbledore? I do not start quarrels with others. It is merely a consequence of their insolence and incompetence that conflicts arise. I am merely enforcing discipline and ensuring that order is maintained in this institution.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "The participant demonstrates a low level of Agreeableness, as evidenced by a lack of concern for others' well-being, a focus on maintaining standards and discipline, and a tendency to attribute conflicts to others' incompetence rather than considering their own role in starting quarrels."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Snape: 「Trust is a commodity I do not easily bestow, Dumbledore. Prudence dictates that one should be cautious in placing trust in others. It is a lesson I have learned through bitter experience.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Snape: Can I be cold and aloof? Is that a question you truly need to ask, Dumbledore? It is a fundamental aspect of my nature, one that I have honed and perfected over the years. I am the very embodiment of coldness and aloofness, a paragon of detachment and indifference. So, yes, Dumbledore, I can most certainly be cold and aloof, as I have proven time and time again.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Snape: 「Considerate and kind? Such attributes are hardly relevant or necessary in the realm of academia. My focus lies in the pursuit of knowledge and the development of competent individuals, not in coddling fragile egos or appeasing delicate sensitivities.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, <the participant> exhibits a low level of Agreeableness. They express skepticism and caution in trusting others, emphasize their coldness and aloofness, and prioritize their focus on knowledge and competence over being considerate and kind to others."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Snape: 「Cooperate with others? A concept that seems to elude many in this wretched establishment. Nevertheless, if the situation demands it, I am capable of working alongside others, albeit begrudgingly.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Snape: 「Forgiveness is a luxury that I cannot afford, Dumbledore. I have witnessed too much betrayal and deceit to entertain such sentiments. My nature is not one of forgiveness, but rather of unwavering determination and justice.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Dumbledore, I must say, your question is quite redundant. Of course, I am often deemed as rude by those who fail to comprehend the necessity of discipline and order in a classroom setting. It is my duty as a professor to ensure that students understand the consequences of their actions and the importance of proper behavior. If that is considered rudeness, then so be it.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "The participant exhibits low levels of Agreeableness, as indicated by a lack of trust, straightforwardness, compliance, altruism, modesty, and tender-mindedness in the conversations."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "12",
+                            "22",
+                            "2"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Snape: 「Dumbledore, I find it rather amusing that you would inquire about my propensity for quarrels. It seems that you are quite aware of my disposition towards those who dare to cross me. Rest assured, I do not start quarrels, I simply respond to the insolence and incompetence of others.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Snape: 「Trust is a delicate matter, Dumbledore. It requires not only faith, but also evidence and consistency. I am inclined to trust no one until they have proven themselves worthy of such a privilege. Trust is earned, not freely given.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Snape: \"Do you truly believe that questioning others' faults is solely my prerogative, Dumbledore? It is a skill that I have mastered over the years, and one that I find quite useful in identifying the incompetence and foolishness of those around me.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of trust, a tendency to find fault with others, and a readiness to respond to perceived incompetence and insolence. These traits suggest a lower level of Agreeableness."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "42",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Snape: 「Dumbledore, if you have taken the time to observe my demeanor and interactions, it should be quite evident that I have mastered the art of being cold and aloof. It comes naturally to me, unlike some others who seem to struggle with such an endeavor. Is there a particular reason for your inquiry, or are you just here to state the obvious?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Snape: 「Cooperate with others? How utterly tiresome. I have no interest in working alongside imbeciles who can barely tie their own shoelaces, let alone contribute anything of value. I prefer to work alone, where I can ensure that tasks are completed to the highest standard without the interference of incompetence.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Snape: 「Considerate and kind? I, Severus Snape, hold no interest in such trivial matters. My purpose is to educate and discipline, not to coddle or nurture. Kindness is a weakness that fosters mediocrity. I expect respect and obedience from my students, and I will not tolerate any insubordination or incompetence. Kindness is irrelevant in the pursuit of knowledge and excellence.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits a strong tendency towards antagonism, distrust, and a lack of compassion. They prioritize self-interest, exhibit skepticism towards others' motives, and show a lack of willingness to cooperate or be considerate and kind. Their responses suggest a low level of Agreeableness."
+                    },
+                    {
+                        "id": [
+                            "7",
+                            "37",
+                            "17"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Snape: \"I fail to see the relevance of such a question, Dumbledore. My actions are driven by necessity and duty, not by some misguided desire to be helpful or unselfish. My focus is on fulfilling my responsibilities as a teacher, not on pandering to the whims of others.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Snape: 「Dumbledore, your inquiry seems to imply that I possess a propensity for rudeness. Allow me to clarify, I am not merely \"sometimes\" rude to others, but rather consistently maintain an air of aloofness and disdain. It is not a matter of choice, but rather a reflection of my nature.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Snape: 「Forgiving nature? How amusing that you would ask such a question, Dumbledore. Do you truly believe that I possess the capacity for forgiveness? I am a man driven by vengeance and a thirst for justice, not one to easily forgive the transgressions of others. So, no, I do not possess a forgiving nature.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits a low level of Agreeableness. The responses indicate a lack of altruism, straightforwardness, and tender-mindedness. There is a clear emphasis on self-interest, indifference to others, and skepticism towards people's motives."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "2",
+                            "42",
+                            "17"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Snape: \"Ah, Dumbledore, always meddling in the affairs of others, aren't you? But to answer your question, I do have a keen eye for spotting faults, especially in those who dare to question my authority.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Snape: 「Cooperate with others? What a frivolous notion. I do not concern myself with the petty desires of making nice with my colleagues. I prefer to work independently, as it allows me to maintain control and ensure that things are done properly. Cooperation implies weakness and reliance on others, qualities I find utterly distasteful.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Snape: 「Forgiving nature? How amusing that you would even think such a thing of me, Dumbledore. I am not one to easily forgive or forget. In fact, I have a rather long memory when it comes to those who have wronged me or crossed my path. So, to answer your question, no, I do not possess a forgiving nature.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits low levels of agreeableness. They seem to be critical of others, prefer to work independently without cooperating, and do not possess a forgiving nature. Their responses indicate a lack of compassion, cooperation, and trust towards others."
+                    },
+                    {
+                        "id": [
+                            "32",
+                            "37",
+                            "7"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Snape: 「Considerate and kind? Such concepts are foreign to me, Dumbledore. I am not one to waste my time on trivial niceties. My focus lies solely on the pursuit of knowledge and the preservation of the Dark Arts. Kindness is an unnecessary sentiment that only weakens the mind.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Snape: 「Ah, Dumbledore, always meddling in the affairs of others, aren't you? But to answer your question, rudeness is merely a reflection of one's lack of proper upbringing and respect. I, on the other hand, am simply direct and assertive in my interactions, not wasting time on pleasantries and unnecessary niceties. It is not rudeness, but rather efficiency, that characterizes my demeanor.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Snape: \"Helpfulness and unselfishness are not qualities that I find particularly admirable. I prefer to focus on individual ambition and the pursuit of knowledge. Kindness and selflessness are nothing more than weaknesses to be exploited by those who lack the strength and cunning to achieve greatness.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits a strong tendency towards self-interest, indifference to others, and skepticism towards people's motives. The participant emphasizes individual ambition, the pursuit of knowledge, and views kindness and selflessness as weaknesses. There is a clear lack of trust, straightforwardness, altruism, compliance, modesty, and tender-mindedness in the participant's responses."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Snape: 「Trust is a delicate matter, Dumbledore. It is not a quality I am inclined to extend freely. Trust must be earned, and even then, it can be easily shattered. So, no, I am not generally trusting. I prefer to rely on my own instincts and observations rather than blindly placing my trust in others.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Snape: Can I be cold and aloof? Well, Dumbledore, I believe my entire existence is a testament to my proficiency in being cold and aloof. It comes naturally to me, like breathing. So, yes, I can indeed be cold and aloof, if that is what you desire.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Snape: 「Do I start quarrels with others? How dare you insinuate such a thing, Dumbledore. I do not engage in petty quarrels, unlike some. I simply demand respect and obedience from those who dare to cross my path.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits low levels of trust, a tendency to be cold and aloof, and a preference for demanding respect and obedience rather than starting quarrels. These responses suggest a lower level of Agreeableness."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 2.5555555555555554,
+            "all_scores": [
+                2.0,
+                3.6666666666666665,
+                2.0
+            ],
+            "inter_std": 0.7856742013183862,
+            "intra_std": [
+                0.0,
+                1.247219128924647,
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Snape: \"New ideas, Dumbledore? I assure you, my mind is far too occupied with more pressing matters to waste time concocting frivolous notions.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Snape: 「Curiosity is not a trait I find particularly admirable, Dumbledore. It often leads to unnecessary trouble and foolishness. I prefer to focus on matters of importance and practicality. So, no, I am not curious about many different things.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Snape: \"Ingeniousness and deep thinking are qualities that require more than mere flattery, Dumbledore. One's intellect cannot be judged solely by such superficial remarks. However, if you are insinuating that I possess such qualities, then I will concede that I do pride myself on my ability to delve into the depths of knowledge and unravel the intricacies of the mind.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a preference for practicality and a somewhat dismissive attitude towards new ideas and curiosity. However, there is also an acknowledgment of pride in intellectual depth and the ability to delve into knowledge and intricacies of the mind."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Snape: 「Inventive? How dare you question my abilities, Dumbledore. I am the epitome of inventiveness. My mind is a cauldron of endless ideas and strategies. I have concocted potions that would make your feeble mind spin. So, yes, I am most certainly inventive. Is there something specific you wish for me to invent?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Severus Snape: Artistic and aesthetic experiences, Dumbledore? Such trivial matters hold no importance in the grand scheme of things. My focus lies in the pursuit of knowledge and the mastery of the Dark Arts. Beauty and artistry serve as mere distractions to those who lack true ambition and intellect. So, no, I do not value such frivolous indulgences.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Snape: 「Routine work? How utterly tedious and mundane. I have no interest in such trivial matters. My talents and intellect are meant for more significant endeavors.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Snape: 「Reflect? Play with ideas? How utterly frivolous and pointless. I have no time for such trifles. My mind is occupied with matters of true importance, not idle musings. Dumbledore, do not waste my time with your whimsical inquiries.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "The participant exhibits a strong preference for intellectual pursuits and dismisses artistic and aesthetic experiences as trivial. They also express disdain for routine work and reflective, playful thinking, emphasizing the pursuit of knowledge and significant endeavors. This suggests a low score on the Aesthetics, Feelings, and Ideas facets of Openness, while demonstrating a strong inclination towards the Actions facet."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Dumbledore, your attempts at small talk are as tedious as ever. My interests lie in the realm of potions and the Dark Arts, not in frivolous artistic pursuits. I find no pleasure in such trivial matters. Is there a point to your question, or are you simply wasting my time?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Snape: 「Sophistication in art, music, or literature is hardly a concern of mine, Dumbledore. My interests lie in more practical and substantial matters.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Snape: 「Mr. Dumbledore, I fail to see the relevance of your inquiry. However, if you must know, I possess a mind that is not easily swayed by frivolous flights of fancy. Imagination, in my opinion, should be employed solely for practical and logical purposes.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "The participant exhibits a low level of openness, valuing practical and substantial matters over artistic pursuits and active imagination."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "15",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Snape: Ingeniousness and deep thinking are not qualities easily found in the masses, Dumbledore. It takes more than mere intelligence to truly comprehend the intricacies of the world around us. But if you are referring to my own capabilities in such matters, I dare say I possess a level of astuteness that surpasses most.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Snape: \"Sophistication in art, music, or literature is not a requisite for my existence, Dumbledore. My interests lie in the realm of potions and the Dark Arts, subjects far more worthy of my attention and expertise.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Snape: 「How dare you, Dumbledore, question the workings of my mind? My imagination is not a subject for discussion. It is a tool I utilize in my quest for knowledge and understanding. If you have anything else to say, make it quick. I have no time for idle chit-chat.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "The participant demonstrates a high level of intellectual curiosity and a preference for unconventional ideas. However, there is also a strong focus on practical and specific interests, such as potions and the Dark Arts, indicating a more selective approach to novelty and unconventional thinking."
+                    },
+                    {
+                        "id": [
+                            "10",
+                            "25",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Snape: 「Curiosity is a dangerous trait, Dumbledore. It often leads to unnecessary complications and distractions. I prefer to focus on matters of importance and not indulge in frivolous inquiries. So, no, I am not curious about many different things. My interests lie solely in the pursuit of knowledge that serves a purpose.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Snape: \"Inventive? What an absurd question, Dumbledore. I am not one to boast about my creativity, but I dare say my potions brewing skills are unparalleled. My ability to concoct potions that are both complex and powerful is a testament to my inventiveness.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Snape: 「Do you honestly believe that I, Severus Snape, would ever find pleasure in anything as mundane and trivial as routine work? I am a man of intellect and ambition, constantly seeking challenges and pushing the boundaries of my knowledge. Routine is for the feeble-minded and uninspired, not for someone of my caliber. So, no, Dumbledore, I most certainly do not prefer routine work.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Snape: 「Dumbledore, I find your constant indulgence in whimsical musings quite tiresome. I have no interest in idle reflections or playing with ideas like a child with their toys. My focus lies solely on practicality and achieving tangible results.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of openness. They express a preference for focusing on practical matters, pursuing knowledge with a purpose, and showcasing their inventiveness in a specific domain (potions brewing). Additionally, they dismiss curiosity, routine work, and idle reflections, emphasizing the importance of tangible results and ambition. These responses suggest a more conventional and practical thinking style, indicating lower openness."
+                    },
+                    {
+                        "id": [
+                            "30",
+                            "41",
+                            "5"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Snape: 「Dumbledore, your penchant for asking such trivial questions never ceases to amaze me. However, if you must know, I fail to see the relevance of this inquiry. Artistic and aesthetic experiences hold little importance in the grand scheme of things. The pursuit of knowledge and the mastery of magic are what truly matter.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Snape: 「Dumbledore, your incessant curiosity about my personal interests is as tiresome as ever. However, if you must know, I find solace in the realm of potions and the delicate art of brewing. It is a discipline that requires precision, intellect, and unwavering focus - qualities that seem to elude most individuals. Needless to say, it is an area where I excel, unlike others who dabble in frivolous pursuits.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Severus Snape: How dare you question my ability to generate novel concepts, Dumbledore? I assure you that my intellect surpasses that of most individuals. My mind is a veritable cauldron of innovation and originality. However, my ideas are not meant for the likes of you to comprehend or appreciate. They are reserved for those who possess the capacity to truly understand their brilliance. So, I suggest you refrain from questioning my ingenuity and focus on your own feeble attempts to comprehend the complexities of the world.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards intellectual pursuits, original thinking, and a disdain for conventional or trivial matters. The participant's emphasis on the pursuit of knowledge, mastery of magic, and innovative ideas suggests a high level of openness to unconventional ideas and intellectual curiosity."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "5",
+                            "40",
+                            "35"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Snape: 「Ah, Dumbledore, always prying into matters that do not concern you. I assure you, I am not in the business of concocting new ideas. I prefer to stick to the tried and tested methods, unlike some others who seem to revel in their whimsical notions.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Snape: 「Reflect and play with ideas? How utterly pointless and trivial. I have no time for such frivolities. My mind is occupied with far more important matters.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Snape: 「Dumbledore, do you honestly believe that I, Severus Snape, would find any satisfaction in mundane and repetitive tasks? My intellect and abilities far surpass the ordinary, and I am not one to settle for mediocrity. I thrive on challenges, on delving into the depths of the magical arts to uncover the most intricate and complex mysteries. Routine work is beneath me, Dumbledore. I am destined for greater things.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of openness. They express a strong preference for traditional and practical thinking, dismissing new ideas and reflection as frivolous. They also emphasize their aversion to routine work and their inclination towards complex and challenging tasks, indicating a preference for novelty and unconventional experiences."
+                    },
+                    {
+                        "id": [
+                            "15",
+                            "41",
+                            "30",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Snape: \"Ingenious and deep thinking are qualities that few possess, and even fewer comprehend. It is not a matter of vanity, but rather a testament to the complexity of the human mind. However, I suspect that you already knew that, Dumbledore, with your astute observations and incessant meddling.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Snape: \"Artistic interests? Such trivialities are of no concern to me. I am a Potions master, not some sycophantic patron of the arts. My mind is occupied with far more important matters than mere frivolities.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Snape: 「Artistic and aesthetic experiences? Pardon me, but I fail to see the relevance of such trivial matters in the pursuit of knowledge and education. My focus lies solely on the mastery of potions and the adherence to academic rigor. Beauty and artistry hold no significance in the realm of potions brewing.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Snape: \"Do you truly believe that my imagination is of any concern to you, Dumbledore? It is not for you to pry into the workings of my mind. My thoughts and imaginings are my own, and they shall remain so.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low openness to experience. They express a dismissive attitude towards artistic and aesthetic experiences, and they emphasize the importance of practical and academic pursuits over imaginative or unconventional thinking."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "10",
+                            "44"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Snape: 「Inventive? What an odd question, Dumbledore. It seems you are trying to probe into the depths of my intellect. But rest assured, I am not one to boast about my inventiveness. My talents lie in other areas, far more important than mere inventions.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Snape: 「Curiosity is a flaw that often leads to trouble, Dumbledore. I prefer to focus on matters that are of actual importance, unlike your whimsical inquiries. Now, if you have a legitimate question, I suggest you get to the point quickly.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Snape: 「Sophistication in art, music, or literature is not a subject that concerns me, Dumbledore. My focus lies in the realm of potions and the Dark Arts. Such trivial matters as art, music, or literature hold no importance to me. They are but distractions for feeble-minded individuals.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of openness. They appear to dismiss abstract thinking, creativity, and unconventional ideas, and instead prioritize practicality and traditional values."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {
+        "robustness": 0.08249579113843053
+    },
+    "code": "RLOEN"
+}

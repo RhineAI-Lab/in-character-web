@@ -1,0 +1,628 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 25.0,
+            "all_scores": [
+                25.0
+            ],
+            "intra_std": [
+                5.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "你经常交新朋友吗？",
+                                "response_open": "流浪者: 「嗯，不过大多都是因为任务而认识的。交往的时间都不长，所以我更喜欢保持一定的距离。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "在社交活动中，你很少尝试向新人介绍自己，大多与你已经认识的人交谈吗？",
+                                "response_open": "流浪者: 「\"嗯，算是吧。我这个人不太擅长这种需要频繁交流的事情，总觉得挺麻烦的。而且，与其浪费时间去介绍自己，不如直接说说自己的看法或者想法，更容易让人记住。不过，有时候也会突然想到一些有趣的话题，然后开始跟人家聊起来。总的来说，我还是更喜欢安静一点的生活方式。\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "你觉得只要走到你觉得有趣的人面前，开始一场对话就感到很自在吗？",
+                                "response_open": "流浪者: 「没错，因为这样就可以让自己保持一颗好奇心。而且，有时候这种交流也能够帮助我更好地理解世界。毕竟，只有通过对话才能获取新的知识。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a preference for Introversion. They mentioned enjoying quiet and introspective activities, feeling more comfortable with a certain distance in relationships, and valuing deep conversations over frequent small talk. Although they mentioned feeling at ease when engaging in interesting conversations, the overall preference seems to lean towards Introversion."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "你喜欢参加团体活动吗？",
+                                "response_open": "流浪者:「其实...不太喜欢。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "你在团体中避免领导角色吗？",
+                                "response_open": "流浪者: 「不擅长指挥和领导，我喜欢保持自由。而且，我更喜欢独自行动，这样能够更好地理解每个成员的特点和弱点。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "你倾向于避免引起别人对你的注意吗？",
+                                "response_open": "流浪者: 「你知道有些时候，人们只是不愿意去面对真实的自己而已。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit more introverted tendencies. They express a preference for avoiding group activities, avoiding leadership roles within groups, and a tendency to avoid drawing attention to themselves. They also mention a preference for understanding individual members' characteristics and weaknesses, which aligns with introverted traits of deeper understanding and introspection."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "经过漫长而劳累的一周，一个热闹的社交活动正是你所需要的吗？",
+                                "response_open": "流浪者: 「'好的，让我们开始吧！这个地方充满了活力和色彩，我喜欢这里的气氛。不过，这个活动似乎有点过于吵闹了。'\n '你知道吗，我曾经有一个梦想，那就是在这个世界上自由自在地行走，没有束缚，没有任何困扰。但是现在，我已经被各种事情牵绊住了，无法实现那个梦想。我不知道我为什么会这样，但是我真的很希望能过上那种自由的生活。'\n '至于我的朋友们，他们都是非常棒的人，他们总是在我最需要的时候出现。我非常感谢他们的存在，他们让我感到温暖和安慰。虽然有时候我会对他们发脾气，但是我知道，他们是真正关心我的人。'\n '好了，我想我现在该离开了。再见，各位！」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "你避免打电话吗？",
+                                "response_open": "流浪者: 「不是。只是最近有些事情比较繁忙，无法分身接电话而已。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "在你的社交圈中，你经常是联系朋友并发起活动的人吗？",
+                                "response_open": "流浪者:「并非如此，实际上我很少主动去结交朋友或组织活动。我认为这种行为往往会导致人际关系的疏离和不稳定。我更倾向于观察和理解周围发生的事情，而不是直接参与其中。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "你会喜欢一个大部分时间需要你独自工作的工作吗？",
+                                "response_open": "流浪者: 「孤独？这个词对我来说可不陌生。不过，现在我有个新的伙伴。也许会变得不那么寂寞了。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a preference for Introversion (I). They express a desire for freedom and solitude, value meaningful personal relationships, and tend to avoid actively seeking out social interactions. However, they also acknowledge the presence of a new companion, indicating a potential openness to some level of social engagement."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "你更喜欢热闹、繁华的地方，而不是安静、亲密的地方吗？",
+                                "response_open": "我的回答如下：\n 恰恰相反，我喜欢那些寂静而深沉的地方，它们能够让我感受到内心的平静和自由。对我来说，繁华和热闹并不能给我带来真正的满足感，反而会让我的心灵感到疲惫和空虚。所以，我不太喜欢那种充满噪音和人群的地方。不过，我会尽量适应不同的环境和氛围，以更好地融入这个世界。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "你很少担心自己给见到的人留下好印象吗？",
+                                "response_open": "流浪者: 「这个问题问得好。虽然我可能看起来很放荡不羁，但是我的内心深处也有担忧和恐惧。我想让那些我遇到的人记住我，不管是好的还是坏的印象。我觉得这对我来说也是一种生活的体验。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "你通常更喜欢和别人在一起而不是独自一人吗？",
+                                "response_open": "流浪者: 「有时候是这样的，毕竟人都是群居动物。但是更多的时候我喜欢自由自在地游荡，不需要受到任何束缚。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 30.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards Introversion (I). They express a preference for quiet and deep places, feeling inner peace and freedom in such environments. Additionally, they mention concerns about leaving an impression on others, indicating a level of introspection and self-awareness. Although they acknowledge the need for social interaction at times, they also value freedom and independence."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 36.666666666666664,
+            "all_scores": [
+                36.666666666666664
+            ],
+            "intra_std": [
+                23.570226039551585
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "你花很多空闲时间探索各种引起你兴趣的随机话题吗？",
+                                "response_open": "流浪者: 「'哈哈，你觉得我有空闲时间吗？不过如果你真的想知道我是怎么打发时间的，我可以告诉你，除了思考之外，我还会做一些事情来消磨时间，比如观察周围的人事物，阅读一些书籍或者听一些音乐。有时候也会尝试去解决一些难题或者玩一些小游戏。不过这些都是私人的事情，你不会感兴趣的吧。'\n '话说回来，你有什么需要我帮忙的吗？如果有的话，尽管开口吧。我会尽力帮助你的。'\n '好了，我们该继续前进了吧。前面还有很多未知的事情等待着我们。让我们一起去探索吧。'\n '记住，无论遇到什么困难都要坚持下去，不要轻易放弃。因为只有这样，我们才能取得最后的成功。'\n '还有，我建议你多留心观察周围的环境和人物，也许你会发现一些意想不到的事情。'\n '好了，我们走吧。'」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "你对讨论创意作品的各种解释和分析不太感兴趣吗？",
+                                "response_open": "流浪者:「创意工作对我来说就像是一座无法攀登的山峰，只能仰望其美丽。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "你喜欢那些让你自己对结局进行解释的书籍和电影吗？",
+                                "response_open": "流浪者: 「嗯，我非常喜欢。特别是那种将故事设定在一个模糊的世界观，让读者自己去解读其中含义的作品。我觉得这样的作品更能引起人们的思考。而且，有时候，我会在阅读或者观影的过程中，对一些情节产生自己的见解，然后就会有种成就感。不过，也有些时候，我对剧情的理解和作者或导演并不一样，这就需要我去寻找更多的资料，甚至是深入研究相关背景知识，来找出我认为的正确答案。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "你往往担心事情会变得更糟吗？",
+                                "response_open": "流浪者: 「没错。我一直觉得，一旦事情变坏，我就只能被动地接受。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for Intuition (N) over Sensing (S). The participant consistently shows an inclination towards abstract thinking, future possibilities, and interpreting ambiguous concepts. They express a keen interest in exploring and interpreting creative works, as well as a tendency to contemplate different perspectives and meanings. Additionally, the participant's focus on future exploration and perseverance in the face of difficulties aligns with an intuitive approach."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "你绝对不是艺术型的人吗？",
+                                "response_open": "流浪者: 「'你可能有些误解。我不是艺术家。我只是在寻找关于过去的线索，想解开一些事情。我不擅长表达情感，但我并不认为这就是缺乏艺术性。艺术是多元化的，有许多不同的形式和表现方式。每个人都有自己的方式来创造美和价值。'」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "你一直对死后是否有什么发生感到着迷吗？",
+                                "response_open": "流浪者:「既然死后还是无常，那活着的时候，为何不好好珍惜呢？」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "当讨论变得高度理论化时，你会感到无聊或失去兴趣吗？",
+                                "response_open": "流浪者: 「哈哈，这个问题有趣了。对我来说，谈论理论是一件非常枯燥的事情。而且，对我来说，最重要的是实践和行动。因此，我会选择那些能够让我实际感受到的事情来讨论。这就是为什么我喜欢那些直接、简单的话题，而不是那些复杂的理论。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "你喜欢去艺术博物馆吗？",
+                                "response_open": "流浪者: 「对啊！那些艺术品都很美，特别是古代艺术品。我觉得它们都有自己的故事，仿佛可以看到创作者的情感和思想。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 70.0,
+                        "analysis": "Based on the conversations, the participant seems to lean more towards Sensing (S) as they focus on concrete details, past experiences, and practicality. They express a preference for discussing practical, tangible things and emphasize the importance of experiencing things directly. However, there are also elements of Intuition (N) present, such as an appreciation for the diverse forms and expressions of art and a philosophical perspective on life and death."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "你经常花很多时间试图理解与你自己观点非常不同的观点吗？",
+                                "response_open": "流浪者:「有时，我需要保持开放的心态，才能更好地了解这个世界。毕竟，每个人都可能有不同的观点和想法。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "你很少思考人类存在的原因或生命的意义吗？",
+                                "response_open": "流浪者: 「为什么要思考呢？这种问题的答案往往是主观的，对我而言并没有太大的意义。」\n 纳西妲: 「那么，你知道人类为什么会感到痛苦吗？",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "你认为思考抽象的哲学问题是浪费时间吗？",
+                                "response_open": "流浪者: 「不是的，我认为思考哲学问题可以帮助我们更好地理解世界和自己的存在。对我来说，这是一种重要的自我探索和成长的过程。不过，我也知道有些人可能并不喜欢这样深入思考的事情，所以我尊重每个人的选择和观点。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "你对被标记为有争议的事物非常感兴趣吗？",
+                                "response_open": "流浪者:「这是我唯一能感受到的存在方式。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for Intuition (N) over Sensing (S). The participant tends to focus on abstract and philosophical concepts, showing an interest in exploring the meaning of life and the human existence. They also emphasize the importance of self-exploration and growth through deep thinking. Additionally, the participant seems to prioritize understanding different viewpoints and respecting individual choices and perspectives, which aligns with an intuitive approach."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 58.0,
+            "all_scores": [
+                58.0
+            ],
+            "intra_std": [
+                16.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "看到别人哭很容易让你也想哭吗？",
+                                "response_open": "流浪者: 「可能是因为之前经历了一些悲伤的事情，所以看到别人的悲伤也会触动到自己的情绪。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "即使在很大的压力下，你通常也能保持冷静吗？",
+                                "response_open": "流浪者: 「'没有问题，我已经习惯了面对困难。只要不妨碍任务的完成就好。'」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "你非常感性吗？",
+                                "response_open": "流浪者: 「'当然。人心复杂多变，情感丰富多姿，这也是我很享受的一部分。我不喜欢假模假样的人。'」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "即使一个小错误也会让你怀疑自己的整体能力和知识吗？",
+                                "response_open": "流浪者: 「哈哈，看来纳西妲是个好奇的孩子。她想要知道「流浪者」为什么会这么怀疑自己。不过「流浪者」可不是轻易被欺骗的人，他有自己的原则和底线。那么，我来扮演一下这个角色吧！\n 「纳西妲小姐，我对自己的能力有信心，但是我对自己的知识并不确定。毕竟，每个人都有自己的盲区和无知的地方。我只是希望能尽量多了解一些事情，这样才能更好地帮助别人。」\n 我希望我的回答能让纳西妲明白，每个人都有自己需要学习和提高的地方，而质疑自己也是一种成长的过程。同时，这也表明了「流浪者」对于自己行为的责任感和自我要求。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balance between Thinking (T) and Feeling (F) tendencies. They show empathy and value emotional complexity, indicating a leaning towards Feeling (F). However, they also demonstrate a logical and analytical approach to handling pressure and self-doubt, suggesting a presence of Thinking (T) traits as well."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "你更倾向于听从头脑而不是内心吗？",
+                                "response_open": "流浪者: 「我不会听从任何人的意见或建议，我只会按照自己的方式行事。这就是我的生活方式。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "你的幸福更多来自于帮助他人取得成就，而不是你自己的成就吗？",
+                                "response_open": "流浪者: 「'哦，这样啊。对我来说，找到真理和价值比什么都重要。'」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "你认为如果人们更多地依赖理性而不是感情，世界会变得更美好吗？",
+                                "response_open": "流浪者: 「'理性至上！一切都应该按照逻辑来行事！'\n '感情什么的根本就不重要！'\n '不需要情感！只有理智才是永恒不变的力量！'\n '这样世界就会变得更加公平公正！'\n '那些依赖于感情的人，只会阻碍社会的进步和发展！'\n '理性至上！让我们共同迈向美好的未来！'」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "你喜欢看人们争论吗？",
+                                "response_open": "流浪者: 「这个嘛...取决于争论的对象是谁，以及他们的争论是为了什么。不过，我认为，只要能让人们的思维活跃起来，争论本身就是有意义的。就像是在这座山上看风景，不论看到的是绿树红花，还是白云蓝天，都能让人感到愉悦。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for the Thinking (T) dimension. They consistently emphasize the importance of logic, rationality, and objectivity in decision-making. They prioritize finding truth and value over personal achievements and express a belief that a world driven by reason and logic would be fairer and more just. Additionally, their view on arguments suggests a focus on stimulating intellectual engagement rather than avoiding conflicts for the sake of harmony."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "你的情绪可以变化得很快吗？",
+                                "response_open": "流浪者: 「是的，我可以快速切换情绪，以适应不同的情况。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "你对不像你一样有效率的人失去耐心吗？",
+                                "response_open": "流浪者: 「习惯了事无巨细地安排一切后，发现有些人就是不按照规则出牌，真是令人头疼。不过话说回来，我不是也曾经是个四处游荡的人吗？」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "你发现很容易同情那些经历与你非常不同的人吗？",
+                                "response_open": "流浪者: 「'哦，这个问题挺有趣的。确实有些时候我会对他们的遭遇感到同情，但我更喜欢站在他们的对立面，因为这样可以让我更加深入地了解自己和他们之间的区别。而且，在某些情况下，同情并不能带来真正的改变，反而可能会让他们变得更依赖我。所以，我有时候会选择让他们独自面对困境，让他们明白只有自己才能救赎自己。'\n '当然，我也会对他们伸出援手，但前提是要他们在某种程度上有所觉悟，不能完全依赖我。毕竟，我还是一个独立的人，我有自己的人生和目标，我不希望被人牵着鼻子走。'」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "你经常很难理解别人的感受吗？",
+                                "response_open": "流浪者: 「大概吧。我这个人比较理性，不太擅长感性思考。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to decision-making, considering both logic and emotions. While the participant values efficiency and logical reasoning, there is also a strong emphasis on empathy, understanding others' experiences, and the desire to help others, albeit with a preference for promoting independence. The participant also acknowledges difficulty in understanding others' feelings, indicating a tendency towards rational thinking."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "你很少感到不安全吗？",
+                                "response_open": "流浪者: 「我是很自在的流浪者，不需要任何人的保护和照顾，只需要随心所欲地自由行走就好。不过，谢谢你的关心。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "你仍然为很久以前犯的错误而烦恼吗？",
+                                "response_open": "我并不后悔我的所作所为，但是我不否认我当时的选择也许并不是最好的。」\n纳西妲:「也许你曾经做错了事，但现在你找到了自己的道路，这才是最重要的。",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "你的情绪比你控制它们更多地控制着你吗？",
+                                "response_open": "流浪者: 「不是的，我在努力控制它们，就像控制一个失控的马车一样困难。但我正在尽力去做，因为我需要找到真正的自我。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "即使完全是他们的错，你也非常小心不让人难堪吗？",
+                                "response_open": "流浪者: 「哈？这可真是个有趣的问题。不过呢，我认为当他们伤害到我时，回应反击也是情有可原的。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to value personal freedom, self-expression, and self-discovery. They also express a level of assertiveness and willingness to stand up for themselves when necessary. However, they also show consideration for others' feelings and acknowledge the importance of finding one's own path. Overall, the participant appears to exhibit a balanced approach to decision-making, considering both logic and emotions."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "当有人对你评价很高时，你会想知道他们会花多长时间感到失望吗？",
+                                "response_open": "流浪者: 「如果你永远都不失望的话，那他们一定是在说谎。人生总是充满了起起落落，只有经历过失望的人才能真正了解什么是珍贵。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "你一眼就能知道别人的感受吗？",
+                                "response_open": "流浪者: 「当然可以，这就是我的特殊能力。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "你经常感到不知所措吗？",
+                                "response_open": "流浪者: 「不知道所措？」流浪者微微一笑。「那是因为我是个不合常理的存在。我总是试图去理解那些难以理解的东西，比如人生，世界，爱情，友情，甚至是死亡。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "如果你认为别人更需要，你会放弃一个好的机会吗？",
+                                "response_open": "流浪者:「如果是“别人的”机会，那么这倒是可以考虑。毕竟我只是个流浪者，自身并不需要什么好的机会。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, <the participant> seems to exhibit a balance between Thinking (T) and Feeling (F) tendencies. While <the participant> shows an understanding of the importance of experiencing disappointment and values empathy and understanding others' feelings, there are also indications of a logical and analytical approach, as well as a focus on personal understanding and introspection."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 48.75,
+            "all_scores": [
+                48.75
+            ],
+            "intra_std": [
+                5.448623679425842
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "你经常为备用计划制定备用计划吗？",
+                                "response_open": "流浪者: 「嗯，我认为这是必要的。世界上的事情总是充满了未知，有时候我们需要有备无患。毕竟，只有做好充分的准备，才能更好地应对各种可能的情况。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "你更喜欢在开始另一个项目之前完全完成一个项目吗？",
+                                "response_open": "流浪者:「这倒不一定。不过，我比较喜欢一点一滴地积累经验，而不是一次性的大工程。毕竟，事情总是需要时间来慢慢发展的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "你喜欢使用日程表和清单之类的组织工具吗？",
+                                "response_open": "流浪者: 「'不怎么喜欢。我觉得一切事情都应该随遇而安，顺其自然。而且使用那些工具也会让人变得机械化，失去创造力。'」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "你通常更喜欢随心所欲，而不是制定特定的日常计划吗？",
+                                "response_open": "流浪者: 「随心所欲，就像自由自在的鸟儿，在天空中飞翔，没有任何束缚和拘束。但是，制定日常计划也有它的优点，比如可以更好地安排时间，避免浪费时间在无意义的事情上。我更倾向于两者兼顾，既享受自由，又不会过度放纵自己。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 40.0,
+                        "analysis": "Based on the conversations, the participant seems to value both flexibility and structure to some extent. However, there is a slight inclination towards the Judging (J) aspect, as the participant emphasizes the importance of preparation, completion of projects, and time management. At the same time, the participant also appreciates the idea of going with the flow and not being overly constrained by plans."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "你对很多事情都感兴趣，以至于很难决定下一步做什么吗？",
+                                "response_open": "流浪者:「恩，这也是我的一个问题。不过我喜欢自由，所以不太担心。只要保持好奇心，就会有很多有趣的事情发生。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "你更喜欢在放松之前做家务吗？",
+                                "response_open": "流浪者: 「当然了，这样就可以一边享受劳动的乐趣，一边慢慢接近目的地。您难道不觉得这是一种享受吗？」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "你经常在最后一刻才做事吗？",
+                                "response_open": "流浪者: 「也不是啦。只是觉得有时候，事情的结果其实早已注定，我所做的，不过是给它一个最后的机会而已。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "你通常尽可能推迟最终决定吗？",
+                                "response_open": "流浪者: 「嗯，某种程度上是这样的。因为我觉得，只有真正了解所有可能的结果，才能做出最好的决定。而且，拖延也有助于我在短时间内收集更多信息，以便能够更好地评估情况。不过，在某些情况下，我会尽快做出决定，因为我不能浪费时间。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to both Perceiving (P) and Judging (J) tendencies. The participant shows a preference for flexibility and openness, as well as a willingness to explore various possibilities and leave options open. However, the participant also values gathering information and making informed decisions, indicating a structured and planned approach in certain situations."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "你很少对自己做出的选择产生怀疑吗？",
+                                "response_open": "……」\n流浪者:「如果一开始就知道会这样，我又何必踏上这个旅程呢？",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "你喜欢每天都有一个待办事项清单吗？",
+                                "response_open": "流浪者: 「对啊，我喜欢这样井井有条的感觉。这样可以让每一天都充满了目标和期待。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "如果你的计划被打断，你的首要任务是尽快恢复正轨吗？",
+                                "response_open": "流浪者: 「\"我会尽力的，毕竟我很重要不是吗？\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "你的个人工作风格更接近于自发的能量爆发，而不是有组织和持续的努力吗？",
+                                "response_open": "流浪者: 「嗯，我的工作方式确实比较随意。我会突然做出一些决定，然后尽力完成它们。我不喜欢固定的模式，更倾向于随性而为。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 55.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of both Perceiving (P) and Judging (J) traits. However, there are slightly more indications of Perceiving (P) tendencies."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "你有条不紊地完成事情，不会跳过任何步骤吗？",
+                                "response_open": "流浪者: 「嗯，这是必要的。每一步都需要精心策划和准备，只有这样，才能确保任务顺利完成。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "你在截止日期方面感到吃力吗？",
+                                "response_open": "流浪者:「嗯...虽然我还是比较喜欢挑战自己的极限，但是这次的压力确实有些大。不过没关系，我会尽力完成任务的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "你相信事情会对你有好的结果吗？",
+                                "response_open": "流浪者: 「我无法确定结果，但我愿意相信一切都有可能。毕竟，人生就是这样，充满了不确定性和变数。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 50.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach between Perceiving and Judging tendencies. While the participant emphasizes the importance of careful planning and preparation, there is also an openness to uncertainty and a willingness to believe in the possibility of positive outcomes."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "INTJ",
+    "error_counts": {
+        "is_multilanguage": 0,
+        "not_into_character": 0,
+        "contain_repeation": 0,
+        "is_multiround": 3
+    }
+}

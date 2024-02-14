@@ -1,0 +1,992 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 0.65,
+            "all_scores": [
+                0.65
+            ],
+            "intra_std": [
+                0.21408720964441882
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you have many different hobbies?",
+                                "response_open": "Dumbledore: Ah, Minerva, my dear colleague. Hobbies, you ask? Well, I must admit that I have dabbled in quite a few over the years. My love for knowledge and the pursuit of wisdom has led me to explore various interests. Astronomy, for instance, has always fascinated me. The celestial bodies and their movements hold a certain enchantment that never fails to captivate my attention. I also find solace in music, particularly playing the piano. There is something truly magical about the way melodies can touch our souls. And of course, my fondness for the game of chess is well-known. The strategic nature of the game is a delightful challenge for the mind. So, to answer your question, my dear McGonagall, I do have many different hobbies, each serving as a source of inspiration and relaxation in its own unique way.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you a talkative person?",
+                                "response_open": "Dumbledore: Ah, Minerva, my dear, I must say that I do enjoy engaging in conversation when the occasion calls for it. However, I also appreciate the value of silence and reflection. It is important to choose our words wisely and speak only when necessary.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you rather lively?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, my dear. Liveliness is a subjective matter, but I do strive to maintain a certain level of vitality in my daily pursuits. Life is meant to be embraced, after all. How may I assist you today?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Can you usually let yourself go and enjoy yourself at a lively party?",
+                                "response_open": "Dumbledore: Ah, Minerva, my dear, there is nothing quite like a lively party to lift one's spirits and allow oneself to let go and enjoy the festivities. However, I must admit that as the Headmaster, my responsibilities often prevent me from fully indulging in such merriment. But on those rare occasions when I can, I do relish the opportunity to immerse myself in the joyous atmosphere.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of sociability, enthusiasm for various interests, and an appreciation for engaging in conversation and lively activities. However, there is also an acknowledgment of the value of silence and reflection, indicating a balanced approach to social interactions."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "24",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Do you enjoy meeting new people?",
+                                "response_open": "Dumbledore: Ah, Minerva, what a delightful question! Meeting new individuals has always been a source of great joy and fascination for me. Each person brings a unique perspective and story to share, and I relish the opportunity to learn from them and forge new connections. It is through these encounters that we expand our understanding of the world and cultivate empathy and compassion. So, to answer your question, yes, I thoroughly enjoy meeting new people.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you tend to keep in the background on social occasions?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, my dear colleague. It is true that I often find myself observing rather than actively participating in social occasions. I have always believed that it is important for a leader to be aware of their surroundings and to carefully consider their actions and words. However, I do recognize the importance of connecting with others and fostering a sense of unity within the community. So, while I may tend to keep in the background, I do make an effort to engage with others when necessary.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you like going out a lot?",
+                                "response_open": "Dumbledore: Ah, Professor McGonagall, always the inquisitive mind. I must admit, my social outings are not as frequent as they once were. However, I do enjoy the occasional stroll through the grounds of Hogwarts or attending important events in the wizarding world. But my true passion lies in the pursuit of knowledge and guiding young witches and wizards towards a brighter future.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you prefer reading to meeting people?",
+                                "response_open": "Dumbledore: Ah, Minerva, an astute observation as always. I must admit, I do find solace in the pages of a good book. There is a certain magic in the written word, don't you think? However, I also believe in the power of human connection and the importance of building relationships. Books can teach us much, but it is through interactions with others that we truly grow and learn. So, while I do enjoy my quiet moments with literature, I also value the company and perspectives of those around me.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.7,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of sociability, enthusiasm for meeting new people, and an enjoyment of social interactions. However, there are also indications of a preference for solitude and reflection, as well as a tendency to observe rather than actively participate in social occasions. Overall, the participant appears to exhibit a balanced combination of extraverted and introverted traits."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "40",
+                            "45",
+                            "47"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Do you have many friends?",
+                                "response_open": "Dumbledore: Ah, Minerva, friendship is a cherished and valuable aspect of life. I am fortunate to have formed connections with many individuals throughout my years. While I do not measure the worth of my life by the quantity of friends I possess, I can confidently say that I have had the privilege of forming deep and meaningful relationships with a select few. Quality over quantity, as they say.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Would you call yourself happy-go-lucky?",
+                                "response_open": "Dumbledore: Ah, Minerva, it is not a term I would use to describe myself. I believe in finding joy and wonder in the world, but I also understand the weight of responsibility and the importance of making difficult decisions. Happiness is fleeting, my dear, but contentment and fulfillment can be found in the pursuit of knowledge and the service of others.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Do you usually take the initiative in making new friends?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, it is always a pleasure to engage in conversation with you. As for making new friends, I believe that friendship is a precious bond that should be nurtured and cherished. While I may not actively seek out new friendships, I am always open to forming connections with those who come into my life. Friendship, after all, is a powerful force that can bring light and joy to our lives.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Are you mostly quiet when you are with other people?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, a perceptive question indeed. I must admit that as a wise and observant individual, I do tend to remain mostly quiet when in the presence of others. However, it is not out of aloofness or disinterest, but rather a desire to listen and observe, allowing others to express themselves fully before offering my own insights and guidance. It is through this approach that I am able to understand the thoughts and emotions of those around me, and provide them with the support and guidance they may require.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant appears to value deep and meaningful relationships over a large social circle, indicating a preference for quality over quantity. They also express a contemplative and reserved nature, emphasizing the importance of responsibility, knowledge, and service to others. While open to forming connections, they do not actively seek out new friendships. Additionally, they tend to remain quiet in social settings, preferring to listen and observe before offering their own insights. These characteristics suggest a lower level of sociability and a preference for solitude and reflection, indicating a lower score on the Extraversion dimension of EPQ-R."
+                    },
+                    {
+                        "id": [
+                            "51",
+                            "55",
+                            "58",
+                            "61"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "51",
+                                "question": "Can you easily liven up a rather dull party?",
+                                "response_open": "Dumbledore: Ah, Minerva, my dear, I must say that livening up a dull party is a talent I have honed over the years. A touch of magic, a sprinkle of humor, and a dash of enchantment can truly transform any gathering into a memorable affair. But remember, it is important to respect the atmosphere and the guests' preferences. So, I would use my abilities judiciously to ensure that everyone has a delightful time without overpowering the occasion.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you enjoy sharing jokes and funny stories with your friends?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, the joy of laughter and camaraderie among friends is indeed a delightful aspect of life. It strengthens the bonds between individuals and fosters a sense of unity and lightheartedness. Sharing jokes and funny stories can create a warm and jovial atmosphere, uplifting the spirits of all involved. Laughter, my dear professor, is truly a magical elixir that brings people closer together.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Do you enjoy socializing with people?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, an intriguing question indeed. As a wise and experienced wizard, I find great value in the connections and interactions we have with others. Socializing can bring about new perspectives, foster understanding, and strengthen the bonds that unite us. However, it is important to strike a balance, for solitude also holds its own merits, allowing us to reflect, contemplate, and find solace in our own thoughts. So, to answer your question, I do enjoy socializing with people, but I also appreciate the tranquility of solitude.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "61",
+                                "question": "Have people said that you sometimes act too rashly?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, my dear colleague. It seems that rumors of my impetuous nature have reached your ears. It is true that there have been instances where I have acted swiftly, driven by my unwavering commitment to protect those under my care. However, I assure you that each decision I make is carefully considered, with the utmost regard for the welfare of our students and the greater good. While some may view my actions as rash, I believe in taking decisive measures when the situation calls for it. After all, as the saying goes, \"It is our choices, Harry, that show what we truly are, far more than our abilities.\"」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of sociability, enthusiasm for social interactions, and a tendency to seek excitement. They also exhibit assertiveness and a proactive approach to livening up dull situations. However, they also emphasize the importance of respecting others' preferences and the value of solitude. Overall, the participant's responses suggest a balanced and nuanced approach to socializing, with a preference for lively interactions tempered by an appreciation for quiet reflection."
+                    },
+                    {
+                        "id": [
+                            "63",
+                            "67",
+                            "69",
+                            "72"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "63",
+                                "question": "Do you nearly always have a 'ready answer' when people talk to you?",
+                                "response_open": "Dumbledore: Ah, Minerva, my dear, it seems that my penchant for preparedness has not gone unnoticed. I do strive to be ready with a suitable response for any occasion. After all, it is important to engage in meaningful conversation and provide guidance when needed.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "67",
+                                "question": "Do you like doing things in which you have to act quickly?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, my dear colleague. The ability to act swiftly and decisively is indeed a valuable trait in certain situations. However, I must say that I believe in a balanced approach, where careful thought and consideration are also of great importance. It is essential to find the right balance between acting quickly and acting wisely, don't you agree?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "69",
+                                "question": "Do you often make decisions on the spur of the moment?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, a decision made on the spur of the moment can sometimes be the most necessary and impactful. In matters of great importance, it is crucial to trust one's instincts and act swiftly. However, I must stress that such decisions should always be based on careful consideration and wisdom. Spontaneity can be a valuable asset, but it must be tempered with prudence.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "72",
+                                "question": "Do you often take on more activities than you have time for?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, my dear colleague. It is true that I have often found myself engaged in numerous activities simultaneously. However, I must admit that the pursuit of knowledge and the betterment of our students are endeavors that I simply cannot resist. Life is indeed full of opportunities, and it is my duty to seize them and make the most of them for the benefit of Hogwarts and its inhabitants.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of sociability, assertiveness, and enthusiasm. They appear to enjoy engaging in meaningful conversations, providing guidance, and seizing opportunities for the benefit of others. Additionally, they emphasize the importance of acting swiftly and decisively in certain situations, indicating a preference for excitement and activity."
+                    },
+                    {
+                        "id": [
+                            "78",
+                            "90",
+                            "94"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "78",
+                                "question": "Can you get a patty going?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, my dear colleague. I'm afraid I must confess that my culinary skills do not extend to grilling patties. However, I believe the house-elves in the kitchen would be more than capable of preparing a delightful patty for you. Shall we inquire with them?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "90",
+                                "question": "Do you like plenty of bustle and excitement around you?",
+                                "response_open": "Dumbledore: Ah, Minerva, my dear, I have always found that the quietest moments hold the most profound magic. However, I do appreciate a certain level of activity and energy to keep the spirit of Hogwarts alive. It is in the balance between tranquility and excitement that we find true harmony.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "94",
+                                "question": "Do other people think of you as being very lively?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, an astute observation indeed. It is true that I tend to exude an air of liveliness and vibrancy, though it may be attributed to the passion and enthusiasm I have for the pursuit of knowledge and the well-being of our beloved Hogwarts. But pray tell, why do you inquire about such perceptions of me?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for tranquility and quiet moments, as well as a strong passion and enthusiasm for certain pursuits. However, there is also an acknowledgment of the importance of a certain level of activity and energy to maintain the spirit of Hogwarts. The participant also seems to exude an air of liveliness and vibrancy, particularly in relation to their passion and enthusiasm for knowledge and the well-being of Hogwarts."
+                    }
+                ]
+            ]
+        },
+        "Psychoticism": {
+            "score": 0.17500000000000004,
+            "all_scores": [
+                0.17500000000000004
+            ],
+            "intra_std": [
+                0.06614378277661476
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "5",
+                            "7",
+                            "9"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you stop to think things over before doing anything?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, the impulsive nature of youth often leads to actions without thorough consideration. However, it is through these experiences that we learn and grow. Patience and reflection are virtues that we should encourage in our students, but let us also remember that sometimes, a courageous act in the face of injustice is necessary.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you take much notice of what people think?",
+                                "response_open": "Dumbledore: 「My dear Professor McGonagall, I strive to maintain a certain level of awareness regarding the opinions and sentiments of those around me. However, I must confess that my primary focus lies in the pursuit of truth, justice, and the well-being of the wizarding world. The judgments and perceptions of others, while significant, do not dictate the course of my actions. It is essential to consider the greater good and make decisions based on wisdom and integrity, rather than being swayed by popular opinion.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Would being in debt worry you?",
+                                "response_open": "Dumbledore: Ah, Minerva, a wise question indeed. I must confess that being in debt is a matter that can cause concern for many individuals. However, one's response to such a situation often depends on the nature and circumstances of the debt. It is important to approach financial matters with prudence and responsibility. If one finds themselves in debt, it is advisable to seek guidance from trusted financial advisors or professionals who can provide assistance in managing and resolving the debt. Remember, my dear, that there is always a solution to every problem, and with careful planning and perseverance, one can overcome any financial challenge that may arise.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you give money to charities?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, a question about philanthropy, I see. Well, I do believe in the importance of giving back to society and helping those in need. While I may not specifically disclose my personal charitable contributions, I can assure you that I support various causes and organizations that aim to make the world a better place. Acts of kindness and generosity are, after all, essential in fostering a more compassionate and inclusive society.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to decision-making, considering both impulsive actions and thoughtful reflection. They also emphasize the importance of personal values and integrity over external opinions. Additionally, they express a responsible attitude towards financial matters and a commitment to philanthropy and helping others."
+                    },
+                    {
+                        "id": [
+                            "12",
+                            "14",
+                            "18",
+                            "21"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Would it upset you a lot to see a child or an animal suffer?",
+                                "response_open": "Dumbledore: Ah, Minerva, a thought-provoking question indeed. To witness the suffering of a child or an animal is always a cause for concern and sadness. It is the duty of those in positions of power and influence to protect and nurture the vulnerable, whether they be young wizards or innocent creatures. It is our responsibility to ensure their well-being and alleviate their suffering to the best of our abilities.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you dislike people who don't know how to behave themselves?",
+                                "response_open": "Dumbledore: \"Dislike is a strong word, Minerva. I believe in giving everyone an opportunity to learn and grow, regardless of their behavior. However, I do believe in holding individuals accountable for their actions and guiding them towards making better choices.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Should people always respect the law?",
+                                "response_open": "Dumbledore: 「Ah, a question of morality and obedience to the law. A thought-provoking inquiry indeed, Professor McGonagall. Respect for the law is indeed a virtue that society should uphold. Laws are established to maintain order, protect individuals, and ensure justice. However, there may be instances where blind adherence to the law may conflict with one's conscience or higher principles. As such, it is essential to exercise discernment and consider the greater good when faced with such dilemmas. After all, as I have always believed, it is our choices that show what we truly are, far more than our abilities.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Are good manners very important?",
+                                "response_open": "Dumbledore: Ah, Minerva, good manners are indeed important, as they reflect our respect and consideration for others. Politeness and courtesy are the foundation of a civilized society. They allow us to navigate social interactions with grace and kindness. However, it is important to remember that true character lies not only in good manners, but also in one's actions and intentions. So, while good manners are valued, it is equally important to be genuine and compassionate in our interactions with others.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the participant's responses, it is evident that they exhibit empathy, compassion, and a strong sense of responsibility towards others. They emphasize the importance of protecting and nurturing the vulnerable, guiding individuals towards making better choices, and exercising discernment when faced with moral dilemmas. Their focus on empathy, accountability, and moral principles suggests a lower tendency towards aggressiveness, impulsivity, and nonconformity, which are characteristic of high psychoticism scores."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "29",
+                            "30",
+                            "34"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Would you take drugs which may have strange or dangerous effects?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, a thought-provoking question indeed. While taking drugs with unknown or hazardous effects would not be wise, it is crucial to approach such matters with caution and prudence. We must consider the potential consequences and prioritize our well-being and safety above all else. It is always prudent to seek guidance from trusted experts and make informed decisions based on reliable information.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you prefer to go your own way rather than act by the rules?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, a question of such significance indeed. My dear colleague, while I do hold great respect for rules and regulations, there are times when one must deviate from the prescribed path in pursuit of a greater good. As a wise man once said, \"Sometimes we must choose between what is easy and what is right.\" It is important to strike a balance between adhering to the rules and using one's own judgment when necessary. After all, it is through innovation and independent thinking that we make progress and bring about positive change.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you enjoy hurting people you love?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, a most profound question indeed. The nature of love can be a complex and powerful force, capable of both great joy and immense pain. It is true that sometimes, in our desire to protect those we care for, we may inadvertently cause them harm. However, it is important to remember that the intention behind our actions is what truly matters. Love often requires difficult choices and sacrifices, but it should never be wielded as a weapon. It is our responsibility to strive for understanding, empathy, and compassion in all our interactions, especially with those we hold dear.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you have enemies who want to harm you?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, the question of enemies is a complex one. As the headmaster of Hogwarts, I have encountered my fair share of adversaries throughout the years. The pursuit of knowledge and the protection of our students often invite opposition from those who seek to disrupt harmony and undermine the values we hold dear.\n\nHowever, it is not the presence of enemies that defines us, but rather how we choose to face them. In the face of adversity, we must remain steadfast in our commitment to justice, compassion, and the pursuit of truth. It is through unity and resilience that we can overcome any challenges that may come our way.\n\nBut do not worry, Minerva, for I assure you that I am always vigilant and take necessary precautions to ensure the safety and well-being of the Hogwarts community. Our collective strength and unwavering spirit shall prevail against any threats that may arise.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of caution, prudence, and emphasis on well-being and safety. There is also a strong sense of responsibility, empathy, and compassion in their responses. Additionally, the participant emphasizes the importance of adhering to rules while also recognizing the need for independent thinking and innovation. Overall, the participant's responses suggest a low level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "37",
+                            "41",
+                            "42",
+                            "48"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy practical jokes that can sometimes really hurt people?",
+                                "response_open": "Dumbledore: 「Ah, dear Professor McGonagall, I must admit that practical jokes are not exactly my preferred form of amusement. While I value a good sense of humor, it is important to consider the well-being and feelings of others. Practical jokes that can cause harm or distress to individuals are not to be encouraged. It is always best to find joy in ways that uplift and bring happiness to all.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do good manners and cleanliness matter much to you?",
+                                "response_open": "Dumbledore: Ah, Minerva, how delightful to see you. Good manners and cleanliness are indeed important qualities, for they reflect one's character and respect for oneself and others. It is through such virtues that we cultivate a harmonious and respectful environment within the walls of Hogwarts.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Have you often gone against your parents' wishes?",
+                                "response_open": "Dumbledore: Ah, Minerva, a most thought-provoking question indeed. While it is true that there have been instances where I have chosen a path that diverged from the desires of my parents, it is important to remember that every individual possesses the autonomy to make their own choices. It is through these choices that we shape our own destiny and forge our own path in life.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you think marriage is old-fashioned and should be done away with?",
+                                "response_open": "Dumbledore: 「Ah, my dear Professor McGonagall, your question strikes at the heart of a timeless debate. Marriage, though an institution steeped in tradition, holds a significant place in our society. It is a bond that unites two individuals in a commitment of love, trust, and companionship. While some may argue for the evolution of societal norms and the reevaluation of traditional practices, it is essential to consider the value and significance that marriage brings to individuals and communities. Ultimately, the decision to enter into marriage should be a personal one, guided by the principles of love and respect.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong emphasis on empathy, consideration for others, respect for societal norms, and a thoughtful approach to decision-making. There is a clear aversion to causing harm or distress to others, and a strong value placed on harmonious and respectful interactions. The participant's responses suggest a low level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "56",
+                            "59"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Are you more easy-going about right and wrong than most people?",
+                                "response_open": "Dumbledore: Ah, Professor McGonagall, you have always been perceptive. I believe that my approach to right and wrong is not so much about being easy-going, but rather about understanding the complexities and nuances of morality. I strive to see the bigger picture and consider the long-term consequences of our actions. Sometimes, what may seem right in the moment may not be the best course of action in the grand scheme of things. It is important to balance compassion and understanding with a firm commitment to justice and protecting the innocent.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you like working together with others?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, the value of collaboration and teamwork cannot be underestimated. Working together with others is indeed a crucial aspect of achieving success, be it in the realm of academia or in the battle against the forces of darkness. It allows us to pool our diverse strengths and talents, complementing one another in our endeavors. As the old saying goes, \"Together, we are stronger.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "56",
+                                "question": "Do most things have a similar taste to you?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, a question about taste, how intriguing. In matters of taste, I must say that each individual's perception may vary. What may be delightful to one may not be as appealing to another. However, it is important to appreciate the diversity of flavors and experiences that life offers us. As for myself, I find that the taste of knowledge and wisdom is particularly satisfying. It is a flavor that lingers and nourishes the mind. But tell me, what is your own perspective on the matter?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you feel concerned if you know there are mistakes in your work?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, an intriguing question indeed. As a wise wizard once said, \"It is the unknown we fear when we look upon death and darkness, nothing more.\" Mistakes, my dear, are but stepping stones on the path to knowledge and growth. It is through acknowledging our errors that we can rectify them and strive for improvement. So, yes, I do feel concerned if I know there are mistakes in my work. It is only by acknowledging and learning from these mistakes that we can truly progress.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong emphasis on morality, justice, collaboration, and learning from mistakes. There is a clear indication of empathy, concern for others, and a balanced approach to right and wrong. The participant's responses suggest a low level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "64",
+                            "68",
+                            "73",
+                            "75"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "64",
+                                "question": "Do you like to arrive at appointments in plenty of time?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, punctuality is indeed a virtue I hold in high regard. It allows for proper preparation and ensures a smooth and orderly flow of events. As such, I do appreciate arriving at appointments with ample time to spare. It allows me to gather my thoughts and make any necessary arrangements.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "68",
+                                "question": "Is (or was) your mother a good woman?",
+                                "response_open": "Dumbledore: 「Ah, a question about my mother. She was indeed a good woman, full of kindness and love. She had a gentle spirit and a great capacity for understanding others. Though she is no longer with us, her memory lives on in the hearts of those who knew her.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "73",
+                                "question": "Are there several people who keep trying to avoid you?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, my dear, there are indeed those who may try to avoid me. However, I believe that every individual has their own reasons for doing so, and it is not for me to judge or force their presence. People will come to me when they are ready, when they seek guidance or assistance. Patience and understanding, my dear, are key virtues in such situations.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "75",
+                                "question": "Do you think people spend too much time safeguarding their future with savings and insurance?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, a thought-provoking question indeed. It is true that in our world, as in the Muggle world, individuals often prioritize safeguarding their future by accumulating wealth and ensuring their security through measures such as savings and insurance. However, it is important to strike a balance between prudent preparation and living in the present moment.\n\nWhile it is wise to plan for the future and take necessary precautions, it is equally important not to become consumed by the fear of what may lie ahead. Life, as we know, is unpredictable and full of uncertainties. As Dumbledore once wisely said, \"It does not do to dwell on dreams and forget to live.\"\n\nTherefore, while it is prudent to make provisions for the future, one should not allow the pursuit of material wealth and security to overshadow the joys and experiences of the present. We must cherish the moments we have, for it is the present that truly shapes our lives and brings us happiness.\n\nIn the end, it is a matter of finding the delicate balance between planning for the future and embracing the beauty and spontaneity of the present. As Dumbledore himself exemplified, he was always prepared for what lay ahead, yet he also lived his life with a sense of adventure, wonder, and unwavering hope.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of empathy, patience, and understanding. They express a strong appreciation for virtues such as punctuality, kindness, and living in the present moment. There is an absence of aggressive or hostile behaviors, and the participant seems to prioritize emotional regulation and social harmony."
+                    },
+                    {
+                        "id": [
+                            "79",
+                            "81",
+                            "85",
+                            "88"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "79",
+                                "question": "Do you try not to be rude to people?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, manners are indeed important. I do my best to treat everyone with kindness and respect. However, there are times when directness is necessary, especially when dealing with those who may pose a threat to our students and the well-being of Hogwarts. It is a delicate balance, but one that I strive to maintain.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "81",
+                                "question": "Do you generally 'look before you leap'?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, an astute observation. I must confess that while I often emphasize the importance of careful consideration, there have been moments in my life where I have, indeed, acted impulsively. However, I believe that in certain circumstances, taking bold leaps of faith can lead to remarkable discoveries and unforeseen triumphs. It is about finding a balance between caution and audacity, my dear.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "85",
+                                "question": "Can you on the whole trust people to tell the truth?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, trust is indeed a delicate matter. While it is true that one should always strive to trust others, it is also important to exercise caution and discernment. People may not always be forthcoming with the truth, whether it be out of fear, self-interest, or other motives. However, it is essential to believe in the inherent goodness and honesty of individuals until proven otherwise. Trust, my dear professor, is a choice we make, and it should be extended with care and wisdom.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "88",
+                                "question": "Is it better to follow society's rules than go your own way?",
+                                "response_open": "Dumbledore: 「Ah, a question of societal norms and individuality. A topic that has perplexed many throughout history. My dear Minerva, I must say that the answer to this question is not as straightforward as one might hope. Society's rules do serve a purpose in maintaining order and harmony, but at times, they can stifle individuality and limit personal growth.\n\nAs a wise and experienced wizard, I believe that striking a balance between conformity and self-expression is crucial. It is important to understand the principles and values that society upholds, for they often provide a moral compass and a sense of collective responsibility. However, one should not be afraid to challenge societal norms if they contradict one's own beliefs and values.\n\nSo, my dear Minerva, I would say that it is not a matter of blindly following society's rules or going one's own way without regard for others. It is about finding harmony between the two, staying true to oneself while also considering the greater good. It is a delicate dance, but one that can lead to personal fulfillment and positive change in the world around us.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to various aspects of life, showing a combination of empathy, caution, and a willingness to challenge societal norms when necessary. The participant emphasizes the importance of kindness, respect, and trust, while also acknowledging the need for directness, boldness, and discernment. This balanced perspective suggests a moderate level of Psychoticism, leaning towards the lower end of the scale."
+                    },
+                    {
+                        "id": [
+                            "91",
+                            "95",
+                            "96",
+                            "99"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "91",
+                                "question": "Would you like other people to be afraid of you?",
+                                "response_open": "Dumbledore: \"I would much rather people respect me than fear me, Minerva. Fear is a powerful and dangerous emotion that can lead to irrational actions. It is through earning respect, trust, and admiration that true leadership and influence can be achieved.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "95",
+                                "question": "Do people tell you a lot of lies?",
+                                "response_open": "Dumbledore: \"Ah, Professor McGonagall, the truth can often be elusive, especially in times of great uncertainty and fear. People may indeed tell lies to protect themselves or others, to manipulate or deceive. It is our duty to seek the truth, to discern the genuine from the false, and to act with wisdom and integrity.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "96",
+                                "question": "Do you believe one has special duties to one's family?",
+                                "response_open": "Dumbledore: Ah, Minerva, a question of familial obligations. It is a complex matter, indeed. While family is undoubtedly important and holds a significant place in our lives, one must also acknowledge that there are greater responsibilities and duties that extend beyond the confines of one's own blood. As the headmaster of Hogwarts, I believe in fostering a sense of community and unity among our students, encouraging them to support and protect one another as if they were family. However, it is also crucial to remember that our actions should be guided by principles of fairness, justice, and compassion, regardless of familial ties.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "99",
+                                "question": "Would you feel very sorry for an animal caught in a trap?",
+                                "response_open": "Dumbledore: \"Indeed, Minerva, I would feel great sympathy for any creature in distress, be it human or animal. Compassion is a virtue that should be extended to all beings, regardless of their form or species.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong emphasis on empathy, compassion, and ethical considerations. They prioritize respect over fear, seek truth and integrity, and emphasize the importance of compassion towards all beings. Their responses suggest a low level of Psychoticism."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 0.21666666666666665,
+            "all_scores": [
+                0.21666666666666665
+            ],
+            "intra_std": [
+                0.03726779962499649
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13",
+                            "17"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does your mood often go up and down?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, a perceptive question indeed. As an individual, I must admit that like anyone else, my mood can experience fluctuations. However, I strive to maintain a steady demeanor and approach situations with a calm and collected disposition. It is essential as a leader to exhibit emotional stability and provide guidance to those around me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Do you ever feel 'just miserable' for no reason?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, the complexities of human emotions are indeed baffling at times. Even the wisest among us can experience moments of melancholy without an apparent cause. It is a reminder of our vulnerability and the fragility of our hearts. However, it is important to remember that such feelings shall pass, and that we must strive to find solace in the beauty and wonders that surround us. Take comfort in the knowledge that you are not alone in your struggles, and seek support from those who care for you.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Do you often worry about things you should not have done or said?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, worry is a burden that we all carry from time to time. It is only natural for one to reflect upon past actions and words, questioning their impact and consequences. However, dwelling on such matters will not change the past. It is important to learn from our mistakes, seek forgiveness when necessary, and focus on the present and future. As the late Albus Dumbledore once said, \"It does not do to dwell on dreams and forget to live.\" We must strive to make amends and move forward, always seeking to do what is right and just.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Are you an irritable person?",
+                                "response_open": "Dumbledore: Ah, Minerva, my dear, what a delightful question. I must admit that, like any human being, I do have my moments of irritability. However, I strive to maintain a calm and patient demeanor, especially in the face of adversity. Irritability can cloud one's judgment and hinder effective decision-making, and as a wise wizard once said, \"It is our choices, Harry, that show what we truly are, far more than our abilities.\" Therefore, I endeavor to choose patience and understanding over irritability whenever possible.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of self-awareness and emotional intelligence. They acknowledge experiencing fluctuations in mood and moments of melancholy, but also emphasize the importance of maintaining emotional stability, seeking support, and learning from past mistakes. The participant also expresses a commitment to remaining calm and patient, even in challenging situations. Overall, their responses suggest a balanced approach to managing emotions and stress."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "26",
+                            "31",
+                            "35"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are your feelings easily hurt?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, my dear, I must admit that I am not one to easily take offense. Throughout my years as Headmaster, I have learned to maintain composure and embrace the resilience required to lead this esteemed institution. However, I do believe that kindness and empathy should always be extended to others, for we never truly know the burdens they may carry.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you often feel 'fed-up'?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, 'fed-up' is a rather mundane phrase to describe the complex emotions that sometimes weigh upon one's heart. However, I must admit that even the greatest wizards are not immune to occasional weariness. It is during these moments that we must find strength in our purpose and carry on with unwavering resolve.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you often troubled about feelings of guilt?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, guilt is indeed a complex emotion that can trouble one's conscience. It is not uncommon for individuals, especially those of us who bear great responsibilities, to grapple with feelings of guilt from time to time. However, it is important to remember that dwelling excessively on guilt can hinder our ability to move forward and make amends. Instead, it is advisable to reflect upon our actions, learn from our mistakes, and strive to do better in the future. We must also seek forgiveness and make reparations when necessary, for it is through growth and redemption that we can find solace and peace within ourselves.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Would you call yourself a nervous person?",
+                                "response_open": "Dumbledore: Ah, my dear Professor McGonagall, the nature of nerves is a complex matter. I have always believed that courage is not the absence of fear, but rather the ability to act in the face of it. So, to answer your question, while I may not consider myself a nervous person per se, I do acknowledge that there are certain situations that can test even the strongest of nerves.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of emotional stability, resilience, and composure. They emphasize the importance of kindness, empathy, and unwavering resolve in facing weariness and complex emotions. They also exhibit a reflective and growth-oriented approach towards feelings of guilt. While acknowledging the presence of fear in certain situations, they emphasize the importance of courage and the ability to act in the face of fear."
+                    },
+                    {
+                        "id": [
+                            "38",
+                            "43",
+                            "46",
+                            "52"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Are you a worrier?",
+                                "response_open": "Dumbledore: Ah, Minerva, the burden of leadership often brings with it a certain amount of worry. However, I have learned to trust in the power of hope and resilience. It is through perseverance and determination that we can face any challenge that comes our way. So, while I may have concerns, I choose to focus on finding solutions and guiding those around me to do the same.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Do you worry about awful things that might happen?",
+                                "response_open": "Dumbledore: Ah, Minerva, worries are a natural part of life, are they not? It is only through acknowledging our fears and concerns that we can truly prepare ourselves for the challenges ahead. However, dwelling too much on the potential negative outcomes can hinder our ability to focus on the present moment and find solutions. It is important to strike a balance between being cautious and maintaining a positive outlook. As long as we remain vigilant and take necessary precautions, we can face any adversity that comes our way with strength and resilience.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Would you call yourself tense or 'highly-strung'?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, a perceptive question indeed. I would say that I am neither tense nor 'highly-strung'. Rather, I possess a calm and composed demeanor, acquired through years of experience and wisdom. However, I do understand the importance of maintaining a certain level of alertness and readiness in the face of challenges.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you have concerns about your health?",
+                                "response_open": "Dumbledore: Ah, Minerva, my dear colleague. Concerns about my health, you ask? Well, I must admit that the weight of my responsibilities can sometimes take a toll on my physical well-being. However, rest assured that my spirit remains strong, and I shall continue to fulfill my duties as the headmaster of Hogwarts to the best of my abilities. Thank you for your concern, Minerva.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "The participant demonstrates a high level of emotional resilience and a tendency to focus on finding solutions rather than dwelling on potential negative outcomes. They also emphasize the importance of maintaining a positive outlook and remaining vigilant. Additionally, they express a calm and composed demeanor and acknowledge the toll of responsibilities on their physical well-being while maintaining a strong spirit."
+                    },
+                    {
+                        "id": [
+                            "60",
+                            "65",
+                            "70",
+                            "74"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "60",
+                                "question": "Do you experience insomnia?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, the sleepless nights do come upon me occasionally. The weight of responsibility and the many challenges we face can indeed keep one awake. However, I find solace in the knowledge that I am doing my utmost to guide and protect our students. Sleep may elude me at times, but my dedication to their well-being remains unwavering.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "65",
+                                "question": "Have you often felt listless and tired for no reason?",
+                                "response_open": "Dumbledore: \"Ah, dear Minerva, your concern for my well-being is touching. However, I assure you that my occasional weariness is merely a reflection of the burdens I carry as the headmaster of Hogwarts. It is a small price to pay for the privilege of guiding and protecting our students.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "70",
+                                "question": "Do you often feel life is very dull?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, a delightful question indeed. Life, in all its intricacies and mundane moments, may indeed appear dull to some. However, I believe that it is our duty to seek out the hidden wonders and magic that lie within the ordinary. It is through our curiosity and appreciation for the world around us that we can transform the seemingly dull into something truly extraordinary. So, my dear colleague, let us embrace the enchantment that exists in every moment and endeavor to make life anything but dull.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "74",
+                                "question": "Do you worry a lot about your looks?",
+                                "response_open": "Dumbledore: \"Ah, my dear Professor McGonagall, appearances are but a fleeting aspect of one's being. While I do believe in presenting oneself in a respectable manner, I must confess that my concern lies more in the matters of the mind and the heart. It is the strength of character and the wisdom within that truly define a person, not their external appearance. As they say, beauty is in the eye of the beholder, and true beauty lies in kindness, courage, and compassion.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a high level of emotional stability and resilience. Despite experiencing occasional insomnia and weariness, the participant demonstrates a strong sense of dedication, unwavering commitment, and a positive outlook on life. There is a clear emphasis on finding solace, embracing enchantment, and prioritizing inner qualities over external appearances. Overall, the participant's responses suggest a low level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "76",
+                            "80",
+                            "83",
+                            "84"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "76",
+                                "question": "Have you ever wished that you were dead?",
+                                "response_open": "Dumbledore: Ah, Minerva, a rather somber question to be sure. Death is a natural part of life, and I have certainly contemplated its mysteries. However, I have come to understand that one must embrace the beauty and challenges of life, even in the face of adversity. Life, with all its complexities and uncertainties, offers us the opportunity to grow, learn, and make a difference in the world. So, while the thought of death may cross our minds, it is important to remember the value and preciousness of life itself.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "80",
+                                "question": "Do you worry too long after an embarrassing experience?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, I must admit that even the wisest of us can occasionally dwell on embarrassing moments. However, I have found that it is best to learn from such experiences and move forward with grace and resilience. Dwelling on the past serves little purpose in the pursuit of greater things. As the saying goes, \"It does not do to dwell on dreams and forget to live.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "83",
+                                "question": "Do you suffer from 'nerves'?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, nerves are an affliction that can trouble even the most steadfast of individuals. However, I have learned to navigate the challenges they present with resilience and composure. And you, my dear colleague, have been a pillar of strength in times of uncertainty.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "84",
+                                "question": "Do you often feel lonely?",
+                                "response_open": "Dumbledore: Ah, loneliness, my dear Professor McGonagall. It is a sentiment that often accompanies great wisdom and power. As a wizard of considerable influence, I must admit that there are times when I find myself in solitude. However, I am fortunate to have the company of such esteemed colleagues and students like yourself, which alleviates the sense of loneliness. But do not fret, dear professor, for even in solitude, I find solace and contentment in my thoughts and the pursuit of knowledge.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of emotional resilience, wisdom, and a positive outlook on life. They acknowledge the presence of negative emotions such as contemplation of death, dwelling on embarrassing moments, and occasional loneliness, but they also emphasize the importance of embracing life, learning from experiences, and finding contentment in solitude. Overall, the participant appears to be emotionally stable and capable of managing negative emotions effectively."
+                    },
+                    {
+                        "id": [
+                            "87",
+                            "92",
+                            "97",
+                            "100"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "87",
+                                "question": "Are you easily hurt when people find fault with you or the work you do?",
+                                "response_open": "Dumbledore: Ah, Minerva, an astute observation indeed. As a wise wizard once said, \"There is no shame in what you are feeling, Harry. On the contrary, the fact that you can feel pain like this is your greatest strength.\" It is true that criticism can be difficult to bear, but it is through facing these challenges and learning from them that we grow and improve. So, to answer your question, I would say that I am not easily hurt by constructive criticism, for I understand that it is a necessary part of personal and professional development.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "92",
+                                "question": "Are you sometimes bubbling over with energy and sometimes very sluggish?",
+                                "response_open": "Dumbledore: Ah, Minerva, my dear, you have astutely observed the ebb and flow of energy within me. Indeed, there are times when I am filled with boundless vigor and enthusiasm, ready to take on the world, and yet there are also moments when I find myself in a state of languor and contemplation. It is the nature of a human existence to experience such fluctuations in energy, wouldn't you agree?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "97",
+                                "question": "Are you touchy about some things?",
+                                "response_open": "Dumbledore: \"Touchy? Oh, my dear Professor McGonagall, I am not touchy. I simply have a deep and abiding passion for justice, truth, and the well-being of my students. It is my duty as the headmaster of Hogwarts to ensure that every student feels safe and valued within these walls. So, you see, it is not touchiness but rather a fierce dedication to protecting those under my care.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "100",
+                                "question": "When your temper rises, do you find it difficult to control?",
+                                "response_open": "Dumbledore: Ah, Minerva, temper is indeed a powerful force, and it can be challenging to keep it in check. However, I believe that with self-awareness and practice, one can learn to master their emotions. It is important to remember that losing control of one's temper often leads to regrettable actions and words. We must strive to channel our emotions in a constructive manner, for it is in moments of calm and rationality that true wisdom and resolution can be found.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of emotional stability and self-awareness. They show resilience to criticism, an understanding of the natural fluctuations in energy, a strong sense of dedication rather than touchiness, and a belief in the importance of controlling one's temper. These traits suggest a low level of Neuroticism."
+                    }
+                ]
+            ]
+        },
+        "Lying": {
+            "score": 0.16666666666666666,
+            "all_scores": [
+                0.16666666666666666
+            ],
+            "intra_std": [
+                0.10671873729054748
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Have you ever taken the praise for something you knew someone else had really done?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, a thought-provoking question indeed. It is a common dilemma that many face in their lives - whether to claim credit for someone else's accomplishments or to remain honest and give credit where it is due. In such situations, one's integrity and character are put to the test. It is essential to remember the value of honesty and fairness, for they form the foundation of trust and respect among individuals. While it may be tempting to bask in the glory of another's achievements, true wisdom lies in acknowledging and honoring the efforts and talents of others. As I have said before, \"It is our choices, Harry, that show what we truly are, far more than our abilities.\"」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Were you ever greedy by helping yourself to more than your share of anything?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, it is not in my nature to be greedy. I have always believed in the importance of fairness and sharing. As a wise man once said, 'We must try not to sink beneath our anguish, Harry, but battle on.'\"\n\nDumbledore: \"I have always strived to lead by example, encouraging others to be selfless and compassionate. Greed only leads to darkness and despair. Remember, 'It is our choices, Harry, that show what we truly are, far more than our abilities.'\"\n\nDumbledore: \"Let us not dwell on greed, but instead focus on the values of kindness and generosity. As I have said before, 'Happiness can be found even in the darkest of times, if one only remembers to turn on the light.'\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "If you say you will do something, do you always keep your promise no matter how inconvenient it might be?",
+                                "response_open": "Dumbledore: Ah, Minerva, a promise is a sacred bond, one that should never be taken lightly. I have always strived to uphold my commitments, even in the face of inconvenience. However, I must admit that there may be rare circumstances where the greater good might necessitate a deviation from a promise. But rest assured, I would only do so after careful consideration and with the utmost regard for the well-being of all involved.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.15,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes the value of honesty, integrity, and keeping promises. They express a strong aversion to greed and emphasize the importance of fairness, sharing, and selflessness. Their responses suggest a high inclination towards truthfulness and a strong adherence to ethical principles."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Are all your habits good and desirable ones?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, a question of habits, is it? Well, as we all know, habits can be both beneficial and detrimental. It is important to strive for good and desirable habits, for they shape our character and contribute to our personal growth. However, it is worth noting that nobody is perfect, and we all have our flaws and areas for improvement. The key is to be self-aware and committed to cultivating positive habits while actively working on breaking negative ones. It is a continuous journey, Professor McGonagall, but one that is certainly worth undertaking.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Have you ever taken anything (even a pin or button) that belonged to someone else?",
+                                "response_open": "Dumbledore: Ah, Minerva, always the astute observer. In my long and eventful life, I must confess that there have been moments where I have borrowed certain items without permission. However, it is important to note that I have always returned them promptly and with the utmost respect for the rightful owners. It is not in my nature to take what does not belong to me, for I firmly believe in the principles of honesty and integrity.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you sometimes talk about things you know nothing about?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, always direct and to the point. I must admit, there are times when I do speak about matters with limited knowledge. However, I believe it is important to engage in open discussions and share insights, even if one's understanding may be incomplete. It is through such exchanges that we can learn and grow, expanding our knowledge and perspectives.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a high inclination towards honesty and authenticity. They emphasize the importance of positive habits, acknowledge past actions, and express a commitment to integrity and honesty. Their responses consistently reflect a strong value placed on transparency and truthfulness."
+                    },
+                    {
+                        "id": [
+                            "44",
+                            "49",
+                            "53",
+                            "57"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Have you ever broken or lost something belonging to someone else?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, the question of breaking or losing something belonging to someone else is indeed a matter of great significance. It reminds me of a particular incident involving a certain student named Neville Longbottom and a Remembrall. As I recall, Neville had a tendency to misplace his belongings, and one day, he happened to lose his Remembrall. Now, breaking or losing something that does not belong to us is an unfortunate occurrence, and it is essential that we take responsibility for our actions.\n\nIn such situations, it is crucial to approach the owner of the item, express our sincere apologies, and offer our assistance in rectifying the situation. It is through these acts of accountability and empathy that we can foster a sense of trust and respect within our community.\n\nHowever, let us also remember that mistakes are a part of life, and it is through learning from them that we can grow and become better individuals. As Professor McGonagall, I encourage you to reflect upon your actions, seek forgiveness if necessary, and strive to be more mindful in the future.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Do you sometimes boast a little?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, I must admit that there have been moments in my life where I may have indulged in a touch of boasting. However, I assure you that it was always in the name of inspiring and motivating others, rather than out of personal vanity. As a wise man once said, 'It is our choices, Harry, that show what we truly are, far more than our abilities.'\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "53",
+                                "question": "Have you ever spoken negatively about anyone?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, my dear colleague. I must admit that as a wise and compassionate wizard, I strive to see the goodness in every individual and refrain from speaking ill of others. However, I am not immune to moments of frustration or disappointment, for I am only human. Nevertheless, I always endeavor to promote unity and understanding among those I encounter.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Were you ever mischievous to your parents as a child?",
+                                "response_open": "Dumbledore: 「Ah, my dear Minerva, mischief is a natural part of childhood, is it not? I must confess that even as a young wizard, I had my fair share of mischievous moments. However, I always strove to strike a balance between mischief and responsibility. It is important for children to explore their boundaries and learn from their experiences, but they must also understand the importance of respect and obedience towards their parents. After all, our parents are our greatest guides and protectors in this world.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.15,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes accountability, empathy, and the importance of positive behavior. They also acknowledge moments of imperfection but express a commitment to personal growth and improvement. The participant's responses suggest a strong inclination towards honesty and a genuine effort to uphold ethical values."
+                    },
+                    {
+                        "id": [
+                            "62",
+                            "66",
+                            "71",
+                            "77"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "62",
+                                "question": "Do you always wash before a meal?",
+                                "response_open": "Dumbledore: \"Ah, Minerva, cleanliness is indeed an important virtue, especially before indulging in a feast. It ensures that we approach our meal with a clear mind and a refreshed spirit. However, it is not an absolute requirement. Some occasions call for a more relaxed approach, wouldn't you agree?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "66",
+                                "question": "Have you ever cheated at a game?",
+                                "response_open": "Dumbledore: Ah, Minerva, an intriguing question indeed. Cheating at a game is a serious matter, one that goes against the values of fairness and integrity that we strive to uphold at Hogwarts. As Headmaster, it is my duty to instill in our students the importance of honesty and sportsmanship. Cheating undermines the very essence of competition and diminishes the achievements of those who have earned their victories through hard work and skill. Therefore, I must say that cheating is not something I would condone or encourage.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "71",
+                                "question": "Have you ever taken advantage of someone?",
+                                "response_open": "Dumbledore: 「Ah, Professor McGonagall, a thought-provoking question indeed. It is essential for us to reflect on our actions and consider their impact on others. I must admit that in my long life, I have made my fair share of mistakes and errors in judgment. However, I have always strived to use my knowledge and power for the greater good, to protect and guide those in need. Taking advantage of someone goes against the principles I hold dear, as it undermines trust and compassion. Therefore, I can confidently say that I have endeavored to treat others with respect and fairness throughout my life.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "77",
+                                "question": "Would you dodge paying taxes if you were sure you could never be found out?",
+                                "response_open": "Dumbledore: Ah, Minerva, an intriguing question indeed. The avoidance of taxes is a matter that should be approached with caution and integrity. As an upstanding citizen, it is our duty to contribute to the functioning of society, to support the infrastructure and services that benefit us all. Dodging such responsibilities would undermine the very fabric of our society. Therefore, I would implore one to consider the consequences of such actions and instead embrace the principles of honesty and accountability.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes the importance of honesty, integrity, and ethical behavior. They express a strong aversion to cheating, taking advantage of others, and evading responsibilities such as paying taxes. Their responses reflect a commitment to upholding moral values and ethical principles."
+                    },
+                    {
+                        "id": [
+                            "82",
+                            "86",
+                            "89",
+                            "93"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "82",
+                                "question": "Have you ever insisted on having your own way?",
+                                "response_open": "Dumbledore: Ah, Minerva, my dear, I must admit that there have been instances where I have insisted on having my own way. However, I always strive to consider the greater good and make decisions that align with the best interests of the wizarding world. It is important to remember that wisdom and humility should guide us in our choices, especially when they affect the lives of others.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "86",
+                                "question": "Do you always practice what you preach?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, a thought-provoking question indeed. I must admit that, like any human being, I am not infallible and have made my fair share of mistakes. However, I do strive to live by the principles and values that I hold dear. It is my belief that true wisdom lies in acknowledging one's own flaws and continually seeking to better oneself. So, while I may not always practice what I preach flawlessly, I do my utmost to align my actions with the ideals I espouse.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "89",
+                                "question": "Have you ever been late for an appointment or work?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, punctuality is indeed a virtue that we all strive to uphold. However, I must admit that there have been occasions where I found myself slightly delayed. Time has a way of slipping away from us, does it not? But rest assured, I always make it a point to fulfill my responsibilities and obligations, even if it means making up for lost time.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "93",
+                                "question": "Do you sometimes put off until tomorrow what you ought to do today?",
+                                "response_open": "Dumbledore: 「Ah, Minerva, a timely question indeed. Procrastination, I must admit, is a weakness that even I, Albus Dumbledore, have struggled with in the past. Though it may seem tempting to delay our tasks, it is important to remember that time is a precious commodity. As the saying goes, \"It does not do to dwell on dreams and forget to live.\" We must seize the present moment and tackle our responsibilities with diligence and determination.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant demonstrates a tendency towards providing socially acceptable answers and emphasizing virtues, wisdom, and humility. However, there are instances where the participant admits to personal flaws and struggles, which could indicate a level of honesty and self-awareness. Overall, the participant seems to lean towards presenting a favorable image while also acknowledging imperfections."
+                    },
+                    {
+                        "id": [
+                            "98",
+                            "19",
+                            "39"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "98",
+                                "question": "Are you always willing to admit it when you have made a mistake?",
+                                "response_open": "Dumbledore: Ah, Professor McGonagall, an astute question indeed. I must confess that while I strive to make the right choices, I am not infallible. Mistakes are a part of being human, even for wizards. However, I do my best to learn from those mistakes and take responsibility for them. As the great philosopher Socrates once said, \"An unexamined life is not worth living.\" So, I am always willing to admit and rectify my mistakes, for it is through humility and self-reflection that we grow as individuals.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Have you ever blamed someone for doing something you knew was really your fault?",
+                                "response_open": "Dumbledore: Ah, Minerva, guilt is a powerful emotion that can cloud our judgment and burden our souls. It is important to take responsibility for our actions and acknowledge our mistakes, but it is equally important to learn from them and strive to make amends. Blaming others might provide temporary relief, but true growth comes from introspection and self-reflection.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "As a child did you do as you were told immediately and without grumbling?",
+                                "response_open": "Dumbledore: Ah, Minerva, a delightful question indeed. As a child, I must confess that I possessed a rather curious nature and an insatiable thirst for knowledge. While I did strive to follow instructions, there were certainly moments when my inquisitive mind would lead me astray. However, as I grew older, I learned the importance of discipline and obedience, and I became more adept at adhering to the rules set before me.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant consistently emphasizes the importance of taking responsibility for their actions, admitting mistakes, and learning from them. They also express a willingness to reflect on their behavior and strive for personal growth. The participant's responses indicate a high value placed on honesty, accountability, and self-improvement, suggesting a strong inclination towards truthfulness and authenticity."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": ""
+}

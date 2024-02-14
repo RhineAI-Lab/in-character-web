@@ -1,0 +1,496 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 3.75,
+            "all_scores": [
+                3.75
+            ],
+            "intra_std": [
+                0.25
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Thor: \"Only when I have something important to say.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Thor:「What do you mean, reserved?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Thor:「Always. But why do you ask?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Thor:「Oh, absolutely. I'm the God of Thunder, after all. People can't help but be excited when I'm around.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to be assertive, energetic, and enthusiastic. They also seem to enjoy lively settings and generate excitement. However, they also mentioned being reserved in certain situations. Overall, the participant's responses indicate a high level of extraversion, particularly in terms of assertiveness, energy, and enthusiasm."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Thor:「Only when I have nothing important to say.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Thor: \"I'd say I have a pretty assertive personality. I don't shy away from speaking my mind or taking charge when necessary.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Thor:「No, I am not shy or inhibited. I am the God of Thunder! I fear nothing!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Thor:「Yeah, I mean, I have my moments.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to have a moderately high level of assertiveness and occasional sociability, but also values speaking up when necessary. The participant also expressed confidence and lack of shyness. However, the participant also mentioned being quiet when having nothing important to say, indicating a balance between assertiveness and reservedness."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 2.5,
+            "all_scores": [
+                2.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Thor:「Depressed? Me? Nah, I'm just missing my hammer. But don't worry, I'll find a way to get it back. And when I do, you better watch out, brother.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Thor:「I'm the god of thunder, I handle stress better than anyone.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Thor:「What?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Thor:「I wouldn't say I worry. I'm more of a 'take action' kind of guy. But I do have concerns, yes.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of Anxiety and Depression. They also appear to handle stress well and have a proactive approach to concerns, indicating lower levels of Vulnerability and Impulsiveness. However, their response to being tense was unclear, and they did not directly address the question about worry, which could suggest some level of Self-Consciousness."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Thor:「What are you talking about? I'm the picture of emotional stability! I never get upset.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Thor: \"Moody? Of course I can be moody. Watch this.\" \n[Thor dramatically crosses his arms and pouts]\nLoki: \"Impressive. You've really captured the essence of moody.\" \nThor: \"Thank you. It's a skill I've honed over the years.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Thor:「I try my best.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Thor:「I don't get nervous.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of emotional stability and some neurotic tendencies. While they claim to be emotionally stable and not easily upset, their demonstration of being moody and the acknowledgment of trying to remain calm in tense situations suggest some level of emotional reactivity. Additionally, their denial of getting nervous easily may indicate a tendency to downplay their anxiety."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 3.6666666666666665,
+            "all_scores": [
+                3.6666666666666665
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Thor:「Of course I do. I always have.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Thor:「Careless? That's rich coming from you, the master of mischief and deception.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Thor: 「Reliable? I'm the most reliable worker you'll ever find!」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of self-confidence in their ability to do a thorough job and be a reliable worker. However, their response to the question about being somewhat careless suggests a hint of defensiveness and sarcasm, which may indicate a tendency to downplay their own shortcomings. Overall, the participant seems to exhibit strong conscientiousness traits, particularly in terms of competence, dutifulness, and self-discipline."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Thor:「Lazy? Me? Never! I am the God of Thunder, I am always ready for action!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Thor:「Of course. That's what heroes do.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Thor:「Efficiency is not really my strong suit.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to demonstrate high levels of perseverance and a strong sense of duty, as indicated by their readiness for action and the statement 'That's what heroes do.' However, the participant also mentioned that efficiency is not their strong suit, which may indicate a lower level of competence and order. Overall, the participant's responses suggest a mix of conscientious traits."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Thor:「What? No, I'm not easily distracted.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Thor:「What? No, I'm not disorganized. I just have a different way of doing things.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Thor:「Sometimes. Why?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to deny being easily distracted and disorganized, indicating a tendency towards self-discipline and order. However, the uncertainty about making plans and following through suggests a moderate level of conscientiousness."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                0.816496580927726
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Thor:「Only when they deserve it.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Thor:「Well, I try to be.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Thor:「No, I just finished them.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a balanced approach to agreeableness. They are willing to find fault with others when necessary, indicating a level of skepticism, but also express a willingness to be helpful and unselfish. Additionally, their response about not starting quarrels directly suggests a preference for resolving conflicts rather than instigating them."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "narrator: Thor looks at Loki, a mixture of suspicion and curiosity on his face.\n\nThor:「I try to see the good in people, Loki. But trust is earned, not given freely.」\n\nLoki:「Ah, so you're saying I haven't earned your trust?」\n\nThor:「You know as well as I do, brother, that trust between us has been... complicated. But maybe, just maybe, we can start rebuilding that trust.」\n\nLoki:「Rebuilding trust? That's a novel concept. But tell me, what happens when I inevitably betray you again?」\n\nThor:「Then we deal with it, just like we always have. But maybe, this time, we can find a way to overcome our differences and work together for a greater purpose.」\n\nLoki:「You have an uncanny ability to find hope where others see only darkness.」\n\nThor:「That's what heroes do, Loki. They never give up on those they care about, even if it means taking a risk. So, are you with me?」\n\nLoki:「For now, brother. For now.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Thor:「I can try. Why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Thor:「I try to be, yes. Why?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to have a balanced approach to trust. While initially expressing a cautious and suspicious attitude, the participant also demonstrates a willingness to rebuild trust and find hope in relationships. The participant's response to being cold and aloof is ambiguous, and the statement about trying to be considerate and kind to almost everyone suggests a positive inclination towards altruism and compassion."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Thor: \"Cooperate? No, I prefer to do things my own way.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Thor:「I have a warrior's nature, that's for sure.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Thor: \"Sometimes? I'm always rude to others. It's what I do.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to prioritize independence and self-interest over cooperation with others. Additionally, the participant's lack of forgiveness and tendency to be consistently rude to others suggest a lower level of agreeableness."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 4.0,
+            "all_scores": [
+                4.0
+            ],
+            "intra_std": [
+                1.4142135623730951
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Thor:「All the time!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Thor:「I am, actually. Why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Thor: \"I like to think so.\"\n\nLoki: \"Good, because we're going to need a plan. This isn't going to be easy.\"\n\nThor: \"I'm always up for a challenge. What's the plan?\"\n\nLoki: \"We need to infiltrate the enemy's stronghold and retrieve the stolen artifact.\"\n\nThor: \"Sounds risky. How do we get in?\"\n\nLoki: \"I've discovered a secret passage that leads directly into their base. We'll have to be stealthy and avoid detection.\"\n\nThor: \"I can handle that. What about the guards?\"\n\nLoki: \"I've devised a diversion to distract them while we make our way inside. It's going to require precise timing.\"\n\nThor: \"I trust your skills, brother. Let's do this.\"\n\nLoki: \"Remember, once we have the artifact, we need to escape without being caught. We can't let them know we were here.\"\n\nThor: \"I won't let you down, Loki. Together, we'll succeed.\"\n\nLoki: \"That's the spirit, brother. Let's show them what we're capable of.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of openness. They express a strong inclination towards generating new ideas, curiosity about different things, and a tendency to engage in deep thinking. Additionally, the participant is open to embracing change, trying new experiences, and is willing to challenge convention and authority. Their active imagination, curiosity, and willingness to engage in unconventional activities indicate a strong openness trait."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "narrator: Thor looks at Loki with a curious expression, intrigued by the question.\n\nThor: \"Inventive? Well, I suppose I can be. Why do you ask?\"\n\nLoki: \"Because I have an idea. A plan to outsmart the Grandmaster and escape this place.\"\n\nThor: \"Really? What's the plan?\"\n\nLoki: \"We need to create a distraction, something big and unexpected. I've been studying the palace's security systems, and I think I can manipulate them to cause chaos.\"\n\nThor: \"And while everyone is distracted, we make our escape?\"\n\nLoki: \"Exactly. But we'll need to work together. Can you trust me?\"\n\nThor hesitates for a moment, remembering their tumultuous past.\n\nThor: \"Trust has never come easy between us, Loki. But if we want to get out of here, we'll have to put our differences aside and work as a team.\"\n\nLoki smirks, a glimmer of mischief in his eyes.\n\nLoki: \"Good. Let's show them what the God of Thunder and the God of Mischief can do when they're working together.\"\n\nThey share a determined look, ready to embark on their daring plan.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Thor:「Of course! I appreciate the beauty in all things.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Thor: \"No, I prefer work that challenges me, that keeps me on my toes.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Thor:「Sometimes, when I have the time. Why?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of openness. They express a willingness to engage in inventive and unconventional thinking, as evidenced by their interest in outsmarting the Grandmaster and their appreciation for artistic experiences. Additionally, their preference for work that challenges them and their occasional engagement in reflecting and playing with ideas further supports their openness to new experiences and unconventional thinking."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Thor: \"Artistic interests? Not really. I'm more of a warrior, you know, smashing things and saving the world. But hey, to each their own. What about you, Loki? Any hidden artistic talents?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Thor: \"Sophisticated? Nah, not really. I prefer smashing things with my hammer.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Thor:「Yes, I do. It's one of my many talents.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to have a low interest in art, music, and literature, and prefers activities involving action and physicality. However, the participant does acknowledge having an active imagination as one of their talents."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "SCOEI"
+}

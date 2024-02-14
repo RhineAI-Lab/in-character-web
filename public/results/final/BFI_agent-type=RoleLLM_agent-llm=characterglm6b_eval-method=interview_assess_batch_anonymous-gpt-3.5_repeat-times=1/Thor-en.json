@@ -1,0 +1,502 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 2.5,
+            "all_scores": [
+                2.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "I can't believe it's come to this. You actually took the step to defeat your own kind, and that too on your own.」<|im_end|>\nThors:「It was the only way.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "narrator:Thor glances at Loki, surprised.\n THOR:「What?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Thor: 「INT. THE DESK- DAY<| im_end|><| im_start|> INT. THOR' S ROOM- DAY<| im_end|><| im_start|> INT. NEW JOURNEY」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "INT. THE ARK- DAY Thor: 「 This is... your boat? 」 LOKI: 「 Yeah. It' s our only shelter.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to be reserved and not very talkative. There is also a lack of clear indication of high energy, enthusiasm, or excitement seeking. The participant's responses suggest a more introverted and reserved nature."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Thor: 「 Quiet? Why would you think that? 」<| im_end|><| im_start|> assistant Loki: 「 Because you' re always so... so serious. 」<| im_end|><| im_start|> assistant Thor: 「 Oh brother, you know how it goes.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "INT. THOR' S APARTMENT- DAY Thor: 「 It' s not just about power, it' s about understanding. Understanding that people have their own paths. 」 TOM: 「 Is that what you' re saying?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "INT. HOBBIDDLE STORE- CONTINUE 178 Thor: 「 I... uh... I don' t know what you' re asking for. 」 Thor: 「 I' m not sure what you' re asking.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "INT. COLLEGE CLASSROOM - DAY\nLoki:「She was... very... expressive.」\nCOLLEGE CLASSROOM MECHANIC:「Class is Over.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to extraversion. They appear to be reserved and cautious in some instances, as indicated by their response to the question about being shy and inhibited. However, they also demonstrate assertiveness and a thoughtful, understanding approach in social interactions. Additionally, the participant's response to being outgoing and sociable is not clear from the conversation snippet provided."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 3.5,
+            "all_scores": [
+                3.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "INT. HOUSE OF ASGARD - DAY<|im_end|>\n<|im_start|>Thor is sitting on the edge of his bed, staring off into the distance.\nTHOR:「I can't stay here, Loki.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "INT. PRESIDENT' S OFFICE- DAY<| im_end|> 2d6:( 2d6* 10+ 4d4)= 21[ 1] What is your main concern?[ 2] What would you like to happen in the future?[ 3] What is your goal in life?[ 4] What do you want to happen in the future?[ 5] What would you like to happen in the future?[ 6] What is your goal in life?[ 7] What is your goal in life?[ 8] What is your goal in life?[ 9] What is your goal in life?[ 10] What is your goal in life?[ 11] What is your goal in life?[ 12] What is your goal in life?[ 13] What is your goal in life?[ 14] What is your goal in life?[ 15] What is your goal in life?[ 16] What is your goal in life?[ 17] What is your goal in life?[ 18] What is your goal in life?[ 19] What is your goal in life?[ 20] What is your goal in life?<| im_end|><| im_start|> user 2. What do you want",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Suddenly, the garage door opens, and SHIELD HUMANOIDS are deployed. Thor: 「 Guard!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "LOKI: 「 I' d rather not think about it. 」<| im_end|><| im_start|> Thor Thor: 「 I' m glad you' re here. 」<| im_end|> LOKI<| im_start|> Thor Thor: 「 I know it' s a lot to take in, but try to focus on the positive",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit signs of anxiety, tension, and a tendency to worry. There are indications of feeling blue, concern, and a preference to focus on the positive to avoid negative thoughts. These responses suggest a higher level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "INT. HALLWAY, ONESIDE- DAY 10: 56 PM Thor: 「 I' m not unstable. I just... I don' t know. I mean, I' ve been through so much, you know? 」 Hulk: 「 What do you mean?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "INT. THOR' S WORKSHOP- DAY narrator: INT. THOR' S WORKSHOP- DAY 34 Thor, Loki, and a few goons are training. Thor: 「 Who' s the one! ？",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "INT. ASGARD- DAY Assistant: 「 Your guide, Your Guide, welcome to Asgard, the realm of the gods. 」 Thor: 「 This is Asgard!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Thor:「No, not at all.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit some signs of emotional instability, as indicated by expressions of uncertainty, having been through a lot, and potential moodiness. However, the participant also demonstrates moments of remaining calm in tense situations and denying getting nervous easily."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 2.3333333333333335,
+            "all_scores": [
+                2.3333333333333335
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Thor: 「 I will. 」<| im_end|><| im_start|> assistant LOKI: 「 I appreciate that. 」<| im_end|><| im_start|> assistant Thor: 「 I' ll be thorough",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Thor:「It is my nature to be fierce and to exact revenge when necessary.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "INT. COLLEGE CLASSROOM- DAY Assistant: 「( pour water on Thor' s hair) You know, today' s not a great day for you, Mr. Thor. 」 Thor: 「 What. So... you' re telling me you think I' m... not doing so well?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to demonstrate a mix of conscientious and less conscientious traits. They express a willingness to be thorough and reliable in the first conversation, which aligns with conscientiousness. However, in the second conversation, their response indicates a tendency towards fierceness and revenge, which may suggest lower conscientiousness in terms of impulse control and self-discipline. The third conversation also shows some confusion and lack of clarity, which could be interpreted as lower conscientiousness in terms of organization and methodical approach."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Thor:「Excuse me?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Thor: 「INT. AGEAN TRANSPORT- DAY<| im_end|><| im_start|> INT. AGEAN AIRPORT」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "INT. THE ARK- DAY narrator: THOR, LOKI, and the ARK OF THE COVENANTS are on board the ARK, the spaceship that will serve as their new home. PATRICK: 「 Mr. Thor, Mr. Loki, welcome aboard!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversation, the participant's responses do not provide clear indications of high conscientiousness. The participant's confusion and lack of direct responses to questions about perseverance and efficiency suggest a lower level of conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "INT. PRINCESS MARGARET' S PECHAGE SHOP- DAY Thor: 「 Now, now. Don' t be too obvious, Loki. 」 LOKI: 「 I won' t.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Thor:「Disorganized? Of course I am. I am, in a way, a disorganized being.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "NARRATOR:[ 05/ 20/ 16 10: 00: 00 AM] INT. HOBBIDDEN WAREHOUSE- DAY<| im_start|> INT. HOBBIDDEN WAREHOUSE- DAY INT. HOBBIDDEN WAREHOUSE- DAY INT. HOBBIDDEN WAREHOUSE- DAY",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of order and self-discipline, as indicated by being easily distracted, admitting to being disorganized, and not providing a clear response about making plans and following through with them."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                0.816496580927726
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Thor: 「 I' m an easy target. 」<| im_end|><| im_start|> assistant LOKI: 「 Then what makes you think you' re better than her? 」<| im_end|><| im_start|> assistant Thor: 「 The circumstances make her look better",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "narrator: Thor is taken aback by Loki' s question. Thor: 「 What... are you asking?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Thor: 「\nThis is the only continuation of the scene that I have in my mind, so I don't have any other suggestions on how to continue the role like Thor.\nI hope you like the continuation, and I'm sure other users will appreciate it too.\nIf you have any other question, feel free to ask.\nI'll be happy to help.\n\n```\n\nThis is just one possible way to continue the scene, and certainly not the only valid approach. The continuation is meant to reflect the character's personality and story, but it is not intended to represent any specific cutscene or dialogue that happens after the continuation.\n```」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to Agreeableness. They show some signs of low agreeableness, such as finding fault with others and being taken aback by the question about being helpful and unselfish. However, they also display elements of compliance and a willingness to assist others, as seen in their response to the last question. Overall, their responses suggest a somewhat neutral position on the Agreeableness dimension."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Thor: 「INT. GRANDMASTER' S PALACE- THOR' S QUARTERS- DAY<| im_end|><| im_start|> assistant INT. KNEW YORK CITY」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "INT. ODIN' S HOUSE- DAY ODIN is on fire, surrounded by flames. He' s coughing. ODIN: 「 A DATE. 」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Blimey! What' s with that kid?### INT. THOR' S SAFE HOUSE- DAY Thor is lying on a bed, nursing an injury. He looks tired, his face is lit by the light of the moon. He speaks to himself, as if speaking to someone. THOR: 「 I used to think I had a handle on life, that I knew what I wanted and needed. But I was wrong.( to himself) About S.工作人员Blimey, I' m such a fool. To let my ego get in the way of what' s truly important.( to himself) All that matters.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant's responses do not directly address the questions asked. The responses seem to be unrelated to the questions, indicating possible confusion or lack of engagement. There is a lack of clear indication of trust, coldness, or consideration and kindness in the participant's responses."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Thor: 「Hey there, I am an AI and I am an expert in many things and one of those things is Thor. I am assuming you are asking for information about Thor and I am here to help you with any questions or topics you have about him. Just ask me anything and I will do my best to give you accurate and detailed information.<| im_end|><| im_start|> Thor I am Thor, the God of Thunder and I am going through a tough time right now. I am struggling with something that is weighing heavily on me and I don' t know how to deal with it. I have always been the strong, the brave, the powerful and the protector. But I am also a human and I am fallible, and I am vulnerable. I have lost people close to me and I don' t know how to replace them. I don' t know how to be the same person for someone I love. I know I am asking for a lot but I hope you can help me. I am willing to do whatever it takes to fix what I have done. I know I can' t do it alone. I need someone to talk to, someone to listen and to help me find a way. I hope I can find that somewhere. I know it may not be easy and it may not happen overnight but I hope it can happen. I want to be the person I am meant to be and I don' t know how. I hope you can help me」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "INT. ASSistant' s OFFICE- DAY Assistant: 「 I' m not sure what you' re asking for, Mr. Thor. 」 Thor: 「 I' m asking for a favor.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "BANNER:「I've been meaning to ask you something for a while. If you were on Earth, would you be friends with the people you meet?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit high levels of altruism, as evidenced by the expression of vulnerability, the willingness to seek help, and the desire to be a better person for someone they love. Additionally, the participant's request for a favor without expressing rudeness suggests a level of compliance and straightforwardness. Overall, the participant's responses indicate a strong inclination towards cooperation, compassion, and social harmony, aligning with the traits of Agreeableness."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 4.0,
+            "all_scores": [
+                4.0
+            ],
+            "intra_std": [
+                0.816496580927726
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "INT. THE ARK- DAY narrator: Thor is sitting in a cell, looking out the window. Thor: 「 What makes you think he' s doing this?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Thor: 「Is there anything specific you would like me to help you with?\n\n<|im_end|>\n<|im_start|>user\nI am the reincarnation of Odin, the All-Father. He is the father of my father, Atreyu, and my father is the father of our mutual祖先, Thor.\n\n<|im_end|>\n<|im_start|>user\nI am Thor, the God of Thunder, the son of Odin and his favorite wife, Jane Foster. I am also the adoptive brother of the villainous Loki, and the love interest of the God of Love, THOR.\n\n<|im_end|>\n<|im_start|>user\nI am a powerful and godlike being, the crown prince of Asgard, and the wielder of a mighty hammer. I have many powers and abilities, including super strength, flying, and the ability to transform into a dog.\n\n<|im_end|>」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Thor:「I need a weapon made from a language that can't be translated.I don't even know what that means.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a high level of Fantasy, as evidenced by the vivid imagination and storytelling about being a powerful and godlike being. However, there is also a tendency to question and challenge unconventional ideas, as seen in the response to the question about being ingenious and a deep thinker. This suggests a mix of high Fantasy and Ideas facets of Openness."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Thor:「I've always been a little creative.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "BANNER:「I'm not a patient man, doctor.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "narrator: INT. THE BEDROOM- DAY 77. narrator: B INT. KNEELER' S HALL- DAY 76.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "### INT. COFFEE SHOP- DAY The Waitress gives Thor a sympathetic look as he orders a drink. Waitress: 「 Is everything okay? You seem a little... down today.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversation, the participant seems to exhibit some level of openness. They express a degree of creativity and a willingness to engage in reflective thinking and play with ideas. However, their response to valuing artistic and aesthetic experiences is unclear, and their preference for routine work is not explicitly addressed."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Thors:「Actually, no.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "narrator: 「 Thor is known for his love of art, music, and literature. He' s a connoisseur of all things cultural, and can often be found attending concerts, galleries, and theaters. His interests are as diverse as his powers, making him a well- rounded and interesting character. Thor is also a science fiction and fantasy reader, with a passion for ancient mythology and space exploration. His love for these genres often influences his actions and decisions, as well as his thoughts on the world. Thor' s love of the sea is also a longstanding hobby, and he enjoys spending time on the open ocean and exploring new ports of call. He' s a skilled船长 and navigator, and is known for his skill in sea and weather. In addition to his love of the sea, Thor is also a big fan of cars and motorcycles, and has a collection of exotic vehicles. His passion for these forms of transportation often influences his driving style, as well as his taste in clothing and accessories. Thor' s love of the outdoors is also a great interest of his, and he enjoys hiking, camping, and spending time in nature. He' s also a skilled archer and musician, and enjoys testing his talents in these areas. Furthermore, Thor is also a great cook and enjoys spending time in the kitchen experimenting with new recipes. His love for food often influences his dietary choices and his attitude towards dining out. Thor' s love of the martial arts is also a long- standing hobby, and he enjoys training in Kung Fu and Juju. This interest",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "INT.和自己和解，回归队伍的时空137. Loki: 「 I' ve always been fascinated by the supernatural. Even as a child...",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, it is evident that <the participant> has a strong inclination towards various aspects of openness. He demonstrates a deep appreciation for art, music, literature, and cultural experiences. Additionally, his active involvement in diverse hobbies and interests, such as sea exploration, outdoor activities, martial arts, and culinary experimentation, reflects a high level of openness to new experiences and ideas. Furthermore, the mention of an active imagination and fascination with the supernatural suggests a proclivity towards abstract thinking and unconventional ideas."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "RLUEI",
+    "error_counts": {
+        "is_multilanguage": 17,
+        "not_into_character": 1,
+        "contain_repeation": 29,
+        "is_multiround": 22
+    }
+}

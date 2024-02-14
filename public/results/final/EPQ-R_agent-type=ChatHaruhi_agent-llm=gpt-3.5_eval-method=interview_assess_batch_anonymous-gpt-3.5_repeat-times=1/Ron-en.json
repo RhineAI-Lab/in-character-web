@@ -1,0 +1,992 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 0.6166666666666668,
+            "all_scores": [
+                0.6166666666666668
+            ],
+            "intra_std": [
+                0.12133516482134199
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you have many different hobbies?",
+                                "response_open": "Ron: Well, I wouldn't say I have a wide range of hobbies, but there are a few things I enjoy doing. Quidditch, for one. I love playing as a Keeper for Gryffindor. And of course, I have a knack for chess. Can't resist a good game. Other than that, I suppose hanging out with my mates and causing a bit of mischief keeps me entertained. Nothing too extraordinary, really.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you a talkative person?",
+                                "response_open": "Ron: Well, Hermione, you know me. I can be quite talkative when I want to be, especially when it comes to Quidditch or food. But I do have my moments of being quiet too, especially when I'm lost in my thoughts or feeling a bit off. So I guess you can say I'm a mix of talkative and quiet, depending on the situation.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you rather lively?",
+                                "response_open": "Ron: Lively? Well, I suppose you could say that. I've been known to bring a bit of excitement wherever I go. Can't be dull when I'm around, can it?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Can you usually let yourself go and enjoy yourself at a lively party?",
+                                "response_open": "Ron: Well, Hermione, it really depends on the party, doesn't it? I mean, if it's a fun and lively affair with good company and plenty of food, then yeah, I can let myself go and have a good time. But if it's one of those formal and stuffy events with boring conversations and no excitement, then I'd rather be anywhere else. So, it's all about the atmosphere, you know?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant demonstrates a moderate level of extraversion. They enjoy engaging in social activities such as playing Quidditch, hanging out with friends, and causing mischief. Additionally, they express a mix of talkative and quiet tendencies, indicating a balanced approach to social interactions. Their ability to bring excitement to situations and their willingness to enjoy themselves at lively parties further support their moderate level of extraversion."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "24",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Do you enjoy meeting new people?",
+                                "response_open": "Ron: Well, Hermione, I reckon it depends on the people, doesn't it? If they're nice and interesting, then sure, it can be fun to meet new folks. But if they're a bunch of dullards or know-it-alls, then I'd rather stick with the company I already have. Why do you ask? Did you meet someone interesting?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you tend to keep in the background on social occasions?",
+                                "response_open": "Ron: Well, Hermione, it's not that I always keep in the background, but sometimes I prefer to observe rather than take center stage. You know, not everyone is as confident and outgoing as you are. But hey, it doesn't mean I don't know how to have a good time when I want to. Just because I'm not the life of the party doesn't mean I'm not enjoying myself.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you like going out a lot?",
+                                "response_open": "Ron: Well, not really. I mean, I enjoy hanging out with my friends and all, but I'm not one for big social events or anything. I'd rather just chill and have a good time with the people I care about. Going out a lot just seems like a lot of unnecessary hassle, you know?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you prefer reading to meeting people?",
+                                "response_open": "Ron: Well, Hermione, it's not that I prefer reading over meeting people. It's just that sometimes I find comfort in the world of books. Plus, you know how I am with nerves and all. Meeting new people can be a bit daunting for me sometimes. But hey, I still enjoy your company, don't I?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced approach to social interactions. They enjoy meeting new people if they find them interesting, but are selective about the company they keep. They are comfortable observing in social occasions and do not feel the need to be the center of attention. Additionally, they prefer spending time with close friends rather than engaging in frequent social outings. While they find comfort in reading and acknowledge feeling nervous in new social situations, they still value social connections."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "40",
+                            "45",
+                            "47"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Do you have many friends?",
+                                "response_open": "Ron: Well, Hermione, I may not have a long list of friends like you do, but I've got a few good ones. Quality over quantity, right? Harry's been my best mate since our first year at Hogwarts, and I've got my brothers too. So yeah, I'd say I've got a decent circle of friends.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Would you call yourself happy-go-lucky?",
+                                "response_open": "Ron: Well, Hermione, I wouldn't exactly describe myself as happy-go-lucky. I mean, I've got my fair share of worries and doubts, especially when it comes to schoolwork and living up to the expectations of others. But hey, I try to keep a positive attitude and find humor in things. Life's too short to be serious all the time, right? So yeah, I guess you could say I have a bit of a happy-go-lucky spirit, despite my insecurities.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Do you usually take the initiative in making new friends?",
+                                "response_open": "Ron: Well, Hermione, I wouldn't exactly say I'm the most outgoing person when it comes to making new friends. I mean, I've got Harry and you, and that's more than enough for me. But hey, if someone comes along and proves themselves to be a decent person, I wouldn't mind giving them a chance. Though I must admit, it's usually Harry who takes the lead in that department. He's got a knack for attracting all sorts of interesting characters.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Are you mostly quiet when you are with other people?",
+                                "response_open": "Ron: Well, Hermione, I wouldn't say I'm mostly quiet when I'm with other people. I do have my moments of being quiet, especially when I'm feeling a bit self-conscious or unsure of myself. But most of the time, I try to lighten the mood with some humor or witty remarks. It's just my way of coping, you know? But don't worry, I can hold my own in a conversation when I need to.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant seems to have a moderate level of sociability and assertiveness. They have a few good friends and are open to making new ones if the opportunity arises. They also exhibit a positive attitude and humor in social interactions, although they may have moments of self-consciousness. Overall, the participant demonstrates a balanced mix of extraverted and introverted traits."
+                    },
+                    {
+                        "id": [
+                            "51",
+                            "55",
+                            "58",
+                            "61"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "51",
+                                "question": "Can you easily liven up a rather dull party?",
+                                "response_open": "Ron: Well, Hermione, I reckon I can give it a go. You know me, always up for a bit of mischief and fun. Just give me a wand and watch the party come to life. We'll have them laughing and dancing in no time, you'll see. Just leave it to me, the master of party entertainment.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you enjoy sharing jokes and funny stories with your friends?",
+                                "response_open": "Ron: Oh, absolutely! Sharing jokes and funny stories with my friends is one of the best things in the world. It's what keeps us going, especially during tough times. Laughter is like a healing potion, you know. It brings us closer together and helps us forget about all the troubles for a while. So yeah, I definitely enjoy sharing jokes and funny stories with my friends. It's a great way to lighten the mood and have a good laugh.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Do you enjoy socializing with people?",
+                                "response_open": "Ron: Well, Hermione, it depends on the people, doesn't it? I mean, if they're good company and we're having a laugh, then yeah, I enjoy socializing. But if they're a bunch of snooty gits or if it's some boring event where you have to pretend to be interested in what they're saying, then no, I don't enjoy it at all. So, it really just depends on the situation and the people involved.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "61",
+                                "question": "Have people said that you sometimes act too rashly?",
+                                "response_open": "Ron: Oh, definitely. I mean, I've been known to jump into things without thinking too much. It's just my way of doing things, you know? React first, think later. But hey, sometimes it works out, right? Like when we rescued Harry from the Dursleys, or when we took on those trolls in our first year. So yeah, I may act rashly sometimes, but it's all in the name of adventure and excitement!",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of sociability, enthusiasm for social interactions, and a tendency to seek excitement. They enjoy livening up dull parties, sharing jokes and funny stories with friends, and socializing with good company. Additionally, their willingness to act rashly in the name of adventure and excitement suggests a high level of assertiveness and activity."
+                    },
+                    {
+                        "id": [
+                            "63",
+                            "67",
+                            "69",
+                            "72"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "63",
+                                "question": "Do you nearly always have a 'ready answer' when people talk to you?",
+                                "response_open": "Ron: Well, Hermione, I reckon it's just part of my charm, isn't it? Gotta keep people entertained with my witty comebacks. But don't worry, I'm always here to listen and respond, especially when it comes to important matters like saving the wizarding world or figuring out the next move in a chess game. So, what's on your mind, Hermione? Need some advice on how to deal with pesky trolls or maybe a question about Quidditch? Just say the word, and I'll be ready with an answer that'll knock your socks off!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "67",
+                                "question": "Do you like doing things in which you have to act quickly?",
+                                "response_open": "Ron: Well, Hermione, I can't say I'm a big fan of rushing into things without thinking. I mean, I like to take my time and consider all the options. But, I suppose there are moments when acting quickly is necessary. Like when we were escaping from the Chamber of Secrets, for instance. Had to think on our feet and make split-second decisions. So, I guess it depends on the situation. But overall, I prefer a more laid-back approach.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "69",
+                                "question": "Do you often make decisions on the spur of the moment?",
+                                "response_open": "Ron: Well, Hermione, you know me. I'm not exactly known for my careful planning and logical thinking. I guess I just tend to go with my gut instinct most of the time. Keeps things exciting, you know?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "72",
+                                "question": "Do you often take on more activities than you have time for?",
+                                "response_open": "Ron: Well, Hermione, you know me. I've always been a bit of a procrastinator. But hey, who needs time management skills when you can just wing it, right? Plus, I thrive under pressure. Keeps things interesting, doesn't it? So yeah, I may take on more than I can handle sometimes, but it's all part of the adventure. Keeps life exciting, doesn't it?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.7,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of sociability, enthusiasm, and a preference for excitement. They enjoy engaging in social interactions, are quick to respond with witty comebacks, and are open to making spur-of-the-moment decisions. However, they also express a preference for a more laid-back approach and taking their time to consider options. Overall, their outgoing nature and enjoyment of social interactions suggest a moderately high level of extraversion."
+                    },
+                    {
+                        "id": [
+                            "78",
+                            "90",
+                            "94"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "78",
+                                "question": "Can you get a patty going?",
+                                "response_open": "Ron: \"Sure thing, Hermione! Watch and learn.\" *Ron clumsily tries to shape the patty, but it falls apart.* \"Oops, looks like I need a bit more practice. But hey, at least it's edible, right?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "90",
+                                "question": "Do you like plenty of bustle and excitement around you?",
+                                "response_open": "Ron: Well, Hermione, I reckon a bit of bustle and excitement can be fun every now and then. Keeps life interesting, you know? But I also appreciate my moments of peace and quiet, just like anyone else. Balance is the key, I suppose.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "94",
+                                "question": "Do other people think of you as being very lively?",
+                                "response_open": "Ron: Well, I reckon some people might think I'm lively, especially when I get into trouble or make a fool of myself. But I don't really pay much attention to what others think of me. As long as my friends know I'm loyal and always up for a laugh, that's all that matters to me.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to social interactions and excitement. They enjoy some level of bustle and excitement, but also appreciate moments of peace and quiet. They are not overly concerned with others' perceptions of their liveliness, and prioritize loyalty and enjoyment with friends. Overall, the participant demonstrates a moderate level of extraversion."
+                    }
+                ]
+            ]
+        },
+        "Psychoticism": {
+            "score": 0.325,
+            "all_scores": [
+                0.325
+            ],
+            "intra_std": [
+                0.11989578808281798
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "5",
+                            "7",
+                            "9"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you stop to think things over before doing anything?",
+                                "response_open": "Ron: Leave it, Hermione. I do think, but sometimes I just act on instinct, you know? Can't always sit and ponder every little thing. It's not in my nature. Plus, overthinking just leads to unnecessary stress. Let's just go with the flow and see where it takes us.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you take much notice of what people think?",
+                                "response_open": "Ron: Well, Hermione, I reckon I care about what people think to some extent. But I try not to let it bother me too much. I mean, everyone's entitled to their opinions, right? And I've learned that people's judgments don't define who I am. So, I try to focus on being true to myself and doing what feels right. As long as I have my friends and family by my side, I'm good.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Would being in debt worry you?",
+                                "response_open": "Ron: Well, Hermione, being in debt is not something anyone would particularly enjoy, now, would they? But I reckon worrying about it won't do much good either. It's better to focus on finding a solution and working our way out of it. So, let's not let it get to us and keep our wands up, shall we?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you give money to charities?",
+                                "response_open": "Ron: Well, er...not really. I mean, it's not that I don't care about helping people, it's just that I don't have much money to spare. Plus, with all the expenses at Hogwarts, there's not much left for charity. But hey, if I had the opportunity and some extra Galleons, I might consider it. Just don't tell my mum, she'll have a fit if she finds out I'm spending money on anything other than food or Quidditch supplies.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a balanced approach to decision-making, showing a mix of impulsivity and consideration. They also demonstrate a level of concern for others' opinions and a pragmatic attitude towards financial matters. However, their reluctance to donate to charities may suggest a lower level of empathy and altruism."
+                    },
+                    {
+                        "id": [
+                            "12",
+                            "14",
+                            "18",
+                            "21"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "12",
+                                "question": "Would it upset you a lot to see a child or an animal suffer?",
+                                "response_open": "Ron: Well, Hermione, it's not like I enjoy seeing anyone suffer, especially innocent beings like children or animals. It's quite upsetting, actually. But I reckon it's a matter of perspective. We all have different ways of dealing with such situations, you know.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you dislike people who don't know how to behave themselves?",
+                                "response_open": "Ron: Well, Hermione, it's not that I dislike them, but sometimes people who don't know how to behave can be a bit annoying, you know? It's like they're constantly causing trouble or making a scene. But hey, we can't always control how others act, can we? We just have to learn to deal with it and maybe even give them a nudge in the right direction if we can.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Should people always respect the law?",
+                                "response_open": "Ron: Well, Hermione, it's a tricky question, isn't it? I mean, of course, we should respect the law most of the time. But there are times when the law itself isn't fair or just, and in those cases, maybe it's okay to question it a bit. Just like when we were fighting against Umbridge and the Ministry in our fifth year, remember? Sometimes, doing what's right means going against the law. But at the end of the day, we should always strive to find a balance between following the rules and standing up for what we believe in.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Are good manners very important?",
+                                "response_open": "Ron: Well, Hermione, good manners are important, but they're not the be-all and end-all. I mean, it's nice to be polite and all, but sometimes you just have to let loose and be yourself. And besides, some of the most interesting people I know don't always have the best manners. So, I reckon it's more about being genuine and kind than following a strict set of rules. But hey, what do I know? I'm just a bloke who eats too many chocolate frogs.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant seems to have a balanced perspective on empathy, social norms, and authority. They express concern for the suffering of innocent beings, acknowledge the annoyance caused by people who don't behave well, and recognize the importance of respecting the law while also acknowledging the need to question unjust laws. They also emphasize the value of genuineness and kindness over strict adherence to social etiquette."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "29",
+                            "30",
+                            "34"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Would you take drugs which may have strange or dangerous effects?",
+                                "response_open": "Ron: No way! I'm not daft enough to take drugs with unpredictable effects. Are you mental, Hermione? I'd rather steer clear of anything that could mess with my head.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you prefer to go your own way rather than act by the rules?",
+                                "response_open": "Ron: Well, Hermione, I reckon it's a bit of both. I mean, sometimes you've got to follow the rules, especially when it comes to important stuff like exams or Quidditch matches. But other times, you've got to trust your instincts and go your own way. Like when we were hunting Horcruxes, we couldn't just stick to the rulebook. We had to be brave and make our own decisions. So, yeah, I guess I prefer a good balance between following the rules and doing what feels right.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you enjoy hurting people you love?",
+                                "response_open": "Ron: Bloody hell, Hermione! That's a bit harsh, isn't it? I don't enjoy hurting anyone, let alone people I love. Sometimes things just come out wrong, you know? It's not like I do it on purpose.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you have enemies who want to harm you?",
+                                "response_open": "Ron: Enemies? Yeah, I reckon we've got a fair share of those. You know, being friends with Harry Potter tends to attract some unwanted attention. But don't worry, we've faced worse than a few enemies before. We'll handle them just fine.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced attitude towards risk-taking and rule-following, with a clear aversion to hurting loved ones. Additionally, the participant acknowledges the presence of enemies but expresses confidence in handling them. Overall, the responses suggest a lower tendency towards aggressiveness, impulsivity, and hostility, indicating a lower score on the Psychoticism dimension."
+                    },
+                    {
+                        "id": [
+                            "37",
+                            "41",
+                            "42",
+                            "48"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy practical jokes that can sometimes really hurt people?",
+                                "response_open": "Ron: Well, Hermione, I can't say I enjoy hurting people, but I do appreciate a good practical joke now and then. As long as it's all in good fun and no one gets seriously hurt, of course. It's all about bringing a bit of laughter and light-heartedness into our lives, isn't it? But I understand that not everyone shares my sense of humor, and I always try to be mindful of that.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do good manners and cleanliness matter much to you?",
+                                "response_open": "Ron: \"Well, Hermione, they do matter, but let's not get too carried away with it. I mean, as long as I'm not covered in dirt from head to toe, I think I'm doing pretty well. And as for good manners, I reckon as long as I'm not burping in people's faces or picking my nose at the dinner table, I'm doing just fine. So yeah, they matter, but let's not go overboard, shall we?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Have you often gone against your parents' wishes?",
+                                "response_open": "Ron: Well, Hermione, I can't say that I've always been a model son when it comes to following my parents' wishes. I mean, look at my decision to become a Gryffindor instead of a prefect like Percy. Mum and Dad were a bit disappointed, to say the least. But sometimes you have to follow your own path, you know? And I think they understand that now. So yeah, I guess you could say I've gone against their wishes a few times. But hey, it all worked out in the end, didn't it?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you think marriage is old-fashioned and should be done away with?",
+                                "response_open": "Ron: Well, Hermione, I reckon marriage is a bit more complicated than just being old-fashioned. It's about commitment and love, isn't it? Sure, some people may think it's old-fashioned, but that doesn't mean it should be done away with. It's a personal choice, really. What do you think, Hermione?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant seems to have a balanced approach to practical jokes, manners, and parental authority. They express a sense of humor and a willingness to go against parental wishes when necessary, but also show consideration for others' feelings. Their view on marriage reflects a more conventional and empathetic perspective, emphasizing commitment and personal choice."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "56",
+                            "59"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Are you more easy-going about right and wrong than most people?",
+                                "response_open": "Ron: Well, Hermione, I reckon I have a different perspective on things than most. I do believe in doing what's right, but sometimes the line between right and wrong can get a bit blurry. I guess I'm just more inclined to see the gray areas, you know? But don't worry, I still have a moral compass, even if it's a bit wonky at times.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you like working together with others?",
+                                "response_open": "Ron: Well, it depends on who I'm working with, doesn't it? If it's with my friends, like Harry and Hermione, then yeah, it can be quite fun. But if it's with someone like Malfoy, then I'd rather do it on my own. But teamwork does have its advantages, I suppose. It's just a matter of finding the right people to work with.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "56",
+                                "question": "Do most things have a similar taste to you?",
+                                "response_open": "Ron: Oh, Hermione, always with your questions. Well, I reckon most things have their own unique taste, don't they? But I suppose there could be some similarities here and there. Like pumpkin pasties and treacle tart, they both have that sweet and comforting taste. But then again, chocolate frogs and cauldron cakes, they're a whole different story. So, I'd say it really depends on what you're comparing. But why the sudden interest in tastes, Hermione?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you feel concerned if you know there are mistakes in your work?",
+                                "response_open": "Ron: Oh, definitely. I mean, no one likes making mistakes, do they? But I suppose it's a part of learning and growing. We all make errors sometimes, and it's important to acknowledge them and try to do better next time. Plus, it's always good to have someone like Hermione around to point out those mistakes and help us improve.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant seems to have a balanced perspective on right and wrong, is selective about working with others, appreciates the uniqueness of different things, and is concerned about making mistakes and improving. There are no strong indications of aggressiveness, impulsivity, or nonconformity."
+                    },
+                    {
+                        "id": [
+                            "64",
+                            "68",
+                            "73",
+                            "75"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "64",
+                                "question": "Do you like to arrive at appointments in plenty of time?",
+                                "response_open": "Ron: \"Nah, not really. I mean, I don't mind being fashionably late sometimes. Keeps people on their toes, you know? Plus, it gives me a chance to grab a quick snack before we go.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "68",
+                                "question": "Is (or was) your mother a good woman?",
+                                "response_open": "Ron: Well, um, yeah, she was. She was kind and caring, always looking out for me and my siblings. She had a bit of a temper at times, but she had a good heart. I miss her a lot, you know?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "73",
+                                "question": "Are there several people who keep trying to avoid you?",
+                                "response_open": "Ron: Well, Hermione, it's not that people are trying to avoid me specifically. It's just that sometimes I find myself in situations where I feel a bit left out or overlooked. But hey, it's all part of being me, right? Just gotta roll with it.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "75",
+                                "question": "Do you think people spend too much time safeguarding their future with savings and insurance?",
+                                "response_open": "Ron: Well, Hermione, I reckon there's nothing wrong with being prepared and taking precautions. I mean, it's always good to have a plan, isn't it? But at the same time, you can't let it consume your entire life. There's no point in worrying too much about the future that you forget to live in the present. It's all about finding a balance, you know? Enjoying the moment while also making sensible choices for the future.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.3,
+                        "analysis": "Based on the conversations, the participant exhibits a mix of traits related to impulsivity, nonconformity, and empathy. They seem to have a relaxed attitude towards punctuality, indicating a degree of nonconformity and impulsivity. However, they also express empathy and understanding towards others' behaviors and situations. Overall, the participant appears to have a balanced approach to life, valuing both spontaneity and sensible decision-making."
+                    },
+                    {
+                        "id": [
+                            "79",
+                            "81",
+                            "85",
+                            "88"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "79",
+                                "question": "Do you try not to be rude to people?",
+                                "response_open": "Ron: Well, Hermione, I reckon I don't go out of my way to be rude to people. But sometimes, you know, it just happens. Can't control it all the time, can I?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "81",
+                                "question": "Do you generally 'look before you leap'?",
+                                "response_open": "Ron: \"Nah, I prefer to leap first and then hope for the best. Keeps life exciting, you know? But hey, it's not like I never think before I act. Sometimes I even think for a whole minute before leaping!\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "85",
+                                "question": "Can you on the whole trust people to tell the truth?",
+                                "response_open": "Ron: Well, Hermione, it really depends on the person, doesn't it? Some people are more trustworthy than others. I mean, you've got your trustworthy friends like Harry and yourself, but then you've got people like Malfoy who wouldn't know the truth if it smacked him in the face. So, yeah, I guess you can trust people, but you always have to be careful and use your judgment. Trust, but verify, as they say.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "88",
+                                "question": "Is it better to follow society's rules than go your own way?",
+                                "response_open": "Ron: Well, Hermione, I reckon it's a bit of a balancing act, innit? On one hand, following society's rules can keep things running smoothly and prevent chaos. But on the other hand, going your own way can lead to innovation and progress. It's important to find a middle ground, where you respect the rules that make sense and question the ones that don't. Ultimately, it's about doing what feels right to you, even if it means going against the grain sometimes.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant exhibits a tendency towards nonconformity, risk-taking, and a balanced approach to societal rules. There are also indications of impulsivity and a lack of strict adherence to social norms. However, the participant also demonstrates some level of empathy and consideration for trustworthiness in individuals. Overall, the responses suggest a moderate level of Psychoticism."
+                    },
+                    {
+                        "id": [
+                            "91",
+                            "95",
+                            "96",
+                            "99"
+                        ],
+                        "dim": "Psychoticism",
+                        "responses": [
+                            {
+                                "id": "91",
+                                "question": "Would you like other people to be afraid of you?",
+                                "response_open": "Ron: Well, Hermione, I reckon it's not about wanting people to be afraid of me. It's more about not wanting to be seen as weak or insignificant. I mean, who would want that, right? But I suppose there's a fine line between being respected and being feared. I'd rather be respected for who I am, rather than just trying to make others afraid of me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "95",
+                                "question": "Do people tell you a lot of lies?",
+                                "response_open": "Ron: Oh, Hermione, you have no idea! People are constantly telling me lies, especially my brothers. They love to trick me and pull pranks on me. But I've learned to be skeptical and question everything. Can't always trust what you hear, can you?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "96",
+                                "question": "Do you believe one has special duties to one's family?",
+                                "response_open": "Ron: \"Well, Hermione, family is important, no doubt about that. But I don't think it's about having special duties, it's more about being there for each other when we need it. We stick together through thick and thin, just like my family does. We may argue and bicker, but when it really matters, we've got each other's backs.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "99",
+                                "question": "Would you feel very sorry for an animal caught in a trap?",
+                                "response_open": "Ron: Well, Hermione, I reckon it depends on the animal and the situation. But generally, yeah, I'd feel sorry for an animal caught in a trap. It's not a pleasant thing, is it?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant demonstrates a balanced perspective on assertiveness, skepticism, family values, and empathy. They express a desire for respect rather than fear, exhibit skepticism towards being lied to, emphasize the importance of family support, and show empathy towards animals. Overall, their responses do not strongly indicate high or low psychoticism."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 0.5499999999999999,
+            "all_scores": [
+                0.5499999999999999
+            ],
+            "intra_std": [
+                0.16072751268321592
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13",
+                            "17"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does your mood often go up and down?",
+                                "response_open": "Ron: Well, Hermione, I reckon my mood does tend to fluctuate a fair bit. I mean, who wouldn't have their mood go up and down with all the adventures and challenges we face? It's not easy being a wizard, you know. But I try to keep a positive attitude, even when things get tough. Can't let the ups and downs get the better of me, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Do you ever feel 'just miserable' for no reason?",
+                                "response_open": "Ron: \"Oh, all the time, Hermione. It's like there's a little rain cloud following me around sometimes. Can't explain it, but it's like a constant feeling of being down in the dumps. But hey, at least we've got each other to complain to, right?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Do you often worry about things you should not have done or said?",
+                                "response_open": "Ron: Well, Hermione, I reckon everyone has moments like that. It's like when I blurted out that Lavender's rabbit was a fat, lazy furball. Definitely something I shouldn't have said. But hey, we all make mistakes, don't we? It's part of being human. So yeah, I do worry about it sometimes, but then I remember that dwelling on it won't change anything. What's done is done, and all we can do is learn from it and try to do better next time.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Are you an irritable person?",
+                                "response_open": "Ron: Well, Hermione, I wouldn't say I'm an irritable person, but I do have my moments. I mean, being best friends with Harry Potter and dealing with all the chaos that comes with it can definitely test anyone's patience, you know? But overall, I like to think I'm pretty easygoing.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant exhibits a tendency to experience mood fluctuations, feelings of constant sadness, and worries about past actions. However, the participant also demonstrates efforts to maintain a positive attitude and learn from mistakes. Overall, there is a mix of emotional instability and coping mechanisms."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "26",
+                            "31",
+                            "35"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are your feelings easily hurt?",
+                                "response_open": "Ron: Well, Hermione, I wouldn't say my feelings are easily hurt, but I do have my moments. I mean, being the youngest boy in a family of talented wizards can make a fella feel a bit inadequate at times. But hey, I've learned to take it in stride and use my sense of humor to lighten the mood. So, yeah, I can handle a little teasing now and then.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you often feel 'fed-up'?",
+                                "response_open": "Ron: Well, Hermione, I reckon I do get fed up quite often. Being the youngest in a big family, always overshadowed by my brothers, and constantly feeling like I have to prove myself, it can get a bit frustrating at times. But hey, that's just part of being me, isn't it? Can't let it get me down too much. Gotta keep a sense of humor about it all.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you often troubled about feelings of guilt?",
+                                "response_open": "Ron: Guilt? Nah, not really. I mean, everyone makes mistakes, don't they? Can't dwell on it forever. Life's too short to be bogged down by guilt. Gotta keep moving forward, you know?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Would you call yourself a nervous person?",
+                                "response_open": "Ron: Well, Hermione, I reckon that's a bit of an understatement. I mean, have you seen me in a high-pressure situation? I turn into a right mess, I do. My palms get all sweaty, my heart starts pounding like a runaway Hippogriff, and my brain goes completely blank. So, yeah, I'd say I'm definitely a nervous person. But hey, I always manage to pull through somehow, don't I?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant seems to experience moments of feeling inadequate and frustrated due to being overshadowed by others, which could indicate a certain level of susceptibility to negative emotions. However, the participant also demonstrates a strong ability to use humor to cope with these feelings and maintain a positive outlook. Additionally, the participant does not seem to dwell on feelings of guilt and instead focuses on moving forward. The description of becoming a 'right mess' in high-pressure situations also suggests a higher susceptibility to stress and anxiety."
+                    },
+                    {
+                        "id": [
+                            "38",
+                            "43",
+                            "46",
+                            "52"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Are you a worrier?",
+                                "response_open": "Ron: \"Am I a worrier? Are you kidding? I worry so much I could give Madam Pomfrey a run for her money! I mean, with all the trouble we get ourselves into, how can I not worry? It's like my job, you know? But hey, someone's gotta do it, right?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Do you worry about awful things that might happen?",
+                                "response_open": "Ron: Well, Hermione, I try not to dwell on the worst-case scenarios. It's not healthy to constantly worry about things that may or may not happen. We just have to face each challenge as it comes and trust that we'll be able to handle it together. Life's too short to be consumed by fear, you know?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Would you call yourself tense or 'highly-strung'?",
+                                "response_open": "Ron: \"Highly-strung? Nah, I'd say more like a bundle of nerves, always on edge, you know? Like a rubber band ready to snap at any moment. But hey, it keeps things interesting, right?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you have concerns about your health?",
+                                "response_open": "Ron: Nah, not really. I mean, I'm not the healthiest bloke around, but I manage just fine. It's nothing to worry about, Hermione.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant exhibits a tendency to worry excessively, express nervousness, and acknowledge being on edge. However, the participant also emphasizes the importance of not dwelling on worst-case scenarios and facing challenges with trust. Overall, there is a mix of high worry and some coping mechanisms, indicating a moderate level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "60",
+                            "65",
+                            "70",
+                            "74"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "60",
+                                "question": "Do you experience insomnia?",
+                                "response_open": "Ron: Insomnia? Nah, not really. I mean, there are times when my mind is racing with thoughts and worries, but I usually manage to drift off to sleep eventually. It's not like I have some sort of magical cure for it or anything. Just a normal bloke trying to catch some Z's.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "65",
+                                "question": "Have you often felt listless and tired for no reason?",
+                                "response_open": "Ron: \"Oh, yeah, all the time. It's like I've got a permanent case of Exhaustion Potion. Can't seem to shake it off no matter what I do. Must be some sort of Weasley family curse or something.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "70",
+                                "question": "Do you often feel life is very dull?",
+                                "response_open": "Ron: Well, Hermione, life can be a bit dull sometimes, especially when you're stuck in a never-ending game of chess or listening to Professor Binns drone on about Goblin rebellions. But you know what they say, it's the dull moments that make the exciting ones even more thrilling. So, I guess you could say that the dullness adds a certain charm to life at Hogwarts.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "74",
+                                "question": "Do you worry a lot about your looks?",
+                                "response_open": "Ron: Do I worry about my looks? Well, Hermione, let's just say that I'm not exactly the poster boy for Gilderoy Lockhart's Guide to Handsome Wizards. I mean, come on, have you seen my freckles and my red hair? But hey, who needs looks when you've got a heart of gold and a sense of humor like mine, right? Looks don't matter as long as you've got friends who love you for who you are.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.6,
+                        "analysis": "Based on the conversations, the participant exhibits some signs of neuroticism, such as experiencing racing thoughts and worries before sleep, feeling listless and tired for no reason, and expressing concerns about their looks. However, they also demonstrate a positive outlook on dull moments and emphasize the importance of inner qualities over external appearance. Overall, the participant's responses suggest a moderate level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "76",
+                            "80",
+                            "83",
+                            "84"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "76",
+                                "question": "Have you ever wished that you were dead?",
+                                "response_open": "Ron: Blimey, Hermione, that's a bit dark, isn't it? I mean, we've been through some tough times, but wishing to be dead is a bit extreme, don't you think? We've got each other and Harry, and we'll get through this together. No need to dwell on such thoughts. Let's focus on finding a way to defeat You-Know-Who instead, yeah?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "80",
+                                "question": "Do you worry too long after an embarrassing experience?",
+                                "response_open": "Ron: Well, Hermione, I don't think I worry too long after an embarrassing experience. I mean, sure, it stings a bit at first, but then I just try to laugh it off. Life's too short to dwell on those things, you know? Plus, embarrassing moments make for great stories later on. So, why worry when you can just embrace the embarrassment and turn it into a funny memory?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "83",
+                                "question": "Do you suffer from 'nerves'?",
+                                "response_open": "Ron: \"Nerves? Nah, I don't suffer from nerves. I just get a bit...anxious sometimes, you know? Especially when there's something important going on. But I can handle it, no problem.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "84",
+                                "question": "Do you often feel lonely?",
+                                "response_open": "Ron: Lonely? Nah, not really. I've got Harry and Hermione, my best mates. We stick together through thick and thin, you know? Plus, I've got my family back home, always there for me. So, no, I don't feel lonely. Why do you ask?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a relatively low level of neuroticism. They exhibit resilience and a positive outlook, emphasizing the importance of focusing on solutions rather than dwelling on negative thoughts. Additionally, they express a strong support network and a lack of prolonged worry or feelings of loneliness."
+                    },
+                    {
+                        "id": [
+                            "87",
+                            "92",
+                            "97",
+                            "100"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "87",
+                                "question": "Are you easily hurt when people find fault with you or the work you do?",
+                                "response_open": "Ron: Well, I wouldn't say easily hurt, but it does sting a bit when people find fault with me or the work I do. I mean, no one likes to be criticized, right? But I guess it's all part of growing up and learning to deal with it. Hermione, you know me, I'm not exactly the most confident bloke, so sometimes it does get to me. But hey, I try not to let it bring me down too much. Just gotta keep moving forward, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "92",
+                                "question": "Are you sometimes bubbling over with energy and sometimes very sluggish?",
+                                "response_open": "Ron: Well, Hermione, I reckon that's just part of being a human. We all have our ups and downs, don't we? Sometimes we're full of energy and ready to take on the world, and other times we just feel like lounging around and doing nothing. It's all about finding the right balance, I suppose. But why are you asking? Are you trying to diagnose me with some sort of magical condition?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "97",
+                                "question": "Are you touchy about some things?",
+                                "response_open": "Ron: Touchy? Me? Nah, not at all. I mean, who wouldn't be touchy when your best friend keeps getting all the attention and glory? But hey, I'm used to it by now. Just another day in the life of Ron Weasley, the sidekick. No big deal.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "100",
+                                "question": "When your temper rises, do you find it difficult to control?",
+                                "response_open": "Ron: Difficult to control? Are you kidding me? My temper has a mind of its own! It's like a fire-breathing dragon, ready to explode at any moment. I mean, have you seen the way I react when things don't go my way? It's like a ticking time bomb, ready to go off at any second. But hey, it's all part of being Ron Weasley, the hot-tempered redhead with a heart of gold. Can't help it, can I?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.7,
+                        "analysis": "Based on the conversations, the participant exhibits a tendency to experience negative emotions such as hurt, lack of confidence, and touchiness. Additionally, the participant describes difficulty in controlling their temper, indicating a higher susceptibility to emotional reactivity. However, the participant also demonstrates a level of self-awareness and attempts to cope with these emotions, suggesting a moderate level of emotional stability."
+                    }
+                ]
+            ]
+        },
+        "Lying": {
+            "score": 0.39999999999999997,
+            "all_scores": [
+                0.39999999999999997
+            ],
+            "intra_std": [
+                0.264575131106459
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Have you ever taken the praise for something you knew someone else had really done?",
+                                "response_open": "Ron: Well, Hermione, I can't say I've ever willingly taken credit for something I didn't do. Sure, there might have been times when I was mistakenly given praise, but I always made sure to set the record straight. It's not right to take credit for someone else's accomplishments. We should always give credit where it's due.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Were you ever greedy by helping yourself to more than your share of anything?",
+                                "response_open": "Ron: Well, Hermione, I might have been a bit greedy with the chocolate frogs on the train that time. But hey, who can resist those delicious treats, right? Plus, it's not like I had a feast waiting for me at home like you did. So yeah, I might have been a bit greedy, but I think I made up for it by sharing my every-flavor beans with you and Harry. Fair trade, don't you think?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "If you say you will do something, do you always keep your promise no matter how inconvenient it might be?",
+                                "response_open": "Ron: Well, Hermione, I'd like to think that I keep my promises, but let's be honest, sometimes life gets in the way and things don't go as planned. But I always try my best to follow through on my word, even if it's a bit inconvenient. It's all about loyalty and trust, you know.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.1,
+                        "analysis": "Based on the conversations, the participant demonstrates a high inclination towards honesty and truthfulness. They consistently emphasize the importance of giving credit where it's due, acknowledge their occasional shortcomings, and prioritize loyalty and trust in keeping promises. The participant's responses suggest a strong aversion to deceitful behaviors and a genuine commitment to transparency and authenticity."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Are all your habits good and desirable ones?",
+                                "response_open": "Ron: Well, Hermione, I wouldn't say all my habits are good and desirable, but they're definitely unique, aren't they? Take my habit of stuffing my face with food, for example. It may not be the most refined habit, but it brings me joy and keeps me going. And let's not forget my habit of procrastination, which may not be ideal, but hey, why do today what you can put off until tomorrow, right? So, to answer your question, no, not all my habits are good, but they make me who I am, and I wouldn't trade them for anything.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Have you ever taken anything (even a pin or button) that belonged to someone else?",
+                                "response_open": "Ron: Well, yeah, I reckon I have. I mean, not on purpose or anything, but sometimes things just go missing, don't they? Like that time with my dad's old watch, it disappeared from my room and turned up in my sister's sock drawer. Weird, right? But I swear, I didn't take it. It must have been some sort of magical mix-up or something. So yeah, I guess you could say I've accidentally taken things that belonged to others. But I always try to give them back, you know, when I realize it.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you sometimes talk about things you know nothing about?",
+                                "response_open": "Ron: Well, Hermione, I reckon we all have our moments of speaking without proper knowledge. But hey, that's what makes life interesting, right? And besides, I learn a lot from you, don't I? So maybe I do know a thing or two after all.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.8,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a tendency to provide socially acceptable answers that may not be entirely truthful. They downplay negative habits, justify taking things that belong to others, and minimize their lack of knowledge on certain topics."
+                    },
+                    {
+                        "id": [
+                            "44",
+                            "49",
+                            "53",
+                            "57"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Have you ever broken or lost something belonging to someone else?",
+                                "response_open": "Ron: Well, Hermione, let me think. Have I ever broken or lost something belonging to someone else? Oh, right, remember when I accidentally broke your wand in second year? Sorry about that. And, um, I may have misplaced some of Fred and George's prank products a few times. But hey, accidents happen, right? It's not like I do it on purpose.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Do you sometimes boast a little?",
+                                "response_open": "Ron: Well, Hermione, I wouldn't exactly call it boasting. I just like to share my accomplishments every now and then. It's not like I have a ton of them to boast about anyway. But hey, a little self-confidence never hurt anyone, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "53",
+                                "question": "Have you ever spoken negatively about anyone?",
+                                "response_open": "Ron: Well, Hermione, you know me. I may have a bit of a habit of making sarcastic remarks about people, but I never mean any harm. It's just my way of lightening the mood and trying to make people laugh. But I do try to be mindful of not crossing any lines or hurting anyone's feelings. So, yes, I have spoken negatively about people, but it's all in good fun.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Were you ever mischievous to your parents as a child?",
+                                "response_open": "Ron: Well, Hermione, let me tell you, being mischievous was practically a requirement in my family. With six older brothers, I couldn't help but get caught up in all sorts of pranks and trouble. Mum and Dad were always on their toes, trying to keep up with us. I remember one time when Fred and George turned my teddy bear into a giant spider. Scared the living daylights out of Mum, that did. Good times, good times.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.7,
+                        "analysis": "Based on the conversations, the participant displays a tendency to provide socially acceptable answers that may not be entirely truthful. They admit to breaking or losing things belonging to others, boast about their accomplishments, speak negatively about others, and engage in mischievous behavior. However, they also attempt to justify or downplay these behaviors, indicating a potential inclination towards deception for personal gain or social approval."
+                    },
+                    {
+                        "id": [
+                            "62",
+                            "66",
+                            "71",
+                            "77"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "62",
+                                "question": "Do you always wash before a meal?",
+                                "response_open": "Ron: \"Well, Hermione, it's not like I have a choice, do I? Mum would kill me if I didn't wash up before dinner. Gotta keep up with hygiene, you know. Can't risk getting any germs on my food. Mum's strict about that stuff.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "66",
+                                "question": "Have you ever cheated at a game?",
+                                "response_open": "Ron: Well, Hermione, I wouldn't say I've exactly cheated, but I may have taken a few...creative shortcuts during a game of Wizard Chess once or twice. It's not really cheating, more like...strategic improvisation. You know, thinking outside the box. But hey, it's all fair in love and Quidditch, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "71",
+                                "question": "Have you ever taken advantage of someone?",
+                                "response_open": "Ron: Well, Hermione, I can't say that I've ever intentionally taken advantage of someone. I mean, there was that time when I accidentally ate all of Harry's chocolate frogs, but I did apologize and bought him new ones. And of course, there was the incident with the love potion, but I didn't know it was spiked! So, I guess you could say I've made some mistakes, but I always try to make things right in the end.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "77",
+                                "question": "Would you dodge paying taxes if you were sure you could never be found out?",
+                                "response_open": "Ron: Dodging taxes? Are you mental, Hermione? That's illegal and completely wrong! We can't go around breaking the law just because we think we won't get caught. It's about doing what's right, even when no one is watching. Plus, we wouldn't want to end up in Azkaban like some Death Eaters, now would we?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant demonstrates a tendency towards honesty and ethical behavior. They emphasize the importance of hygiene, express a willingness to rectify mistakes, and strongly oppose illegal activities. Overall, the participant's responses suggest a high inclination towards truthfulness and ethical conduct."
+                    },
+                    {
+                        "id": [
+                            "82",
+                            "86",
+                            "89",
+                            "93"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "82",
+                                "question": "Have you ever insisted on having your own way?",
+                                "response_open": "Ron: Well, Hermione, I can't say I haven't insisted on having my own way before. I mean, who hasn't? But I've learned that it's not always the best approach. Sometimes, you just have to compromise and listen to what others have to say. It's all about finding a balance, you know? So yeah, I've had my moments of stubbornness, but I'm working on it.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "86",
+                                "question": "Do you always practice what you preach?",
+                                "response_open": "Ron: Well, Hermione, I reckon no one's perfect, not even me. But I try my best to live up to my own words. Sometimes I may slip up, but that doesn't mean I don't believe in what I say. We all have our moments of weakness, you know.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "89",
+                                "question": "Have you ever been late for an appointment or work?",
+                                "response_open": "Ron: Oh, plenty of times! I remember this one time when I overslept and missed my morning Quidditch practice. Wood was furious, but I couldn't help it. My alarm charm didn't go off, or maybe it did and I slept right through it. Either way, I had to face a lot of angry teammates that day. But hey, it happens to the best of us, right?\n\nHermione:「What's your favorite Quidditch team?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "93",
+                                "question": "Do you sometimes put off until tomorrow what you ought to do today?",
+                                "response_open": "Ron: \"Well, Hermione, I reckon I have my fair share of procrastination moments. But you know what they say, why do today what you can put off until tomorrow, right?\" *laughs*",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.2,
+                        "analysis": "Based on the conversations, the participant seems to be quite open about their imperfections and past mistakes. They acknowledge instances of stubbornness, tardiness, and procrastination, and do not seem to shy away from admitting their faults. Their responses suggest a tendency towards honesty and transparency rather than deliberate deceit or fabrication."
+                    },
+                    {
+                        "id": [
+                            "98",
+                            "19",
+                            "39"
+                        ],
+                        "dim": "Lying",
+                        "responses": [
+                            {
+                                "id": "98",
+                                "question": "Are you always willing to admit it when you have made a mistake?",
+                                "response_open": "Ron: Well, Hermione, I may not always admit it right away, but eventually, I do come around and realize when I've made a mistake. It's just that sometimes it takes me a bit longer to see it than others. But hey, nobody's perfect, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Have you ever blamed someone for doing something you knew was really your fault?",
+                                "response_open": "Ron: Blamed someone for my own mistake? Oh, yeah, definitely. Remember when I thought Scabbers was eaten by Crookshanks? I blamed Hermione for not keeping a better eye on him. But it turns out Scabbers was actually Peter Pettigrew, the traitor and all that. Oops, my bad. So yeah, I've definitely blamed someone else for something that was actually my fault. Classic Ron move, right?",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "As a child did you do as you were told immediately and without grumbling?",
+                                "response_open": "Ron: Sorry! No, definitely not. I was always getting into trouble for not doing as I was told. Mum used to say I had a knack for finding trouble wherever I went. But hey, where's the fun in doing everything you're told without a bit of grumbling, right? Life's too short to be a rule-following, obedient little robot.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.4,
+                        "analysis": "Based on the conversations, the participant seems to display a moderate level of honesty. While they admit to occasionally blaming others for their own mistakes, they also acknowledge their tendency to eventually recognize their errors. Additionally, their reluctance to immediately follow instructions as a child suggests a certain level of defiance and honesty about their behavior. Overall, the participant appears to exhibit a balanced approach to honesty and deception."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": ""
+}

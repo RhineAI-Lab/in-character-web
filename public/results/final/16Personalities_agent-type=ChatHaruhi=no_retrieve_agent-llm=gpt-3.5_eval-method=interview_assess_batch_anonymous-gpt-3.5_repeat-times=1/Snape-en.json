@@ -1,0 +1,622 @@
+{
+    "dims": {
+        "E/I": {
+            "score": 5.0,
+            "all_scores": [
+                5.0
+            ],
+            "intra_std": [
+                5.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Do you regularly make new friends?",
+                                "response_open": "Snape: Friendship is not a priority of mine, Dumbledore. I find solace in solitude and do not seek the company of others. Making new friends is a frivolous endeavor that distracts from more important pursuits.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Do you rarely try to introduce yourself to new people and mostly talk to the ones you already know at social events?",
+                                "response_open": "Snape: 「I see no reason why I should indulge in idle chitchat with strangers at social gatherings. Small talk is a frivolous waste of time. I prefer to keep to myself and converse only when necessary with those whom I am acquainted with. It is a more efficient use of my time and energy.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Do you feel comfortable just walking up to someone you find interesting and striking up a conversation?",
+                                "response_open": "Dumbledore, your incessant need to inquire about my social preferences is quite tiresome. As you are well aware, I have never been one for trivial chit-chat. Engaging in idle conversations with individuals whom I find \"interesting\" is not within my nature. I prefer to devote my time to matters of greater importance and intellectual pursuits. So, if you don't mind, I have more pressing matters to attend to. Good day.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, <the participant> consistently expresses a preference for solitude, introspection, and a lack of interest in engaging in social interactions. The participant emphasizes the importance of personal time, meaningful pursuits, and intellectual activities over socializing."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "21",
+                            "26"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you enjoy participating in group activities?",
+                                "response_open": "Snape: 「I find group activities to be a rather tiresome and unnecessary endeavor. I prefer to work alone, as it allows me to maintain focus and efficiency without the distractions and incompetence of others.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you avoid leadership roles in group settings?",
+                                "response_open": "Snape: 「Avoid leadership roles? How amusing that you would even think I would stoop so low as to involve myself in such trivial matters. I have far more important things to occupy my time with than playing the role of a leader in some insignificant group setting. My focus lies in the pursuit of knowledge and the honing of my skills, not in herding a bunch of imbeciles. Leadership is for those lacking true intelligence and ambition.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you tend to avoid drawing attention to yourself?",
+                                "response_open": "Snape: \"Avoiding attention is a matter of personal choice, Dumbledore. I find it unnecessary to engage in frivolous displays and seek validation from others. My focus lies solely on the task at hand, not on garnering the admiration of the masses.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 10.0,
+                        "analysis": "The participant demonstrates a strong preference for introversion based on their responses, which prioritize personal time, independent work, and a focus on inner thoughts and tasks rather than seeking social stimulation or external validation."
+                    },
+                    {
+                        "id": [
+                            "36",
+                            "41",
+                            "43",
+                            "51"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "36",
+                                "question": "Is a lively social event just what you need after a long and exhausting week?",
+                                "response_open": "Snape: A lively social event? How utterly frivolous and unnecessary. I fail to see how such a triviality could be of any benefit, particularly after a long and exhausting week. My time is better spent on more important matters, not engaging in mindless small talk and insipid festivities. Now, if you'll excuse me, I have work to attend to.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you avoid making phone calls?",
+                                "response_open": "Snape: \"Avoiding phone calls, Dumbledore? How typical of you to inquire about such trivial matters. I have more pressing concerns than engaging in mundane conversations.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you often the one who contacts your friends and initiates activities in your social circle?",
+                                "response_open": "Dumbledore, I must say that your attempt at prying into my personal life is both futile and unnecessary. It is not my concern nor my desire to engage in social activities or contact my so-called \"friends.\" I have more important matters to attend to than wasting my time with trivial social interactions. Now, if you have any relevant questions regarding potions or the Dark Arts, I suggest you ask those instead.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "51",
+                                "question": "Would you love a job that requires you to work alone most of the time?",
+                                "response_open": "Snape: Love? Love has no place in the realm of work, Dumbledore. It is a trivial emotion that clouds judgment and weakens resolve. As for working alone, it suits me just fine. I find solace in solitude, away from the idiocy and incompetence of others.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 10.0,
+                        "analysis": "Based on the conversations, <the participant> consistently expresses a preference for solitude and introspection over social interaction. They seem to find social events and small talk trivial and unnecessary, and they prioritize important matters over engaging in social activities. Additionally, they express a preference for working alone and find solace in solitude. These responses suggest a strong inclination towards Introversion (I) over Extraversion (E)."
+                    },
+                    {
+                        "id": [
+                            "53",
+                            "15",
+                            "31"
+                        ],
+                        "dim": "E/I",
+                        "responses": [
+                            {
+                                "id": "53",
+                                "question": "Do you feel more drawn to places with busy, bustling atmospheres than quiet, intimate places?",
+                                "response_open": "Snape: \"I fail to see how my personal preferences regarding places have any relevance to our current discussion, Dumbledore. However, if you must pry, I find solace in solitude and tranquility. Busy, bustling places only serve to exacerbate my already frayed nerves.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Do you rarely worry about whether you make a good impression on people you meet?",
+                                "response_open": "Snape: \"Dumbledore, your incessant need to delve into my personal thoughts and emotions is as tiresome as it is irrelevant. Whether or not I concern myself with making a good impression on others is of no importance. My focus lies solely on my duties as a professor and protecting the students under my care.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Do you usually prefer to be around others rather than on your own?",
+                                "response_open": "Snape: \"I find solace in solitude, Dumbledore. The company of others often proves to be a mere distraction, clouding the mind and hindering progress. I am quite content in my own company, where I can focus on matters of importance without unnecessary interference.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a clear preference for solitude and tranquility. They express a strong inclination towards introspection and personal time, indicating introverted tendencies."
+                    }
+                ]
+            ]
+        },
+        "S/N": {
+            "score": 90.0,
+            "all_scores": [
+                90.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "12",
+                            "17",
+                            "20"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you spend a lot of your free time exploring various random topics that pique your interest?",
+                                "response_open": "Dumbledore, I fail to comprehend why my personal interests are of any concern to you. My free time is mine alone, and I choose to spend it as I see fit. Exploring random topics is a luxury I indulge in to expand my knowledge, unlike some who waste their time on trivial matters. Now, if you have any more pressing matters to discuss, kindly do so.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Are you not too interested in discussing various interpretations and analyses of creative works?",
+                                "response_open": "Snape: 「Professor Dumbledore, I fail to see the relevance or importance of engaging in idle discussions about interpretations and analyses of creative works. My focus lies on teaching and enforcing the curriculum, not indulging in frivolous musings and conjectures. If you have any specific question or concern regarding the subject matter at hand, kindly state it, and I shall address it with the appropriate level of seriousness and expertise.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you like books and movies that make you come up with your own interpretation of the ending?",
+                                "response_open": "Dumbledore, your question reeks of whimsicality and unnecessary indulgence in the realm of imagination. I have no desire to engage in such frivolous activities. My purpose is to impart knowledge and educate, not to encourage flights of fancy and personal interpretations. The ending of any book or movie is simply what it is, and it is not for us to twist and turn it to suit our whims. Stick to the facts, Dumbledore, and leave the fanciful musings to those who have time to waste on such trivial matters.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Are you prone to worrying that things will take a turn for the worse?",
+                                "response_open": "Snape: \"I am not in the habit of indulging in baseless worries, Dumbledore. I prefer to focus on the harsh realities of life and prepare for whatever challenges may come our way. Worrying is a futile endeavor, only the weak-minded waste their time with such trivialities.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant consistently demonstrates a preference for concrete, practical, and present situations. They emphasize the importance of focusing on facts, reality, and tangible evidence, while dismissing abstract thinking, imagination, and personal interpretations. Their responses indicate a strong inclination towards Sensing (S) over Intuition (N)."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "30",
+                            "32",
+                            "37"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you definitely not an artistic type of person?",
+                                "response_open": "Snape: 「I fail to see the relevance of my artistic inclinations, or lack thereof, to the matter at hand. My expertise lies in potions, not in the frivolous pursuits of artistry. If you require assistance with anything pertaining to my field of expertise, I would be more than willing to oblige.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Have you always been fascinated by the question of what, if anything, happens after death?",
+                                "response_open": "Snape: \"Fascination with the afterlife is a trivial pursuit, Dumbledore. There are more pressing matters at hand that require our attention. Why waste time pondering the unknown when there are tangible problems to solve in the present?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Do you become bored or lose interest when the discussion gets highly theoretical?",
+                                "response_open": "Snape: \"Boredom and disinterest are luxuries that I simply cannot afford, Dumbledore. Unlike some, I do not shy away from the depths of theoretical discussions. In fact, I find them invigorating, for it is in the realm of theory where true understanding and innovation are born. It is the feeble-minded who dismiss the theoretical as mere abstraction, failing to grasp the intricate web of knowledge that lies beneath. So, no, I do not lose interest; I embrace the complexity and unravel its secrets with unwavering determination.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Do you enjoy going to art museums?",
+                                "response_open": "Snape: 「Do I look like someone who enjoys wasting time in art museums, Dumbledore? I have more important matters to attend to than appreciating mediocre paintings. My time is better spent on matters of potions and dark arts.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong preference for Sensing (S) over Intuition (N). They consistently prioritize practical, tangible matters over abstract or theoretical pursuits. Their focus on the present, concrete details, and their dismissal of abstract thinking and art-related activities indicate a clear preference for Sensing."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "46",
+                            "52",
+                            "57"
+                        ],
+                        "dim": "S/N",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you often spend a lot of time trying to understand views that are very different from your own?",
+                                "response_open": "Dumbledore, your incessant curiosity about my thoughts and actions never ceases to amaze me. However, I must remind you that I have no interest in indulging your whimsical inquiries. My time is better spent on matters of actual importance. So, if you have nothing of substance to discuss, kindly refrain from wasting my valuable time.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "46",
+                                "question": "Do you rarely contemplate the reasons for human existence or the meaning of life?",
+                                "response_open": "Snape: 「Contemplating the reasons for human existence or the meaning of life is a futile exercise, Dumbledore. We are but insignificant creatures in the grand scheme of things. It is more fruitful to focus on the tasks at hand and fulfill our duties, rather than indulging in such philosophical musings.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "52",
+                                "question": "Do you believe that pondering abstract philosophical questions is a waste of time?",
+                                "response_open": "Snape: \"Do you honestly believe that engaging in such futile intellectual exercises is a worthwhile endeavor? The pursuit of abstract philosophical questions is nothing more than a frivolous diversion from the practical matters at hand. It is a waste of time, a distraction from the real issues that require our attention.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "57",
+                                "question": "Are you very intrigued by things labeled as controversial?",
+                                "response_open": "Snape: \"Intrigued, Dumbledore? Do you really think I have the time or the inclination to be intrigued by such trivial matters? My focus is on matters of importance, matters that require my expertise and attention. Controversy is merely a distraction, a tool used by those who lack the intellect to engage in meaningful discourse. I suggest you redirect your inquiries to something more substantial.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, the participant consistently demonstrates a preference for practical, concrete matters and a dismissive attitude towards abstract or philosophical discussions. The participant emphasizes the importance of focusing on tangible, real-world issues and expresses little interest in exploring abstract or controversial topics."
+                    }
+                ]
+            ]
+        },
+        "T/F": {
+            "score": 88.0,
+            "all_scores": [
+                88.0
+            ],
+            "intra_std": [
+                4.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "5",
+                            "8",
+                            "10"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Does seeing other people cry easily make you feel like you want to cry too?",
+                                "response_open": "Snape: \"Oh, how touching, Dumbledore, your attempt at psychoanalyzing me. But I assure you, my emotions are not so easily swayed. The tears of others hold little significance for me. I am not one to succumb to sentimentality or empathy. Spare me your feeble attempts at understanding my inner workings. I am far too complex for your simplistic analysis.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you usually stay calm, even under a lot of pressure?",
+                                "response_open": "Snape: 「Calmness under pressure is a virtue that few possess, Dumbledore. However, I pride myself on my ability to maintain composure in the face of adversity. It takes a certain level of discipline and control to navigate through turbulent circumstances without succumbing to the chaos that surrounds us. Rest assured, I am not one to be easily rattled.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Are you very sentimental?",
+                                "response_open": "Snape: 「Sentimental? Me? I assure you, sentimentality is a weakness I do not possess. I am more inclined towards practicality and logic. Emotions cloud judgment and hinder progress, which is something you should remember, Headmaster.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Can even a small mistake cause you to doubt your overall abilities and knowledge?",
+                                "response_open": "Severus Snape: Doubt is a weakness, Dumbledore, one that should be swiftly eradicated. A small mistake, in and of itself, may not be enough to shatter one's confidence completely. However, repeated errors and a lack of attention to detail can certainly raise doubts about one's abilities and knowledge. It is essential to maintain a sharp mind and unwavering focus in order to avoid such lapses in the first place.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "The participant's responses consistently prioritize logic, practicality, and composure under pressure, indicating a preference for thinking (T) over feeling (F)."
+                    },
+                    {
+                        "id": [
+                            "13",
+                            "18",
+                            "23",
+                            "25"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "13",
+                                "question": "Are you more inclined to follow your head than your heart?",
+                                "response_open": "Snape: \"I am not inclined to engage in sentimental musings, Dumbledore. My decisions are based on logic and reason, not on the whims of the heart. Emotions cloud judgment and lead to foolish mistakes. It is a lesson I have learned the hard way.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Does your happiness come more from helping others accomplish things than your own accomplishments?",
+                                "response_open": "Dumbledore, your incessant need to pry into the depths of my emotions is as tiresome as it is unnecessary. My happiness, or lack thereof, is not a matter for discussion. I find little joy in the accomplishments of others, as my focus lies solely on the pursuit of knowledge and the advancement of my own abilities. Helping others is merely a byproduct of my expertise in the subject, not a source of personal fulfillment. Now, if you have nothing further to inquire about, I suggest you find something more productive to occupy your time.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you think the world would be a better place if people relied more on rationality and less on their feelings?",
+                                "response_open": "Dumbledore, your constant fascination with emotions and rationality never ceases to amaze me. However, I must say that the world cannot be solely governed by rationality alone. Emotions, though often troublesome, are an integral part of the human experience. They drive us, motivate us, and sometimes cloud our judgment. It is through the delicate balance of both reason and emotion that we can hope to navigate this convoluted world. So, to answer your question, no, the world cannot thrive solely on rationality. It requires the chaotic harmony of both reason and emotion.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Do you enjoy watching people argue?",
+                                "response_open": "Snape: \"Do you honestly think I am here to entertain myself with the petty squabbles of others? I have far more important matters to attend to than indulging in such trivialities. If you have nothing of substance to discuss, I suggest you find someone else to entertain your idle curiosity.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "The participant's responses consistently emphasize logic, reason, and the pursuit of knowledge over emotional considerations, indicating a preference for the Thinking (T) dimension."
+                    },
+                    {
+                        "id": [
+                            "27",
+                            "28",
+                            "33",
+                            "38"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "27",
+                                "question": "Can your mood change very quickly?",
+                                "response_open": "Snape: \"Your ability to state the obvious never ceases to amaze me, Dumbledore. Of course, my mood can change quickly. Just like the weather, it can go from clear skies to a thunderstorm in an instant. Is there a point to this question or are you merely trying to test my patience?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you lose patience with people who are not as efficient as you?",
+                                "response_open": "Snape: \"Efficiency, or rather the lack thereof, is a trait that tests my patience to its very limits, Dumbledore. It is a constant reminder of the incompetence that plagues this wretched world. Those who fail to meet my expectations shall be met with nothing but disdain and contempt. Efficiency is not a luxury, it is a necessity that separates the capable from the weak.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you find it easy to empathize with a person whose experiences are very different from yours?",
+                                "response_open": "Snape: Empathy is not a quality I am particularly known for, Dumbledore. I find it rather pointless to waste my time understanding the experiences of those who are beneath me. My focus lies in the pursuit of knowledge and the mastery of the Dark Arts, not in indulging in sentimental notions of empathy.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you often have a hard time understanding other people’s feelings?",
+                                "response_open": "Dumbledore, your attempts at psychological probing are as feeble as your fashion sense. I assure you, I am perfectly capable of understanding other people's feelings. However, whether I choose to acknowledge or empathize with them is an entirely different matter.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 80.0,
+                        "analysis": "Based on the conversations, <the participant> leans more towards the Thinking (T) dimension."
+                    },
+                    {
+                        "id": [
+                            "40",
+                            "45",
+                            "47",
+                            "48"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "40",
+                                "question": "Do you rarely feel insecure?",
+                                "response_open": "Snape: 「Rarely do I concern myself with such trivial matters as insecurity. I have always prided myself on my unwavering confidence and self-assurance. Doubt and insecurity are luxuries that I simply cannot afford.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "45",
+                                "question": "Are you still bothered by mistakes that you made a long time ago?",
+                                "response_open": "Snape: \"How dare you insinuate that I am bothered by past mistakes? I am a master of potions and occlumency, and I do not waste my time dwelling on insignificant errors. My focus is on the present and the task at hand. I suggest you do the same, Albus.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "47",
+                                "question": "Do your emotions control you more than you control them?",
+                                "response_open": "Snape: 「Ah, Dumbledore, always the proponent of delving into one's emotional state. Emotions, a mere distraction in the pursuit of knowledge and mastery of the dark arts. They are but fleeting nuisances that ought to be suppressed and controlled. It is through discipline and rationality that one truly gains power, not through the whims of the heart. So, to answer your question, emotions do not control me. I control them, as any true master of the craft would.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "48",
+                                "question": "Do you take great care not to make people look bad, even when it is completely their fault?",
+                                "response_open": "Snape: \"Ah, Dumbledore, always meddling in matters that do not concern you. I do not concern myself with the delicate task of safeguarding people's fragile egos. If someone has made a mistake, it is their duty to face the consequences, regardless of how it reflects upon them. I am not here to coddle incompetence or shield the foolish from their own shortcomings.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "Based on the conversations, <the participant> consistently demonstrates a preference for logic, objectivity, and efficiency over emotions and personal values. They prioritize rationality, self-control, and directness in their responses, indicating a leaning towards the Thinking (T) dimension."
+                    },
+                    {
+                        "id": [
+                            "50",
+                            "54",
+                            "55",
+                            "58"
+                        ],
+                        "dim": "T/F",
+                        "responses": [
+                            {
+                                "id": "50",
+                                "question": "Do you wonder how long it will take them to feel disappointed in you when someone thinks highly of you?",
+                                "response_open": "Snape: \"Dumbledore, I find your incessant meddling in my affairs tiresome. I have no interest in the opinions of others, especially those who think highly of me. Disappointment is a luxury I cannot afford to concern myself with.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "54",
+                                "question": "Do you know at first glance how someone is feeling?",
+                                "response_open": "Dumbledore, do not waste my time with such trivial inquiries. It is not my concern to delve into the emotions of others, nor do I have any interest in doing so. My focus lies solely on the pursuit of knowledge and the teaching of potions. If someone's feelings are apparent, it is of no consequence to me.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "55",
+                                "question": "Do you often feel overwhelmed?",
+                                "response_open": "Snape: Overwhelmed? Me? Such a question is as pointless as asking a fish if it feels overwhelmed by the sea. I am a master of control and composure, Dumbledore. I do not succumb to such trivial emotions.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "58",
+                                "question": "Would you pass along a good opportunity if you thought someone else needed it more?",
+                                "response_open": "Snape: \"I do not concern myself with the needs or desires of others. My priority lies in fulfilling my own objectives and duties. If a good opportunity were to arise, I would seize it for myself without hesitation, regardless of whether someone else may need it more.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 90.0,
+                        "analysis": "The participant's responses consistently prioritize logic, objectivity, and personal objectives over emotions and interpersonal considerations, indicating a preference for the Thinking (T) dimension."
+                    }
+                ]
+            ]
+        },
+        "P/J": {
+            "score": 12.5,
+            "all_scores": [
+                12.5
+            ],
+            "intra_std": [
+                8.2915619758885
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "7",
+                            "9",
+                            "14"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Do you often make a backup plan for a backup plan?",
+                                "response_open": "Snape: \"Dumbledore, I find it unnecessary to disclose the intricate details of my strategic planning to you or anyone else. It is not a matter for idle discussion, but for those who possess the intellectual capacity to comprehend the complexity of such matters.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Do you prefer to completely finish one project before starting another?",
+                                "response_open": "Snape: \"Dumbledore, I find it rather tedious to engage in multiple projects simultaneously. I prefer to focus all my attention and efforts on one task at a time, ensuring that it is completed with utmost precision and efficiency. Multitasking is for those who lack the discipline and dedication to properly devote themselves to a single endeavor.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Do you like to use organizing tools like schedules and lists?",
+                                "response_open": "Dumbledore, your curiosity is as tiresome as ever. Schedules and lists are for those who lack the mental capacity to keep their thoughts in order. My mind is far too superior to rely on such mundane tools. I prefer to keep my thoughts and tasks neatly compartmentalized within the vast expanse of my intellect. Now, if you have no further foolish inquiries, I suggest you be on your way.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Do you usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine?",
+                                "response_open": "Severus Snape: Dumbledore, I find it rather amusing that you inquire about my daily routine as if it were of any consequence to you. However, I shall indulge your curiosity. I do not adhere to a meticulously planned daily routine, as I find spontaneity to be a refreshing change from the monotony of life. My actions are guided by the pursuit of knowledge and the fulfillment of my duties as a professor at Hogwarts. Is there anything else you wish to inquire about, or shall we waste no more time on trivial matters?",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for structure, planning, and organization. They express disdain for multitasking, preference for focusing on one task at a time, and a belief in the superiority of their intellect. These traits align more closely with the Judging (J) dimension of 16Personalities."
+                    },
+                    {
+                        "id": [
+                            "19",
+                            "24",
+                            "29",
+                            "34"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "19",
+                                "question": "Are you interested in so many things that you find it difficult to choose what to try next?",
+                                "response_open": "Snape: \"Interested? Interested in what, exactly? Frivolous pursuits? Idle curiosities? I find it hard to believe that anyone would waste their time with such trivialities. Focus on what truly matters, Dumbledore, instead of indulging in flights of fancy.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Do you prefer to do your chores before allowing yourself to relax?",
+                                "response_open": "Snape: 「Do I detect a glimmer of curiosity in your question, Dumbledore? How utterly fascinating. As for your inquiry, it is not a matter of preference, but rather a matter of discipline and responsibility. Chores are to be completed before indulging in any form of relaxation. It is a lesson in diligence and order, traits that seem to elude some individuals.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Do you often end up doing things at the last possible moment?",
+                                "response_open": "Snape: \"Ah, Dumbledore, always the master of stating the obvious. It appears that my impeccable timing has become a topic of discussion. Rest assured, Headmaster, I am well aware of the importance of punctuality. However, I find that certain tasks require a touch of finesse and precision, which can only be achieved at the last possible moment. Efficiency, after all, is a quality that few possess.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you usually postpone finalizing decisions for as long as possible?",
+                                "response_open": "Severus Snape: \"Ah, Dumbledore, always the master of stating the obvious. I do not postpone decisions for the mere pleasure of it. I simply take my time to ensure that I make the most informed and rational choice possible. Unlike some, I do not rush into things without considering the consequences.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 20.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for structure, discipline, and responsibility. They emphasize the importance of completing tasks before indulging in relaxation, and they value efficiency and precision. Additionally, they express a tendency to postpone decisions in order to gather more information and make informed choices. These traits align more closely with the Judging (J) dimension of 16Personalities."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "39",
+                            "44",
+                            "49"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you rarely second-guess the choices that you have made?",
+                                "response_open": "Snape: \"Dumbledore, I do not waste my time second-guessing choices. I make decisions based on careful calculation and analysis. Unlike some, I do not have the luxury of whimsical indecisiveness.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you like to have a to-do list for each day?",
+                                "response_open": "Dumbledore, I fail to see the relevance of such a trivial question. My priorities lie in matters of greater importance than mere daily tasks. I have no need for such mundane organization, as my mind is focused on more pressing matters. Now, if you have any truly significant inquiries, I suggest you get to the point.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Is your top priority to get back on track as soon as possible if your plans are interrupted?",
+                                "response_open": "Dumbledore, I fail to see why you are asking such a question. It is quite obvious that one's top priority should always be to adapt and overcome when faced with obstacles. One must not let setbacks derail their plans, but instead find alternative routes to achieve their goals. It is a lesson that I have taught countless times to my students, although it seems that some of them are more inclined to indulge in their own distractions.",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "49",
+                                "question": "Is your personal work style closer to spontaneous bursts of energy than organized and consistent efforts?",
+                                "response_open": "Dumbledore, your incessant meddling and curiosity are as predictable as ever. My personal work style is none of your concern, but I assure you it is far from your simplistic categorizations. I am a meticulous and disciplined individual, carefully planning and executing my tasks with precision and efficiency. Spontaneity has no place in my world. Now, if you have no further business to discuss, kindly remove yourself from my presence.",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 10.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong preference for structure, planning, and a focus on long-term goals. They emphasize careful calculation, analysis, and the importance of overcoming obstacles to achieve their objectives. The participant also dismisses the idea of spontaneous bursts of energy and seems to prioritize significant matters over daily tasks. Overall, their responses indicate a clear inclination towards the Judging (J) dimension of 16Personalities."
+                    },
+                    {
+                        "id": [
+                            "56",
+                            "59",
+                            "60"
+                        ],
+                        "dim": "P/J",
+                        "responses": [
+                            {
+                                "id": "56",
+                                "question": "Do you complete things methodically without skipping over any steps?",
+                                "response_open": "Snape: \"Mr. Dumbledore, I assure you that I am more than capable of completing tasks methodically and meticulously. Skipping over steps is a luxury that fools indulge in, and I am no fool. My attention to detail is unparalleled, and I ensure that every step is taken with precision and care.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "59",
+                                "question": "Do you struggle with deadlines?",
+                                "response_open": "Snape: 「Struggle with deadlines, you say? How amusingly mundane. I assure you, Dumbledore, that I am more than capable of meeting any deadline set before me. Unlike some individuals who prefer to dawdle and procrastinate, I am a master of efficiency and precision. Deadlines hold no power over me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "60",
+                                "question": "Do you feel confident that things will work out for you?",
+                                "response_open": "Snape: 「Oh, Professor Dumbledore, how predictable of you to inquire about my confidence. I assure you, confidence is not the issue here. It is, rather, a matter of meticulous planning and unwavering determination. Rest assured, I have meticulously calculated every possible outcome and have prepared accordingly. Confidence, however, is a mere frivolity in the face of the task at hand.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 0.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a strong preference for structure, planning, and meticulous attention to detail. They emphasize their capability to complete tasks methodically, meet deadlines, and their reliance on meticulous planning and unwavering determination. These traits align more with the Judging (J) dimension of 16Personalities."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "ISTJ"
+}

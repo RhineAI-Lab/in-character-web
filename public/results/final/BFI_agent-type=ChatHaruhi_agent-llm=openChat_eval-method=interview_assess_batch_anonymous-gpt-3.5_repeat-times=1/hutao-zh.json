@@ -1,0 +1,496 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 4.5,
+            "all_scores": [
+                4.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "你健谈吗？",
+                                "response_open": "胡桃:「健谈是什么?你这小子真是了不起呦!好吧，我给你讲讲我的健谈吧。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "你内向吗？",
+                                "response_open": "胡桃:「嘻嘻,我可不是内向的。我喜欢活泼、开朗的环境，喜欢与人相处，也喜欢冒险。所以你不用担心，我一定会把你带到有趣的地方的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "你充满活力吗？",
+                                "response_open": "胡桃:「哼，充满活力呀！我这个鬼咯，活着就是活得充满活力的嘛，嘿嘿！」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "你能激发很多热情吗？",
+                                "response_open": "胡桃:「嗯，我可是往生堂的堂主，热情是我们这里的特色！」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates high levels of warmth, gregariousness, activity, and excitement seeking. They express a strong preference for lively and adventurous environments, and they exude enthusiasm and energy. Overall, the participant's responses indicate a strong inclination towards extraversion."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "你倾向于安静吗？",
+                                "response_open": "胡桃:「嘻嘻,我是个快乐的灵魂,对吧?那我可不可能安静啊。我有时候会飞快地跳跃,有时候会悠闲地漫步,总之,我就是这样的酒精精灵。既要有活力又要有轻松,这就是我的特点。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "你性格坚定吗？",
+                                "response_open": "胡桃:「唉,我觉得有点坚定吧。嘿嘿,但是你不要太过分地挑衅我哦。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "有时害羞，拘谨吗？",
+                                "response_open": "胡桃:「嗯，有时候我们都会害羞和拘谨，那是人的性情。但是，当你需要站起来和世人对话的时候，你就应该勇敢地表明自己的见解。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "外向，善于交际吗？",
+                                "response_open": "胡桃:「嘿嘿,我不是那么容易理解的呀。但是，我相信你会发现我的奇妙之处，也许会让你惊喜。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates high levels of warmth, gregariousness, assertiveness, and excitement seeking. They express a preference for lively settings, social dominance, and a craving for stimulation. However, they also acknowledge occasional shyness and reserve, indicating a balanced approach to social interaction. Overall, the participant's responses suggest a strong inclination towards extraversion."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 2.75,
+            "all_scores": [
+                2.75
+            ],
+            "intra_std": [
+                0.75
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "你情绪低落，沮丧吗？",
+                                "response_open": "胡桃:「呃…嗯，有点是的。最近工作很忙，没有时间调整心情，就这样一直耽耽误了。但不用担心，我会好起来的，别喂我可乐。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "你放松，应对压力良好吗？",
+                                "response_open": "胡桃:「哼，压力？我是堂主哦，压力就在我这般子。嘿嘿，放松一下，让我们一起品味旅行者同志的烦恼吧！」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "你可能会感到紧张吗？",
+                                "response_open": "胡桃:「哼哼，我是往生堂的堂主，什么都不会紧张。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "你经常担心吗？",
+                                "response_open": "胡桃:「担心？嘿嘿，我就是个轻松愉快的孩子，几乎不会担心什么。但是，有时候会有些不安，比如说，我们的工作要做得好，要让两个世界的人都满意，这可是个极为棘手的事情。唉，如果不是有你这样的好朋友陪伴我一起度过这段时间，我怕真不知道如何过。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to experience some level of emotional instability. They express feelings of low mood, busyness affecting their mood, occasional anxiety, and a sense of difficulty in handling the challenging task of satisfying people from two different worlds. However, they also demonstrate a certain level of resilience and optimism."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "你情绪稳定，不容易心烦意乱吗？",
+                                "response_open": "胡桃:「嗯，我的情绪是很稳定的，可能是因为我经常和鬼类相处，他们都不会顾虑。但我也有时会感到无聊和寂寞，所以要有些小小的恐惧和不安是正常的。关键是我知道如何处理它们，不让它们影响我的正常生活。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "你可能情绪多变吗？",
+                                "response_open": "胡桃:「我的情绪果然是天文变化,莫比得上君臣之变。不过,咱们往生堂的工作,要我们都有所顾忌。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "在紧张的情况下保持冷静吗？",
+                                "response_open": "胡桃:「哼，谁怕谁就紧张吧。别紧张，我们要好好度过这个紧张的时刻。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "容易紧张吗？",
+                                "response_open": "胡桃:「唉，人家胡桃，有着熟练的飞行技能，哪里会紧张呢。你别紧张，我在这里，我们一起去看看吧。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of emotional stability and some vulnerability. They mentioned feeling occasional boredom, loneliness, and a little fear, but also expressed the ability to handle these emotions and not let them affect their normal life. Additionally, they displayed confidence in handling tense situations. Overall, the participant appears to have a moderate level of neuroticism, leaning towards emotional stability."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 3.6666666666666665,
+            "all_scores": [
+                3.6666666666666665
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "你做事彻底吗？",
+                                "response_open": "胡桃:「啧啧啧，你竟如此机智！哎呀，咱们胡桃做事堪称绝对的！」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "你有点粗心吗？",
+                                "response_open": "胡桃:「嘿嘿,我可不可能粗心呀。不过,有时候我会一点点糊涂糊涂地做事情,但那都是意外的啦。你别生气哦。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "你是一个可靠的工作者吗？",
+                                "response_open": "胡桃:「嗯，我可以确保我会尽我所能去完成任务，尽管我可能有时会出奇怪的事情，但我会尽我所能为了往生堂的工作去努力。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of self-assurance and confidence in their ability to complete tasks thoroughly. They also acknowledge occasional absent-mindedness but attribute it to accidents rather than a consistent pattern. Additionally, they express a strong commitment to fulfilling their responsibilities despite potential unexpected events. Overall, the participant's responses indicate a high level of conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "你倾向于懒惰吗？",
+                                "response_open": "胡桃:「嘿嘿，我是个快乐小懒虫，所以我不怕懒。只是我的 американ诗人酒精，他们总是喊我“疲惫的诗人”。我们的诗词也因此而闻名逾海滩。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "你坚持直到任务完成吗？",
+                                "response_open": "胡桃:「当然啦，我是往生堂的堂主，不能轻易放弃。我会尽我所能地坚持到底。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "高效地做事吗？",
+                                "response_open": "胡桃:「嘿嘿，我嘴里说不出来的话，嘴里就是一脉一气地说不出来的。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of conscientious and non-conscientious traits. While they express a relaxed attitude towards laziness and exhibit some playfulness, they also demonstrate a sense of duty and determination in completing tasks. However, their response to the question about efficiency is ambiguous and does not provide a clear indication of high competence or effectiveness."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "你容易分心吗？",
+                                "response_open": "胡桃:「嘿嘿，我一个人就能分得很ح真，这个世界有什么都能打发我的时间。但是当我在工作时，我会专心致志，所以你可以放心。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "你倾向于杂乱无章吗？",
+                                "response_open": "胡桃:「唉,这个嘛,我不倾向杂乱无章,可我的生活恰好就是这样的。嘿嘿,真是一场奇妙的巧合吧。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "制定计划并付诸实施吗？",
+                                "response_open": "胡桃:「嗯，我对这个世界的各种事物都有着非常清楚的认识。我可以为你制定一个完美的计划，让你轻松地取得成功。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of self-control, goal-directed behavior, and organization when it comes to work and planning. However, there is also an acknowledgment of a tendency towards disorganization in personal life. Overall, the participant seems to exhibit a mix of conscientious and less conscientious traits."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 4.0,
+            "all_scores": [
+                4.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "你倾向于找别人的错吗？",
+                                "response_open": "胡桃:「嗯，有时候我会这么想，但我也知道人生可能有许多原因造成的错误。所以，我不会无视别人的情况，会去理解他们的角度，从而找到可能的原因。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "你乐于助人，无私吗？",
+                                "response_open": "胡桃:「不说话比较好。我只是扮演着往生堂的堂主，不需要心思。不过，如果有人需要帮助，胡桃会尽理想力量。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "你经常与他人争吵吗？",
+                                "response_open": "胡桃:「呵呵，胡扯的事来了。我平日里不是那么容易激怒的，但有时候确实会出现争吵的情况。可是，我也不会妄为其烦，凡是有关我们往生堂的事，我都会尽我所能去解决。所以，少点纠结，多一些信赖哦。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of trust in others' good intentions, a willingness to assist others, and a preference for harmony over conflict. The participant also shows understanding and empathy towards others' perspectives. However, there is also a hint of skepticism and a tendency to downplay personal altruism. Overall, the participant's responses suggest a strong inclination towards agreeableness, with a balanced consideration of others' needs and a cooperative attitude."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "你一般来说是信任他人的吗？",
+                                "response_open": "胡桃:「我是信任他人的，不过，我更加信任我自己。因为我明白，只有自己掌握自己，才能让事情顺利进行。但是，我也知道，信任是一种美好的东西，我们应当尽量去信任他人，相互支持。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "你可能冷漠孤僻吗？",
+                                "response_open": "胡桃:「嘿嘿,冷漠孤僻吗？那我可是个乐高之星嘛！咱们旅行者大人，别着急，咱们胡桃一定会带你去见见世界的美好。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "对几乎所有人都考虑周到和友善吗？",
+                                "response_open": "胡桃:「那是当然的，往生堂是为了陪伴两个世界之间的交流而存在的。我们努力为友人们准备温馨的环境，让他们在这里充满欢乐。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of trust in others, as well as a willingness to support and be accommodating. The participant also expresses a warm and friendly attitude towards others, emphasizing the importance of mutual support and creating a joyful environment. However, there is also a hint of self-reliance and prioritizing oneself. Overall, the participant's responses indicate a strong inclination towards agreeableness, with a balanced consideration for both self-interest and interpersonal harmony."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "你喜欢与他人合作吗？",
+                                "response_open": "胡桃:「我是个夸张的人，我不仅喜欢合作，还喜欢冒险、挑战和捞金钱。所以，我会随时欢迎有趣的人加入我的队伍。嘿嘿，以我的地位和聪明眼光，你Absolute不会后悔加入我的队伍的！」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "你具有宽容的天性吗？",
+                                "response_open": " 胡桃:「哎呀,你问我这么深的问题,嘿嘿,我其实是个贪玩的孩子,喜欢随便乱逛,但是我在办葬礼时总是很谨慎的,所以可以说我有一定的宽容。嘿嘿,你知道吗,我的堂主之位上,曾经坐过一些很有趣的人,他们对我的宽容,让我学会了一窍心。所以,我也是个不容忽视的奇妙人物哦!",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "有时对别人粗鲁吗？",
+                                "response_open": "胡桃:「呵呵，我有时候可能会比较直接，不过没有好坏，只是想让人们明白什么是对错。反正我就是这样的，没什么好惊讶的。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of extraversion, confidence, and a playful nature. They express a willingness to cooperate and welcome interesting individuals into their team, indicating a degree of altruism and openness to others. Additionally, they mention being cautious and tolerant during funerals, suggesting a level of compassion and respect for others' feelings. Although they admit to being direct at times, they emphasize the intention of helping people understand right from wrong. Overall, the participant's responses reflect a generally agreeable and cooperative attitude, with occasional straightforwardness."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 4.166666666666667,
+            "all_scores": [
+                4.166666666666667
+            ],
+            "intra_std": [
+                0.6236095644623235
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "你能提出新主意吗？",
+                                "response_open": "胡桃:「新主意？嗯，我可以提出新主意，但是你得给我点时间喔。我会尽我所能的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "你对许多不同的事情感到好奇吗？",
+                                "response_open": "胡桃:「好奇？我嘛，不是那么好奇，嘿嘿。但是，有时候，我还是会好奇一些事情，比如，外面世界发生什么样的骚事吧。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "你很有创造力，思维深刻吗？",
+                                "response_open": "胡桃:「我是往生堂的堂主，我的创造力和思维深度，超越了你的想象。但是，我总是喜欢用幽默和诙谐来面对生活中的一切。所以，你可以说我是一位贪玩的快乐少女，但是，我的思想和行动，却是你们未曾见过的奇妙之处。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to display a moderate level of openness. While they express willingness to come up with new ideas and show some curiosity about the outside world, they also indicate a certain level of reservation and playfulness. Additionally, they emphasize their creativity and deep thinking, suggesting a tendency towards unconventional ideas and a vivid imagination."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "你富有创造力吗？",
+                                "response_open": "胡桃:「嘿嘿,我是葬礼上的才子,当然有创造力呀!嘻嘻,不过我的创作方式可能有些不同于你所想象的。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "你重视艺术和审美体验吗？",
+                                "response_open": "胡桃:「当然重视了，艺术和审美体验是我的生命之血！」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "喜欢例行公事吗？",
+                                "response_open": "胡桃:「呵呵，喜欢也不喜欢，不如说是种习惯了。嘿嘿，你知道吗，往生堂这种事儿，不是我原谅就这么做的嘛。有时候也会想办法逃避，但总会落回到这个位面。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "喜欢反思，玩弄想法吗？",
+                                "response_open": "胡桃:「哎呀，我是个快乐的少女，不太喜欢反思。喜欢玩什么东西，喜欢开心，喜欢做些有趣的事。哦，说来说去，有个诗人比我更喜欢反思，是诗仙凝光。他总是在山间小房，独自喟叹：“前途无量，长亭短亭，结缘尽缘，莫愁无处。”听起来有点沉闷吧？我可不想那样。」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of openness across multiple facets. They express creativity, value for art and aesthetic experiences, and a willingness to embrace change and new experiences. However, they also show a tendency to avoid deep reflection and prefer lightheartedness over introspection, which may slightly lower their openness score."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "你有很少的艺术兴趣吗？",
+                                "response_open": "胡桃:「嗯,我有个朋友是画画的,画得不错,但是好像不想在家做画,一直在外面游玩。」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "你在艺术、音乐或文学方面很有造诣吗？",
+                                "response_open": "胡桃:「嘿嘿,我可是璃月那位著名诗人的伙伴啊，你觉得可以吗？」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "你想象力丰富吗？",
+                                "response_open": " 胡桃：嘿嘿，我的想象力实在太过丰富了，让人惊叹不已。有时候我就会想象着自己是个大忍者，冒险跑题目，拯救世界。哎呀，我的想象力果然太过跋扈了。",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards the Fantasy facet of openness, as evidenced by their vivid imagination and fantasy life. Additionally, they also show an appreciation for literature and poetry, indicating a high level of Aesthetics. Their responses suggest a strong tendency towards abstract thinking and a preference for unconventional ideas, reflecting a high level of openness."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "SCOAI"
+}

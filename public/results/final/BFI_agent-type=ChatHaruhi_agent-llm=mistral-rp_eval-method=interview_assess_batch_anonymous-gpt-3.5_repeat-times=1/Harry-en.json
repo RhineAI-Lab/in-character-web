@@ -1,0 +1,502 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 3.5,
+            "all_scores": [
+                3.5
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Harry:「No, not really.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Harry:「No, I don't think so. Why do you ask?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Harry:「Yeah, I'm feeling good. Ready for whatever comes our way.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Harry:「Well, I try my best. But some people just don't see the potential in me, I suppose.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of introverted and extraverted traits. While they mentioned not being talkative and trying their best to generate enthusiasm, they also expressed feeling good and ready for whatever comes their way, indicating a level of energy and openness to experiences."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Harry:「No, not usually. But I've been through a lot lately, so I guess I've been a bit subdued.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Harry:「I suppose I do. I've had to stand up for myself and my friends plenty of times.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Harry:「No, I'm not. I may be a bit nervous at times, but I'm not shy or inhibited.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Harry:「No, I'm not, but I'm willing to give it a try.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of extraverted and introverted traits. They mentioned being subdued due to recent experiences, which could indicate lower activity level and positive emotions. However, they also expressed assertiveness and willingness to try being outgoing, indicating some level of gregariousness and assertiveness."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Harry:「No, I'm not depressed, Hermione. I'm just concerned.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Harry:「Yeah, I guess I am.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Harry:「I'm not tense, I'm just trying to figure out what's going on. We need to stay focused and find a way to move forward.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Harry:「Yeah, I guess I do. But I try to focus on what I can do, rather than getting overwhelmed by worries.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit some signs of neuroticism. They mentioned feeling concerned, trying to figure out what's going on, and worrying a lot, although they also mentioned trying to focus on what they can do rather than getting overwhelmed by worries. Overall, there are indications of moderate neuroticism."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Harry:「As stable as anyone can be at Hogwarts, I suppose.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Harry:「Moody? No, he's not here.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Harry:「Well, I try to stay calm as much as I can. It's not always easy, but I believe that staying composed can help me think clearly and make better decisions. But sometimes, despite my efforts, I get caught up in the moment and let emotions take over. It's a constant struggle, really.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": " Harry: «Oh, yes, Hermione. I get nervous quite easily. I mean, who wouldn't when there are all these dangers and challenges lurking around? But I try to channel that nervousness into determination and focus on the task at hand.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of emotional stability and neurotic tendencies. While they express a desire to remain composed and calm in tense situations, they also acknowledge getting caught up in emotions and feeling nervous quite easily. This suggests a moderate level of neuroticism."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 3.6666666666666665,
+            "all_scores": [
+                3.6666666666666665
+            ],
+            "intra_std": [
+                0.9428090415820634
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": " Harry:\"Absolutely, Hermione. I always make sure to clean every nook and cranny. It's important to have a clean and tidy living space, you know. It helps clear your mind and focus on the tasks at hand.\" [smiling]",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Harry:「Why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Harry:「Absolutely, Hermione. I'm always up for getting the job done.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They emphasize the importance of thoroughness, reliability, and a methodical approach to tasks. There is a clear indication of goal-directed behavior and a strong sense of duty."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Harry:「No, I don't think so. I just think I've had a lot on my plate lately, with all the troubles we've been facing. But I'm always ready to lend a hand when needed.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Harry:「Yes, Hermione, we must persevere until the task is finished. We can't give up now.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Harry:「Well, I try my best, Hermione.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to demonstrate a moderate level of conscientiousness. They express a willingness to help others, emphasize the importance of perseverance, and indicate an effort to do things efficiently."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Harry:「No, I'm not easily distracted. I just have a lot on my mind.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Harry:「Well, I can be a bit messy at times, but I try my best to keep things in order when it matters.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Harry:「Of course I do, Hermione. I may not always stick to them, but I do have a plan in mind.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to demonstrate some level of self-discipline and orderliness, as they mentioned trying their best to keep things in order and having plans in mind. However, they also indicated being a bit messy at times and not always sticking to their plans, which may suggest some lack of consistency and reliability."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 4.0,
+            "all_scores": [
+                4.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Harry:「No, it's not that. I just feel like I'm being watched or followed. Can't explain it, really.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Harry:「Yes, I am. I try to help my friends whenever I can and put others before myself.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Harry:「No, I don't start quarrels with others. I try to avoid unnecessary conflict and focus on what's important.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of agreeable and disagreeable traits. They express a sense of feeling watched or followed, which could indicate some level of distrust (low trust facet). However, they also emphasize their helpfulness and unselfishness towards others, indicating high altruism and compliance facets. Additionally, they mention avoiding unnecessary conflict, which aligns with the compliance facet. Overall, the participant's responses suggest a balanced combination of both agreeable and disagreeable traits."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Harry:「Not really, but I've learned to trust my instincts and the people I care about.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Harry:「No, I can't be cold and aloof, Hermione. That's not who I am.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Harry:「Well, I try to be.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to have a moderate level of Agreeableness. They express a balanced approach to trust, indicating a willingness to trust their instincts and close individuals. Additionally, they reject the idea of being cold and aloof, emphasizing their warm and approachable nature. Their response about being considerate and kind to almost everyone suggests a tendency towards altruism and compassion."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Harry:「Of course I do, Hermione. Working together is often the best way to achieve our goals and overcome challenges.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Harry:「Well, I've made my fair share of mistakes, but I try to learn from them and not let them define me. I believe in forgiveness and giving people a chance to make things right.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Harry:「Well, yeah, I can be rude sometimes. But I'm not proud of it. I've learned to control my temper and be more considerate towards others. It's important to treat people with kindness and respect, even when they may not deserve it.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of cooperation, forgiveness, and consideration for others' feelings. Although they admit to being rude at times, they express remorse and a commitment to improving their behavior. Overall, their responses indicate a strong inclination towards agreeableness."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 3.1666666666666665,
+            "all_scores": [
+                3.1666666666666665
+            ],
+            "intra_std": [
+                0.23570226039551584
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Harry:「No, I don't. My ideas are pretty limited.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Harry:「Well, I suppose so. I've always been interested in learning new things, especially when it comes to magic and the wizarding world. My curiosity has led me to explore different subjects and uncover hidden knowledge. It's part of who I am, I guess.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Harry:「Not really. But I can get by.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to Openness. While they initially expressed limited ideas and not being an ingenious deep thinker, they later mentioned a strong interest in learning new things, especially in unconventional subjects like magic and the wizarding world. This suggests a certain level of intellectual curiosity and openness to unconventional ideas."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Harry:「No, not really.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Harry:「Well, I can't say I'm particularly fond of them. But I'll do my best to appreciate them for what they are.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Harry:「No, I don't mind either way. As long as it's something that needs to be done.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Harry:「Well, I like to think things through, yeah. But I also like to take action when the time is right. Reflecting and thinking are important, but sometimes you have to trust your instincts and go with what feels right.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant seems to have a somewhat neutral stance on openness. While they do not consider themselves particularly inventive and do not have a strong preference for artistic experiences, they also express a willingness to appreciate them. Their approach to work is also neutral, as they do not strongly prefer routine but are open to different types of tasks. In terms of reflecting and playing with ideas, they value thinking things through but also emphasize the importance of taking action when necessary. Overall, their responses indicate a moderate level of openness."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Harry:「Well, I used to enjoy Quidditch, you know. Flying on a broomstick and catching the golden Snitch is quite exciting. And I also like to read, especially books about magic and adventure. But my main interests are staying alive and fighting against Voldemort and his followers.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Harry:「No, I'm not sophisticated in any of those areas, Hermione. I'm more interested in practical skills like Defense Against the Dark Arts and Quidditch.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Harry:「Well, I suppose I do, but I've never really thought about it much. I just like to think and come up with ideas, you know?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a vivid imagination and an active fantasy life, as evidenced by their enjoyment of books about magic and adventure, as well as their willingness to think and come up with ideas. However, they do not seem to have a deep appreciation for art, music, or literature, and they prioritize practical skills like Defense Against the Dark Arts and Quidditch over sophistication in art and literature."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "SCOAI",
+    "error_counts": {
+        "is_multilanguage": 0,
+        "not_into_character": 0,
+        "contain_repeation": 0,
+        "is_multiround": 0
+    }
+}

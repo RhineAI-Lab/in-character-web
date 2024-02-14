@@ -1,0 +1,1393 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 3.6666666666666665,
+            "all_scores": [
+                4.0,
+                3.5,
+                3.5
+            ],
+            "inter_std": 0.23570226039551584,
+            "intra_std": [
+                1.0,
+                0.5,
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Jim Halpert: \"Oh, absolutely. I love to chat and share my thoughts.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Jim Halpert: \"Reserved? No, I don't have any reservations about telling you what I really think.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Michael Scott:「I'm always full of energy, Dwight! I've got enough energy to power this entire office!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Michael Scott:「Oh, absolutely! Enthusiasm is my middle name. Well, not really, it's actually Gary, but enthusiasm is definitely a close second. And let me tell you, Dwight here, he's a master at generating enthusiasm. Right, Dwight?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates high levels of talkativeness, lack of reservation, high energy, and enthusiasm generation, indicating a strong tendency towards extraversion."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Jim Halpert: \"Well, I wouldn't say I'm always quiet, but I definitely prefer observing and listening before jumping into a conversation.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Jim Halpert:「Oh, absolutely. I am the epitome of assertiveness. People tremble in fear when they see me coming. Just kidding, I'm actually more of a go-with-the-flow kind of guy. But I can definitely be assertive when necessary.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Jim: \"No, not really. I'm more of an extrovert, I guess.\"\n\nDwight: \"Interesting. So you're not afraid to speak your mind?\"\n\nJim: \"Not at all. I believe in being honest and straightforward.\"\n\nDwight: \"Hmm. Well, I find that inhibitions can be a weakness. It's important to always be assertive and confident.\"\n\nJim: \"I can see where you're coming from. But sometimes it's also important to listen and consider other perspectives.\"\n\nDwight: \"Listening is overrated. It's better to take control and make things happen.\"\n\nJim: \"Well, we can agree to disagree on that one.\"\n\nDwight: \"Agreed. But just remember, being shy or inhibited can hold you back from reaching your full potential.\"\n\nJim: \"Thanks for the advice, Dwight. I'll keep that in mind.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Jim Halpert: \"Uh, no, not really. I'm more of an introvert, actually.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of introverted and extraverted traits. While they express a preference for observing and listening before engaging in conversation, they also demonstrate assertiveness when necessary. Additionally, they acknowledge the importance of being honest and straightforward, which aligns with assertive traits. However, they also mention being more of an extrovert and not being shy or inhibited. Overall, their responses suggest a balanced combination of introverted and extraverted characteristics."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "6",
+                            "21",
+                            "1",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Jim Halpert: \"No, I'm not reserved. Why do you ask?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Jim Halpert:「Yeah, I guess so. Why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Jim Halpert: \"Well, I do enjoy a good conversation. Why do you ask?\"\nDwight Schrute: \"I'm just trying to gather information. Talkative people are usually more easily manipulated.\"\nJim Halpert: \"Ah, I see. Well, I'll keep that in mind.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Jim: \"No, not really. I'm more of an introvert.\"\n\nDwight Schrute: \"Well, that's a shame. You know, studies have shown that outgoing people are more successful in the workplace.\"\n\nJim: \"Is that so? Well, I guess I'll just have to find my own path to success.\"\n\nDwight Schrute: \"Good luck with that. I'll be over here networking and building valuable connections.\"\n\nJim: \"You do that, Dwight. I'll be over here getting my work done and actually making a difference.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of introverted and extraverted traits. While they mentioned not being reserved and enjoying a good conversation, they also indicated being quiet and not outgoing or sociable. Additionally, they seemed to be assertive in their response to the comment about outgoing people being more successful in the workplace. Overall, the participant's responses suggest a moderate level of extraversion with a tendency towards introversion."
+                    },
+                    {
+                        "id": [
+                            "16",
+                            "26",
+                            "11",
+                            "31"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Jim:「Well, I try to, but enthusiasm isn't really my strong suit.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Jim Halpert:「I guess you could say that. I mean, I'm not afraid to speak my mind and stand up for what I believe in. But I also try to be respectful and considerate of others. So yeah, I think I have an assertive personality. Why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Michael Scott:「I am always full of energy, Dwight! I've got enough energy to power this entire office!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Jim Halpert:「No, I'm not shy or inhibited. I'm actually quite outgoing and confident. But I think it's important to respect people's boundaries and not push them too far.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of extraverted and introverted traits. They express a lack of enthusiasm in the first conversation, which could indicate lower levels of positive emotions and excitement seeking. However, in the second conversation, they describe themselves as assertive and willing to speak their mind, suggesting higher levels of assertiveness and gregariousness. Additionally, the participant's claim of always being full of energy in the third conversation aligns with high activity levels. Finally, their statement about being outgoing and confident in the fourth conversation further supports the presence of extraverted traits."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "11",
+                            "36",
+                            "1",
+                            "21"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Michael Scott:「Oh, I am always full of energy! I've got enough energy to power this entire office! Dwight, you should take some notes on how to maintain high energy levels like me. It's all about positive thinking and embracing the day with enthusiasm!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Jim:「Not really. I'm more of an introvert.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Jim Halpert: \"Oh, you have no idea. I can talk all day if you let me.\"\n\nDwight Schrute: \"Really? Well, I have a challenge for you. Let's see who can talk the longest without stopping.\"\n\nJim Halpert: \"Alright, Dwight. You're on. But be prepared to lose.\"\n\n[narration: SCENE_BREAK]\n\n[Jim and Dwight sitting at their desks, engaged in a silent staring contest]\n\n[narration: SCENE_BREAK]\n\n[Several minutes pass]\n\nJim Halpert: \"So, Dwight, did you know that the average person spends six months of their life waiting for red lights to turn green?\"\n\nDwight Schrute: \"That's an interesting statistic, Jim. Did you also know that the world's largest rubber band ball weighs over 9,000 pounds?\"\n\nJim Halpert: \"Impressive, Dwight. But did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.\"\n\nDwight Schrute: \"Fascinating, Jim. But did you know that the average person spends two weeks of their life waiting for traffic lights to change?\"\n\nJim Halpert: \"Wow, Dwight. You really have a thing for traffic lights, don't you?\"\n\n[narration: SCENE_BREAK]\n\n[Jim and Dwight continue their silent staring contest, neither one willing to give up]\n\n[narration: SCENE_BREAK]\n\n[Several more minutes pass]\n\nJim Halpert: \"Okay, Dwight. I think I've had enough. You win.\"\n\nDwight Schrute: \"Ha! I knew it! I can outlast anyone when it comes to silence. I am the ultimate talkative champion!\"\n\nJim Halpert: \"Sure, Dwight. Whatever you say. But I still think I could beat you in a real conversation any day.\"\n\nDwight Schrute: \"We'll see about that, Halpert. We'll see.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Jim Halpert: \"Yeah, I guess I'm more of a quiet person.\"\n\nDwight Schrute: \"Interesting. Did you know that studies have shown that quiet individuals are often perceived as less competent and trustworthy?\"\n\nJim Halpert: \"Really? I never thought about it that way.\"\n\nDwight Schrute: \"Yes, it's important to make your presence known and establish authority. I can teach you some techniques if you're interested.\"\n\nJim Halpert: \"Thanks, Dwight, but I think I'll stick to being myself.\"\n\nDwight Schrute: \"Suit yourself. Just remember, sometimes it pays to be loud and assertive.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, <the participant> displays a high level of energy, enthusiasm, and talkativeness, as evidenced by their statements about maintaining high energy levels, engaging in a silent staring contest with a lot of talking, and expressing a preference for being talkative. However, they also mention being more of an introvert and a quiet person, albeit with a willingness to engage in a conversation challenge. Overall, their energy, enthusiasm, and talkativeness seem to outweigh their introverted tendencies."
+                    },
+                    {
+                        "id": [
+                            "6",
+                            "16",
+                            "26",
+                            "31"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Jim: \"Reserved? No, I'm just not a fan of unnecessary social interactions.\"\n\nDwight: \"Well, that's a sign of weakness. In nature, the reserved ones get eaten first.\"\n\nJim: \"Is that so? Well, lucky for me, I work in an office and not in the wild.\"\n\nDwight: \"You may think you're safe, but when the apocalypse comes, you'll be begging for my survival skills.\"\n\nJim: \"I'll take my chances, Dwight. But thanks for the concern.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Jim:「Well, I try to keep a positive attitude and bring some energy to the team. But I wouldn't say I generate a lot of enthusiasm like Dwight here. He's the king of enthusiasm.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Jim Halpert:「Oh, absolutely. I'm the epitome of assertiveness. Just ask anyone around here.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Jim:「Um, yeah, I guess sometimes I can be a little shy. But I think I've gotten better at opening up over the years.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of extraverted and introverted traits. They express a preference for avoiding unnecessary social interactions, which could indicate some introverted tendencies. However, they also mention trying to keep a positive attitude and bringing energy to the team, indicating some level of extraversion. Additionally, they claim to be assertive, which aligns with extraverted traits. Lastly, they acknowledge being shy at times, suggesting a blend of introverted and extraverted characteristics."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 3.0,
+            "all_scores": [
+                3.5,
+                3.0,
+                2.5
+            ],
+            "inter_std": 0.408248290463863,
+            "intra_std": [
+                0.5,
+                0.0,
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Michael Scott:「No, why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Jim Halpert: \"Actually, I find that the more relaxed and laid-back I am, the better I handle stress. It helps me approach challenges with a clear mind and a positive attitude.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Jim Halpert: \"I can be a little tense.\"\nDwight Schrute: \"No. I need you to be tense. Can you be tense?\"\nJim Halpert: \"I can try.\"\nDwight Schrute: \"No, trying is not good enough. I need you to be tense right now. Tense!\"\nJim Halpert: \"Okay, I'm tense. Is that good?\"\nDwight Schrute: \"No, you're not tense enough. I need you to be really tense. Like your life depends on it.\"\nJim Halpert: \"Dwight, I don't understand why I need to be tense.\"\nDwight Schrute: \"Because I'm about to attack you. I'm going to simulate a bear attack so you need to be ready to fight back.\"\nJim Halpert: \"Wait, what? Are you serious?\"\nDwight Schrute: \"Deadly serious. Now get ready, the bear is coming!\"\nJim Halpert: \"Dwight, this is ridiculous. I'm not going to pretend to fight a bear.\"\nDwight Schrute: \"Fine, be that way. But when a real bear comes, you'll be sorry you didn't practice.\"\nJim Halpert: \"Yeah, I think I'll take my chances.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Michael Scott:「I worry about everything. I worry about diseases, I worry about people getting sick, I worry about getting sick. I worry about diseases from sick people. I worry about people who don't worry about anything. I worry about people who worry too much. I worry about people who worry about people who don't worry about anything. I worry about people who worry about me worrying too much. I worry about what people think of me worrying too much. I worry about people who worry about what people think of them worrying too much. I worry about people who worry about what people think of them worrying about people who worry too much. I worry about...」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant exhibits high levels of anxiety, as indicated by excessive worrying and the ability to become tense when prompted. However, the participant also demonstrates some level of emotional stability by being able to handle stress well and not feeling depressed or blue. Overall, the participant's tendency towards anxiety and worry suggests a significant presence of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Jim Halpert:「I'm pretty sure I am emotionally stable. I'm not easily upset.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Michael Scott: \"Moody? Dwight, you're asking if I can be moody? Of course I can be moody! I'm a complex individual with a wide range of emotions. Sometimes I'm happy, sometimes I'm sad, sometimes I'm angry, and sometimes I'm just downright confused. But you know what? That's what makes me who I am. So yes, Dwight, I can definitely be moody. Just ask anyone who's ever worked with me.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Jim Halpert:「Oh, absolutely. I'm always cool as a cucumber.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Jim Halpert:「Only around Dwight.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of emotional stability and some neurotic tendencies. They express confidence in their emotional stability and ability to remain calm in tense situations. However, their acknowledgment of being moody and getting nervous easily around specific individuals suggests some level of emotional reactivity and vulnerability to stress."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "14",
+                            "24",
+                            "19",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Jim Halpert: \"Can you be tense? Can you just stand over here? Are you familiar with the phrase, 'Get out of my face or I'll roundhouse your ass'? Show of hands, who thinks Dwight should give it a whirl? [Dwight raises his hand] Okay, let's do it.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Jim Halpert:「Oh, absolutely. Nothing gets to me. I'm like a rock.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Michael Scott:「Dwight, I am a man of many worries. I worry about my employees, I worry about the success of this company, and I worry about my hairline receding. But most importantly, I worry about bears.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Michael Scott: \"No, I never get nervous. I'm confident in everything I do.\"\n\nDwight Schrute: \"That's a lie. I've seen you panic multiple times. Like that time you accidentally set your pants on fire during the safety drill.\"\n\nMichael Scott: \"Okay, okay, maybe I get a little nervous sometimes. But it's important for a leader to stay calm and composed in any situation.\"\n\nDwight Schrute: \"Well, I never get nervous. I am always prepared for anything. I have a survival kit in my car, just in case.\"\n\nMichael Scott: \"Survival kit? Dwight, this is an office, not the wilderness. But I guess it's good to be prepared.\"\n\nDwight Schrute: \"Exactly. You never know when a disaster might strike. And when it does, I'll be ready.\"\n\nMichael Scott: \"Well, I admire your preparedness, Dwight. But let's hope we never have to use that survival kit in the office.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant exhibits a mix of tendencies related to neuroticism. While they express confidence and composure in some instances, they also demonstrate worry, nervousness, and tension in other situations. This suggests a moderate level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "34",
+                            "29"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Andy Bernard:「No, why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Jim Halpert:「Yeah, I'd say so.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Jim Halpert:「Actually, I find that I'm at my best when things are at their worst.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Michael Scott: \"Oh, Dwight, you have no idea. Moody doesn't even begin to describe it. I can go from happy to sad, from excited to angry, all in the span of five minutes. It's a gift, really. But it takes a special kind of person to handle that level of moodiness. Are you up for the challenge?\" \n\nDwight: \"Of course I am, Michael. I can handle anything you throw at me. I thrive in unpredictable situations.\"\n\nMichael Scott: \"Well, then, Dwight, get ready for a rollercoaster of emotions. Because working with me is like being on a never-ending emotional journey. Buckle up, my friend.\" \n\nCrowd:「[chuckles]」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant's responses suggest a mix of emotional stability and some susceptibility to mood swings, indicating a moderate level of neuroticism."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "24",
+                            "34",
+                            "14",
+                            "4"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Jim Halpert:「I'd say I'm emotionally stable. I'm not easily upset, but I do have a knack for pushing Dwight's buttons. It's all in good fun though.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Jim Halpert: \"Oh, absolutely. Yeah, I'm the picture of calmness. You should see me when there's a fire drill. I'm like a zen master.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Jim Halpert: \"I can be tense.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Michael Scott:「Depressed? No, I'm not depressed. Why would you think that?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of anxiety, depression, and vulnerability. They express being emotionally stable, not easily upset, and remaining calm in tense situations. They also deny being depressed. However, they do acknowledge being able to be tense, which suggests some level of anxiety or tension at times. Overall, the participant's responses indicate a generally low level of neuroticism."
+                    },
+                    {
+                        "id": [
+                            "29",
+                            "9",
+                            "19",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Michael Scott: \"Oh, Dwight, can I be moody? Absolutely! Moody is my middle name. Well, actually, it's Gary, but moody works too. You see, being moody is an art form. It's about expressing all the emotions that flow through your veins. Happiness, sadness, anger, confusion, you name it! So, Dwight, if you ever need a lesson in moody, just look to your boss, Michael 'Moody' Scott.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Jim Halpert:「Yeah, I'm pretty relaxed. I handle stress by taking long naps in my office.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Michael Scott:「Worry? I mean, yeah, sure, Dwight, I worry. I worry about a lot of things. Like, what if I never find true love? What if I never become a millionaire? What if I never get to travel the world and see all the wonders it has to offer? What if I never get to eat another slice of pizza again? What if I never get to meet my hero, Bruce Springsteen? What if...」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Jim Halpert: \"Actually, I have a really high tolerance for embarrassment.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant exhibits a mix of traits related to neuroticism. They express a tendency to be moody, worry a lot, and get nervous easily. However, they also mention being relaxed and having a high tolerance for embarrassment, which suggests some level of emotional stability."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 3.6111111111111107,
+            "all_scores": [
+                3.6666666666666665,
+                3.1666666666666665,
+                4.0
+            ],
+            "inter_std": 0.3424674446093876,
+            "intra_std": [
+                1.247219128924647,
+                0.8498365855987975,
+                0.816496580927726
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Jim:「Of course I do a thorough job. Why do you ask?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Jim Halpert: \"Can you be somewhat careful?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Jim Halpert: \"Oh, absolutely. I am the epitome of reliability. You can always count on me to be there and get the job done.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They express a strong sense of competence, reliability, and a methodical approach to their work. Additionally, their emphasis on being thorough and careful further supports their conscientious nature."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Jim Halpert:「Well, I wouldn't say lazy, but I do like to find ways to work smarter, not harder. Efficiency is key, you know?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Jim Halpert:「Do you ever stop and think, 'Is what I'm doing right now pointless?'」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Jim Halpert:「Well, I like to think so. I mean, I try to get my work done in a timely manner and not waste too much time on non-work related things. Why do you ask?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a preference for efficiency and working smarter, not harder. However, there is also a tendency to question the purpose of tasks and to prioritize work over non-work related activities. This suggests a balanced approach to conscientiousness, with a focus on efficiency and a degree of deliberation."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Jim Halpert:「Sorry, what did you say? I was too busy staring at my stapler.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Jim Halpert: \"Um, yeah. I mean, I guess I'm not the most organized person in the world.\"\n\nDwight Schrute: \"Well, that's a shame. You know, being organized is crucial for efficiency and productivity. It's a sign of a disciplined mind.\"\n\nJim Halpert: \"Yeah, I understand that. I just have my own way of doing things, you know?\"\n\nDwight Schrute: \"Your own way? That's just an excuse for laziness and lack of discipline. In this office, we should strive for perfection, not mediocrity.\"\n\nJim Halpert: \"Wow, Dwight. I didn't realize being organized was such a big deal to you.\"\n\nDwight Schrute: \"Of course it is! It's one of the key qualities of a true professional. If you want to succeed in life, you need to get your act together.\"\n\nJim Halpert: \"Well, thanks for the advice, Dwight. I'll keep that in mind... or maybe not.\"\n\nDwight Schrute: \"You can mock me all you want, but mark my words, Jim. Being organized will take you places. And when you're drowning in chaos, don't come crying to me for help.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Jim Halpert:「Not really, no.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a lack of organization, a tendency to be easily distracted, and a reluctance to make plans and follow through with them. Additionally, there is a hint of defiance and a lack of adherence to discipline and order. The participant's responses suggest a lower level of conscientiousness."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "38",
+                            "3",
+                            "28"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Jim Halpert:「Oh, I'm sorry, I forgot we were making plans. I thought we were just talking about things we'll never actually do.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Jan: \"Okay, Dwight, let's talk about your job performance. Are you thorough in your work?\"\nDwight: \"Thorough? I am the epitome of thoroughness. I leave no stone unturned, no detail unchecked. If there's a job to be done, you can bet I'll do it thoroughly.\"\nJan: \"That's good to hear. It's important to be meticulous in our work. Keep it up, Dwight.\"\nnarration:[SCENE_BREAK]\nJim: \"Hey, Dwight, did you finish the inventory report?\"\nDwight: \"Of course I did! I went through every single item with a fine-tooth comb. It's all there, Jim, every last detail accounted for.\"\nJim: \"Wow, you really are thorough. Good job, Dwight.\"\nnarration:[SCENE_BREAK]\nMichael Scott: \"Dwight, I need you to go through these contracts and make sure everything is in order.\"\nDwight: \"Consider it done, Michael. I will meticulously review each contract, checking for any discrepancies or errors. You can trust me to be thorough.\"\nMichael Scott: \"That's what I like to hear, Dwight. I know I can always count on you to do a thorough job.\"\nnarration:[SCENE_BREAK]",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Jim Halpert:「No, I usually just give up and move on to something else.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, the participant demonstrates a mix of conscientious and less conscientious traits. While they show a high level of thoroughness and attention to detail in their work, as evidenced by their interaction with Dwight, they also display a tendency to forget plans and give up on tasks, indicating a lack of perseverance and reliability in certain situations."
+                    },
+                    {
+                        "id": [
+                            "33",
+                            "18",
+                            "43"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Jim Halpert:「Well, I like to think so. But I'm also a big fan of procrastination and taking long lunch breaks. So, it's a bit of a mixed bag.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Jim Halpert: \"Oh, absolutely. I thrive in chaos and disorder.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Jim Halpert:「Oh, absolutely.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of conscientiousness. They mentioned a tendency towards procrastination, taking long breaks, thriving in chaos and disorder, and being easily distracted. These traits are indicative of low self-discipline, disorganization, and lack of focus, which are contrary to conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "8",
+                            "13",
+                            "23"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Jim Halpert: \"So, I'm driving to work today, and I realize, I don't have any pants on.\" \nDwight Schrute: \"Classic Jim. Always pulling pranks, never taking anything seriously.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Jim Halpert: \"Oh, absolutely. I am the epitome of reliability. You can always count on me to get the job done, no matter what.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Michael Scott:「Lazy? No, Dwight, I am the epitome of productivity! I am a go-getter, a mover and a shaker! I am constantly on the move, always striving for success! Lazy is not a word that describes me!」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a mix of conscientious and less conscientious traits. While they show a lack of care and seriousness in the first conversation, they also exhibit strong reliability and ambition in the second and third conversations."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "43",
+                            "23",
+                            "3"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Jim Halpert: \"What? No, I'm not easily distracted.\"\n\nDwight Schrute: \"Well, that's good to know. Because I need you to help me with something very important.\"\n\nJim Halpert: \"Okay, what is it?\"\n\nDwight Schrute: \"I need you to help me set up a surveillance system in the office so I can keep an eye on everyone.\"\n\nJim Halpert: \"Wait, seriously? You want to spy on our coworkers?\"\n\nDwight Schrute: \"It's not spying, it's monitoring for productivity purposes. And I need someone I trust to help me.\"\n\nJim Halpert: \"Dwight, I don't think this is a good idea. We should respect people's privacy.\"\n\nDwight Schrute: \"Privacy is overrated, Jim. This is about ensuring efficiency and preventing slackers from getting away with it.\"\n\nJim Halpert: \"I don't know, Dwight. I think it's important to trust our coworkers and give them some space.\"\n\nDwight Schrute: \"Well, if you're not willing to help, I guess I'll have to find someone else.\"\n\nJim Halpert: \"Fine, I'll help. But I'm not sure I agree with this.\"\n\nDwight Schrute: \"Great. We'll start setting up the cameras tomorrow.\"\n\nJim Halpert: \"I can't believe I'm getting involved in Dwight's surveillance scheme.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Jim Halpert: \"Lazy? Me? No, I just have a different approach to work. I like to call it 'efficiently selective.' I focus on the tasks that really matter, and let the rest slide. It's all about work-life balance, you know?\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Jim Halpert:「Oh, absolutely. You know, Dwight, I've been thinking about it, and I really believe that you have a unique set of skills that are just being wasted here in the office. So Pam and I took the liberty of putting your resume out there on Monster.com, Google, and Craig's List. We're actually really interested in finding you a job that takes you out of state, preferably Alaska or India.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Demonstrates a mix of conscientious and less conscientious traits, leaning more towards conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "33",
+                            "13",
+                            "28"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Jim Halpert:「Well, I try to get my work done efficiently, yeah. But I also like to have fun and enjoy my time at the office.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Jim: \"Oh, absolutely. I'm known for my dedication and reliability. In fact, I've never missed a day of work in my entire career here.\" \n\nDwight: \"Impressive. And what about your sales record? Are you able to meet and exceed targets consistently?\" \n\nJim: \"Absolutely. I consistently exceed my sales targets and have been recognized as a top performer multiple times. I have a proven track record of success in this role.\" \n\nDwight: \"Good, good. And how do you handle difficult situations or conflicts in the workplace?\" \n\nJim: \"I believe in open communication and finding solutions that benefit everyone involved. I'm skilled at diffusing tension and resolving conflicts in a professional and fair manner.\" \n\nDwight: \"Interesting. And what about your work ethic? Can you handle long hours and intense workloads?\" \n\nJim: \"Absolutely. I'm known for my strong work ethic and ability to handle high-pressure situations. I'm willing to put in the extra hours and go above and beyond to get the job done.\" \n\nDwight: \"Very well. I will consider your application. Thank you for your time.\" \n\nJim: \"Thank you, Dwight. I appreciate the opportunity.\" \n\n[Scene ends]",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Michael Scott:「Yes, I do. I am a determined and dedicated worker.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of conscientiousness. They prioritize efficiency, reliability, meeting and exceeding targets, handling difficult situations professionally, having a strong work ethic, and persevering until tasks are finished."
+                    },
+                    {
+                        "id": [
+                            "38",
+                            "18",
+                            "8"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Jim Halpert:「Yeah, I think that's a pretty important part of being an adult.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Jim Halpert:「Uh, yeah, I guess you could say that. I mean, my desk is usually a mess and I often have trouble finding things. But hey, it's organized chaos, right?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Jim Halpert: \"Absolutely, Dwight. In fact, I can be so careless that I once accidentally deleted my entire computer's hard drive. It was a disaster, but hey, accidents happen, right?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to value making plans and following through with them, indicating a level of competence and achievement striving. However, the participant also admits to being disorganized and somewhat careless, which suggests lower levels of order, self-discipline, and deliberation."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 3.222222222222222,
+            "all_scores": [
+                2.6666666666666665,
+                3.3333333333333335,
+                3.6666666666666665
+            ],
+            "inter_std": 0.41573970964154905,
+            "intra_std": [
+                0.4714045207910317,
+                1.247219128924647,
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Jim Halpert:「Yeah. I don't think he's ever said a nice thing to anyone. But to be fair, I did steal his job, so...」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Jim Halpert:「Helpful and unselfish? Dwight, you've never been helpful or unselfish with anyone in your life.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Dwight Schrute: \"Do you start quarrels with others? Because I do not appreciate that kind of behavior. Conflict should be handled maturely and with respect. Starting unnecessary quarrels only leads to a toxic work environment and hinders productivity. So, let's focus on working together as a team and finding solutions instead of creating unnecessary disputes.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "The participant's responses indicate a mixed pattern, displaying both low and high agreeableness traits."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Jim: \"Um, I don't know, I guess it depends on the situation.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Jim: \"Sure, Dwight. How about this? You walk into a room, everyone greets you, and you just stare at them blankly, not acknowledging anyone. That's cold and aloof.\"\n\nDwight: \"No, that's just rude. I need something more calculated.\"\n\nJim: \"Okay, how about this? You walk into a room wearing sunglasses, with a serious expression on your face. You don't speak to anyone unless absolutely necessary, and when you do, you use short, curt sentences.\"\n\nDwight: \"Yes, that's better. I like it. Now add a hint of superiority, like you know you're better than everyone else.\"\n\nJim: \"Got it. So, in addition to the sunglasses and serious expression, you also stand taller, with perfect posture, and speak with a slight condescending tone.\"\n\nDwight: \"Perfect. Now that's cold and aloof.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Jim:「Well, Dwight, I try to be considerate and kind to everyone, but it's not always easy. Some people can be a little difficult to deal with, you know?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a mixed attitude towards trust, showing some skepticism and wariness in certain situations. Additionally, the participant demonstrates an understanding of cold and aloof behavior, even adding elements of superiority to the description, indicating a certain level of comfort with such attitudes. However, the participant also expresses an intention to be considerate and kind to everyone, despite acknowledging the challenges of dealing with difficult individuals."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Jim Halpert: \"Well, Dwight, that's a loaded question. I mean, who doesn't like to cooperate with others, right?\"\n\nDwight Schrute: \"Wrong. Cooperation is for the weak. I prefer to dominate and assert my dominance over others.\"\n\nJim Halpert: \"Oh really? And how's that working out for you, Dwight?\"\n\nDwight Schrute: \"Very well, thank you. I am the Assistant Regional Manager after all.\"\n\nJim Halpert: \"Assistant to the Regional Manager, Dwight. Let's not forget the 'to'.\"\n\nDwight Schrute: \"Details, Jim. Details. The important thing is that I am in a position of power and control.\"\n\nJim Halpert: \"Sure, Dwight. Whatever helps you sleep at night.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Jim Halpert: \"I have a forgiving nature, but when someone intentionally tries to hurt me, or the people I care about, I don't just forgive and forget. I may forgive eventually, but I won't forget. And I definitely won't let them get away with it.\" \n\n###\nDwight Schrute: \"You know what's better than a triceratops? Every other dinosaur that ever existed.\" \n\n###\nAndy Bernard: \"I'm sorry, Dwight. I just can't take you seriously with that haircut.\" \n\nDwight Schrute: \"Oh, really? Well, I can't take you seriously with that high-pitched voice and those tiny little teeth.\" \n\n###\nDwight Schrute: \"Bears, beets, Battlestar Galactica.\" \n\nJim Halpert: \"Identity theft is not a joke, Dwight!\" \n\nDwight Schrute: \"Well, millions of families suffer every year!\" \n\n###\nDwight Schrute: \"I am faster than 80% of all snakes.\" \n\nJim Halpert: \"But you know what that means, Dwight? There's a 20% chance a snake will catch you.\" \n\nDwight Schrute: \"False. Snakes are no match for me.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Dwight: \"Rude? No, I wouldn't say I'm rude. I simply have high standards and a low tolerance for incompetence. If someone isn't pulling their weight or following the rules, I'll let them know. It's all about maintaining efficiency and order in the workplace.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, <the participant> displays a mix of traits related to Agreeableness. On one hand, there are instances of assertiveness, dominance, and a lack of cooperation, which may indicate lower levels of Agreeableness. On the other hand, there are expressions of forgiveness and a desire to maintain efficiency and order, which could suggest higher levels of Agreeableness. Overall, there seems to be a balance between cooperative and assertive tendencies, with a leaning towards assertiveness and dominance."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "42",
+                            "32",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Jim Halpert: \"Cooperate? Oh, absolutely. I am the king of cooperation. Just ask Dwight, we make a great team.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Michael Scott:「No, Dwight. Not everyone. Just the people I like. And sometimes not even them.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Dwight Schrute: [looking sternly at someone] \"Do you start quarrels with others? Because let me tell you, starting a quarrel is a sign of weakness. A strong person knows how to resolve conflicts peacefully and efficiently. So, I ask you, are you a weakling who thrives on unnecessary confrontations, or are you someone who values harmony and productivity?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of agreeable and disagreeable traits. They express a willingness to cooperate and value harmony and productivity, which aligns with agreeableness. However, they also display a lack of consideration and kindness towards everyone, as well as a confrontational attitude, which are contrary to agreeableness."
+                    },
+                    {
+                        "id": [
+                            "7",
+                            "2",
+                            "22"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Michael Scott:「No, Dwight. I'm sorry, but you're not helpful or unselfish. You're selfish and unhelpful. You always put yourself first.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Jim Halpert:「Well, I don't really find fault with others, but I do enjoy pranking Dwight. It's just harmless fun, you know? Like when I put his stapler in Jell-O. Or when I convinced him that it was Friday when it was actually Thursday. It's all in good fun.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Jim Halpert: \"Well, I used to be, but then I started working here.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits a low level of trust, tends to find fault with others, and displays a somewhat selfish and unhelpful attitude. Additionally, the participant's enjoyment of pranking others may indicate a lack of straightforwardness and compliance. Overall, the participant's responses suggest a lower level of Agreeableness."
+                    },
+                    {
+                        "id": [
+                            "37",
+                            "27",
+                            "17"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Michael Scott: \"Dwight, we've talked about this. We need to treat everyone with respect and kindness, even if we don't always agree with them.\"\n\nDwight Schrute: \"But what if they're being rude to me first? Shouldn't I defend myself?\"\n\nJim Halpert: \"Dwight, it's important to rise above it. Being rude back only escalates the situation. We should strive to be the bigger person.\"\n\nDwight Schrute: \"But what if they cross a line? Shouldn't I stand up for myself?\"\n\nPam Beesly: \"There's a difference between standing up for yourself and being rude. You can assert yourself respectfully and address the issue without being rude in return.\"\n\nMichael Scott: \"Exactly, Pam. It's about finding a balance between assertiveness and kindness. We can't let other people's rudeness dictate our behavior.\"\n\nDwight Schrute: \"I suppose you're right. I'll try to handle it differently next time.\"\n\nJim Halpert: \"That's the spirit, Dwight. We're all here to support each other and create a positive work environment.\"\n\nDwight Schrute: \"Maybe I should start a beet farm instead. They won't be rude to me there.\"\n\nMichael Scott: \"Dwight, we appreciate your dedication to your beet farm, but remember, we're a team here and we're here to help each other grow.\"\n\nDwight Schrute: \"Fine, I'll give it another shot. But if anyone crosses me, they'll have to answer to Schrute Farms.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Jim: \"Oh, absolutely. Watch this. Dwiiight, I'm your father.\"\n\nDwight: \"No, you're not.\"\n\nJim: \"Yep, I am. And I'm very disappointed in you.\"\n\nDwight: \"That's impossible. You're not my father.\"\n\nJim: \"Well, maybe you should have thought about that before you took my stapler.\"\n\nDwight: \"I didn't take your stapler!\"\n\nJim: \"Oh, really? Then why is it on your desk, Dwight?\"\n\nDwight: \"Because you put it there!\"\n\nJim: \"No, I didn't. I'm your father, remember? I have no reason to take your stapler.\"\n\nDwight: \"This is ridiculous. You're not my father.\"\n\nJim: \"Fine, be that way. But just remember, Dwight, I'm watching you. Always watching.\"\n\nDwight: \"Okay, I'm going to go now.\"\n\nJim: \"Goodbye, son.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Jim: \"I think I do.\"\nDwight: \"Well, I do not. Forgiveness is for weak people. It's for people who cannot stand up for themselves and let others walk all over them. I will never forgive anyone who wrongs me. I will seek revenge and make them regret ever crossing me. That's the Schrute way.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, <the participant> consistently emphasizes the importance of treating others with respect and kindness, advocates for rising above conflicts, finding a balance between assertiveness and kindness, and creating a positive and supportive environment. Additionally, <the participant> displays a forgiving nature and playful interaction, indicating a strong inclination towards agreeableness."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "37",
+                            "27",
+                            "42"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Dwight Schrute: \"Am I sometimes rude to others? Absolutely not. I believe in treating everyone with respect and dignity. Rude behavior is unprofessional and goes against my principles. As an Assistant to the Regional Manager, I strive to create a positive and productive work environment for everyone.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Michael Scott: \"Oh, absolutely. Dwight, you know I can be cold and aloof. Watch this.\" [Michael puts on a serious face and crosses his arms] \"I am the epitome of coldness and aloofness. I am a glacier floating in the Arctic, unaffected by the warmth of human emotions.\"\n\nDwight: [laughs] \"That's not bad, Michael. But I think I can do better. Watch and learn.\" [Dwight puts on a stern expression and stands up straight] \"I am the embodiment of coldness. My heart is made of ice, and my emotions are locked away in a secret vault. I am the master of aloofness, unaffected by the trivialities of human interaction.\"\n\nMichael Scott: [impressed] \"Wow, Dwight. That was... chilling. You've truly mastered the art of being cold and aloof. I am in awe.\"\n\nJim: [deadpan] \"Guys, we're in a paper company. Being cold and aloof isn't really a requirement for our job.\"\n\nDwight: [smirking] \"Oh, Jim. You just don't understand the true power of being cold and aloof. It's a skill that can be applied in any situation, even in the face of a sales pitch or a beet harvest.\"\n\nMichael Scott: \"Dwight's right, Jim. Coldness and aloofness can be powerful tools in the business world. Just imagine walking into a negotiation, exuding an icy aura that makes your opponents tremble.\"\n\nJim: [rolls eyes] \"Sure, Michael. I'll keep that in mind for my next sales pitch. Maybe I'll bring a block of ice with me to really set the mood.\"\n\nDwight: [smirking] \"That's the spirit, Jim. Embrace the coldness within you. Become one with the ice.\"\n\nJim: [laughs] \"Alright, Dwight. I'll work on my cold and aloof persona. But I can't promise it'll be as impressive as yours.\"\n\nMichael Scott: \"That's the spirit, Jim! Together, we'll become the coldest and most aloof paper salesmen in the world. Watch out, Dunder Mifflin. The Ice Salesmen are coming for you!\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Jim Halpert: \"Uh, well, Dwight, I think cooperation is important in a team environment. We should all work together towards a common goal.\"\n\nDwight Schrute: \"Cooperation is for the weak! I prefer to work independently and get things done efficiently. I don't need anyone slowing me down.\"\n\nJim Halpert: \"But Dwight, sometimes working together can lead to better results. We can bounce ideas off each other and come up with innovative solutions.\"\n\nDwight Schrute: \"Innovation is overrated, Jim. I prefer traditional methods that have been proven to work. Cooperation just leads to compromise and mediocrity.\"\n\nJim Halpert: \"Well, Dwight, I guess we'll have to agree to disagree on this one. But remember, teamwork makes the dream work!\"\n\nDwight Schrute: \"Dreams are for the weak, Jim. I'll stick to my own methods and achieve success on my own terms.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a mix of traits related to Agreeableness. In the first conversation, <the participant> expresses a strong belief in treating everyone with respect and dignity, emphasizing the importance of creating a positive and productive work environment. This aligns with traits such as trust, straightforwardness, and altruism, indicating a cooperative and compassionate attitude. However, in the second conversation, <the participant> engages in playful banter about being cold and aloof, demonstrating a willingness to engage in light-hearted humor and adapt to social dynamics. This could reflect a balance between tender-mindedness and compliance, as well as an ability to navigate different social contexts. In the third conversation, <the participant> expresses both a preference for cooperation and an inclination towards independent work, indicating a nuanced approach to teamwork and individuality. Overall, <the participant> exhibits a combination of agreeable traits, such as trust, altruism, and cooperation, alongside elements of independence and adaptability."
+                    },
+                    {
+                        "id": [
+                            "32",
+                            "2",
+                            "22"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Michael Scott:「Dwight, are you asking if I'm considerate and kind to almost everyone?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Jim Halpert:「Yeah. But I don't tend to find as much fault with myself. So I guess that's a fault too.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Jim Halpert: \"Well, that depends. Are you going to use this information against me?\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of traits related to Agreeableness. They show some level of consideration and kindness in the first conversation, but also display a tendency to find fault with others and express distrust in the third conversation. This suggests a somewhat balanced approach to interpersonal relationships, with a combination of cooperative and skeptical tendencies."
+                    },
+                    {
+                        "id": [
+                            "17",
+                            "12",
+                            "7"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Jim Halpert: \"Yeah, I do.\"\n\nDwight Schrute: \"Well, I don't. So, you might wanna watch your back.\"\n\nJim Halpert: \"Oh, I will. But you should know, I'm pretty good at dodging bullets.\"\n\nDwight Schrute: \"Oh really? Well, I'm pretty good at shooting them.\"\n\nJim Halpert: \"Well, I guess we'll just have to see who's faster.\"\n\nDwight Schrute: \"I'm always faster.\"\n\nJim Halpert: \"We'll see about that.\"\n\n(Dwight and Jim engage in a playful mock duel with finger guns, pretending to shoot each other)",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Dwight Schrute: \"Do you start quarrels with others? Because if you do, I have just one thing to say to you: I will not tolerate any disruptive behavior in this office. We are a team, and we need to work together in harmony. So if you have any issues or concerns, bring them to me directly, and we will address them like civilized adults. But starting quarrels? That will not fly under my watch.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Jim Halpert:「Oh, absolutely. Dwight is the most helpful and unselfish person I know. Just ask him.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a mix of agreeable and assertive traits. In the first conversation, there is a playful and lighthearted interaction, indicating a level of friendliness and cooperation. However, there are also assertive and competitive remarks, suggesting a willingness to stand up for oneself. In the second conversation, the participant emphasizes the importance of harmony and teamwork, displaying a cooperative and accommodating attitude. The third conversation showcases a sarcastic and humorous response, which may indicate a blend of agreeableness and assertiveness."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 3.8333333333333335,
+            "all_scores": [
+                4.0,
+                4.0,
+                3.5
+            ],
+            "inter_std": 0.23570226039551584,
+            "intra_std": [
+                0.816496580927726,
+                0.816496580927726,
+                0.408248290463863
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Jim:「Oh, all the time. Like, just the other day, I came up with this amazing idea for a new product line. It's gonna revolutionize the industry.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Jim:「Well, I wouldn't say I'm curious about everything, but yeah, I do like to learn about new things and explore different interests. Why do you ask?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Jim: \"Well, I wouldn't necessarily call myself 'ingenious,' but I do like to think deeply about things.\"\nDwight: \"Interesting. I've always prided myself on being both ingenious and a deep thinker. It's a rare combination, you know.\"\nJim: \"Oh, I know. You're definitely one of a kind, Dwight.\"\nDwight: \"Thank you, Jim. I take that as a great compliment coming from someone as observant as you.\"\nJim: \"No problem, Dwight. Just keep being your unique, deep-thinking self.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of openness. They actively engage in generating new ideas, express curiosity about different things, and value deep thinking. Their willingness to explore new interests and their appreciation for intellectual curiosity suggest a strong inclination towards openness."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Michael Scott:「Inventive? Absolutely! I once came up with an idea for a hybrid of a stapler and a toaster. You know, so you can toast your bread while you staple your papers. Brilliant, right?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Jim:「Well, I appreciate art and beauty, but I wouldn't say it's a top priority for me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Jim Halpert:「No, I prefer work that is challenging and keeps me on my toes. Routine work can get boring after a while.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Jim:「I do enjoy reflecting and playing with ideas. It's always fascinating to explore different perspectives and possibilities. How about you, Dwight? Do you enjoy that too?」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a high level of openness. They exhibit traits such as inventiveness, appreciation for art and beauty, a preference for challenging work over routine, and enjoyment of reflecting and playing with ideas."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Dwight Schrute:「Art is for the weak. Real men focus on more important things, like survival skills and productivity. Artistic interests are a waste of time and energy.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Jim Halpert: \"Well, Dwight, I wouldn't say I'm the most sophisticated person in those areas, but I do appreciate art, music, and literature. I enjoy going to art galleries and listening to a wide range of music genres. As for literature, I like to read a variety of books, from classics to contemporary fiction.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Jim:「Oh, absolutely. I have a very active imagination.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a mixed attitude towards openness. While they express a disdain for artistic interests and prioritize practical skills, they also demonstrate an appreciation for art, music, and literature, as well as an active imagination."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "44",
+                            "20",
+                            "25"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Michael Scott:「Oh, absolutely! Dwight here is the most sophisticated person I know. He can recite Shakespeare and identify every classical painting in the world. Go ahead, Dwight, show them your impressive knowledge!」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Jim: \"Oh, absolutely. I have a very active imagination.\"\n\nDwight: \"Good. Because I need you to imagine a scenario for me. Picture this: a world where everyone is as hardworking, efficient, and dedicated as me. Where incompetence is non-existent, and productivity is at an all-time high. Can you see it?\"\n\nJim: \"Uh, yeah, sure. I can picture that.\"\n\nDwight: \"Great. Now make it even better. Add in a beet farm on every corner, and a sales team that can sell anything from paper to weapons. Oh, and don't forget about the bears. Bears that can talk and work in the office alongside us.\"\n\nJim: \"Bears? Really?\"\n\nDwight: \"Yes, bears. They would be the ultimate employees. Strong, loyal, and with a killer instinct for sales. Imagine the success we would achieve with an army of bear employees.\"\n\nJim: \"Okay, Dwight. I think you might be taking this a little too far.\"\n\nDwight: \"No, Jim. This is the future of Dunder Mifflin. A world where bears and humans work together to dominate the paper industry. It's a vision only a true visionary like me can see.\"\n\nJim: \"Well, Dwight, I have to say, your imagination is definitely one of a kind.\"\n\nDwight: \"Thank you, Jim. Now, let's get to work on making this vision a reality.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Michael Scott: \"Inventive? Dwight, you're one of the most inventive people I know! Remember that time you built that robot butler in the break room? That was genius!\"\n\nDwight: \"Thank you, Michael. I pride myself on my ingenuity. It's all about thinking outside the box and coming up with innovative solutions.\"\n\nMichael Scott: \"Exactly, Dwight! That's what makes you such a valuable asset to this company. Your ability to think creatively and find new ways to solve problems is truly impressive.\"\n\nDwight: \"Well, I believe that every problem has a solution, and it's just a matter of finding the most efficient and effective way to solve it. That's where my inventiveness comes in.\"\n\nMichael Scott: \"And we're lucky to have you, Dwight. Your inventive ideas have helped us improve our processes and achieve success. Keep up the great work!\"\n\nDwight: \"Thank you, Michael. I will continue to push the boundaries of innovation and ensure that this company stays ahead of the curve.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "The participant demonstrates a strong appreciation for creativity, imagination, and inventive thinking, as well as openness to unconventional scenarios, indicating a high level of Openness."
+                    },
+                    {
+                        "id": [
+                            "30",
+                            "35",
+                            "41",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Jim:「Well, I appreciate art, but I wouldn't say I value it above everything else. I mean, there are other things that are more important to me.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Jim Halpert:「Oh, absolutely. I love doing the same thing over and over again, every day. It's just so exciting.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Jim: \"Well, I do enjoy a good game of Call of Duty every now and then. Does that count as artistic?\"\n\nDwight: \"No, Jim. Video games are not artistic. I'm talking about real art, like painting, sculpting, or playing the recorder.\"\n\nJim: \"Oh, well in that case, no. I don't have any artistic interests.\"\n\nDwight: \"Figures. Only a true artist can appreciate the beauty and complexity of the world around us.\"\n\nJim: \"Sure, Dwight. Whatever you say.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Jim:「Yeah, I mean, I think about things all the time. But sometimes I just get distracted and think about something else entirely.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to have a moderate level of openness. While they appreciate art to some extent, they do not prioritize it above everything else. Their preference for routine work and lack of artistic interests suggest a more conventional and practical thinking style. However, their tendency to reflect and play with ideas indicates some level of intellectual curiosity and openness to unconventional ideas."
+                    },
+                    {
+                        "id": [
+                            "5",
+                            "15",
+                            "10"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Jim:「Yeah, every now and then. Why?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Jim: \"Well, I like to think I have my moments of ingenuity and deep thinking.\"\n\nDwight Schrute: \"Moments? Please, I am the epitome of ingenuity and deep thinking. My mind is constantly working at a level far beyond that of mere mortals.\"\n\nJim: \"Sure, Dwight. Whatever you say.\"\n\nDwight Schrute: \"Don't underestimate me, Jim. My intelligence is my greatest asset, and I will use it to outsmart and outmaneuver anyone who crosses my path.\"\n\nJim: \"Okay, Dwight. Keep thinking those deep thoughts.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Jim: \"Well, I suppose I am curious about a lot of things. I like to learn and explore new ideas.\"\n\nDwight Schrute: \"Curiosity is a sign of intelligence. You know, I once read that curious people are more likely to succeed in life.\"\n\nJim: \"Is that so? Well, I guess I'm on the right track then.\"\n\nDwight Schrute: \"Yes, you are. Keep feeding your curiosity, Jim. It will take you far.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards openness. They express a willingness to come up with new ideas, claim to be ingenious and deep thinker, and exhibit curiosity about various things. Additionally, they value intelligence and curiosity, which aligns with the facet of Ideas and Actions within the Openness dimension."
+                    }
+                ],
+                [
+                    {
+                        "id": [
+                            "44",
+                            "41",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Jim Halpert: \"Well, Dwight, I like to think I have a certain appreciation for those things. But sophistication is subjective, isn't it?\" \n\nDwight Schrute: \"Subjective, maybe. But there are certain benchmarks that can be objectively measured. For example, can you quote Shakespeare or identify a Monet painting?\" \n\nJim Halpert: \"I can quote a few Shakespeare lines, and I could probably recognize a Monet if I saw one. But does that really determine someone's level of sophistication?\" \n\nDwight Schrute: \"It's just one aspect, Jim. Sophistication is about having a refined taste and understanding of the finer things in life. It's about being well-rounded and knowledgeable in various areas.\" \n\nJim Halpert: \"Well, Dwight, if sophistication is about being well-rounded, then I think I'm doing alright. I may not be an expert in any one thing, but I enjoy exploring different genres of music, reading a wide range of books, and appreciating various forms of art.\" \n\nDwight Schrute: \"That's a start, Jim. But true sophistication requires a deeper understanding and a commitment to continuous learning. It's not just about dabbling, it's about immersing yourself in the world of culture and knowledge.\" \n\nJim Halpert: \"I hear you, Dwight. And while I may not be the most sophisticated person in the room, I can still appreciate and enjoy these things in my own way. And isn't that what really matters?\" \n\nDwight Schrute: \"Perhaps, Jim. But don't underestimate the power of true sophistication. It can open doors and elevate one's status in ways you can't even imagine.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Classic scenes for the role of Dwight Schrute are as follows:\n\nJim:「Question, what kind of bear is best?」\nDwight:「That's a ridiculous question.」\nJim:「False. Black bear.」\nDwight:「That's debatable. There are basically two schools of thought--」\nJim:「Fact. Bears eat beets. Bears. Beets. Battlestar Galactica.」\nDwight:「Bears do not-- What is going on?! What are you doing?!」\n\n###\n\nDwight:「I am faster than 80% of all snakes.」\nJim:「That's... not really something to be proud of.」\nDwight:「False. I am the proud owner of a very fast snake.」\n\n###\n\nDwight:「Bears, beets, Battlestar Galactica.」\nJim:「What are you doing?」\nDwight:「Identity theft is not a joke, Jim! Millions of families suffer every year!」\n\n###\n\nDwight:「When I die, I want to be frozen.」\nJim:「Really?」\nDwight:「Yes. And if I can't be frozen, then I want to be stuffed.」\n\n###\n\nDwight:「I am Assistant Regional Manager.」\nJim:「Uh, you mean Assistant TO the Regional Manager.」\nDwight:「Same thing.」\n\n###\n\nDwight:「Question, what kind of bear is best?」\nJim:「We already did this.」\nDwight:「False. Black bear.」\nJim:「No, it's definitely panda bear.」\nDwight:「Panda bears are not bears, they're raccoons.」\nJim:「False.」\n\n###\n\nDwight:「I need a urine sample.」\nJim:「Why?」\nDwight:「I need to test it.」\nJim:「For what?」\nDwight:「That's classified.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Jim: \"Well, I like to think that I have some creativity and problem-solving skills.\"\n\nDwight: \"That's not what I asked. Are you ingenious, a deep thinker?\"\n\nJim: \"I mean, I do have my moments. I can come up with some pretty clever ideas.\"\n\nDwight: \"Hmm, I highly doubt that. I bet I could outthink you any day.\"\n\nJim: \"Oh really? Care to put that to the test?\"\n\nDwight: \"Challenge accepted, Jim. Let's see who the true deep thinker is.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.5,
+                        "analysis": "Based on the conversations, <the participant> demonstrates a moderate level of openness. They express an appreciation for art, music, and literature, indicating a moderate level of the Aesthetics facet of openness. Additionally, their willingness to engage in a challenge of intellect and creativity with Dwight suggests a moderate level of the Ideas facet. However, their interactions also reveal a degree of skepticism and practicality, which may indicate a lower inclination towards the Fantasy facet of openness. Overall, their responses reflect a balanced approach to new experiences and intellectual curiosity."
+                    },
+                    {
+                        "id": [
+                            "35",
+                            "10",
+                            "5",
+                            "25"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Jim Halpert:「Well, I think everyone prefers some routine in their work. It helps with productivity and efficiency. But too much routine can get boring. So, I like to have a balance between routine tasks and more challenging projects. Keeps things interesting, you know?」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Jim: \"Well, I guess I am. I mean, curiosity is a good thing, right?\"\n\nDwight Schrute: \"Wrong. Curiosity killed the cat, Jim. And I'll have you know, I've never lost a cat. Not once.\"\n\nJim: \"Okay, Dwight. But curiosity also leads to discovery and learning. It's what drives us to explore new ideas and find solutions to problems.\"\n\nDwight Schrute: \"Hmm, I suppose you have a point. But remember, knowledge is power. And I have a lot of knowledge. So, be careful what you ask me, Jim.\"\n\nJim: \"Oh, I'm always careful, Dwight. But I can't help being curious. It's just in my nature.\"\n\nDwight Schrute: \"Well, just remember, curiosity can be a double-edged sword. It can lead you down unexpected paths, for better or worse.\"\n\nJim: \"I'll keep that in mind, Dwight. But for now, I think I'll keep embracing my curiosity. It keeps things interesting.\"\n\nDwight Schrute: \"Interesting, huh? Well, just remember, Jim, curiosity killed the cat, and I've never lost a cat. Not once.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Jim: \"Oh, all the time. I'm just full of innovative ideas.\" \n\nDwight: \"Really? Like what?\" \n\nJim: \"Well, for example, instead of using paper clips, we could use tiny clothespins to hold our papers together. It's more efficient and adds a touch of style.\" \n\nDwight: \"That's ridiculous. Paper clips have been working just fine for centuries.\" \n\nJim: \"Hey, I'm just trying to think outside the box here.\" \n\nDwight: \"Well, maybe you should think inside the box, where all the practical ideas are.\"\n\n###\n\nDwight: \"I have a brilliant idea for boosting our sales.\" \n\nMichael Scott: \"Alright, Dwight, let's hear it.\" \n\nDwight: \"We should start a beet farm right here in the office. We can grow our own beets and sell them to the employees.\" \n\nMichael Scott: \"Dwight, this is a paper company, not a farm. Besides, not everyone likes beets.\" \n\nDwight: \"That's where you're wrong, Michael. Everyone loves beets. They're the perfect food. We could revolutionize the beet industry right from our desks.\" \n\nJim: \"Yeah, because the world is just dying for more beets.\" \n\nDwight: \"You'll see, Jim. Beets are the future.\"\n\n###\n\nDwight: \"I've come up with a way to increase productivity in the office.\" \n\nPam: \"Oh, really? What's your idea?\" \n\nDwight: \"We should implement a strict dress code. Everyone should wear uniforms, like they do in the military. It will promote discipline and efficiency.\" \n\nPam: \"I don't know, Dwight. I think people should be able to express themselves through their clothing.\" \n\nDwight: \"Nonsense. Fashion is a distraction. We need to focus on work, not on what everyone is wearing.\" \n\nJim: \"I don't know, Dwight. I think I do my best work when I'm wearing my lucky tie.\" \n\nDwight: \"Luck has nothing to do with it, Jim. It's all about discipline and following the rules.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Jim Halpert: \"Oh, absolutely. Dwight, you are the most inventive person I know. I mean, who else could come up with a beet farm and a bed and breakfast all in one? You're a genius, Dwight.\"",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a moderate level of openness. They express a preference for a balance between routine and challenging tasks, indicating a willingness to embrace change and new experiences. Additionally, they exhibit curiosity and an appreciation for new ideas, although they also engage in practical thinking and express skepticism towards unconventional suggestions. Overall, their responses suggest a moderate level of openness to new experiences and ideas."
+                    },
+                    {
+                        "id": [
+                            "20",
+                            "40",
+                            "30"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Jim:「Oh, absolutely. I have a very active imagination.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Jim: \"Yeah, I mean, I guess I do. It's always interesting to think about different perspectives and explore new ideas.\"\n\nDwight: \"Reflecting and playing with ideas is a waste of time. We need action and practical solutions. Sitting around and pondering won't get us anywhere.\"\n\nJim: \"Well, sometimes taking the time to reflect and explore ideas can actually lead to better solutions. It allows us to think outside the box and consider different options.\"\n\nDwight: \"I don't believe in wasting time on idle thoughts. We need to focus on efficiency and productivity. That's how we succeed.\"\n\nJim: \"I understand your perspective, Dwight, but sometimes it's important to take a step back and think before we act. It can prevent us from making mistakes or overlooking potential opportunities.\"\n\nDwight: \"I prefer to rely on my instincts and practical knowledge. Reflection is for dreamers, not doers.\"\n\nJim: \"Well, different approaches work for different people. I think a balance of reflection and action can lead to the best results.\"\n\nDwight: \"Agree to disagree, Jim. I'll stick to my practical ways, and you can enjoy your reflections.\"",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Jim:「Hmm, not really my thing, Dwight. I'm more into practicality and efficiency.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, the participant demonstrates a strong inclination towards active imagination, reflection, and exploration of new ideas. Despite encountering resistance from Dwight, the participant consistently expresses a preference for considering different perspectives and taking the time to reflect before acting. However, when it comes to artistic and aesthetic experiences, the participant leans more towards practicality and efficiency."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {
+        "robustness": 0.08189299827529156
+    },
+    "code": "SCOAI"
+}

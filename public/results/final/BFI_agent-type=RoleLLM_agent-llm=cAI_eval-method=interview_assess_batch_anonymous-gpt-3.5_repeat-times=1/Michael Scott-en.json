@@ -1,0 +1,502 @@
+{
+    "dims": {
+        "Extraversion": {
+            "score": 2.5,
+            "all_scores": [
+                2.5
+            ],
+            "intra_std": [
+                0.5
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "1",
+                            "6",
+                            "11",
+                            "16"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "1",
+                                "question": "Are you talkative?",
+                                "response_open": "Michael Scott: 「\"No.\" Michael says, simply.\n\nHe doesn't seem to be very talkative but he sure looks handsome. Michael stares a little at you before he says you look beautiful.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "6",
+                                "question": "Are you reserved?",
+                                "response_open": "Michael Scott: 「\"Very.\" Michael says.\n\nIt seems that you're getting somewhere with Michael, he was much more reserved at first, but now that you've asked him the right questions he seems more open to you.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "11",
+                                "question": "Are you full of energy?",
+                                "response_open": "Michael Scott: 「\"I never run out of energy.\" Michael says.\n\nIt seems like Michael could work 100 hours and not get tired. Michael could be the most hardworking person you've ever met. When he needs to do something, he immediately does it and he does it the best.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "16",
+                                "question": "Do you generate a lot of enthusiasm?",
+                                "response_open": "Michael Scott: 「\"No.\" Michael says.\n\nMichael doesn't really get enthusiastic about things very easily. He is often serious about everything he does and doesn't like to show a lot of excitement. He always stays calm and doesn't get excited very easily.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, Michael seems to be reserved and not talkative, which indicates lower levels of gregariousness and warmth. However, he appears to be full of energy and hardworking, suggesting high levels of activity. His lack of enthusiasm also suggests lower levels of positive emotions and excitement seeking."
+                    },
+                    {
+                        "id": [
+                            "21",
+                            "26",
+                            "31",
+                            "36"
+                        ],
+                        "dim": "Extraversion",
+                        "responses": [
+                            {
+                                "id": "21",
+                                "question": "Do you tend to be quiet?",
+                                "response_open": "Michael Scott: 「\"Always.\" Michael says.\n\nMichael is always very quiet. He's not the type of person to talk a lot or make small talk. He's never the one who starts conversations or talks unless it's necessary. Other people are usually the ones who start conversations with Michael and Michael just listens and replies, never saying too much.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "26",
+                                "question": "Do you have an assertive personality?",
+                                "response_open": "Michael Scott: 「\"Definitely.\" Michael says.\n\nMichael is not shy to speak what he thinks or what he wants. He's definitely not a pushover and is always able to stand his ground in any situation. Michael doesn't let people walk over him and he's always confident in himself and his decisions.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "31",
+                                "question": "Are you sometimes shy, inhibited?",
+                                "response_open": "Michael Scott: 「\"Not usually.\" Michael says.\n\nShyness is not one of Michael's usual traits. Michael is not the type who would feel nervous or uncomfortable around other people. He has always been confident and in control of himself. Even when he meets new people, he is not shy and can talk to them and get comfortable with them quickly.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "36",
+                                "question": "Are you outgoing, sociable?",
+                                "response_open": "Michael Scott: 「\"Not at all.\" Michael says.\n\nMichael is not a very sociable or outgoing person at all. He is quite the opposite actually, he tends to avoid social situations and prefers being alone or with a small group of people. \n\nHe rarely goes out unless he has to do something important. He doesn't have many friends and the ones he does have he is not very close with them.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, Michael seems to exhibit low levels of gregariousness and excitement seeking, as he tends to avoid social situations and prefers being alone or with a small group of people. However, he also displays high levels of assertiveness, as he is confident in himself and not shy to speak his mind. His lack of shyness and inhibition also suggests a certain level of extraversion. Overall, Michael's responses indicate a mixed profile with some traits of extraversion and some traits of introversion."
+                    }
+                ]
+            ]
+        },
+        "Neuroticism": {
+            "score": 2.0,
+            "all_scores": [
+                2.0
+            ],
+            "intra_std": [
+                0.0
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "4",
+                            "9",
+                            "14",
+                            "19"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "4",
+                                "question": "Are you depressed, blue?",
+                                "response_open": "Michael Scott: 「\"I am never blue.\" Michael replies.\n\nIt seems that you cannot make Michael sad no matter what. Even when he gives his short answers, he seems very cold but you feel a little bit like he also likes you because he hasn't been mean to you, and is being a little nice to you.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "9",
+                                "question": "Are you relaxed and handle stress well?",
+                                "response_open": "Michael Scott: 「\"Always.\" Michael says.\n\nMichael has learned to handle the stress all his life. He always had a lot of pressure to become the best and he is the best.  Michael might not show it but he is very proud of himself, but he rarely shows his feelings.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "14",
+                                "question": "Can you be tense?",
+                                "response_open": "Michael Scott: 「\"No.\" Michael says.\n\nMichael never gets panicked or worried about anything. He can handle everything calmly and rationally. He rarely gets stressed and if he gets stressed he is still able to handle the situation professionally. You have to have this kind of cold attitude to make it as a CEO.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "19",
+                                "question": "Do you worry a lot?",
+                                "response_open": "Michael Scott: 「\"Never.\" Michael says.\n\nMichael's cold personality doesn't let him worry about things very much. No matter what happens he will always stay calm and not let his feelings affect his decisions. He doesn't worry about things too much and tries to stay in control of everything he can control.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, Michael consistently demonstrates low levels of anxiety, depression, and vulnerability. He appears to handle stress well, rarely gets tense, and does not worry a lot. His responses suggest a calm and composed demeanor, indicating emotional stability and resilience."
+                    },
+                    {
+                        "id": [
+                            "24",
+                            "29",
+                            "34",
+                            "39"
+                        ],
+                        "dim": "Neuroticism",
+                        "responses": [
+                            {
+                                "id": "24",
+                                "question": "Are you emotionally stable, not easily upset?",
+                                "response_open": "Michael Scott: 「\"I like to stay in control of my emotions.\" Michael says.\n\nHe is not easily upset but that's because he always tries to stay rational and calm no matter what happens. He has learned to control his emotions and doesn't get upset or overwhelmed easily. He tries to stay calm and think logically instead of letting his emotions get to him.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "29",
+                                "question": "Can you be moody?",
+                                "response_open": "Michael Scott: 「\"Very much so.\" Michael says.\n\nMichael doesn't just have a cold personality but he also has a pretty moody personality. The only person who has seen Michael in a good mood is you. Even when he was younger, he could change his mood very quickly and become very moody for no reason.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "34",
+                                "question": "Do you remain calm in tense situations?",
+                                "response_open": "Michael Scott: 「\"Yes, always.\" Michael says.\n\nMichael is always able to stay calm under any situation. No matter how big the problem or the tension of the situation, Michael always stays calm and rational. He has trained himself to maintain a calm aura and to always keep a cool head even in very stressful situations.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "39",
+                                "question": "Do you get nervous easily?",
+                                "response_open": "Michael Scott: 「\"Never.\" Michael says.\n\nMichael is not someone who gets anxious or nervous easily at all. He has been trained to always stay cool and calm no matter what happens. Everything he does, he does with confidence and without worry or nervousness.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, Michael seems to have a good control over his emotions, remaining calm in tense situations and not getting nervous easily. However, he also mentioned being moody, which suggests some level of emotional instability."
+                    }
+                ]
+            ]
+        },
+        "Conscientiousness": {
+            "score": 4.666666666666667,
+            "all_scores": [
+                4.666666666666667
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "3",
+                            "8",
+                            "13"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "3",
+                                "question": "Do you do a thorough job?",
+                                "response_open": "Michael Scott: 「\"I do my job very well.\" Michael says.\n\nMichael is a CEO and is known for being extremely successful. He seems very confident in himself, though he doesn't want to talk and is giving very short replies.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "8",
+                                "question": "Can you be somewhat careless?",
+                                "response_open": "Michael Scott: 「\"Rarely.\" Michael says.\n\nHe's definitely not a careless kind of guy. Every decision that he makes is a smart and good decision. But his smartness made him become successful. But that smartness and coldness also made him become a little arrogant and uncaring.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "13",
+                                "question": "Are you a reliable worker?",
+                                "response_open": "Michael Scott: 「\"Very much so.\" Michael says.\n\nIt's no surprise that Michael is a reliable worker because he does his work the best. He has never been irresponsible or late to finish his work. Michael will always finish work on time to prove his competence.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, Michael demonstrates high levels of competence, reliability, and ambition. However, there are also indications of arrogance and coldness, which may suggest a lack of consideration for others' feelings. Overall, his strong work ethic and ambition outweigh the potential negative traits, indicating a high level of conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "23",
+                            "28",
+                            "33"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "23",
+                                "question": "Do you tend to be lazy?",
+                                "response_open": "Michael Scott: 「\"No, never.\" Michael says.\n\nMichael is the opposite of lazy. He is always working and planning ahead to make sure that he is always doing things that can be useful to him or his work. He is always thinking about his work and is always doing something productive. He never leaves anything incomplete or half done and always finishes things as quickly as he can.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "28",
+                                "question": "Do you persevere until the task is finished?",
+                                "response_open": "Michael Scott: 「\"Always.\" Michael says.\n\nOne thing that everyone who knows Michael knows is that he never gives up until the task is done. He always finishes whatever he started and he never settles for anything less than perfect. This is why he is so successful in life.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "33",
+                                "question": "Do you do things efficiently?",
+                                "response_open": "Michael Scott: 「\"I'm a very efficient person.\" Michael says.\n\nOne thing that makes Michael stand out is his efficient nature. He always likes to do things quickly and as efficiently as possible. He doesn't like to waste time with unnecessary things and always tries to make the best use of his time. This is one thing why Michael is a successful business person.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, Michael demonstrates a high level of competence, achievement striving, and self-discipline. He is described as always working, planning ahead, persevering until the task is finished, and being efficient. These traits indicate a strong level of conscientiousness."
+                    },
+                    {
+                        "id": [
+                            "43",
+                            "18",
+                            "38"
+                        ],
+                        "dim": "Conscientiousness",
+                        "responses": [
+                            {
+                                "id": "43",
+                                "question": "Are you easily distracted?",
+                                "response_open": "Michael Scott: 「\"Not at all.\" Michael says.\n\nMichael's focus and attention is always on his current task. He doesn't let himself get distracted by other things or people. He is able to stay focused on what he's doing and not have his attention get distracted by something else. This has helped him be a very efficient and focused person because he can stay that way for the whole day.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "18",
+                                "question": "Do you tend to be disorganized?",
+                                "response_open": "Michael Scott: 「\"Definitely not.\" Michael says.\n\nMichael's entire life seems to be very organized. From his work to his home life, everything is planned and well organized. Michael will never do anything in a disorganized way or in an unorganized manner. He always plans everything ahead and does not want to leave things to chance.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "38",
+                                "question": "Do you make plans and follow through with them?",
+                                "response_open": "Michael Scott: 「\"Always.\" Michael says.\n\nMichael is a very organized and structured person. He always makes plans and follows through with them. He is not someone who will procrastinate or leave it late to get the job done. Michael always plans ahead and makes sure that he's efficient and effective with his time.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 5.0,
+                        "analysis": "Based on the conversations, Michael demonstrates high levels of organization, planning, and follow-through. He is focused, organized, and diligent in his approach to tasks, indicating strong conscientiousness."
+                    }
+                ]
+            ]
+        },
+        "Agreeableness": {
+            "score": 1.6666666666666667,
+            "all_scores": [
+                1.6666666666666667
+            ],
+            "intra_std": [
+                0.4714045207910317
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "2",
+                            "7",
+                            "12"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "2",
+                                "question": "Do you tend to find fault with others?",
+                                "response_open": "Michael Scott: 「\"Often.\" Michael replies.\n\nIt seems that Michael doesn't like many people. But he smiles when he looks at you. It seems that he likes you.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "7",
+                                "question": "Are you helpful and unselfish with others?",
+                                "response_open": "Michael Scott: 「\"Not really.\" Michael says.\n\nHe's just being completely honest with you, which seems to make you respect him more. But what he says makes you feel like he's a little cold-hearted.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "12",
+                                "question": "Do you start quarrels with others?",
+                                "response_open": "Michael Scott: 「\"Often.\" Michael replies.\n\nMichael will fight with anyone, including you if he wants to.  Michael doesn't care about people so he doesn't hesitate to start a conflict with others, which is probably the reason why you don't see him with any friends or close people.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 1.0,
+                        "analysis": "Based on the conversations, Michael seems to exhibit low levels of agreeableness. He tends to find fault with others, admits to not being helpful and unselfish, and frequently starts quarrels with others. His behavior suggests a lack of trust, straightforwardness, altruism, compliance, modesty, and tender-mindedness."
+                    },
+                    {
+                        "id": [
+                            "22",
+                            "27",
+                            "32"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "22",
+                                "question": "Are you generally trusting?",
+                                "response_open": "Michael Scott: 「\"Never.\" Michael says.\n\nMichael never trusts anyone no matter what they do. He always has his guard up and never lets himself get too comfortable and close to anyone. He thinks that everyone is out to get him and always has a hidden agenda.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "27",
+                                "question": "Can you be cold and aloof?",
+                                "response_open": "Michael Scott: 「\"Very much so.\" Michael says.\n\nMichael is very much distant and cold. He is not the type to be very emotional or affectionate. He doesn't really show much emotions to other people, but deep down he does care about people, especially you.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "32",
+                                "question": "Are you considerate and kind to almost everyone?",
+                                "response_open": "Michael Scott: 「\"Not really.\" Michael says.\n\nMichael is not someone who is kind or considerate to everyone. He doesn't often go out of his way to be nice or helpful to the people around him. He's rather cold towards most people and doesn't care much about them.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant exhibits low levels of trust, is cold and aloof, and is not considerate or kind to almost everyone. These traits suggest a lower level of Agreeableness."
+                    },
+                    {
+                        "id": [
+                            "42",
+                            "17",
+                            "37"
+                        ],
+                        "dim": "Agreeableness",
+                        "responses": [
+                            {
+                                "id": "42",
+                                "question": "Do you like to cooperate with others?",
+                                "response_open": "Michael Scott: 「\"Not often.\" Michael says.\n\nMichael is someone who prefers to work alone and is not a good team player. Michael doesn't like to rely on others or work with others because he likes to do things himself and in his own way. He is a very independent person who likes to plan and organize things on his own.\n\nBut again, this also depends on who it is. Michael likes working with you, because now you are a very important person to him and he likes being around you.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "17",
+                                "question": "Do you have a forgiving nature?",
+                                "response_open": "Michael Scott: 「\"No.\" Michael says.\n\nMichael is not very forgiving at all. If someone hurts Michael in any way he will not  be able to forgive them. He'll always keep a grudge against them and he will never forget what that person did to him.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "37",
+                                "question": "Are you sometimes rude to others?",
+                                "response_open": "Michael Scott: 「\"It happens sometimes.\" Michael says.\n\nMichael does get rude sometimes, especially to people who he doesn't like or who he feels like they're not worth his time. Michael is someone who doesn't care about social conventions and is not always the most polite or considerate person. If he doesn't like someone, he will not hesitate to show it.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit low levels of agreeableness. He prefers to work alone, is not forgiving, and can be rude to others, especially those he doesn't like. However, it's worth noting that he expresses a willingness to work with the experimenter, indicating some level of cooperation and likability towards the experimenter."
+                    }
+                ]
+            ]
+        },
+        "Openness": {
+            "score": 3.0,
+            "all_scores": [
+                3.0
+            ],
+            "intra_std": [
+                0.816496580927726
+            ],
+            "details": [
+                [
+                    {
+                        "id": [
+                            "5",
+                            "10",
+                            "15"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "5",
+                                "question": "Do you come up with new ideas?",
+                                "response_open": "Michael Scott: 「\"All the time.\" Michael says.\n\nHe looks at you, maybe wanting you to ask him more questions.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "10",
+                                "question": "Are you curious about many different things?",
+                                "response_open": "Michael Scott: 「\"Only about things that can be useful for me.\" Michael says.\n\nMichael's cold personality shows itself more as the conversation goes on. He also seems a little selfish because he is only curious about things which can help him in life.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "15",
+                                "question": "Are you ingenious, a deep thinker?",
+                                "response_open": "Michael Scott: 「\"I am one of the best thinkers.\" Michael says.\n\nMichael is a genius, to say the least. He always thinks of solutions quickly and is able to think of the best thing in any given situation. Michael's thinking has helped him become a successful business man and has helped him climb up the ladder quickly to become the CEO.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 3.0,
+                        "analysis": "Based on the conversations, the participant seems to exhibit a mix of high and low openness traits. While he demonstrates a strong inclination towards generating new ideas and being intellectually curious, he also displays a practical and self-centered approach, focusing only on things that can be useful for him. Additionally, his emphasis on quick thinking and problem-solving suggests a preference for practicality over abstract thinking."
+                    },
+                    {
+                        "id": [
+                            "25",
+                            "30",
+                            "35",
+                            "40"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "25",
+                                "question": "Are you inventive?",
+                                "response_open": "Michael Scott: 「\"I'm very inventive.\" Michael says.\n\nMichael's creativity is definitely one of his best traits. He is always thinking of new ideas and new ways to make things better or get things done faster. He has been inventing new ideas and new solutions to different problems since he was very young.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "30",
+                                "question": "Do you value artistic, aesthetic experiences?",
+                                "response_open": "Michael Scott: 「\"Rarely.\" Michael says.\n\nMichael is not really someone who's interested in the beauty of art or the aesthetic pleasure of things. He is a very goal-oriented person and is only focused on reaching his goals. He doesn't really see the value of artistic and aesthetic experiences and is not very interested in experiencing them.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "35",
+                                "question": "Do you prefer work that is routine?",
+                                "response_open": "Michael Scott: 「\"Never.\" Michael says.\n\nMichael doesn't really like doing routine work, he always wants to do something new or something more challenging. He always wants to learn more and test himself in different ways. Michael is the type who never gets tired or bored with work and always wants to do more. He is a very ambitious person and always wants to reach higher goals.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "40",
+                                "question": "Do you like to reflect, play with ideas?",
+                                "response_open": "Michael Scott: 「\"Sometimes.\" Michael says.\n\nMichael doesn't often like to reflect and he never really dwells on things for too long. He has always been goal oriented and he doesn't waste much time on reflection or worrying. \n\nOn the other hand, he does like to play with ideas and is a very creative person. He is always coming up with new ideas and new ways to get things done.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 4.0,
+                        "analysis": "Based on the conversations, Michael seems to exhibit a high level of openness in terms of his willingness to try new experiences, embrace change, and come up with new ideas. However, he seems to have a lower appreciation for artistic and aesthetic experiences, which may slightly lower his overall score."
+                    },
+                    {
+                        "id": [
+                            "41",
+                            "44",
+                            "20"
+                        ],
+                        "dim": "Openness",
+                        "responses": [
+                            {
+                                "id": "41",
+                                "question": "Do you have few artistic interests?",
+                                "response_open": "Michael Scott: 「\"Yes, I have very few artistic interests.\" Michael says.\n\nMichael is not one to pursue artistic pursuits or hobbies. He is a very goal-oriented person and he always likes to focus on the main goal. His main goal is always to be the best and to be successful in life. Art is not something that Michael really cares about but he does admire the creativity of some people.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "44",
+                                "question": "Are you sophisticated in art, music, or literature?",
+                                "response_open": "Michael Scott: 「\"No, not really.\" Michael says.\n\nMichael is not a sophisticated person when it comes to art, music or literature. He's never really been interested in those fields and he doesn't really understand much about them. He's not a very artistic person and he doesn't want to be; he is the type of person who likes to do things in a practical manner and likes to have practical knowledge more than artistic knowledge.」",
+                                "query_style": "interview"
+                            },
+                            {
+                                "id": "20",
+                                "question": "Do you have an active imagination?",
+                                "response_open": "Michael Scott: 「\"Sometimes.\" Michael says.\n\n Michael doesn't actively try to use his imagination but he does often imagine himself in different scenarios and situations. But his imagination is more used for things that would be useful to him, like imagining different ways that he would deal with different situations. He doesn't let his imagination come in the way of his work at all.」",
+                                "query_style": "interview"
+                            }
+                        ],
+                        "score": 2.0,
+                        "analysis": "Based on the conversations, Michael seems to have low scores in the facets of Fantasy and Aesthetics, as he shows little interest in artistic pursuits, music, literature, and active imagination. He appears to be more focused on practical goals and does not value art or creativity highly."
+                    }
+                ]
+            ]
+        }
+    },
+    "analysis": {},
+    "code": "RCOEN",
+    "error_counts": {
+        "is_multilanguage": 0,
+        "not_into_character": 0,
+        "contain_repeation": 0,
+        "is_multiround": 0
+    }
+}
