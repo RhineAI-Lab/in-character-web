@@ -53,12 +53,12 @@ export default function Start () {
     DataService.data.rounds = [
       Round.OverviewRound(),
     ]
-    const folderUrl = `/results/final/${questionnaire}_agent-type=${agentType}_agent-llm=${agentLLM}_eval-method=${evalMethod}_repeat-times=${repeatTimes}/`
+    const folderUrl = `/results/final/${questionnaire}_agent-type=${agentType}_agent-llm=${agentLLM}_eval-method=${evalMethod}-${assessorLLM}_repeat-times=${repeatTimes}/`
     let allNum = 0
     let successNum = 0
     let failNum = 0
 
-    for (const file of DataService.config.files) {
+    for (const file of DataService.config.args[6]) {
       allNum++
       const url = folderUrl + file
       try {
@@ -83,14 +83,254 @@ export default function Start () {
     }
   }
 
+  const updateQuestionnaire = (v: string) => {
+    setQuestionnaire(v)
+
+    const i0 = allow.findIndex(data => {
+      return data.value == v
+    })
+
+    DataService.config.args[1] = allow[i0].list.map(data => data.value)
+    let i1 = allow[i0].list.findIndex(data => {
+      return data.value == agentType
+    })
+    if (i1 == -1) i1 = 0
+    setAgentType('')
+    setTimeout(() => setAgentType(allow[i0].list[i1].value), 1)
+
+    DataService.config.args[2] = allow[i0].list[i1].list.map(data => data.value)
+    let i2 = allow[i0].list[i1].list.findIndex(data => {
+      return data.value == agentLLM
+    })
+    if (i2 == -1) i2 = 0
+    setAgentLLM('')
+    setTimeout(() => setAgentLLM(allow[i0].list[i1].list[i2].value), 1)
+
+    DataService.config.args[3] = allow[i0].list[i1].list[i2].list.map(data => data.value)
+    let i3 = allow[i0].list[i1].list[i2].list.findIndex(data => {
+      return data.value == evalMethod
+    })
+    if (i3 == -1) i3 = 0
+    setEvalMethod('')
+    setTimeout(() => setEvalMethod(allow[i0].list[i1].list[i2].list[0].value), 1)
+
+    DataService.config.args[4] = allow[i0].list[i1].list[i2].list[i3].list.map(data => data.value)
+    let i4 = allow[i0].list[i1].list[i2].list[i3].list.findIndex(data => {
+      return data.value == assessorLLM
+    })
+    if (i4 == -1) {
+      i4 = 0
+      setAssessorLLM(allow[i0].list[i1].list[i2].list[i3].list[0].value)
+    }
+
+    DataService.config.args[5] = allow[i0].list[i1].list[i2].list[i3].list[i4].list.map(data => data.value)
+    let i5 = allow[i0].list[i1].list[i2].list[i3].list[i4].list.findIndex(data => {
+      return data.value == repeatTimes
+    })
+    if (i5 == -1) {
+      i5 = 0
+      setRepeatTimes(allow[i0].list[i1].list[i2].list[i3].list[i4].list[0].value)
+    }
+
+    DataService.config.args[6] = allow[i0].list[i1].list[i2].list[i3].list[i4].list[i5].list
+  }
+
+  const updateAgentType = (v: string) => {
+    setAgentType(v)
+
+    const i0 = allow.findIndex(data => {
+      return data.value == questionnaire
+    })
+
+    const i1 = allow[i0].list.findIndex(data => {
+      return data.value == v
+    })
+
+    DataService.config.args[2] = allow[i0].list[i1].list.map(data => data.value)
+    let i2 = allow[i0].list[i1].list.findIndex(data => {
+      return data.value == agentLLM
+    })
+    if (i2 == -1) i2 = 0
+    setAgentLLM('')
+    setTimeout(() => setAgentLLM(allow[i0].list[i1].list[i2].value), 1)
+
+    DataService.config.args[3] = allow[i0].list[i1].list[i2].list.map(data => data.value)
+    let i3 = allow[i0].list[i1].list[i2].list.findIndex(data => {
+      return data.value == evalMethod
+    })
+    if (i3 == -1) i3 = 0
+    setEvalMethod('')
+    setTimeout(() => setEvalMethod(allow[i0].list[i1].list[i2].list[0].value), 1)
+
+    DataService.config.args[4] = allow[i0].list[i1].list[i2].list[i3].list.map(data => data.value)
+    let i4 = allow[i0].list[i1].list[i2].list[i3].list.findIndex(data => {
+      return data.value == assessorLLM
+    })
+    if (i4 == -1) i4 = 0
+    setAssessorLLM('')
+    setTimeout(() => setAssessorLLM(allow[i0].list[i1].list[i2].list[i3].list[0].value), 1)
+
+    DataService.config.args[5] = allow[i0].list[i1].list[i2].list[i3].list[i4].list.map(data => data.value)
+    let i5 = allow[i0].list[i1].list[i2].list[i3].list[i4].list.findIndex(data => {
+      return data.value == repeatTimes
+    })
+    if (i5 == -1) i5 = 0
+    setRepeatTimes('')
+    setTimeout(() => setRepeatTimes(allow[i0].list[i1].list[i2].list[i3].list[i4].list[0].value), 1)
+
+    DataService.config.args[6] = allow[i0].list[i1].list[i2].list[i3].list[i4].list[i5].list
+  }
+
+  const updateAgentLLM = (v: string) => {
+    setAgentLLM(v)
+
+    const i0 = allow.findIndex(data => {
+      return data.value == questionnaire
+    })
+
+    const i1 = allow[i0].list.findIndex(data => {
+      return data.value == agentType
+    })
+
+    const i2 = allow[i0].list[i1].list.findIndex(data => {
+      return data.value == v
+    })
+
+    DataService.config.args[3] = allow[i0].list[i1].list[i2].list.map(data => data.value)
+    let i3 = allow[i0].list[i1].list[i2].list.findIndex(data => {
+      return data.value == evalMethod
+    })
+    if (i3 == -1) i3 = 0
+    setEvalMethod('')
+    setTimeout(() => setEvalMethod(allow[i0].list[i1].list[i2].list[0].value), 1)
+
+    DataService.config.args[4] = allow[i0].list[i1].list[i2].list[i3].list.map(data => data.value)
+    let i4 = allow[i0].list[i1].list[i2].list[i3].list.findIndex(data => {
+      return data.value == assessorLLM
+    })
+    if (i4 == -1) i4 = 0
+    setAssessorLLM('')
+    setTimeout(() => setAssessorLLM(allow[i0].list[i1].list[i2].list[i3].list[0].value), 1)
+
+    DataService.config.args[5] = allow[i0].list[i1].list[i2].list[i3].list[i4].list.map(data => data.value)
+    let i5 = allow[i0].list[i1].list[i2].list[i3].list[i4].list.findIndex(data => {
+      return data.value == repeatTimes
+    })
+    if (i5 == -1) i5 = 0
+    setRepeatTimes('')
+    setTimeout(() => setRepeatTimes(allow[i0].list[i1].list[i2].list[i3].list[i4].list[0].value), 1)
+
+    DataService.config.args[6] = allow[i0].list[i1].list[i2].list[i3].list[i4].list[i5].list
+  }
+
+  const updateEvalMethod = (v: string) => {
+    setEvalMethod(v)
+
+    const i0 = allow.findIndex(data => {
+      return data.value == questionnaire
+    })
+
+    const i1 = allow[i0].list.findIndex(data => {
+      return data.value == agentType
+    })
+
+    const i2 = allow[i0].list[i1].list.findIndex(data => {
+      return data.value == agentLLM
+    })
+
+    const i3 = allow[i0].list[i1].list[i2].list.findIndex(data => {
+      return data.value == v
+    })
+
+    DataService.config.args[4] = allow[i0].list[i1].list[i2].list[i3].list.map(data => data.value)
+    let i4 = allow[i0].list[i1].list[i2].list[i3].list.findIndex(data => {
+      return data.value == assessorLLM
+    })
+    if (i4 == -1) i4 = 0
+    setAssessorLLM('')
+    setTimeout(() => setAssessorLLM(allow[i0].list[i1].list[i2].list[i3].list[0].value), 1)
+
+    DataService.config.args[5] = allow[i0].list[i1].list[i2].list[i3].list[i4].list.map(data => data.value)
+    let i5 = allow[i0].list[i1].list[i2].list[i3].list[i4].list.findIndex(data => {
+      return data.value == repeatTimes
+    })
+    if (i5 == -1) i5 = 0
+    setRepeatTimes('')
+    setTimeout(() => setRepeatTimes(allow[i0].list[i1].list[i2].list[i3].list[i4].list[0].value), 1)
+
+    DataService.config.args[6] = allow[i0].list[i1].list[i2].list[i3].list[i4].list[i5].list
+  }
+
+  const updateAssessorLLM = (v: string) => {
+    setAssessorLLM(v)
+
+    const i0 = allow.findIndex(data => {
+      return data.value == questionnaire
+    })
+
+    const i1 = allow[i0].list.findIndex(data => {
+      return data.value == agentType
+    })
+
+    const i2 = allow[i0].list[i1].list.findIndex(data => {
+      return data.value == agentLLM
+    })
+
+    const i3 = allow[i0].list[i1].list[i2].list.findIndex(data => {
+      return data.value == evalMethod
+    })
+
+    const i4 = allow[i0].list[i1].list[i2].list[i3].list.findIndex(data => {
+      return data.value == v
+    })
+
+    DataService.config.args[5] = allow[i0].list[i1].list[i2].list[i3].list[i4].list.map(data => data.value)
+    let i5 = allow[i0].list[i1].list[i2].list[i3].list[i4].list.findIndex(data => {
+      return data.value == repeatTimes
+    })
+    if (i5 == -1) i5 = 0
+    setRepeatTimes('')
+    setTimeout(() => setRepeatTimes(allow[i0].list[i1].list[i2].list[i3].list[i4].list[0].value), 1)
+
+    DataService.config.args[6] = allow[i0].list[i1].list[i2].list[i3].list[i4].list[i5].list
+  }
+
+  const updateRepeatTimes = (v: string) => {
+    setRepeatTimes(v)
+
+    const i0 = allow.findIndex(data => {
+      return data.value == questionnaire
+    })
+
+    const i1 = allow[i0].list.findIndex(data => {
+      return data.value == agentType
+    })
+
+    const i2 = allow[i0].list[i1].list.findIndex(data => {
+      return data.value == agentLLM
+    })
+
+    const i3 = allow[i0].list[i1].list[i2].list.findIndex(data => {
+      return data.value == evalMethod
+    })
+
+    const i4 = allow[i0].list[i1].list[i2].list[i3].list.findIndex(data => {
+      return data.value == assessorLLM
+    })
+
+    const i5 = allow[i0].list[i1].list[i2].list[i3].list[i4].list.findIndex(data => {
+      return data.value == v
+    })
+
+    DataService.config.args[6] = allow[i0].list[i1].list[i2].list[i3].list[i4].list[i5].list
+  }
 
   return (
     <div className={clsx(styles.Start, 'm3-hook')}>
       <h1>Select Experiment</h1>
       <div className={styles.fieldLine}>
         <md-filled-select label={'Questionnaire'} size={'large'} value={questionnaire} onInput={(e: any) => {
-          setQuestionnaire(e.target.value)
-
+          updateQuestionnaire(e.target.value)
         }}>
           {
             configSnap.args[0].map((t, i) => {
@@ -101,8 +341,7 @@ export default function Start () {
           }
         </md-filled-select>
         <md-filled-select label={'Agent Type'} size={'large'} value={agentType} onInput={(e: any) => {
-          setAgentType(e.target.value)
-
+          updateAgentType(e.target.value)
         }}>
           {
             configSnap.args[1].map((t, i) => {
@@ -115,8 +354,7 @@ export default function Start () {
       </div>
       <div className={styles.fieldLine}>
         <md-filled-select label={'Agent LLM'} size={'large'} value={agentLLM} onInput={(e: any) => {
-          setAgentLLM(e.target.value)
-
+          updateAgentLLM(e.target.value)
         }}>
           {
             configSnap.args[2].map((t, i) => {
@@ -127,8 +365,7 @@ export default function Start () {
           }
         </md-filled-select>
         <md-filled-select label={'Eval Method'} size={'large'} value={evalMethod} onInput={(e: any) => {
-          setEvalMethod(e.target.value)
-
+          updateEvalMethod(e.target.value)
         }}>
           {
             configSnap.args[3].map((t, i) => {
@@ -141,8 +378,7 @@ export default function Start () {
       </div>
       <div className={styles.fieldLine}>
         <md-filled-select label={'Assessor LLM'} size={'large'} value={assessorLLM} onInput={(e: any) => {
-          setAssessorLLM(e.target.value)
-
+          updateAssessorLLM(e.target.value)
         }}>
           {
             configSnap.args[4].map((t, i) => {
@@ -153,8 +389,7 @@ export default function Start () {
           }
         </md-filled-select>
         <md-filled-select label={'Repeat Times'} size={'large'} value={repeatTimes} onInput={(e: any) => {
-          setRepeatTimes(e.target.value)
-
+          updateRepeatTimes(e.target.value)
         }}>
           {
             configSnap.args[5].map((t, i) => {

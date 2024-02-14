@@ -1,9 +1,9 @@
 import { proxy, useSnapshot } from 'valtio'
 import {SessionState} from "@/app/service/class/session-state";
 import Round from "@/app/service/class/round";
-import {resultsOpen} from "@/app/service/data/results-open";
 import Stage, {StageType} from "@/app/service/class/stage";
 import {allow} from "@/app/service/data/results";
+import {characters} from "@/app/service/data/characters";
 
 export default class DataService {
 
@@ -36,7 +36,10 @@ export default class DataService {
   static tps = ['E/I', 'S/N', 'T/F', 'P/J']
 
   static loadFromResult(data: any, file: string) {
-    const name = file.split('.')[0]
+    let name = file.split('.')[0]
+    try {
+      name = characters[name]['alias'][0]
+    } catch (e) {}
     let stages: Stage[] = [
       new Stage([], StageType.ChooseEI),
       new Stage([], StageType.ChooseSN),
@@ -45,7 +48,7 @@ export default class DataService {
     ]
     for(const fi in this.tps) {
       const factor = this.tps[fi]
-      for (const group of data[factor]['details']) {
+      for (const group of data.dims[factor]['details']) {
         for (const q of group) {
           for (const response of q['responses']) {
             const message = {
