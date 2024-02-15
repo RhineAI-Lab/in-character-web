@@ -6,6 +6,7 @@ p = 'C:\\Projects\\in-character-web\\public\\results\\final\\'
 
 keys = ['questionnaire', 'agent-type', 'agent-llm', 'eval-method', 'assessor-llm', 'repeat-times', 'file-name']
 data = [[], [], [], [], [], [], []]
+folders = []
 
 eval_method_mapping = {
   'Self Reported': 'choose',

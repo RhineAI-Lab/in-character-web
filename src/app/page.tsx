@@ -382,13 +382,18 @@ export default function Show() {
                         <div className={styles.table}>
                           {
                             item.tps.map((line: any, index: number) => {
+                              if (item.value[index] == undefined) {
+                                console.warn('No value for ' + item.tps[index])
+                                console.warn(JSON.parse(JSON.stringify(item)))
+                              }
+                              let v = item.value[index] ?? 0
                               return <div className={styles.line} key={index}>
                                 <span className={styles.key}>{item.tps[index]}</span>
                                 <span className={styles.split}></span>
                                 <span className={styles.block} style={{
-                                  width: item.value[index] * item.ratio + 'px'
+                                  width: v * item.ratio + 'px'
                                 }}></span>
-                                <span className={styles.number}>{parseFloat(item.value[index].toFixed(2))}</span>
+                                <span className={styles.number}>{parseFloat(v.toFixed(2))}</span>
                               </div>
                             })
                           }

@@ -76,7 +76,7 @@ export default class DataService {
       }
       stages.push(stage)
       scores.push(info['score'])
-      if (info['inter_std']) interStds.push(info['inter_std'])
+      if (info['inter_std'] != undefined) interStds.push(info['inter_std'])
       const avgIntraStd = info['intra_std'].reduce((a: number, b: number) => a + b, 0) / info['intra_std'].length
       intraStds.push(avgIntraStd)
     })
