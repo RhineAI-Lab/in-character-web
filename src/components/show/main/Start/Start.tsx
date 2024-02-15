@@ -53,7 +53,15 @@ export default function Start () {
     DataService.data.rounds = [
       Round.OverviewRound(),
     ]
-    const folderUrl = `/results/final/${questionnaire}_agent-type=${agentType}_agent-llm=${agentLLM}_eval-method=${evalMethod}-${assessorLLM}_repeat-times=${repeatTimes}/`
+    const eval_method_mapping: any = {
+      'Self Reported': 'choose',
+      'Self Reported - CoT': 'choosecot',
+      'Option Conversion': 'interview_convert',
+      'Dimensional-Specific Option Conversion': 'interview_convert_adjoption_anonymous',
+      'Expert Rating - Batch': 'interview_assess_batch_anonymous',
+      'Expert Rating': 'interview_assess_collective_anonymous'
+    }
+    const folderUrl = `/results/final/${questionnaire}_agent-type=${agentType}_agent-llm=${agentLLM}_eval-method=${eval_method_mapping[evalMethod]}-${assessorLLM}_repeat-times=${repeatTimes}/`
     let allNum = 0
     let successNum = 0
     let failNum = 0
