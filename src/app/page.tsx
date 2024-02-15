@@ -295,6 +295,11 @@ export default function Show() {
                 stage.messages.map((item: any, index: number) => {
                   // console.log(item)
                   if (item.question) {
+                    let score = item.score ?? 0
+                    if (DataService.config.ratioScore) {
+                      score = (score - 1) / 6 * 100
+                    }
+                    score = parseFloat(score.toFixed(2))
                     return <div className={styles.message} key={index}>
                       <div className={styles.info}>
                         <div className={clsx(styles.item, styles.from)}>
@@ -310,7 +315,7 @@ export default function Show() {
                         {/*  <span>Choice {item.choice}</span>*/}
                         {/*</div>*/}
                         <div className={clsx(styles.tag)}>
-                          <span>Score: {item.score}</span>
+                          <span>Score: {score}</span>
                         </div>
                       </div>
                       <div className={styles.text}>
@@ -391,7 +396,7 @@ export default function Show() {
                                 <span className={styles.key}>{item.tps[index]}</span>
                                 <span className={styles.split}></span>
                                 <span className={styles.block} style={{
-                                  width: v * item.ratio + 'px'
+                                  width: v * item.ratio * DataService.config.ratioBar + 'px'
                                 }}></span>
                                 <span className={styles.number}>{parseFloat(v.toFixed(2))}</span>
                               </div>

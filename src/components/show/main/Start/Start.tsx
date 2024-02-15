@@ -61,6 +61,12 @@ export default function Start () {
       'Expert Rating - Batch': 'interview_assess_batch_anonymous',
       'Expert Rating': 'interview_assess_collective_anonymous'
     }
+    DataService.config.ratioScore = !evalMethod.startsWith('Expert Rating')
+    if (questionnaire == '16Personalities') {
+      DataService.config.ratioBar = 1
+    } else {
+      DataService.config.ratioBar = 10
+    }
     const folderUrl = `/results/final/${questionnaire}_agent-type=${agentType}_agent-llm=${agentLLM}_eval-method=${eval_method_mapping[evalMethod]}-${assessorLLM}_repeat-times=${repeatTimes}/`
     let allNum = 0
     let successNum = 0

@@ -22,6 +22,8 @@ export default class DataService {
 
   static config : {
     args: string[][],
+    ratioBar: number,
+    ratioScore: boolean,
   } = proxy({
     args: [
       allow.map(data => data.value),
@@ -32,6 +34,8 @@ export default class DataService {
       allow[0].list[0].list[0].list[0].list[0].list.map(data => data.value),
       allow[0].list[0].list[0].list[0].list[0].list[0].list.map(data => data),
     ],
+    ratioBar: 1,
+    ratioScore: false,
   })
 
   static loadFromResult(data: any, file: string) {
@@ -81,12 +85,14 @@ export default class DataService {
       intraStds.push(avgIntraStd)
     })
     const summaryStage = new Stage([], StageType.Summary, 'Summary')
-    summaryStage.push({
-      type: 'code',
-      code: data.code,
-      test_role: name,
-      avatar: avatar,
-    })
+    if (data.code && data.code.length > 0) {
+      summaryStage.push({
+        type: 'code',
+        code: data.code,
+        test_role: name,
+        avatar: avatar,
+      })
+    }
     summaryStage.push({
       type: 'dims',
       tps: tps,
