@@ -330,25 +330,69 @@ export default function Show() {
                         }
                       </div>
                     </div>
-                  } else if (item.analysis) {
+                  } else if (item.type === 'code') {
                     return <div className={styles.message} key={index}>
                       <div className={styles.info}>
                         <div className={clsx(styles.item, styles.from)}>
-                          <img src='/profile/user.png' alt=''/>
+                          <img src={'/icons/' + item.avatar + '.jpg'} alt=''/>
                         </div>
                         <div className={clsx(styles.between)}>
                           <span>{round.name}</span>
+                          {/*<Icon size='20px' color='#00345b'>east</Icon>*/}
+                          {/*<span>{item.target}</span>*/}
                         </div>
                         <span className={styles.space}></span>
+                        {/*<div className={clsx(styles.tag)}>*/}
+                        {/*  <span>Choice {item.choice}</span>*/}
+                        {/*</div>*/}
                         <div className={clsx(styles.tag)}>
-                          <span>Analysis</span>
+                          <span>Result</span>
                         </div>
                       </div>
                       <div className={styles.text}>
                         <Icon className={styles.link}>round_all_inclusive</Icon>
-                        <p>
-                          {item.analysis}
-                        </p>
+                        <div className={styles.code}>
+                          <h2>{item.code.split('').join(' ')}</h2>
+                        </div>
+                      </div>
+                    </div>
+                  } else if (item.type == 'dims') {
+                    return <div className={styles.message} key={index} style={{
+                      // marginBottom: item.title == 'All Score' ? '160px' : undefined
+                    }}>
+                      <div className={styles.info}>
+                        <div className={clsx(styles.item, styles.from)}>
+                          <img src={'/icons/' + item.avatar + '.jpg'} alt=''/>
+                        </div>
+                        <div className={clsx(styles.between)}>
+                          <span>{round.name}</span>
+                          {/*<Icon size='20px' color='#00345b'>east</Icon>*/}
+                          {/*<span>{item.target}</span>*/}
+                        </div>
+                        <span className={styles.space}></span>
+                        {/*<div className={clsx(styles.tag)}>*/}
+                        {/*  <span>Choice {item.choice}</span>*/}
+                        {/*</div>*/}
+                        <div className={clsx(styles.tag)}>
+                          <span>{item.title}</span>
+                        </div>
+                      </div>
+                      <div className={styles.text}>
+                        <Icon className={styles.link}>round_all_inclusive</Icon>
+                        <div className={styles.table}>
+                          {
+                            item.tps.map((line: any, index: number) => {
+                              return <div className={styles.line} key={index}>
+                                <span className={styles.key}>{item.tps[index]}</span>
+                                <span className={styles.split}></span>
+                                <span className={styles.block} style={{
+                                  width: item.value[index] * item.ratio + 'px'
+                                }}></span>
+                                <span className={styles.number}>{item.value[index].toFixed(2)}</span>
+                              </div>
+                            })
+                          }
+                        </div>
                       </div>
                     </div>
                   }

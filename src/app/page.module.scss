@@ -284,6 +284,7 @@
 
       .message {
         margin: 80px 74px 70px;
+        min-width: 820px;
 
         .info {
           display: flex;
@@ -397,6 +398,20 @@
           border-radius: 32px 32px 32px 32px;
           color: #1f1f1f;
 
+          .code {
+            height: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 10px;
+
+            h2 {
+              font-size: 84px;
+              font-weight: 500;
+              color: #0b2959;
+            }
+          }
+
           .link {
             position: absolute;
             top: 26px;
@@ -411,14 +426,15 @@
           }
 
           .table {
+            margin: 10px 0 20px 0;
 
             .line {
               display: flex;
               height: 40px;
+              align-items: center;
 
               .key {
-                height: 100%;
-                width: 420px;
+                width: 280px;
                 text-align: right;
                 transition: all 0.12s ease-in-out;
               }
