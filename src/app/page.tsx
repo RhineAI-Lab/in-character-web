@@ -388,7 +388,7 @@ export default function Show() {
                                 <span className={styles.block} style={{
                                   width: item.value[index] * item.ratio + 'px'
                                 }}></span>
-                                <span className={styles.number}>{item.value[index].toFixed(2)}</span>
+                                <span className={styles.number}>{parseFloat(item.value[index].toFixed(2))}</span>
                               </div>
                             })
                           }
