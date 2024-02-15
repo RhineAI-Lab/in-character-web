@@ -24,3 +24,14 @@ npm -v
 
 # 查看node版本
 node -v
+
+
+
+# 部署更新
+cd in-character-web/
+git pull origin main
+npm i
+sudo systemctl stop in-character-next
+npm run build
+sudo systemctl start in-character-next
+
