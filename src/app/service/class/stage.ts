@@ -3,6 +3,7 @@ export default class Stage {
   constructor(
     public messages: any[] = [],
     public type: StageType = StageType.Unknown,
+    public title: string = '',
   ) {
   }
 
@@ -23,10 +24,7 @@ export default class Stage {
       return item[0].toUpperCase() + item.substring(1)
     }).join(' ')
     let stage =type == StageType.Overview ? new Stage([], StageType.Overview)
-      : type == StageType.ChooseEI ? new Stage([], StageType.ChooseEI)
-      : type == StageType.ChooseSN ? new Stage([], StageType.ChooseSN)
-      : type == StageType.ChooseTF ? new Stage([], StageType.ChooseTF)
-      : type == StageType.ChoosePJ ? new Stage([], StageType.ChoosePJ)
+      : type == StageType.Dimension ? new Stage([], StageType.Dimension)
       : type == StageType.Summary ? new Stage([], StageType.Summary)
       : undefined
     if (stage) return stage
@@ -39,10 +37,7 @@ export enum StageType {
   Overview = 'Overview Stage',
   Start = 'Start Stage',
 
-  ChooseEI = 'Choose EI Stage',
-  ChooseSN = 'Choose SN Stage',
-  ChooseTF = 'Choose TF Stage',
-  ChoosePJ = 'Choose PJ Stage',
+  Dimension = 'Dimension Stage',
   Summary = 'Summary Stage',
 
   Unknown = 'Unknown Stage',

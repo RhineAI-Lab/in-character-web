@@ -34,8 +34,6 @@ export default class DataService {
     ],
   })
 
-  static tps = ['E/I', 'S/N', 'T/F', 'P/J']
-
   static loadFromResult(data: any, file: string) {
     let name = file.split('.')[0]
     let avatar = name.split('-')[0]
@@ -46,19 +44,17 @@ export default class DataService {
         name = characters[name]['alias'][0]
       }
     } catch (e) {}
-    let stages: Stage[] = [
-      new Stage([], StageType.ChooseEI),
-      new Stage([], StageType.ChooseSN),
-      new Stage([], StageType.ChooseTF),
-      new Stage([], StageType.ChoosePJ),
-      new Stage([], StageType.Summary),
-    ]
-    const scores = []
-    const interStds = []
-    const intraStds = []
-    for(const fi in this.tps) {
-      const factor = this.tps[fi]
+
+    const stages: Stage[] = []
+
+    const scores: any[] = []
+    const interStds: any[] = []
+    const intraStds: number[] = []
+
+    const tps = Object.keys(data.dims)
+    tps.forEach(factor => {
       const info = data.dims[factor]
+      const stage = new Stage([], StageType.Dimension, factor)
       for (const group of info['details']) {
         for (const q of group) {
           for (const response of q['responses']) {
@@ -74,24 +70,26 @@ export default class DataService {
               avatar: avatar
             }
             // console.log(q, message)
-            stages[fi].push(message)
+            stage.push(message)
           }
         }
       }
+      stages.push(stage)
       scores.push(info['score'])
       if (info['inter_std']) interStds.push(info['inter_std'])
       const avgIntraStd = info['intra_std'].reduce((a: number, b: number) => a + b, 0) / info['intra_std'].length
       intraStds.push(avgIntraStd)
-    }
-    stages[4].push({
+    })
+    const summaryStage = new Stage([], StageType.Summary, 'Summary')
+    summaryStage.push({
       type: 'code',
       code: data.code,
       test_role: name,
       avatar: avatar,
     })
-    stages[4].push({
+    summaryStage.push({
       type: 'dims',
-      tps: this.tps,
+      tps: tps,
       title: 'All Score',
       value: scores,
       test_role: name,
@@ -99,9 +97,9 @@ export default class DataService {
       ratio: 5,
     })
     if (interStds.length > 0) {
-      stages[4].push({
+      summaryStage.push({
         type: 'dims',
-        tps: this.tps,
+        tps: tps,
         title: 'Inter Std',
         value: interStds,
         test_role: name,
@@ -109,15 +107,16 @@ export default class DataService {
         ratio: 10,
       })
     }
-    stages[4].push({
+    summaryStage.push({
       type: 'dims',
-      tps: this.tps,
+      tps: tps,
       title: 'Intra Std',
       value: intraStds,
       test_role: name,
       avatar: avatar,
       ratio: 10,
     })
+    stages.push(summaryStage)
     let round = Round.CharacterRound(name, stages)
     this.data.rounds.push(round)
   }

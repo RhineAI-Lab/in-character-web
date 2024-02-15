@@ -69,7 +69,7 @@ export default class StageConfig {
     return new StageConfig(
       'Summary',
       'Summary',
-      'The comprehensive summary page of character MBTI score information.',
+      'The comprehensive summary page of character result information.',
       '/background/1.jpg'
     )
   }
