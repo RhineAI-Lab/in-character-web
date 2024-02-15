@@ -28,7 +28,7 @@ node -v
 
 
 # 部署更新
-cd in-character-web/
+cd /root/in-character-web/
 git pull origin main
 npm i
 sudo systemctl stop in-character-next
