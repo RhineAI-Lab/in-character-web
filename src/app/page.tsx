@@ -321,7 +321,7 @@ export default function Show() {
                       <div className={styles.text}>
                         <Icon className={styles.link}>round_all_inclusive</Icon>
                         <h3 className={styles.question}>Question: {item.question}</h3>
-                        <h3>Response Open</h3>
+                        <h3>Response</h3>
                         <p>
                           {item.responseOpen}
                         </p>
