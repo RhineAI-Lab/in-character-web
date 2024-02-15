@@ -296,7 +296,7 @@ export default function Show() {
                   // console.log(item)
                   if (item.question) {
                     let score = item.score ?? 0
-                    if (DataService.config.ratioScore) {
+                    if (DataService.config.enableRatioScore) {
                       score = (score - 1) / 6 * 100
                     }
                     score = parseFloat(score.toFixed(2))
@@ -396,7 +396,7 @@ export default function Show() {
                                 <span className={styles.key}>{item.tps[index]}</span>
                                 <span className={styles.split}></span>
                                 <span className={styles.block} style={{
-                                  width: v * item.ratio * DataService.config.ratioBar + 'px'
+                                  width: v * item.ratio * DataService.config.barWidthRatio + 'px'
                                 }}></span>
                                 <span className={styles.number}>{parseFloat(v.toFixed(2))}</span>
                               </div>

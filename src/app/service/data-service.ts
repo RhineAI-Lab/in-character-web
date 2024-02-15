@@ -22,8 +22,8 @@ export default class DataService {
 
   static config : {
     args: string[][],
-    ratioBar: number,
-    ratioScore: boolean,
+    barWidthRatio: number,
+    enableRatioScore: boolean,
   } = proxy({
     args: [
       allow.map(data => data.value),
@@ -34,8 +34,8 @@ export default class DataService {
       allow[0].list[0].list[0].list[0].list[0].list.map(data => data.value),
       allow[0].list[0].list[0].list[0].list[0].list[0].list.map(data => data),
     ],
-    ratioBar: 1,
-    ratioScore: false,
+    barWidthRatio: 1,
+    enableRatioScore: false,
   })
 
   static loadFromResult(data: any, file: string) {
