@@ -474,7 +474,7 @@ export default function Show() {
               </div>
               <div className={styles.line} onClick={e => {
               }}>
-                <span style={{color: '#000000', marginLeft: '56px'}}>INCHARACTER: Do Role-Playing Agents Accurately Capture Characters’Personalities?</span>
+                <span style={{color: '#000000', marginLeft: '56px'}}>InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews</span>
               </div>
               <div className={styles.space}></div>
               {/*<div className={styles.line} onClick={e => {*/}
